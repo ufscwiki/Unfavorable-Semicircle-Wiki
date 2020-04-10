@@ -14,8 +14,7 @@ All featured abstract images and were either silent or contained
 [distorted voices](Unknown_Voice "wikilink") and unusual sounds.
 
 The channel garnered much attention and curiosity after one of its
-videos was posted to Reddit and soon hit the mainstream news on February
-22. On February 25, 2016, the channel had been terminated by YouTube.
+videos was posted to Reddit and soon hit the mainstream news on February 22nd. On February 25, 2016, the channel had been terminated by YouTube.
 
 On March 3, 2016, Unfavorable Semicircle was discovered on Twitter and
 on a new YouTube account after decoding a
