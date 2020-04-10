@@ -1,0 +1,1 @@
+1.  REDIRECT [RESQEN](RESQEN "wikilink")
