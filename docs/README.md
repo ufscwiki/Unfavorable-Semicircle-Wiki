@@ -64,3 +64,7 @@ the Discord.
 ### Subreddit
 
 <https://reddit.com/r/UnfavorableSemicircle>
+
+## Contributing to the Wiki
+This wiki was migrated from the original MediaWiki to Github Pages.
+If you would like to contribute please see https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/
