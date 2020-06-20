@@ -1,3 +1,5 @@
+# ♐DELOCK
+
 ♐DELOCK is a video posted to the original UFSC YouTube channel on
 December 29, 2015. It was the first video posted after a lengthy hiatus.
 (The previous postings were the [OR](OR "wikilink") videos on August
@@ -20,7 +22,7 @@ on a black background. Colored pixels shift around the grid.
 ## Audio
 
 The video's audio track contains a dual mono audio track with
-"calliope"/ragtime-type music, which has often been compared to the
+"calliope"/ragtime-type music, which had originally been compared to the
 sounds in the cartoon [*Steamboat
 Willie*](https://youtu.be/BBgghnQF6E4). The [Unknown
 Voice](Unknown_Voice "wikilink") spells out "IANNOP6" near the beginning
@@ -42,6 +44,14 @@ Steamboat Willie to recreate what I hear in DELOCK, here's what I came
 up with. It's close, and the techniques I employed here could (with some
 variation) create DELOCK." [Media:DELOCK -
 RECONSTRUCTED.mp3](Media:DELOCK_-_RECONSTRUCTED.mp3 "wikilink")
+
+### "Homesick"
+
+On June 19, 2020, Discord user Freezepond observed that the music in ♐DELOCK appears to be a manipulated version of "[*Homesick*](https://youtu.be/Mw6n1LuMaBQ)", recorded by Bailey's Lucky Seven. (Gennett 4979, the b-side to “Carolina In The Morning”.)  This would seemingly be confirmed by (and explains) the hitherto-obscure comment "HOMESICKDELOCK" in the final [G+](Google_Plus "wikilink") post.
+
+#### Possible significance of the audio
+
+Both "Homesick" and “Away Down East In Maine” (the song used as the sound-source for [♐RETIO](RETIO "wikilink")) were on 78 RPM singles recorded in 1922. Discord user Unfavorablist observed that that year is "significant in terms of copyright. After the Disney/Steamboat Willie copyright extension, nothing after 1922 entered the public domain in the U.S. until recently." (Further discussion in [*this*](https://www.smithsonianmag.com/arts-culture/first-time-20-years-copyrighted-works-enter-public-domain-180971016/) article.)
 
 ## Relationship to original unnamed series
 
