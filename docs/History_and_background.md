@@ -1,6 +1,8 @@
+# History and Background
+
 ## What is Unfavorable Semicircle?
 
-Unfavorable Semicircle is the name of a Youtube channel posting strange
+"Unfavorable Semicircle" was originally the name of a Youtube channel posting strange
 videos. This community is dedicated to finding out what they mean.
 
 While UFSC remains "unsolved" as to its origins and purposes, it has
@@ -78,8 +80,7 @@ The meaning of the videos and the intent of their creator(s) remains
 unclear. One key discovery was that many of them contain individual
 frames that can be assembled into larger pictures. These
 [composites](Composite_visual_overview "wikilink"), however, are equally
-mysterious. The audio in these videos ranges from [distorted carnival
-music](RETIO "wikilink") to [barely-comprehensible
+mysterious. The audio in these videos ranges from [distorted music](RETIO "wikilink") to [barely-comprehensible
 speech](CREM "wikilink") to what might be [encoded binary
 audio](CAB "wikilink").
 
@@ -120,7 +121,7 @@ account before the account was manually terminated. Around the same
 time, the stabilitory newing youtube account and twitter account were
 also deleted by their users.
 
-After the "reset" the only known account connected to UFSC is the [G+
+After the "reset" the only known account connected to UFSC was the [G+
 page](https://plus.google.com/100522957117354193465).
 
 ### Twitter returns, and a new youtube channel
@@ -129,16 +130,16 @@ Some time in November 2017, the @unfavorablesemi twitter account was
 either reactivated by the creator(s) of UFSC or claimed by another user.
 On November 25th it
 [tweeted](https://twitter.com/unfavorablesemi/status/934524815863701504)
-a cryptic text string, and then a sort series (♐[FMI](FMI "wikilink"))
-followed by a standalone video (♐[DDR\_DONE](DDR_DONE "wikilink")).
-Since the Twitter account had been deleted and is now reactivated,
-suspicion arises that this might not be the original author(s). The
+a cryptic text string, and then a [short series](FMI "wikilink"))
+followed by a [standalone video](DDR_DONE "wikilink")).
+Since the Twitter account had been deleted and then reactivated,
+suspicion arose that it might not be controlled by the original author(s). The
 quality of the work and consistency with past material has, however,
 deemed it as worthy of further investigation from the community.
 
-On New Year's Eve, another [cryptic tweet](NYE_tweet‎‎ "wikilink") was
+On New Year's Eve, another [cryptic tweet](NYE_tweet "wikilink") was
 posted, and when the text was decoded the next day, it lead to the
-discovery of a [new youtube channel](3rd_youtube_channel‎ "wikilink").
+discovery of a [new youtube channel](3rd_youtube_channel "wikilink").
 
 ### What is ♐REAL?
 
@@ -147,10 +148,10 @@ observed that the [third G+ post](Google_Plus#G.2B_post_3 "wikilink")
 was removed; shortly after that, a [new
 post](Google_Plus#G.2B_post_4 "wikilink") appeared. Headed "♐REAL", it
 contained a list of various accounts, giving the implication that these
-are the products of UFSC's creator(s). The absence of the third youtube
+alone were the products of UFSC's creator(s). The absence of the third youtube
 channel (as well as the caveat that the original
 [Twitter](Twitter "wikilink") account was real up to the date of the
-[Reset](RESET_STRANGE_YD "wikilink")) casts doubt on the authenticity of
+[Reset](RESET_STRANGE_YD "wikilink")) casts doubt on the provenance of
 all the post-reset videos.
 
 ### A voice from somewhere
@@ -159,6 +160,9 @@ One December 31, 2019, the third/"un-REAL" channel came to life after a
 year of dormancy, posting the first of three videos in the
 ♐[FORM](FORM "wikilink") series. This was the first posting since the
 final Google+ post.
+
+### "Homesick"
+In the absence of new dispatches from UFSC, the community investigating it continues to congregate at the Discord server, even if things are quieter than in the past. New ideas get bounced around, and new discoveries are still being made — for example, in June 2020, it was discovered that the music in ♐[DELOCK](DELOCK "wikilink") appears to be a manipulated version of "[*Homesick*](https://youtu.be/Mw6n1LuMaBQ)", recorded by Bailey's Lucky Seven. This would seemingly be confirmed by (and explains) the hitherto-obscure comment "HOMESICKDELOCK" in the final [G+](Google_Plus "wikilink") post.
 
 ## Catching up/Articles to read
 
