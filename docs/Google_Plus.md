@@ -1,3 +1,5 @@
+# Google Plus
+
 Until the service's end in April 2019, Google/Youtube accounts also
 included a Google Plus (G+) account. The UFSC G+ page belonged to the
 same account as the second youtube account, and the messages on it are
@@ -14,8 +16,7 @@ and the twitter account.
 > Google+ page linked with the orginal youtube channel. This was decoded
 > to point to the twitter page linked above.
 
-\[<https://www.reddit.com/r/UnfavorableSemicircle/comments/4af177/ufsc_is_back/>|
-*from the UFSC reddit page*\]
+* [*from the UFSC reddit page*](https://www.reddit.com/r/UnfavorableSemicircle/comments/4af177/ufsc_is_back/)
 
 *screenshot of this post missing\! please add*
 
@@ -66,8 +67,7 @@ unfavorable semicircle channel started posting new videos.
 
 9808 is the unicode codepoint for ♐ in decimal, which precedes the
 titles of all unfavorable semicircle videos. 8853 is ⊕ (CIRCLED PLUS)
-(\[\[<https://www.reddit.com/r/UnfavorableSemicircle/comments/545zv4/google_post/>|
-source\]), which precedes the titles of all [Stabilitory
+([source](https://www.reddit.com/r/UnfavorableSemicircle/comments/545zv4/google_post/)), which precedes the titles of all [Stabilitory
 newing](Stabilitory_newing "wikilink") videos.
 
 ⊕ may refer to
@@ -91,7 +91,7 @@ schedule shutdown on 2019-04-02.
 ## G+ post 4
 
 After it was noticed that the third G+ post was deleted, a new post was
-discovered on March 28. It is the first indisputable appearance of UFSC
+discovered on March 28. It was the first indisputable appearance of UFSC
 on social media since the [Reset](RESET_STRANGE_YD "wikilink").
 
 The text read:
@@ -115,7 +115,7 @@ The text read:
 ♐REAL may point out that the below given social media links are *real*
 representations of UFSC, implying that the [3rd youtube
 channel](3rd_youtube_channel "wikilink") and the post-reset incarnation
-of [Twitter](Twitter "wikilink") are fake.
+of [Twitter](Twitter "wikilink") are fake. (Or, to use a different vocabulary, a new "fork" of the project by a different creator.)
 
   - OR\_UClZgZSNNQkhncRVj6lmNpWw refers to the link of the the original
     youtube channel and its Youtube URL;
@@ -134,5 +134,6 @@ of [Twitter](Twitter "wikilink") are fake.
   - LA\_@unfavorablesem refers to a [2nd
     Twitter](2nd_Twitter "wikilink") account.
 
-The meaning of HOMESICKDELOCK and STATICINDEF might be, that UFSC will
-return on the anniversary of Delock, which is 29th of december
+### "Homesick" / ♐DELOCK
+
+On June 19, 2020, Discord user Freezepond observed that the music in ♐[DELOCK](DELOCK "wikilink") appears to be a manipulated version of "[*Homesick*](https://youtu.be/Mw6n1LuMaBQ)", recorded by Bailey's Lucky Seven. (Gennett 4979, the b-side to “Carolina In The Morning”.)  This would seemingly explain the comment "HOMESICKDELOCK" in this post.
