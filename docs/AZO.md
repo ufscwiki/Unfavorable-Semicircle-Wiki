@@ -1,3 +1,5 @@
+# ♐AZO
+
 ♐AZO is a series of videos uploaded to the [3rd youtube
 channel](3rd_youtube_channel "wikilink"). It began on May 3rd, 2018,
 four days after ♐[NEO](NEO "wikilink") was posted.
@@ -67,12 +69,8 @@ clustered in a 16×16 grid:
 
 ## Videos in the series
 
-♐AZO 0: [1](https://www.youtube.com/watch?v=gZ5qUx1h9m8)
-
-♐AZO 1: [2](https://www.youtube.com/watch?v=-KE9J1KpUEM)
-
-♐AZO 2: [3](https://www.youtube.com/watch?v=bHUAUa2mbLA)
-
-♐AZO 3: [4](https://www.youtube.com/watch?v=TTaNJGkTGxQ)
-
-♐AZO 4: [5](https://youtu.be/CHBKIHVsVoU)
+  - [♐AZO 0](https://www.youtube.com/watch?v=gZ5qUx1h9m8)
+  - [♐AZO 1](https://www.youtube.com/watch?v=-KE9J1KpUEM)
+  - [♐AZO 2](https://www.youtube.com/watch?v=bHUAUa2mbLA)
+  - [♐AZO 3](https://www.youtube.com/watch?v=TTaNJGkTGxQ)
+  - [♐AZO 4](https://youtu.be/CHBKIHVsVoU)
