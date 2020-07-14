@@ -57,8 +57,7 @@ Both "Homesick" and “Away Down East In Maine” (the song used as the sound-so
 
 Some of the numbered videos from the [Original unnamed
 series](Original_unnamed_series "wikilink") appear to be snippets of
-♐DELOCK.<sup>\[<https://www.reddit.com/r/UnfavorableSemicircle/comments/46ypm7/videos_from_dec_26th_2015_are_made_up_of_portions/>|
-*reference*\]</sup>
+♐DELOCK. ([*reference*](https://www.reddit.com/r/UnfavorableSemicircle/comments/46ypm7/videos_from_dec_26th_2015_are_made_up_of_portions/))
 
 ![♐DELOCK audio
 comparison](Delock_audio_fragment_in_903_+_5967_+_6101.png
