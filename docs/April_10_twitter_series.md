@@ -1,4 +1,6 @@
-A series of unnamed videos was uploaded to the twitter account on April
+# April 10 Twitter Series
+
+A series of unnamed videos was uploaded to the [Twitter](Twitter "wikilink") account on April
 10, 2016. There are 932 videos, each with a non-contiguous five or six
 digit number as its title.
 
@@ -10,8 +12,7 @@ these videos are exactly the same length (3134 ms long). In that
 respect, the videos are similar to those in the ♐[NIL](NIL "wikilink")
 series, which began shortly after these ended.
 
-The videos of this series have been archived
-[here](https://mega.nz/#!NnYkHKjL!atDm1joIDUDrPkMShPfU-_qAfBcQXVgbO-mu2rkqMHM).
+The videos of this series have been archived.
 
 ## Composites
 
@@ -24,15 +25,13 @@ fully developed in ♐[BREADTH](BREADTH "wikilink").
 
 ### 2-D Composite
 
-![April10 3-d projection.png](_April10square.png
-"April10 3-d projection.png")
+![April10 3-d projection.png](April10square.png "April10 2-d projection.png")
 
 *2-D composite by extra*
 
 ### 3-D Composite
 
-![April10 3-d projection.png ](_April10_3-d_projection.png
-"April10 3-d projection.png ")
+![April10_3-d_projection.png](April10_3-d_projection.png "April10 3-d projection.png")
 
 *screencap of 3-D composite by extra*
 
