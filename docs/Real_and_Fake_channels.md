@@ -103,11 +103,15 @@
 </ul></td>
 <td><p><del><a href="https://www.youtube.com/channel/UC6dQdJ1gR7tF-Yrd8w35qrQ">https://www.youtube.com/channel/UC6dQdJ1gR7tF-Yrd8w35qrQ</a></del></p></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr class="odd">
+<td><p>unfavorable semicircle</p></td>
+<td><p>YouTube</p></td>
+<td><ul>
+<li>reupload account.</li>
+<li>Joined YouTube Dec 30, 2020.</li>
+<li>A comment from the account reads, "I'm uploading to this channel ALL the videos found so far from Unfavorable Semicircle<br/>Account created by HeroK<br/>This Account is fake But not associated with unfavorable semicircle."</li>
+</ul></td>
+<td><p><a href="https://www.youtube.com/channel/UCJIjkoEwmJDjAEV03UI2LDQ/">https://www.youtube.com/channel/UCJIjkoEwmJDjAEV03UI2LDQ/</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>unfavorablesemicircle</p></td>
