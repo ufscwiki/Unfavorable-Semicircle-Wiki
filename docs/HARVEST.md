@@ -50,13 +50,13 @@ Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving_\(Canada\)).
 
 ## Composites
 
-![Harvest_composite_by_hellajt](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/Harvest_composite_by_hellajt.png)
+!(Harvest_composite_by_hellajt.png)
 
 *♐HARVEST composite by hellajt*
 
 <http://tomasf.se/projects/semi/HARVEST_composite.png>
 
-![HARVEST composite](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/HARVEST_composite.png)
+!(HARVEST_composite.png)
 
 *♐HARVEST composite by thomasf*
 
@@ -76,18 +76,18 @@ It was discovered by thomasf that the lower area of the top right
 around it) which cites the beginning of the [Wikipedia page for
 Art](https://en.wikipedia.org/wiki/Art):
 
-![ HARVEST text.png](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/HARVEST_text.png)
+!(HARVEST_text.png)
 
 *closeup of text in ♐HARVEST composite (from thomasf's composite)*
 
-![ HARVEST text2.png](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/HARVEST_text2.png)
+!(HARVEST_text2.png)
 
 *same as above, but with corresponding text added for clarity*
 
 > Art is a diverse range of human activities in creating visual,
 > auditory or performing artifacts – artworks, expressing the author's
 
-![ Wikipedia art screencap.jpg](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/Wikipedia_art_screencap.jpg)
+!(Wikipedia_art_screencap.jpg)
 
 *screencap of Wikipedia article on "Art" — note the slightly different
 punctuation than used in the composite*
