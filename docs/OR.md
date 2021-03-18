@@ -44,5 +44,4 @@ videos:
   - <https://youtu.be/YMU9eZ5xoFc>
   - <https://youtu.be/CRa88uNEsQo>
 
-This behavior is possibly related to memory glitches from [Stagefright
-exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
+This behavior is possibly related to memory glitches from [Stagefright exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").

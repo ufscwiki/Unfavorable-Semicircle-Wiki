@@ -1,11 +1,9 @@
 ♐N\*BRILL is a video posted to the second youtube account on March 9,
-2016. It was posted twelve days after the "long" ♐[BRILL
-49999](BRILL_49999_\(Long\) "wikilink") and on the same day as the
+2016. It was posted twelve days after the "long" ♐[BRILL 49999](BRILL_49999_\(Long\) "wikilink") and on the same day as the
 [short video of the same name](BRILL_49999_\(Short\) "wikilink"). (It
 was also around this time that the twitter account was launched.)
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=j7LxfTqXD-Q>}} [Original
-Link](https://www.youtube.com/watch?v=gqPFPw7g_QE)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=j7LxfTqXD-Q>}} [Original Link](https://www.youtube.com/watch?v=gqPFPw7g_QE)
 
 ## Description of video
 
@@ -19,10 +17,8 @@ Reddit user /u/Cybernetic\_Overlord
 [believes](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b3y3r/its_all_one_big_song/)
 that ♐N\* BRILL points to Unfavorable Semicircle's videos being heavily
 encrypted music. When sped up, ♐N\* BRILL shows evidence of containing a
-[repeating
-rhythm](https://www.reddit.com/r/UnfavorableSemicircle/comments/4akyno/n_brill_rhythmic_beats/).
-The same user [claims to have
-shown](https://www.reddit.com/r/UnfavorableSemicircle/comments/4aq0qa/n_brill_is_all_the_brill_videos_combined/)
+[repeating rhythm](https://www.reddit.com/r/UnfavorableSemicircle/comments/4akyno/n_brill_rhythmic_beats/).
+The same user [claims to have shown](https://www.reddit.com/r/UnfavorableSemicircle/comments/4aq0qa/n_brill_is_all_the_brill_videos_combined/)
 that ♐N\* BRILL may actually contain all the beats of every video in the
 ♐[BRILL](BRILL "wikilink") series, although no peer review has occurred
 to lend or take away credibility from this.
@@ -42,9 +38,6 @@ the first 5000 frames of [BRILL](BRILL "wikilink")".
 
 ## Contemporaneous reddit threads
 
-  - [N\* BRILL rhythmic
-    beats](https://www.reddit.com/r/UnfavorableSemicircle/comments/4akyno/n_brill_rhythmic_beats/)
-  - [N\* BRILL is all the BRILL videos
-    combined](https://www.reddit.com/r/UnfavorableSemicircle/comments/4aq0qa/n_brill_is_all_the_brill_videos_combined/)
-  - [It's all one big
-    song](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b3y3r/its_all_one_big_song/)
+  - [N\* BRILL rhythmic beats](https://www.reddit.com/r/UnfavorableSemicircle/comments/4akyno/n_brill_rhythmic_beats/)
+  - [N\* BRILL is all the BRILL videos combined](https://www.reddit.com/r/UnfavorableSemicircle/comments/4aq0qa/n_brill_is_all_the_brill_videos_combined/)
+  - [It's all one big song](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b3y3r/its_all_one_big_song/)

@@ -6,8 +6,7 @@
 videos. This community is dedicated to finding out what they mean.
 
 While UFSC remains "unsolved" as to its origins and purposes, it has
-created a community devoted to exploring it, as well as serving as [
-artistic inspiration](Art_inspired_by_UFSC "wikilink").
+created a community devoted to exploring it, as well as serving as [artistic inspiration](Art_inspired_by_UFSC "wikilink").
 
 ## What do we know about Unfavorable Semicircle?
 
@@ -26,8 +25,7 @@ astrological symbol for Sagittarius.
 
 The initial videos from were titled with strings of digits. Around
 February 14, 2016 videos titled "♐[BRILL](BRILL "wikilink")" followed by
-a number counting up were posted. (The [earliest
-analysis](https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown_of_todays_findings_february_22nd_2016/)
+a number counting up were posted. (The [earliest analysis](https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown_of_todays_findings_february_22nd_2016/)
 broke these original videos into a number of "seasons".)
 
 ### Attention and disappearance
@@ -42,8 +40,7 @@ brought attention to the phenomenon, which lead to the formation of
 [/r/UnfavorableSemicircle/](https://www.reddit.com/r/UnfavorableSemicircle/)
 to centralize investigations.
 
-Blog and media attention followed, including articles on [Atlas
-Obscura](http://www.atlasobscura.com/articles/the-unsettling-mystery-of-the-creepiest-channel-on-youtube)
+Blog and media attention followed, including articles on [Atlas Obscura](http://www.atlasobscura.com/articles/the-unsettling-mystery-of-the-creepiest-channel-on-youtube)
 and the
 [BBC](http://www.bbc.com/future/story/20160225-the-quest-to-solve-youtubes-strangest-mystery).
 Unfavorable Semicircle was going viral.
@@ -60,10 +57,8 @@ reddit.
 
 On March 15, 2016 [garbled text](G+_post_1 "wikilink") was discovered on
 the Google+ page linked with the terminated YouTube account. This was
-decoded to be source of a [Twitter
-account](https://twitter.com/unfavorablesemi) and also contained a link
-to a [second YouTube
-account](https://www.youtube.com/channel/UCLEBJyqL1KKsKKz_aBqfPaQ). Both
+decoded to be source of a [Twitter account](https://twitter.com/unfavorablesemi) and also contained a link
+to a [second YouTube account](https://www.youtube.com/channel/UCLEBJyqL1KKsKKz_aBqfPaQ). Both
 these accounts were named **Unfavorable Semi**. (Since then, there have
 been several "copycat" channels re-posting the videos but
 [this](https://www.youtube.com/channel/UCLEBJyqL1KKsKKz_aBqfPaQ) was the
@@ -105,8 +100,7 @@ Discoveries over the next year would include:
     [reverse-engineer](Reverse_Engineering_Attempts "wikilink") UFSC's
     process to create videos that create UFSC-like composites.
   - credible speculation that the glitches in UFSC videos exist to
-    explore so-called [ Stagefright and Rowhammer
-    exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink") in
+    explore so-called [ Stagefright and Rowhammer exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink") in
     Android.
   - that the music in ♐[RETIO](RETIO "wikilink") appears to be Miss
     Patricola with the Virginians' 1922 recording of a song called "Away
@@ -121,8 +115,7 @@ account before the account was manually terminated. Around the same
 time, the stabilitory newing youtube account and twitter account were
 also deleted by their users.
 
-After the "reset" the only known account connected to UFSC was the [G+
-page](https://plus.google.com/100522957117354193465).
+After the "reset" the only known account connected to UFSC was the [G+ page](https://plus.google.com/100522957117354193465).
 
 ### Twitter returns, and a new youtube channel
 
@@ -145,8 +138,7 @@ discovery of a [new youtube channel](3rd_youtube_channel "wikilink").
 
 Shortly before the announced ending of the Google+ service, it was
 observed that the [third G+ post](Google_Plus#G.2B_post_3 "wikilink")
-was removed; shortly after that, a [new
-post](Google_Plus#G.2B_post_4 "wikilink") appeared. Headed "♐REAL", it
+was removed; shortly after that, a [new post](Google_Plus#G.2B_post_4 "wikilink") appeared. Headed "♐REAL", it
 contained a list of various accounts, giving the implication that these
 alone were the products of UFSC's creator(s). The absence of the third youtube
 channel (as well as the caveat that the original
@@ -235,7 +227,6 @@ youtube.
   - Discord user spicy boy indicates that
     [ClipConverter](http://www.clipconverter.cc/) is the best online
     youtube downloader.
-  - Firefox users can use add-ons such as [Download YouTube Videos as
-    MP4](https://github.com/gantt/downloadyoutube), which integrates
+  - Firefox users can use add-ons such as [Download YouTube Videos as MP4](https://github.com/gantt/downloadyoutube), which integrates
     with YouTube's interface, adding a button to download YouTube videos
     directly from YouTube.

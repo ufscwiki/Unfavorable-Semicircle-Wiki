@@ -1,10 +1,8 @@
 Stabilitory newing is a YouTube channel that started posting videos on
 September 3, 2016. The relationship between Stabilitory newing and UFSC
-is currently unclear, but is related to UFSC by the [Third Google+
-post](Google_Plus#G.2B_post_3 "wikilink"):
+is currently unclear, but is related to UFSC by the [Third Google+ post](Google_Plus#G.2B_post_3 "wikilink"):
 
-![screencap of third G+ post](Maxtendmalform_gplus_post.jpg
-"screencap of third G+ post")
+![screencap of third G+ post](Maxtendmalform_gplus_post.jpg)
 
   - 9808 is the unicode codepoint for ♐ in decimal, while 8853 is the
     unicode codepoint for ⊕, which is the leading character in the
@@ -38,8 +36,7 @@ Anagrams of "stabilitory newing":
 
 ## Work on finding information in the visuals
 
-[Notes on some ideas on treating the "histograms" as a source of
-data.](http://www.unfavorablesemicircle.com/wiki/Investigation_into_color_data_in_SN_visuals)
+[Notes on some ideas on treating the "histograms" as a source of data.](http://www.unfavorablesemicircle.com/wiki/Investigation_into_color_data_in_SN_visuals)
 
 ## Removal
 

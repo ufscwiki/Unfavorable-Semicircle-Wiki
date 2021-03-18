@@ -23,8 +23,7 @@ among the noise.
 
 The significance of the name 'holdout' is as yet unclear.
 
-Discord user ShadowMorphyn notes that according to [this
-link](https://www.analytics-toolkit.com/glossary/holdout-group/) "A
+Discord user ShadowMorphyn notes that according to [this link](https://www.analytics-toolkit.com/glossary/holdout-group/) "A
 holdout group is a group of users who are 'held back' from entering into
 any experiments performed on a website and kept as a global control
 group."

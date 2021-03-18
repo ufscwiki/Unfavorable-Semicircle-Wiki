@@ -1,10 +1,8 @@
-♐CREM is a video posted to the [second YouTube
-account](Real_and_Fake_channels "wikilink") on May 24, 2016.
+♐CREM is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on May 24, 2016.
 
 ![Thumbnail of ♐CREM](Crem.jpeg "Thumbnail of ♐CREM")
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=ybVYiDt4sB4>}} [Original
-Link](https://www.youtube.com/watch?v=XCDr5WjuMbw)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=ybVYiDt4sB4>}} [Original Link](https://www.youtube.com/watch?v=XCDr5WjuMbw)
 
 ## Description of video
 

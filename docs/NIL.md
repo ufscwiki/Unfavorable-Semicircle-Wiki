@@ -14,8 +14,7 @@ wasn't posted until June 16, alongside two unnamed videos (♐658427 +
 ♐[574016](574016 "wikilink")).
 
 The videos in this series are in the "classic" UFSC style, three second
-long videos, with frames of a single color and the [Unknown
-Voice](Unknown_Voice "wikilink") saying a letter or number. The vast
+long videos, with frames of a single color and the [Unknown Voice](Unknown_Voice "wikilink") saying a letter or number. The vast
 majority (or, although is not proven, all) of the videos are 3134 bytes.
 
 This series is well preserved, and the videos have been scraped.
@@ -28,8 +27,7 @@ NIL's composite is almost identical to [BRILL](BRILL "wikilink"), with
 the exception of colored lines, which divide the composite up into
 different portions (?)
 
-![ NIL composite combined.png](_NIL_composite_combined.png
-" NIL composite combined.png")
+![ NIL composite combined.png](_NIL_composite_combined.png)
 
 *combined NIL composite*
 
@@ -44,11 +42,8 @@ Combined: <http://i.imgur.com/AbJboYf.png>
 
 ## Relationship of composites
 
-NIL's composite is very similar to [BRILL's](BRILL "wikilink"). And [it
-has been
-postulated](https://www.reddit.com/r/UnfavorableSemicircle/comments/4hw7q0/end_of_nil/)
-that the NIL composite is the same image as ♐[N\*
-BRILL](N*_BRILL "wikilink") and ♐[BRILL 49999](BRILL_49999 "wikilink"),
+NIL's composite is very similar to [BRILL's](BRILL "wikilink"). And [it has been postulated](https://www.reddit.com/r/UnfavorableSemicircle/comments/4hw7q0/end_of_nil/)
+that the NIL composite is the same image as ♐[N\* BRILL](N*_BRILL "wikilink") and ♐[BRILL 49999](BRILL_49999 "wikilink"),
 depicting the same topological structure, but at different zoom levels.
 The features are larger in some of them and smaller in others.
 
@@ -59,10 +54,8 @@ A transcription of all the videos is available
 
 ### Possible cipher data
 
-The transcription corresponds closely with a [Bifid
-cipher](https://en.wikipedia.org/wiki/Bifid_cipher) using a 6×6 Polybius
-square, according to a [cipher comparison
-utility](http://bionsgadgets.appspot.com/gadget_forms/refscore_extended.html).
+The transcription corresponds closely with a [Bifid cipher](https://en.wikipedia.org/wiki/Bifid_cipher) using a 6×6 Polybius
+square, according to a [cipher comparison utility](http://bionsgadgets.appspot.com/gadget_forms/refscore_extended.html).
 
 For more investigation, a brute force or dictionary attack can be done
 using the

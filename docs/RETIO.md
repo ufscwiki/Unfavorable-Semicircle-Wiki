@@ -1,13 +1,11 @@
 # ♐RETIO
 
-♐RETIO is a video posted to the [second YouTube
-account](Real_and_Fake_channels "wikilink") on March 28, 2016. It was
+♐RETIO is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on March 28, 2016. It was
 posted near the end of a busy period for UFSC, one day after
 ♐[WINGSET](WINGSET "wikilink") (and the ♐[MUL](MUL "wikilink") series
 on twitter) and one day before ♐[LIMIT](LIMIT "wikilink").
 
-{{\#ev:youtube|<https://youtu.be/XSKlVpNPDho>}} [Original
-Link](https://youtu.be/80pIrtSdFsU)
+{{\#ev:youtube|<https://youtu.be/XSKlVpNPDho>}} [Original Link](https://youtu.be/80pIrtSdFsU)
 
 ## Description of video
 
@@ -24,8 +22,7 @@ mis-titled delock, but it is actually ♐RETIO.)
 
 ## Away Down East In Maine
 
-The original audio seems to be from a song called "[Away Down East In
-Maine](https://www.youtube.com/watch?v=Zx_GpFDoYp4)", which was written
+The original audio seems to be from a song called "[Away Down East In Maine](https://www.youtube.com/watch?v=Zx_GpFDoYp4)", which was written
 by [Walter Donaldson](https://en.wikipedia.org/wiki/Walter_Donaldson)
 and recorded in 1922 by Miss Patricola with the Virginians. (Victor ‎–
 18976, the b-side to "Lovin' Sam (The Sheik Of Alabam')").

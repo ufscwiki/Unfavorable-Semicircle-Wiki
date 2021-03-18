@@ -1,6 +1,5 @@
 ♐BRINE is a [series](List_of_Series "wikilink") of sixteen videos that
-was uploaded to the [second YouTube
-account](Real_and_Fake_channels "wikilink") between May 15 and May 23,
+was uploaded to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 15 and May 23,
 2016.
 
 The videos all have a duration of 3:01 and a series of rapidly-flashing
@@ -18,8 +17,7 @@ All: <http://tomasf.se/projects/semi/BRINE_composite_adjusted.png>
 
 Alternate width of 540.5:
 
-![BRINE\_composite\_width\_540\_5.png](BRINE_composite_width_540_5.png
-"BRINE_composite_width_540_5.png")
+![BRINE\_composite\_width\_540\_5.png](BRINE_composite_width_540_5.png)
 
 BRINE is part of the [BRILL Composite](BRILL_Composite "wikilink")
 group.
@@ -31,8 +29,7 @@ group.
 
 ## Links
 
-All links are now defunct due to the "[strange
-reset](RESET_STRANGE_YD "wikilink")".
+All links are now defunct due to the "[strange reset](RESET_STRANGE_YD "wikilink")".
 
 BRINE 0: \[<https://www.youtube.com/watch?v=cSHu0M0jJRI>|
 <https://www.youtube.com/watch?v=cSHu0M0jJRI>\]

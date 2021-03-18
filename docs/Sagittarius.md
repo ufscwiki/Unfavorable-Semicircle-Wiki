@@ -1,11 +1,9 @@
 Unfavorable Semicircle has an ambiguous and unexplained connection to
 the constellation of Sagittarius. The "♐" symbol that precedes the title
 of most UFSC videos is the
-\[<https://en.wikipedia.org/wiki/Sagittarius_(astrology)>| astrological
-symbol for Sagittarius\].
+\[<https://en.wikipedia.org/wiki/Sagittarius_(astrology)>| astrological symbol for Sagittarius\].
 
-[Link to Astrowiki Entry for
-Sagittarius](http://wiki.astro.com/astrowiki/en/Sagittarius)
+[Link to Astrowiki Entry for Sagittarius](http://wiki.astro.com/astrowiki/en/Sagittarius)
 
 Symbol: ♐
 

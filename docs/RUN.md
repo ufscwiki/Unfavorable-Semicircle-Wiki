@@ -1,5 +1,4 @@
-♐RUN is a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") account on January 4, 2018. It
+♐RUN is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on January 4, 2018. It
 is 2:14:24 long and contains a series of moving images.
 
 {{\#ev:youtube|<https://www.youtube.com/watch?v=6fcBC3ULi8g>}}
@@ -21,8 +20,7 @@ of [further analysis](Handshake#Analysis "wikilink").
 
 ## Composite
 
-![RUNcomposite\_539s673.png](RUNcomposite_539s673.png
-"RUNcomposite_539s673.png")
+![RUNcomposite\_539s673.png](RUNcomposite_539s673.png)
 
 (*composite by discord user extra*)
 
@@ -32,8 +30,7 @@ Discord user Rutabaga has observed that (similar to
 ♐[PORT](PORT "wikilink") and ♐[DEPTH](DEPTH "wikilink") ) there are
 Morse-like "dots and dashes" in the top left corner of the image.
 
-![RUN\_-\_morse\_type\_header.png](RUN_-_morse_type_header.png
-"RUN_-_morse_type_header.png")
+![RUN\_-\_morse\_type\_header.png](RUN_-_morse_type_header.png)
 
 (*detail from ♐RUN composite*)
 
@@ -55,9 +52,7 @@ preliminary analysis of the dots and dashes in the top left corner:
 
 ## Possible Relation to Chicxulub Crater
 
-![The composite compared to the gravity map of the crater, where right
-is facing north.](Panhandles.png
-"The composite compared to the gravity map of the crater, where right is facing north.")
+![The composite compared to the gravity map of the crater, where right is facing north.](Panhandles.png)
 
 The grayscale composite shows a distinct spiral-shaped area that is
 shaded darker than the majority of the image. Some of the most

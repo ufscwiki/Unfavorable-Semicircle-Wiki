@@ -37,8 +37,7 @@ MOTH videos have a [Handshake](Handshake "wikilink") at the start.
 The audio in ♐MOTH 0 contains a distinct visual pattern when viewed as a
 spectrograph:
 
-![Moth-spectrogram\_small.png](Moth-spectrogram_small.png
-"Moth-spectrogram_small.png")
+![Moth-spectrogram\_small.png](Moth-spectrogram_small.png)
 
 *image by by salo*
 
@@ -47,14 +46,12 @@ spectrograph:
 Discord user Risto notes, "this bit \[in ♐MOTH 0\] stretches till about
 15 seconds":
 
-![Moth\_spectrograph\_1.png](Moth_spectrograph_1.png
-"Moth_spectrograph_1.png")
+![Moth\_spectrograph\_1.png](Moth_spectrograph_1.png)
 
 And adds: "Those tones stretch up to 600 Hz." This is a zoomed-in view
 of the pattern above:
 
-![Moth\_spectrograph\_1-zoom.png](Moth_spectrograph_1-zoom.png
-"Moth_spectrograph_1-zoom.png")
+![Moth\_spectrograph\_1-zoom.png](Moth_spectrograph_1-zoom.png)
 
 (Discord user alexbassguy observes, the changes are "more like 120ish hz
 apart, but evenly spaced... not exponentially spaced, so they're not
@@ -62,8 +59,7 @@ overtones.")
 
 Risto further notes that the "audio itself caps at about 16.5 kHz":
 
-![Moth\_spectrograph\_2.png](Moth_spectrograph_2.png
-"Moth_spectrograph_2.png")
+![Moth\_spectrograph\_2.png](Moth_spectrograph_2.png)
 
 (Adding: "The vertical lines are spectral leakage, because spectrograms
 are not perfect.")
@@ -77,11 +73,9 @@ immense number of data points, this file is very large*)
 
 ### 3-D composite
 
-![ MOTH 3-D composite - view 1.png](_MOTH_3-D_composite_-_view_1.png
-" MOTH 3-D composite - view 1.png")
+![ MOTH 3-D composite - view 1.png](_MOTH_3-D_composite_-_view_1.png)
 
-![ MOTH 3-D composite - view 2.png](_MOTH_3-D_composite_-_view_2.png
-" MOTH 3-D composite - view 2.png")
+![ MOTH 3-D composite - view 2.png](_MOTH_3-D_composite_-_view_2.png)
 
 *two screencaps of ♐MOTH 3-D composite by vantjac. (note that due to the
 immense number of data points this is not the complete series; however,

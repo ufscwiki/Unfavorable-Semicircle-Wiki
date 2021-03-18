@@ -1,7 +1,6 @@
 ♐♐LOYAL was a video posted to the "[OT](OT "wikilink")" youtube channel
 on or around December 24, 2016. Because that channel was generally
-considered to be a tribute or copycat channel before the [fourth G+
-post](Google_Plus#G.2B_post_4 "wikilink"), it did not receive as much
+considered to be a tribute or copycat channel before the [fourth G+ post](Google_Plus#G.2B_post_4 "wikilink"), it did not receive as much
 analysis on its release. It is one of two unique videos posted to that
 account, the other being ♐♐[CULLET](CULLET "wikilink").
 
@@ -24,5 +23,4 @@ channel is "loyal" to the actual creator(s) of UFSC.
 ## Contemporaneous Reddit Threads
 
   - [♐♐LOYAL](https://www.reddit.com/r/UnfavorableSemicircle/comments/5k3pwg/loyal/)
-  - [About
-    "Loyal"](https://www.reddit.com/r/UnfavorableSemicircle/comments/5poe58/about_loyal/)
+  - [About "Loyal"](https://www.reddit.com/r/UnfavorableSemicircle/comments/5poe58/about_loyal/)

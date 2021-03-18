@@ -1,5 +1,4 @@
-**(*For a complete listing, see the [Composite visual
-overview](Composite_visual_overview "wikilink").*)**
+**(*For a complete listing, see the [Composite visual overview](Composite_visual_overview "wikilink").*)**
 
 -----
 

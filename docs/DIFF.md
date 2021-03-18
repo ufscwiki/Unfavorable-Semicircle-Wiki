@@ -1,5 +1,4 @@
-♐DIFF is a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") on May 26, 2018. It was posted
+♐DIFF is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") on May 26, 2018. It was posted
 19 days after the ♐[AZO](AZO "wikilink") series was posted. It was the
 last video posted for nearly three months, until ♐[CFO](CFO "wikilink")
 was posted on August 17th.

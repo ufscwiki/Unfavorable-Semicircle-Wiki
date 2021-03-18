@@ -19,16 +19,13 @@ numbers.
 
 <http://tomasf.se/projects/semi/numbered_2016-07-12_composite.png>
 
-![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png
-"Numbered_2016-07-12_composite.png")
+![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png)
 
-The composite is visually similar to the [BRILL-based
-composites](BRILL_Composite "wikilink"), but the colors are altered.
+The composite is visually similar to the [BRILL-based composites](BRILL_Composite "wikilink"), but the colors are altered.
 Specifically, the hue is mirrored across the 120 / 300 degrees axis
 (green / magenta).
 
 Here is the image with the hue altered to match other BRILL-based
 composites:
 
-![Numbered-color-shifted.png](Numbered-color-shifted.png
-"Numbered-color-shifted.png")
+![Numbered-color-shifted.png](Numbered-color-shifted.png)

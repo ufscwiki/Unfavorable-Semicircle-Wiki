@@ -7,8 +7,7 @@ assumed to be authentic messages from UFSC's creator(s).
 
 ## G+ post 1
 
-The first post on the unfavorable semicircle [G+
-page](Real_and_Fake_channels "wikilink") was posted on 2016-03-14. It
+The first post on the unfavorable semicircle [G+ page](Real_and_Fake_channels "wikilink") was posted on 2016-03-14. It
 contained garbled text that contained links to the new youtube account
 and the twitter account.
 
@@ -24,8 +23,7 @@ This post was removed shortly after it was discovered.
 
 ## G+ post 2
 
-The second post on the unfavorable semicircle [G+
-page](Real_and_Fake_channels "wikilink") was posted on 2016-03-15. The
+The second post on the unfavorable semicircle [G+ page](Real_and_Fake_channels "wikilink") was posted on 2016-03-15. The
 only content was the word "MAX\_TEND".
 
 A video named ♐[MAX\_TEND](MAX_TEND "wikilink") would later be posted to
@@ -49,8 +47,7 @@ The text read:
 
 > MAX\_TENDMALFORM RETSPLIT&\#8853201639\#98082016239
 
-![screencap of third G+ post](Maxtendmalform_gplus_post.jpg
-"screencap of third G+ post")
+![screencap of third G+ post](Maxtendmalform_gplus_post.jpg)
 
 At around the same time (although the precise timing is unclear)
 ♐[MAX\_TEND](MAX_TEND "wikilink") was renamed ♐MAX\_TEND MALFORM. The
@@ -72,8 +69,7 @@ newing](Stabilitory_newing "wikilink") videos.
 
 ⊕ may refer to
 
-  - [exclusive OR (XOR)
-    operation](https://en.wikipedia.org/wiki/Exclusive_or)
+  - [exclusive OR (XOR) operation](https://en.wikipedia.org/wiki/Exclusive_or)
   - the astrological symbol for earth
   - the "[sun cross](https://en.wikipedia.org/wiki/Sun_cross)"
   - the [direct sum](https://en.wikipedia.org/wiki/Direct_sum) operation
@@ -85,8 +81,7 @@ Some time on 2019-03-27, this message (and all other content) on the G+
 page was removed. This occurred several days before the service's
 schedule shutdown on 2019-04-02.
 
-![2019-03-27\_unfavorable\_semicircle\_-\_Google+.png](2019-03-27_unfavorable_semicircle_-_Google+.png
-"2019-03-27_unfavorable_semicircle_-_Google+.png")
+![2019-03-27\_unfavorable\_semicircle\_-\_Google+.png](2019-03-27_unfavorable_semicircle_-_Google+.png)
 
 ## G+ post 4
 
@@ -113,8 +108,7 @@ The text read:
 ### Possible interpretations
 
 ♐REAL may point out that the below given social media links are *real*
-representations of UFSC, implying that the [3rd youtube
-channel](3rd_youtube_channel "wikilink") and the post-reset incarnation
+representations of UFSC, implying that the [3rd youtube channel](3rd_youtube_channel "wikilink") and the post-reset incarnation
 of [Twitter](Twitter "wikilink") are fake. (Or, to use a different vocabulary, a new "fork" of the project by a different creator.)
 
   - OR\_UClZgZSNNQkhncRVj6lmNpWw refers to the link of the the original
@@ -123,16 +117,14 @@ of [Twitter](Twitter "wikilink") are fake. (Or, to use a different vocabulary, a
     the [Reset](RESET_STRANGE_YD "wikilink"));
   - NE\_UCLEBJyqL1KKsKKz\_aBqfPaQ refers to the second youtube channel
     (NE=new?);
-  - ST\_UCEUj7apDhQq5hh87U8iP4-w refers to the [Stabilitory
-    newing](Stabilitory_newing "wikilink") Youtube account;
+  - ST\_UCEUj7apDhQq5hh87U8iP4-w refers to the [Stabilitory newing](Stabilitory_newing "wikilink") Youtube account;
   - OT\_UCA2j2wFhXsQej79c9V4v\_Lg refers to a channel that the community
     previously regarded as fake - it reposted many old UFSC videos with
     a ♐♐ symbol as well as posted at least two original videos -
     ♐♐[LOYAL](LOYAL "wikilink") and ♐♐[CULLET](CULLET "wikilink").
     It was deleted some day before November 21, 2017 (OT=other?);
   - GO\_100522957117354193465 refers to the Google+ account of UFSC; and
-  - LA\_@unfavorablesem refers to a [2nd
-    Twitter](2nd_Twitter "wikilink") account.
+  - LA\_@unfavorablesem refers to a [2nd Twitter](2nd_Twitter "wikilink") account.
 
 ### "Homesick" / ♐DELOCK
 

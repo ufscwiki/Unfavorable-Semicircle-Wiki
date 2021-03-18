@@ -1,5 +1,4 @@
-♐LOVE is a video posted to the [second YouTube
-account](Real_and_Fake_channels "wikilink") on June 11, 2016. It was
+♐LOVE is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on June 11, 2016. It was
 posted a week after the ♐[FEND](FEND "wikilink") series ended and posted
 just before the ♐[FOND](FOND "wikilink") series began.
 
@@ -23,15 +22,12 @@ throughout.
 
 ## LAME tags
 
-On September 14, 2017, Discord user [unstable
-olding](unstable_olding "wikilink") mentioned finding *LAME3.99.5*
+On September 14, 2017, Discord user [unstable olding](unstable_olding "wikilink") mentioned finding *LAME3.99.5*
 strings in the [LOVE text files](LOVE_text_files "wikilink"). This is
-the metadata tag of [a famous MP3 file
-encoder](http://lame.sourceforge.net/), in it's latest version as of the
+the metadata tag of [a famous MP3 file encoder](http://lame.sourceforge.net/), in it's latest version as of the
 date (3.99.5, released back in 2012). This could be evidence that either
 this encoder was used to generate the audio tracks for the video or that
-the video carries a [hidden
-payload](https://en.wikipedia.org/wiki/Payload_\(computing\)) of one or
+the video carries a [hidden payload](https://en.wikipedia.org/wiki/Payload_\(computing\)) of one or
 more MP3 files (also encoded with LAME, presumably, not necessarily by
 UFSC himself). They could also be an artifact of YouTube re-encoding the
 audio tracks on the video.

@@ -1,5 +1,4 @@
-**(*See also the [Composite visual
-overview](Composite_visual_overview "wikilink").*)**
+**(*See also the [Composite visual overview](Composite_visual_overview "wikilink").*)**
 
 A 3D composite is created by plotting the colors of each pixel in a
 [composite image](Video_Composites "wikilink") on a 3D graph, mapping

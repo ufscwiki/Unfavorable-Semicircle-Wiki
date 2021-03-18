@@ -35,8 +35,7 @@ Drive. There is no handshake per se at the end of the audio: there's a
 partial similar structure, but that is the only thing that matches the
 handshake."
 
-![Upright\_incomplete\_handshake.png](Upright_incomplete_handshake.png
-"Upright_incomplete_handshake.png")
+![Upright\_incomplete\_handshake.png](Upright_incomplete_handshake.png)
 
 *incomplete handshake spectrograph by Risto*
 
@@ -66,8 +65,7 @@ the whole video has been made into a gif, similar to
 
 This video broke with UFSC's usual posting pattern, where a non-series
 video would be posted, a day or two before a new series begins (or an
-[old one
-continues](http://www.unfavorablesemicircle.com/wiki/index.php/BROTHER)).
+[old one continues](http://www.unfavorablesemicircle.com/wiki/index.php/BROTHER)).
 In contrast, this video was posted after ♐[STEM](STEM "wikilink"),
 another non-series video. However, this pattern could have been
 accidental, in which case the time of posting of this video would be of

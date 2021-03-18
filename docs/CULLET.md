@@ -1,7 +1,6 @@
 ♐♐CULLET was a video posted to the "[OT](OT "wikilink")" youtube channel
 on or around June 19, 2017. Because that channel was generally
-considered to be a tribute or copycat channel before the [fourth G+
-post](Google_Plus#G.2B_post_4 "wikilink"), it did not receive as much
+considered to be a tribute or copycat channel before the [fourth G+ post](Google_Plus#G.2B_post_4 "wikilink"), it did not receive as much
 analysis on its release. It is one of two unique videos posted to that
 account, the other being ♐♐[LOYAL](LOYAL "wikilink").
 
@@ -26,7 +25,6 @@ the process of
 
 ### 3-D Composite
 
-![Cullet\_3-d\_screengram\_from\_reddit.png](Cullet_3-d_screengram_from_reddit.png
-"Cullet_3-d_screengram_from_reddit.png")
+![Cullet\_3-d\_screengram\_from\_reddit.png](Cullet_3-d_screengram_from_reddit.png)
 
 *this is a screengrab from a reddit thread, maker unknown*

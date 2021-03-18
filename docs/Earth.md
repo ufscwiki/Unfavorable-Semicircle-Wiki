@@ -19,5 +19,4 @@ sense, it has no rulerships, dignities, or affiliations. Some
 astrologers consider the earth to be a good match with Taurus, based on
 its affinity with this fixed earth sign.
 
-[Astro.com wiki entry for
-Earth](http://wiki.astro.com/astrowiki/en/Earth)
+[Astro.com wiki entry for Earth](http://wiki.astro.com/astrowiki/en/Earth)

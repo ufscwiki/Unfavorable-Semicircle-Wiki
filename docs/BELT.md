@@ -1,5 +1,4 @@
-⊕BELT is series that was uploaded to [Stabilitory
-newing](Stabilitory_newing "wikilink"). ⊕BELT 0 was posted on May 17,
+⊕BELT is series that was uploaded to [Stabilitory newing](Stabilitory_newing "wikilink"). ⊕BELT 0 was posted on May 17,
 2017 (the same day as ♐[RATE](RATE "wikilink") was posted). The series
 ended with ⊕BELT 24, posted on June 1, 2017. ♐[BRING](BRING "wikilink")
 was posted on the main channel the next day.
@@ -23,9 +22,7 @@ to other stabilitory newing videos.
     quieter/degraded/modified version in the right channel. Sometimes
     the sounds are more musical (similar to a glitchy chiptunes effect),
     and sometimes more like a data transmission.
-  - Many of the audio tracks include extensive use of some sort of [half
-    wave
-    rectification](http://www.visionics.a.se/html/curriculum/Experiments/HW%20Rectifier/Half%20Wave%20Rectifier1.html)
+  - Many of the audio tracks include extensive use of some sort of [half wave rectification](http://www.visionics.a.se/html/curriculum/Experiments/HW%20Rectifier/Half%20Wave%20Rectifier1.html)
     effect on the audio, removing most of the negative samples.
   - The audio is often similar overall, and many videos re-use the exact
     same audio track from a previous one, including:
@@ -57,8 +54,7 @@ Therefore, they do not invert/cancel cleanly.
 ## Composites
 
 No composites have been attempted for stabilitory newing videos.
-(*although see [these
-notes](Investigation_into_color_data_in_SN_visuals "wikilink") on an
+(*although see [these notes](Investigation_into_color_data_in_SN_visuals "wikilink") on an
 effort to extract data from Stabilitory newing visuals.*)
 
 ## Links

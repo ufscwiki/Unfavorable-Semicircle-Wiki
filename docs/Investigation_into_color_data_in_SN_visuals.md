@@ -4,8 +4,7 @@
 
 ## Concept
 
-Can we extract data from the shifting "histogram" images in [Stabilitory
-newing](Stabilitory_newing "wikilink") videos?
+Can we extract data from the shifting "histogram" images in [Stabilitory newing](Stabilitory_newing "wikilink") videos?
 
 The images have fifty "pillars" or columns that can have a height from
 0-35.
@@ -23,8 +22,7 @@ can be opened in GIMP (or other image editor).
 
 The image rendered by GIMP reveals a certain pattern:
 
-![BELT\_1\_from\_raw\_data.jpg](BELT_1_from_raw_data.jpg
-"BELT_1_from_raw_data.jpg")
+![BELT\_1\_from\_raw\_data.jpg](BELT_1_from_raw_data.jpg)
 
 This pattern exists in a dataset derived from RATE as well.
 
@@ -40,8 +38,7 @@ To compare, I grabbed a random book (in plain txt format) from the
 Gutenberg Project, and saved that to a .data file. When I opened that in
 GIMP, it looks like this:
 
-![Gutenberg\_from\_raw\_data.jpg](Gutenberg_from_raw_data.jpg
-"Gutenberg_from_raw_data.jpg")
+![Gutenberg\_from\_raw\_data.jpg](Gutenberg_from_raw_data.jpg)
 
 ## Follow-ups / next steps
 

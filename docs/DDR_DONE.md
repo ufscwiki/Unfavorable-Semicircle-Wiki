@@ -4,8 +4,7 @@ seconds long, and contains two separate
 [handshakes](handshake "wikilink"), with a burst of noise-in between.
 
 As with the ♐[FMI](FMI "wikilink") series, uploaded on the same date,
-this video is the first to be posted after ♐[RESET STRANGE
-YD](RESET_STRANGE_YD "wikilink").
+this video is the first to be posted after ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink").
 
 {{\#ev:youtube|www.youtu.be/rBz9bUTsRMM}}
 
@@ -19,8 +18,7 @@ makeshift copy from older videos — with perhaps some minor alterations.
 
 ## Title
 
-It has been raised several times that DDR could imply [double data
-rate](https://en.wikipedia.org/wiki/DDR_SDRAM), which would seem to
+It has been raised several times that DDR could imply [double data rate](https://en.wikipedia.org/wiki/DDR_SDRAM), which would seem to
 follow a trend of having technological terms present in video titles (or
 at least terms that can be interpreted technologically) - such as
 [PER](PER "wikilink"), [NIL](NIL "wikilink"), [RATE](RATE "wikilink"),
@@ -34,14 +32,12 @@ Discord user Risto notes that this file contains a
 [Handshake](Handshake "wikilink") with the same spectrograph image as
 seen in other files:
 
-![Ddr\_done\_handshake\_start.png](Ddr_done_handshake_start.png
-"Ddr_done_handshake_start.png")
+![Ddr\_done\_handshake\_start.png](Ddr_done_handshake_start.png)
 
 They add of the handshake found at the end: "It looks like it just gave
 up":
 
-![Ddr\_done\_handshake\_end.png](Ddr_done_handshake_end.png
-"Ddr_done_handshake_end.png")
+![Ddr\_done\_handshake\_end.png](Ddr_done_handshake_end.png)
 
 Discord user alexbassguy notes that the Handshake uses "absolutely the
 same sample as heard in DEPTH and ZUFCHO."

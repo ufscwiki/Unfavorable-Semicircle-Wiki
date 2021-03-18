@@ -14,8 +14,7 @@ rapidly-flashing frames.
 
 *complete ♐CLEAN composite (to ♐CLEAN 7)*
 
-![ CLEAN\_composite\_495.55.png](CLEAN_composite_495.55.png
-" CLEAN_composite_495.55.png")
+![ CLEAN\_composite\_495.55.png](CLEAN_composite_495.55.png)
 
 *If viewed with a width of 495.55, it's easier to see that the step
 pattern continues to shadow the colored section.*

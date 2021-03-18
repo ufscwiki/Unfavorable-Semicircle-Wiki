@@ -1,5 +1,4 @@
-[unfavorable
-semicircle](https://www.youtube.com/channel/UCA2j2wFhXsQej79c9V4v_Lg/)
+[unfavorable semicircle](https://www.youtube.com/channel/UCA2j2wFhXsQej79c9V4v_Lg/)
 was a youtube channel controlled by the maker(s) of UFSC. Its date of
 establishment was unknown.
 

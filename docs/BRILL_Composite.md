@@ -1,8 +1,7 @@
 [BRILL](BRILL "wikilink") has a [composite](Video_Composites "wikilink")
 that is shared across many other videos and series.
 
-![This image, created by altering the hue of the [Numbered
-videos](Numbered_videos_\(new_channel\) "wikilink") composite, seems to
+![This image, created by altering the hue of the [Numbered videos](Numbered_videos_\(new_channel\) "wikilink") composite, seems to
 be close to the image that other videos modify for their
 composites.](Numbered-color-shifted.png
 "This image, created by altering the hue of the Numbered videos composite, seems to be close to the image that other videos modify for their composites.")
@@ -19,8 +18,7 @@ composites.](Numbered-color-shifted.png
     is almost identical to BRILL. (1000 x 31)
   - The [BRINE](BRINE "wikilink") series has a cropped version of the
     composite (most easily visible with a width of 540.5).
-  - [Numbered videos (2nd
-    channel)](Numbered_videos_\(2nd_channel\) "wikilink") has a
+  - [Numbered videos (2nd channel)](Numbered_videos_\(2nd_channel\) "wikilink") has a
     hue-shifted and distorted version of the composite. The hue is
     mirrored across the 120 / 300 degrees axis (green / magenta). (538 x
     101)

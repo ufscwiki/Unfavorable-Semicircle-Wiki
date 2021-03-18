@@ -4,8 +4,7 @@
 
 ![Thumbnail of ♐RECOVER](Recover.jpeg "Thumbnail of ♐RECOVER")
 
-{{\#ev:youtube|<https://youtu.be/bA3et1jJVuM>}} [Original
-Link](https://youtu.be/On5s_K6u104)
+{{\#ev:youtube|<https://youtu.be/bA3et1jJVuM>}} [Original Link](https://youtu.be/On5s_K6u104)
 
 ## Description of video
 
@@ -25,8 +24,7 @@ amount of [DC offset](DC_offset "wikilink").
 A composite of the various frames illustrates how the lines are
 continuous with each other.
 
-![\_Recover-still-frames-horizontal.png](_Recover-still-frames-horizontal.png
-"_Recover-still-frames-horizontal.png")
+![\_Recover-still-frames-horizontal.png](_Recover-still-frames-horizontal.png)
 
 *RECOVER composite, frames re-arranged horizontally*
 

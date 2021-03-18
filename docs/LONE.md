@@ -1,13 +1,11 @@
-♐LONE is a video posted to the [second YouTube
-account](Real_and_Fake_channels "wikilink") on March 26, 2016. It was
+♐LONE is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on March 26, 2016. It was
 posted the day after ♐[ZUFCHO](ZUFCHO "wikilink"), during a busy period
 for UFSC that included ♐[WINGSET](WINGSET "wikilink"),
 ♐[RETIO](RETIO "wikilink") and ♐[LIMIT](LIMIT "wikilink") (as well as
 the ♐[CAB](CAB "wikilink") and ♐[MUL](MUL "wikilink") series on
 twitter).
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=z5tEB24D4Lc>}} [Original
-Link](https://youtu.be/k_HC_6gdnxk)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=z5tEB24D4Lc>}} [Original Link](https://youtu.be/k_HC_6gdnxk)
 
 ## Description of video
 

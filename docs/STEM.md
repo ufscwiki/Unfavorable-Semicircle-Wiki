@@ -11,15 +11,13 @@ flashing frames. There is no audio.
 
 ## Significance of name
 
-The name doesn't seem particularly related to any of the [more esoteric
-meanings of the word](https://en.wikipedia.org/wiki/Stem). Regarding the
+The name doesn't seem particularly related to any of the [more esoteric meanings of the word](https://en.wikipedia.org/wiki/Stem). Regarding the
 generic context of "stems" and "branches" it is somewhat suggestive, but
 that gives no clear meaning.
 
 ## Composites
 
-![ STEM Composite by hellajt.png](_STEM_Composite_by_hellajt.png
-" STEM Composite by hellajt.png")
+![ STEM Composite by hellajt.png](_STEM_Composite_by_hellajt.png)
 
 *♐STEM composite by hellajt*
 

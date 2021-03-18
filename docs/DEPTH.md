@@ -13,8 +13,7 @@ November tweets*)
 ## Description of videos
 
 The videos in this series are two seconds long, with rapidly-changing
-frames of a single color and the [Unknown
-Voice](Unknown_Voice "wikilink") making a series of sounds that are not
+frames of a single color and the [Unknown Voice](Unknown_Voice "wikilink") making a series of sounds that are not
 the customary letters and numbers. Pieces of the
 [Handshake](Handshake "wikilink") appear occasionally
 ([example](https://twitter.com/unfavorablesemi/status/743637589274464261))
@@ -48,8 +47,7 @@ investigation has been made to determine whether they are exactly
 similar. Likewise, it is otherwise unclear why or how the two series are
 related.
 
-![ HARVEST composite.png](_HARVEST_composite.png
-" HARVEST composite.png")
+![ HARVEST composite.png](_HARVEST_composite.png)
 
 *♐HARVEST composite by thomasf*
 
@@ -60,8 +58,7 @@ videos chopped into smaller slices. (It has been theorized that includes
 the audio from ♐[CREM](CREM "wikilink") and ♐[ZUFCHO](ZUFCHO "wikilink")
 amongst others.)
 
-[Initial
-analysis](https://www.reddit.com/r/UnfavorableSemicircle/comments/4qpi6n/depth_videos_combined_interesting_audio/)
+[Initial analysis](https://www.reddit.com/r/UnfavorableSemicircle/comments/4qpi6n/depth_videos_combined_interesting_audio/)
 has indicated there are 100 discrete sounds used across the series, but
 there is still work to be done finding the significance of that, such as
 finding whether that comprises a codeset or if the pieces can be

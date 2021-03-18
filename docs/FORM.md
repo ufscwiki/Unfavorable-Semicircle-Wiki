@@ -1,5 +1,4 @@
-♐FORM is series of videos currently being uploaded to the [3rd youtube
-channel](3rd_youtube_channel "wikilink"). The first video was posted on
+♐FORM is series of videos currently being uploaded to the [3rd youtube channel](3rd_youtube_channel "wikilink"). The first video was posted on
 December 31st, 2019, exactly one year after ♐[ROOT](ROOT "wikilink") 0,
 the channel's previous upload. This was the first content posted on the
 channel after the [4th G+ post](Google_Plus#G.2B_post_4 "wikilink")
@@ -28,15 +27,13 @@ something that would be time stretched I can hear the stuttering and
 rubber banding. The artifacts are visible on the spectrogram when one
 section changes into another."
 
-![Time\_stretching\_1\_by\_chris.png](Time_stretching_1_by_chris.png
-"Time_stretching_1_by_chris.png")
+![Time\_stretching\_1\_by\_chris.png](Time_stretching_1_by_chris.png)
 
 And adds: "At least they are something that audacity does with the low
 quality time stretch. Here's a sample of my voice with the same
 behaviour:"
 
-![Time\_stretching\_2\_by\_chris.png](Time_stretching_2_by_chris.png
-"Time_stretching_2_by_chris.png")
+![Time\_stretching\_2\_by\_chris.png](Time_stretching_2_by_chris.png)
 
 ## Composites
 
@@ -54,8 +51,7 @@ assuming i got the width right)."
 There is a pattern of some sort visible in the right edge of the
 composite:
 
-![FORM\_0\_-\_right\_side\_detail.png](FORM_0_-_right_side_detail.png
-"FORM_0_-_right_side_detail.png")
+![FORM\_0\_-\_right\_side\_detail.png](FORM_0_-_right_side_detail.png)
 
 (*detail from ♐FORM 0*)
 
