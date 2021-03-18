@@ -77,18 +77,18 @@ It was discovered by thomasf that the lower area of the top right
 around it) which cites the beginning of the [Wikipedia page for
 Art](https://en.wikipedia.org/wiki/Art):
 
-!(HARVEST_text.png)<img width="368" alt="HARVEST_text" src="https://user-images.githubusercontent.com/67172823/111562329-683d5600-876c-11eb-89e8-d0b7d3a7d30e.png">
+<img width="368" alt="HARVEST_text" src="https://user-images.githubusercontent.com/67172823/111562833-3c6ea000-876d-11eb-9629-bffaf1b12b95.png">
 
 *closeup of text in ♐HARVEST composite (from thomasf's composite)*
 
-!(HARVEST_text2.png)<img width="588" alt="HARVEST_text2" src="https://user-images.githubusercontent.com/67172823/111562373-7a1ef900-876c-11eb-9b36-ba5ba7d56423.png">
+<img width="588" alt="HARVEST_text2" src="https://user-images.githubusercontent.com/67172823/111562875-4f817000-876d-11eb-9254-8688f6f7b8f1.png">
 
 *same as above, but with corresponding text added for clarity*
 
 > Art is a diverse range of human activities in creating visual,
 > auditory or performing artifacts – artworks, expressing the author's
 
-!(Wikipedia_art_screencap.jpg)![wikipedia art screencap](https://user-images.githubusercontent.com/67172823/111562400-860abb00-876c-11eb-8727-28a4314fcf74.jpg)
+![wikipedia art screencap](https://user-images.githubusercontent.com/67172823/111562400-860abb00-876c-11eb-8727-28a4314fcf74.jpg)
 
 *screencap of Wikipedia article on "Art" — note the slightly different
 punctuation than used in the composite*
