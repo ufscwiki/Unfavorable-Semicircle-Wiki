@@ -1,14 +1,12 @@
+# ♐HARVEST
+
 ♐HARVEST is a video posted to the second youtube account on October 10,
 2016. It was posted five days after the conclusion of the
 ♐[BROTHER](BROTHER "wikilink") series and a day before the beginning
 the the ♐[SLIM](SLIM "wikilink") series.
 
 It is noteworthy in that its composite image includes a string of text
-from the [Wikipedia article on
-"Art"](https://en.wikipedia.org/wiki/Art). (see below)
-
-{{\#ev:youtube|<https://youtu.be/xlxwdzR6lwg>}} [Original
-Link](https://youtu.be/Zi0Xvn2AeFc)
+from the [Wikipedia article on "Art"](https://en.wikipedia.org/wiki/Art). (see below)
 
 ## Description of video
 
@@ -52,15 +50,13 @@ Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving_\(Canada\)).
 
 ## Composites
 
-![ Harvest composite by hellajt.png](_Harvest_composite_by_hellajt.png
-" Harvest composite by hellajt.png")
+![Harvest_composite_by_hellajt](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/Harvest_composite_by_hellajt.png)
 
 *♐HARVEST composite by hellajt*
 
 <http://tomasf.se/projects/semi/HARVEST_composite.png>
 
-![ HARVEST composite.png](_HARVEST_composite.png
-" HARVEST composite.png")
+![HARVEST composite](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/HARVEST_composite.png)
 
 *♐HARVEST composite by thomasf*
 
@@ -80,19 +76,18 @@ It was discovered by thomasf that the lower area of the top right
 around it) which cites the beginning of the [Wikipedia page for
 Art](https://en.wikipedia.org/wiki/Art):
 
-![ HARVEST text.png](_HARVEST_text.png " HARVEST text.png")
+![ HARVEST text.png](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/HARVEST_text.png)
 
 *closeup of text in ♐HARVEST composite (from thomasf's composite)*
 
-![ HARVEST text2.png](_HARVEST_text2.png " HARVEST text2.png")
+![ HARVEST text2.png](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/HARVEST_text2.png)
 
 *same as above, but with corresponding text added for clarity*
 
 > Art is a diverse range of human activities in creating visual,
 > auditory or performing artifacts – artworks, expressing the author's
 
-![ Wikipedia art screencap.jpg](_Wikipedia_art_screencap.jpg
-" Wikipedia art screencap.jpg")
+![ Wikipedia art screencap.jpg](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/cba321023aafdc9143398d1a1911a880b7e08a32/docs/Wikipedia_art_screencap.jpg)
 
 *screencap of Wikipedia article on "Art" — note the slightly different
 punctuation than used in the composite*
