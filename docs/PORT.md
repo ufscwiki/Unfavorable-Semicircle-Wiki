@@ -1,5 +1,4 @@
-♐PORT is a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") account on December 31, 2017.
+♐PORT is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on December 31, 2017.
 It is 1:13:38 (however due to encoding errors it only shows up as
 1:13:29) long and contains a series of moving images. The 3rd youtube
 channel was opened on December 10th, but undiscovered until decrypting
@@ -9,19 +8,16 @@ the [New Year's Eve tweet](NYE_tweet "wikilink") on January 1, 2018.
 
 ## Title
 
-The word "port" has [multiple
-meanings](https://en.wikipedia.org/wiki/Port_\(disambiguation\)), but
+The word "port" has [multiple meanings](https://en.wikipedia.org/wiki/Port_\(disambiguation\)), but
 most interestingly it could refer to:
 
-  - [adapting software from one platform to
-    another](https://en.wikipedia.org/wiki/Porting)
+  - [adapting software from one platform to another](https://en.wikipedia.org/wiki/Porting)
   - several nautical terms (similar to ♐[HULL](HULL "wikilink") and
     ♐[BRINE](BRINE "wikilink")) (*observed by discord user yam00*)
 
 ## Composite
 
-![PORT\_composite\_398\_width.png](PORT_composite_398_width.png
-"PORT_composite_398_width.png")
+![PORT\_composite\_398\_width.png](PORT_composite_398_width.png)
 
 (*composite by discord user extra*)
 
@@ -31,16 +27,14 @@ User [unstable olding](unstable_olding "wikilink") noticed there are
 "dots and dashes" (similar to ♐[DEPTH](DEPTH "wikilink")) in the top
 left corner that could be Morse Code:
 
-![PORT\_composite\_-\_top\_left\_corner\_zoomed\_in.png](PORT_composite_-_top_left_corner_zoomed_in.png
-"PORT_composite_-_top_left_corner_zoomed_in.png")
+![PORT\_composite\_-\_top\_left\_corner\_zoomed\_in.png](PORT_composite_-_top_left_corner_zoomed_in.png)
 
 This has been decoded by discord user ShadowMorphyn as "NDMTEGD".
 
 There appears to be a string of letters and numbers in the bottom left
 corner:
 
-![PORT\_composite\_-\_bottom\_left\_corner\_zoomed\_in.png](PORT_composite_-_bottom_left_corner_zoomed_in.png
-"PORT_composite_-_bottom_left_corner_zoomed_in.png")
+![PORT\_composite\_-\_bottom\_left\_corner\_zoomed\_in.png](PORT_composite_-_bottom_left_corner_zoomed_in.png)
 
 Discord user Unfavorablist spotted the two "1"'s in the centre-right
 portion. The entire string might be "5 T 1 1 S S 5 1".

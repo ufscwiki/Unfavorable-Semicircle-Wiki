@@ -3,16 +3,14 @@ This was
 to the @unfavorablesemi [Twitter](Twitter "wikilink") account at 3:50 PM
 EST, November 25, 2017:
 
-![\_Screencap\_of\_first\_tweet.png](_Screencap_of_first_tweet.png
-"_Screencap_of_first_tweet.png")
+![\_Screencap\_of\_first\_tweet.png](_Screencap_of_first_tweet.png)
 
 The text content of this tweet is: AnXbE+\>6N"DfSH(1&
 
 ## Background and timeline
 
   - The creator(s) of UFSC deleted the @unfavorablesemi account on
-    September 15, 2017, shortly after posting ♐[RESET STRANGE
-    YD](RESET_STRANGE_YD "wikilink") to youtube.
+    September 15, 2017, shortly after posting ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") to youtube.
   - in "November 2017" a twitter account with this handle was
     reactivated. It is undetermined if if was reactivated by the same
     user(s) as before, or is someone else had simply "claimed" the
@@ -20,8 +18,7 @@ The text content of this tweet is: AnXbE+\>6N"DfSH(1&
       - it appears that a new account can be started using the name of a
         deactivated twitter account 30 days after its deletion.
   - this tweet was posted at 3:50 PM EST, November 25, 2017.
-  - Reddit user "SkinEffect" [posted
-    about](https://www.reddit.com/r/UnfavorableSemicircle/comments/7hx5x7/a_new_tweet_from_ufsc_this_was_posted_a_few_days/)
+  - Reddit user "SkinEffect" [posted about](https://www.reddit.com/r/UnfavorableSemicircle/comments/7hx5x7/a_new_tweet_from_ufsc_this_was_posted_a_few_days/)
     this tweet on December 6th.
   - Discord user tukkek posted the link to the reddit thread on December
     6th at 1:59 PM EST.

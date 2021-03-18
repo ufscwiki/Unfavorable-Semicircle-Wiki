@@ -1,8 +1,6 @@
-♐WINGSET is a video posted to the [second YouTube
-account](Real_and_Fake_channels "wikilink") on March 27, 2016.
+♐WINGSET is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on March 27, 2016.
 
-{{\#ev:youtube|<https://youtu.be/fglkUHqc35Y>}} [Original
-Link](https://youtu.be/AFsdkATR-Jk)
+{{\#ev:youtube|<https://youtu.be/fglkUHqc35Y>}} [Original Link](https://youtu.be/AFsdkATR-Jk)
 
 ## Description of video
 

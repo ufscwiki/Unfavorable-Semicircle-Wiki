@@ -1,12 +1,10 @@
 ♐RESQEN is a video posted to the second youtube account on May 12, 2016.
 
-![Thumbnail of ♐RESQEN](_Forgot_which_one_this_was.jpg
-"Thumbnail of ♐RESQEN")
+![Thumbnail of ♐RESQEN](_Forgot_which_one_this_was.jpg)
 
 RESQEN was previously misspelled on this wiki as RESQUEN.
 
-{{\#ev:youtube|<https://youtu.be/6PjVYMghyus>}} [Original
-Link](https://www.youtube.com/watch?v=GG5xjCIIaEE)
+{{\#ev:youtube|<https://youtu.be/6PjVYMghyus>}} [Original Link](https://www.youtube.com/watch?v=GG5xjCIIaEE)
 
 ## Description of video
 

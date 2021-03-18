@@ -7,8 +7,7 @@ period for UFSC that included ♐[ZUFCHO](ZUFCHO "wikilink"),
 channel (as well as the ♐[MUL](MUL "wikilink") series on twitter).
 
 The videos in this series differ from the "classic" UFSC style: they are
-slightly longer at five seconds, and the [Unknown
-Voice](Unknown_Voice "wikilink") has been replaced by a series of
+slightly longer at five seconds, and the [Unknown Voice](Unknown_Voice "wikilink") has been replaced by a series of
 static-y bursts.
 
 This series is fully preserved. A collection of the videos is available
@@ -16,25 +15,21 @@ This series is fully preserved. A collection of the videos is available
 
 ## "It's Binary"
 
-![spectrograph of a CAB video](_CAB_spectrograph.png
-"spectrograph of a CAB video")
+![spectrograph of a CAB video](_CAB_spectrograph.png "spectrograph of a CAB video")
 
-[Investigation
-confirmed](https://www.reddit.com/r/UnfavorableSemicircle/comments/4c8jjk/its_binary/)
+[Investigation confirmed](https://www.reddit.com/r/UnfavorableSemicircle/comments/4c8jjk/its_binary/)
 that the CAB files contained audible binary (*i.e.* were broken into
 eight "bits" that were on or off). It was further observed that there
 were nineteen distinct binary patterns.
 
-An [online
-spreadsheet](https://docs.google.com/spreadsheets/d/1FllOeyy1GVwHB6AXcAHcHV5RTWfzRmc9wmlYG0BEa5E/edit#gid=0)
+An [online spreadsheet](https://docs.google.com/spreadsheets/d/1FllOeyy1GVwHB6AXcAHcHV5RTWfzRmc9wmlYG0BEa5E/edit#gid=0)
 was created to document the transcription of the files.
 
 What these bytes combine into is not yet known.
 
 ## Possible meanings
 
-CAB is also an [archive file
-format](https://en.wikipedia.org/wiki/Cabinet_\(file_format\)), although
+CAB is also an [archive file format](https://en.wikipedia.org/wiki/Cabinet_\(file_format\)), although
 it was determined that the data in these files does not conform to the
 format. <sup>(citation needed)</sup>
 

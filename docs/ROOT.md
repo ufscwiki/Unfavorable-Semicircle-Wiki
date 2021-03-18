@@ -1,9 +1,7 @@
 ♐ROOT was a single video (although the number trailing the title
-suggested the start of a series) uploaded to the [3rd youtube
-channel](3rd_youtube_channel "wikilink"). It was posted on December
+suggested the start of a series) uploaded to the [3rd youtube channel](3rd_youtube_channel "wikilink"). It was posted on December
 31st, 2018, 78 days after ♐[GEN](GEN "wikilink") was posted. This was
-the final content posted on the channel before the [4th G+
-post](Google_Plus#G.2B_post_4 "wikilink") caused a re-appraisal of its
+the final content posted on the channel before the [4th G+ post](Google_Plus#G.2B_post_4 "wikilink") caused a re-appraisal of its
 authenticity. Nothing else was posted to the channel until
 ♐[FORM](FORM "wikilink") 0 followed exactly a year later, on December
 31, 2019.

@@ -4,14 +4,12 @@ a youtube channel named "unfavorable semicircle" was launched. Until the
 [4th G+ post](Google_Plus#G.2B_post_4 "wikilink") this was generally
 referred to as the "3rd youtube channel".
 
-![3rd\_yt\_channel\_join\_date.png](3rd_yt_channel_join_date.png
-"3rd_yt_channel_join_date.png")
+![3rd\_yt\_channel\_join\_date.png](3rd_yt_channel_join_date.png)
 
 A video named ♐[PORT](PORT "wikilink") was posted to the channel on
 December 31, 2017.
 
-The channel was undiscovered until [cryptic text posted in a
-tweet](NYE_tweet "wikilink") that same night was decoded on January 1,
+The channel was undiscovered until [cryptic text posted in a tweet](NYE_tweet "wikilink") that same night was decoded on January 1,
 2018 by discord user Peter, with the text
 "VUNzZ1JUUkpOeTA1TXVCN2cyWDV1ZXFn" decoding in Base64 to
 "UCsgRTRJNy05MuB7g2X5ueqg", the text at the end of this channel's URL.

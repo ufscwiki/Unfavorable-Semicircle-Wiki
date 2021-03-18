@@ -19,10 +19,7 @@ All videos seem to be 60 seconds long (1:00).
 
 ## Title
 
-"Strand" could refer to [many
-things](https://en.wikipedia.org/wiki/Strand), including a "[high-level
-symbolic language for parallel
-computing](https://en.wikipedia.org/wiki/Strand_\(programming_language\))".
+"Strand" could refer to [many things](https://en.wikipedia.org/wiki/Strand), including a "[high-level symbolic language for parallel computing](https://en.wikipedia.org/wiki/Strand_\(programming_language\))".
 
 ## Composites
 

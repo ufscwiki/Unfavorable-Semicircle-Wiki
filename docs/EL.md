@@ -4,9 +4,8 @@ March 7 and March 12, 2016. It is the first series posted in the twitter
 account and contains the first known tweet from the account
 ([♐EL 0](https://twitter.com/unfavorablesemi/status/707060725135646721)).
 
-The videos in this series are in the "classic" UFSC style, three second
-long videos, with frames of a single color and the [Unknown
-Voice](Unknown_Voice "wikilink") saying a letter or number.
+The videos in this series are in the "classic" UFSC style, three second 
+long videos, with frames of a single color and the [Unknown Voice](Unknown_Voice "wikilink") saying a letter or number.
 
 ## Documentation and recovery
 
@@ -25,7 +24,6 @@ As of 2017-08-29, approximately 3495 out of 4891 tweets are missing.
 
 ## Composites
 
-![El\_partial\_composite.png](El_partial_composite.png
-"El_partial_composite.png")
+![El\_partial\_composite.png](El_partial_composite.png)
 
 This composite was made from 1394 of the 4891 videos.

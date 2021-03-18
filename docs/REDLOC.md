@@ -1,12 +1,10 @@
-♐REDLOC is a video posted to the [second YouTube
-account](Real_and_Fake_channels "wikilink") on March 18, 2016, after a
+♐REDLOC is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on March 18, 2016, after a
 break of more than a week on youtube. (It was, however, posted three
 days after the [second G+ post](Google_Plus#G.2B_post_2 "wikilink") and
 around the same time as the ♐[LEE](LEE "wikilink") series began on
 twitter.)
 
-{{\#ev:youtube|<https://youtu.be/xkceG6U2Q60>}} [Original
-Link](https://youtu.be/xYmtkMeqjxkA)
+{{\#ev:youtube|<https://youtu.be/xkceG6U2Q60>}} [Original Link](https://youtu.be/xYmtkMeqjxkA)
 
 ## The "Announcement"
 
@@ -16,8 +14,7 @@ it was posted to youtube. Given that the second youtube account and the
 twitter account were both new at the time, this served to reinforce that
 the same user (or users) was in control of both accounts.
 
-![REDLOC\_announcement.png](REDLOC_announcement.png
-"REDLOC_announcement.png")
+![REDLOC\_announcement.png](REDLOC_announcement.png)
 
 *Screencap of twitter account by reddit user SuckItWhoville*
 
@@ -43,12 +40,7 @@ which shows all non-black pixels at once.
 
 ## Contemporaneous Reddit Threads
 
-  - [As of an hour ago, the uploads stopped. 10 minutes ago, the tweet
-    only says,
-    "REDLOC"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b1ijr/as_of_an_hour_ago_the_uploads_stopped_10_minutes/)
-  - [Notes on
-    "Redloc"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b2e2u/notes_on_redloc/)
-  - [REDLOC
-    composite](https://www.reddit.com/r/UnfavorableSemicircle/comments/4g3m7d/redloc_composite/)
-  - [REDLOC
-    theory](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bsoot/redloc_theory/)
+  - [As of an hour ago, the uploads stopped. 10 minutes ago, the tweet only says, "REDLOC"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b1ijr/as_of_an_hour_ago_the_uploads_stopped_10_minutes/)
+  - [Notes on "Redloc"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b2e2u/notes_on_redloc/)
+  - [REDLOC composite](https://www.reddit.com/r/UnfavorableSemicircle/comments/4g3m7d/redloc_composite/)
+  - [REDLOC theory](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bsoot/redloc_theory/)

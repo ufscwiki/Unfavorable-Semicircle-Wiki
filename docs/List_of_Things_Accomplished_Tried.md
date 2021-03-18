@@ -12,14 +12,11 @@ possibly been tentatively dismissed on other threads.*)
     composites. The clearest example is with
     [BREADTH](BREADTH "wikilink"), it is unclear whether any others are
     meant to be viewed this way.
-  - digging through recordings on [wax
-    cylinder](http://cylinders.library.ucsb.edu/index.php) and [78 rpm
-    records](http://adp.library.ucsb.edu/) to identify the song in
+  - digging through recordings on [wax cylinder](http://cylinders.library.ucsb.edu/index.php) and [78 rpm records](http://adp.library.ucsb.edu/) to identify the song in
     ♐[RETIO](RETIO "wikilink"). **UPDATE:** The song has tentatively
     been identified as the 1922 recording of "Away Down East In Maine"
     by Miss Patricola with the Virginians.
-  - efforts have been made to [reverse
-    engineer](Reverse_Engineering_Attempts "wikilink") the videos, or to
+  - efforts have been made to [reverse engineer](Reverse_Engineering_Attempts "wikilink") the videos, or to
     understand the process by building new videos "from the ground up".
 
 ## Needing further investigation
@@ -32,36 +29,26 @@ free to revisit these or use them as a starting point.
   - finding a common method of pitch shifting and/or speeding up/slowing
     down videos (so far this hasn't shown any interesting results, but
     isn't something that should be ruled out)
-  - discovering if images are viable as Piet Code. Piet is a [graphical
-    programming
-    language](https://en.wikipedia.org/wiki/Esoteric_programming_language#Piet).
-    It uses images that are vaguely similar to UFSC images. An [effort
-    was
-    made](https://www.reddit.com/r/UnfavorableSemicircle/comments/48n3p0/ufsc_attempting_to_run_delock_as_a_piet_code/)
+  - discovering if images are viable as Piet Code. Piet is a [graphical programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language#Piet).
+    It uses images that are vaguely similar to UFSC images. An [effort was made](https://www.reddit.com/r/UnfavorableSemicircle/comments/48n3p0/ufsc_attempting_to_run_delock_as_a_piet_code/)
     to run ♐[DELOCK](DELOCK "wikilink") as Piet, but it didn't go too
     far
-  - analysis of frame durations [was
-    done](https://www.reddit.com/r/UnfavorableSemicircle/comments/48gv41/analysis_of_delock_image_durations/)
+  - analysis of frame durations [was done](https://www.reddit.com/r/UnfavorableSemicircle/comments/48gv41/analysis_of_delock_image_durations/)
     on ♐[DELOCK](DELOCK "wikilink").
-  - furthering work with [bulk
-    transcription](https://www.reddit.com/r/UnfavorableSemicircle/comments/48slsm/partial_bulk_transcription_of_numbered_videos/)
+  - furthering work with [bulk transcription](https://www.reddit.com/r/UnfavorableSemicircle/comments/48slsm/partial_bulk_transcription_of_numbered_videos/)
     of the audio (such as was done with ♐[BRILL](BRILL "wikilink")) and
     finding ways to analyze the results
-  - finding if composites or other images could be related to [4D color
-    barcodes](https://www.reddit.com/r/UnfavorableSemicircle/comments/49s59l/patent_4d_color_barcode_for_high_capacity_data/)
+  - finding if composites or other images could be related to [4D color barcodes](https://www.reddit.com/r/UnfavorableSemicircle/comments/49s59l/patent_4d_color_barcode_for_high_capacity_data/)
     used for high capacity data encoding and decoding
-  - [analyzing audio for encoded data
-    streams](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b3c5n/theory_audio_is_fsk_encoded_data_stream/)
+  - [analyzing audio for encoded data streams](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b3c5n/theory_audio_is_fsk_encoded_data_stream/)
     (such as FSK)
   - investigating further if ♐[BRILL](BRILL "wikilink") is related to
-    Brill tagging or the [Brill Building
-    Sound](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bpzpl/the_brill_building_sound_by_1962_the_brill/)
+    Brill tagging or the [Brill Building Sound](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bpzpl/the_brill_building_sound_by_1962_the_brill/)
   - analyzing anagrams: there have been many threads on anagrams, with
     no substantial results
   - working to discover the very meaning of the phrase *Unfavorable
     Semicircle*
-  - analyzing ♐[CAB](CAB "wikilink") videos ([for .cab
-    files](https://www.reddit.com/r/UnfavorableSemicircle/comments/4c7822/all_cab_videos_zip_file/))
+  - analyzing ♐[CAB](CAB "wikilink") videos ([for .cab files](https://www.reddit.com/r/UnfavorableSemicircle/comments/4c7822/all_cab_videos_zip_file/))
     or embedded audible binary
   - applying further analysis to the composites to confirm if they are
     indeed different images of the same thing (possibly at different
@@ -102,6 +89,5 @@ free to revisit these or use them as a starting point.
   - Creating 3D composites of interesting sections of an image (like
     with [HARVEST](HARVEST "wikilink")).
   - Layering composites of videos over each other
-  - Discord user Parogar found [a selfie-type
-    image](Spokeo_selfie "wikilink") (via spokeo.com) allegedly
+  - Discord user Parogar found [a selfie-type image](Spokeo_selfie "wikilink") (via spokeo.com) allegedly
     associated with the email unfavorablesemicircle@gmail.com

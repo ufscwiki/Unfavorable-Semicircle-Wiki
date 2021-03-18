@@ -3,8 +3,7 @@
 by the Unfavorable Semicircle [Twitter](Twitter "wikilink") account on
 December 27, 2017 at 8:18 PM EST. It is 41 seconds long. It was posted
 four days after the ♐[STRAND](STRAND "wikilink") series. The twitter
-account was silent until posting four days later on [New Year's
-Eve](NYE_tweet "wikilink").
+account was silent until posting four days later on [New Year's Eve](NYE_tweet "wikilink").
 
 {{\#ev:youtube|<https://youtu.be/UY7M225eQ8A>}} (*backup of video posted
 to youtube by discord user unstable olding*.)

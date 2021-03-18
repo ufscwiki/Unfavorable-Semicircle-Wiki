@@ -4,8 +4,7 @@ the youtube account (♐[MOTH](MOTH "wikilink") 55 was posted on March
 4th) and the day before the start of the ♐[DUAL](DUAL "wikilink")
 series.
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=jlBmcNN4-tY>}} [Original
-Link](https://youtu.be/c2kTtzjAtf8)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=jlBmcNN4-tY>}} [Original Link](https://youtu.be/c2kTtzjAtf8)
 
 ## Description of video
 
@@ -26,8 +25,7 @@ The significance of the name 'golden' is as yet unclear.
 
 ### 2-D Composite
 
-![ ♐GOLDEN Composite by ShadowMorphyn](_GOLDEN.png
-" ♐GOLDEN Composite by ShadowMorphyn")
+![♐GOLDEN Composite by ShadowMorphyn](_GOLDEN.png)
 
 *♐GOLDEN Composite by ShadowMorphyn*
 

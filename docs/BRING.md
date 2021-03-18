@@ -4,8 +4,7 @@ It was the first video posted on the main account since
 interim, ⊕[RATE](RATE "wikilink") and ⊕[BELT](BELT "wikilink") were
 posted to [Stabilitory newing](Stabilitory_newing "wikilink").
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=I6kBwCq8m5o>}} [Original
-Link](https://youtu.be/XmpxptOVfi4)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=I6kBwCq8m5o>}} [Original Link](https://youtu.be/XmpxptOVfi4)
 
 ## Description of video
 
@@ -25,27 +24,22 @@ R (♐[BRILL](BRILL "wikilink"), ♐[BRINE](BRINE "wikilink"),
 ♐[BROTHER](BROTHER "wikilink"), ♐[BREADTH](BREADTH "wikilink"), and
 ♐[BROAD](BROAD "wikilink")).
 
-At 6:10, the video is identical in length to the videos in [Stabilitory
-newing](Stabilitory_newing "wikilink")'s ⊕[BELT](BELT "wikilink")
+At 6:10, the video is identical in length to the videos in [Stabilitory newing](Stabilitory_newing "wikilink")'s ⊕[BELT](BELT "wikilink")
 series.
 
-It could also be a reference to [Erland Samuel
-Bring](http://www-history.mcs.st-and.ac.uk/Biographies/Bring.html), a
+It could also be a reference to [Erland Samuel Bring](http://www-history.mcs.st-and.ac.uk/Biographies/Bring.html), a
 Swedish mathematician, historian and astronomer who is remembered for
-the development of the algebraic concept known as [Bring
-radicals](https://en.wikipedia.org/wiki/Bring_radical).
+the development of the algebraic concept known as [Bring radicals](https://en.wikipedia.org/wiki/Bring_radical).
 
 ## Composites
 
 ### 2D Composite
 
-![ ♐BRING composite by extra, width 147 pixels](_Bring_147.png
-" ♐BRING composite by extra, width 147 pixels")
+![ ♐BRING composite by extra, width 147 pixels](_Bring_147.png)
 
 *♐BRING composite by extra, width 147 pixels*
 
-![ ♐BRING composite by extra, width 73.5 pixels](_Bring_735.png
-" ♐BRING composite by extra, width 73.5 pixels")
+![ ♐BRING composite by extra, width 73.5 pixels](_Bring_735.png)
 
 *♐BRING composite by extra, width 73.5 pixels*
 

@@ -1,5 +1,4 @@
-♐RELOCK is a video posted to the [second youtube
-account](Real_and_Fake_channels "wikilink") on February 21, 2016. It was
+♐RELOCK is a video posted to the [second youtube account](Real_and_Fake_channels "wikilink") on February 21, 2016. It was
 the first video posted to the new youtube account.
 
   - Original link (deleted)
@@ -32,5 +31,4 @@ This animation shows the difference between the RELOCK and LOCK
 composite. RELOCK has additional noise in the background, and in LOCK
 many of the pixels extend one pixel to the right.
 
-![LOCK-RELOCK-compare.gif](LOCK-RELOCK-compare.gif
-"LOCK-RELOCK-compare.gif")
+![LOCK-RELOCK-compare.gif](LOCK-RELOCK-compare.gif)

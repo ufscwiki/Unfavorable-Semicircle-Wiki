@@ -6,8 +6,7 @@ Unfavorable Semicircle.
 
 ### The original account
 
-After the suspension of the original youtube channel, [garbled
-text](Google_Plus#G.2B_post_1 "wikilink") was discovered on the Google+
+After the suspension of the original youtube channel, [garbled text](Google_Plus#G.2B_post_1 "wikilink") was discovered on the Google+
 page linked with the terminated YouTube account. When decoded, this led
 to the Twitter account (and also contained a link to the now-defunct
 second YouTube account.
@@ -28,8 +27,7 @@ After the end of the ♐[POINT](POINT "wikilink") series on February 13th,
 
 ### A "strange reset"
 
-On September 15, 2017 a video named ♐[RESET STRANGE
-YD](RESET_STRANGE_YD "wikilink") was posted on youtube. Shortly after
+On September 15, 2017 a video named ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") was posted on youtube. Shortly after
 that, the unfavorablesemi YouTube channel, the stabilitory newing
 YouTube channel and the Twitter account were manually closed.
 
@@ -48,8 +46,7 @@ for the first time that same day, issuing a cryptic message that read
 
 This account is most likely fake, as shown in the 4th Google Plus post.
 
-![\_Screencap\_of\_first\_tweet.png](_Screencap_of_first_tweet.png
-"_Screencap_of_first_tweet.png")
+![\_Screencap\_of\_first\_tweet.png](_Screencap_of_first_tweet.png)
 
 (*see [November 25th tweet](November_25th_tweet "wikilink") for more
 information*.)
@@ -91,21 +88,18 @@ elaborate\!*)
     (around the same same time it was posted to youtube) with a tweet
     consisting only of its title.
 
-![REDLOC\_announcement.png](REDLOC_announcement.png
-"REDLOC_announcement.png")
+![REDLOC\_announcement.png](REDLOC_announcement.png)
 
 *Screencap of twitter account by reddit user SuckItWhoville*
 
-  - On March 19, 2016, a string of garbled text was tweeted ([original
-    link](https://twitter.com/unfavorablesemi/status/711024340754669568)),
+  - On March 19, 2016, a string of garbled text was tweeted ([original link](https://twitter.com/unfavorablesemi/status/711024340754669568)),
     reading:
 
 > Fpdsh {ävÈwuxh\_xs359|wr⁰hq
 > deohb|wubÍurprpËõ℥u₯vhtd⁰kbdvvøwv@wuxh\_x{3©9hg$‖iqrqf\&qrw
 > sutil{hgb´ph@idoíh\_x335$fd ugvbgudzhu,dxwþ brsgþ¹hq
 
-![2016-03-19\_garbled\_tweet.png](2016-03-19_garbled_tweet.png
-"2016-03-19_garbled_tweet.png")
+![2016-03-19\_garbled\_tweet.png](2016-03-19_garbled_tweet.png)
 
 *Screencap of garbled tweet by reddit user SuckItWhoville*
 
@@ -120,8 +114,7 @@ on discovering and decoding that tweet via Caesar cipher.*)
 *Posted on New Year's Eve, discovered to be a link to the new YouTube
 channel*
 
-![\_Screencap\_of\_first\_tweet.png](_Screencap_of_first_tweet.png
-"_Screencap_of_first_tweet.png")
+![\_Screencap\_of\_first\_tweet.png](_Screencap_of_first_tweet.png)
 
 *First tweet of the post-reset account*
 

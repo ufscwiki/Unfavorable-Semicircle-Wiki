@@ -1,5 +1,4 @@
-♐GEN is a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") on October 14, 2018. It was
+♐GEN is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") on October 14, 2018. It was
 posted 58 days (or 1 month and 27 days) after ♐[CFO](CFO "wikilink"). It
 is 38:07 in length and consists of a series of colored frames with
 smoother transitions than usual. The ♐[ROOT](ROOT "wikilink") series
@@ -18,8 +17,7 @@ you amplify it".
 
 ### 2-D Composite
 
-![GEN\_composite\_288\_width.png](GEN_composite_288_width.png
-"GEN_composite_288_width.png")
+![GEN\_composite\_288\_width.png](GEN_composite_288_width.png)
 
 (*composite by discord user its a-me markio*)
 
@@ -35,8 +33,7 @@ channels makes the curves more clear:
 ![GEN\_red\_channel.png](GEN_red_channel.png "GEN_red_channel.png")
 
 Discord user Raketemensch has noted that ♐GEN's 2-D composite looks like
-a cloud chamber photo. (Or, similarly, a [bubble
-chamber](https://imgur.com/gallery/8uR3GK0/).)
+a cloud chamber photo (or, similarly, a [bubble chamber](https://imgur.com/gallery/8uR3GK0/)).
 
 ### 3-D Composite
 

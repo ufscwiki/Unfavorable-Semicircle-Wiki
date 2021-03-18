@@ -1,9 +1,7 @@
-♐CRIMP is a video posted to the second [second YouTube
-account](Real_and_Fake_channels "wikilink") account on November 25,
+♐CRIMP is a video posted to the second [second YouTube account](Real_and_Fake_channels "wikilink") account on November 25,
 2016.
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=3Blb3kzJU4I>}} [Original
-Link](https://youtu.be/Oh5MZWl2S8o)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=3Blb3kzJU4I>}} [Original Link](https://youtu.be/Oh5MZWl2S8o)
 
 ## Description of video
 

@@ -1,5 +1,4 @@
-♐NODE is a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") account on January 22, 2018. It
+♐NODE is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on January 22, 2018. It
 is 2:19:20 long and contains a series of moving images. It was posted 18
 days after ♐[RUN](RUN "wikilink"). ♐[SERN](SERN "wikilink") would be
 posted four days later.
@@ -28,8 +27,7 @@ Those sounds, with the silence between them removed can be heard
 The final audio section has a clear melody and is the subject of
 continued investigation.
 
-![Node\_transcription.png](Node_transcription.png
-"Node_transcription.png")
+![Node\_transcription.png](Node_transcription.png)
 
 (*audio transcription by discord user A Hidden Waffle — listenable
 [here](https://flat.io/score/5a6a5602403e3b06e6ab05ee-ufsc)*)
@@ -37,8 +35,7 @@ continued investigation.
 Discord user alexander later provided a more elaborate transcription of
 the melody:
 
-![Node\_transcription\_-\_Full\_Score.png](Node_transcription_-_Full_Score.png
-"Node_transcription_-_Full_Score.png")
+![Node\_transcription\_-\_Full\_Score.png](Node_transcription_-_Full_Score.png)
 
 alexander has also confirmed that "the melody is written in the 432hz
 tuning."
@@ -78,8 +75,7 @@ also easily recreate those artifacts pretty quickly and simply."
 
 ### 2-D Composite
 
-![Node\_composite\_width\_839.png](Node_composite_width_839.png
-"Node_composite_width_839.png")
+![Node\_composite\_width\_839.png](Node_composite_width_839.png)
 
 (*composite by discord user extra*)
 
@@ -94,8 +90,7 @@ by [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).
   - As with other recent composites, there are a series of black/white
     dots in the top corner of the ♐NODE composite.
 
-![Node\_composite\_top\_left\_corner\_zoomed\_in.png](Node_composite_top_left_corner_zoomed_in.png
-"Node_composite_top_left_corner_zoomed_in.png")
+![Node\_composite\_top\_left\_corner\_zoomed\_in.png](Node_composite_top_left_corner_zoomed_in.png)
 
 *This has been the subject of further research — see "morse code"
 section below.*
@@ -103,8 +98,7 @@ section below.*
   - Similar to ♐[HARVEST](HARVEST "wikilink"), there is a "flag"/striped
     banner image in the top left corner of the image.
 
-![Node\_+\_harvest\_flags.png](Node_+_harvest_flags.png
-"Node_+_harvest_flags.png")
+![Node\_+\_harvest\_flags.png](Node_+_harvest_flags.png)
 
 (*"flag" from ♐NODE on the left, "flag" (a.k.a. "the lasagne") from
 ♐HARVEST on the right*)
@@ -114,8 +108,7 @@ selecting composite widths.
 
 ### 3-D Composite
 
-![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png
-"Node_3-d_composite_by_tukkek.png")
+![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png)
 
 (*composite by discord user tukkek*)
 

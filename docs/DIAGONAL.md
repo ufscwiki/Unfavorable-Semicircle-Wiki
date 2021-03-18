@@ -5,8 +5,7 @@ youtube account (♐[UPRIGHT](UPRIGHT "wikilink") was posted on January
 ♐[MOTH](MOTH "wikilink") (on youtube) and ♐[POINT](POINT "wikilink")
 (on twitter).
 
-{{\#ev:youtube|<https://youtu.be/B9z2XBC9N-E>}} [Original
-Link](https://youtu.be/9m3XuGbURi4)
+{{\#ev:youtube|<https://youtu.be/B9z2XBC9N-E>}} [Original Link](https://youtu.be/9m3XuGbURi4)
 
 ## Description of video
 
@@ -40,17 +39,13 @@ if or how the two are related.
 
 ### 2-D Composite
 
-![ Diagonal - horizontal
-composite.png](_Diagonal_-_horizontal_composite.png
-" Diagonal - horizontal composite.png")
+![Diagonal - horizontal composite.png](_Diagonal_-_horizontal_composite.png)
 
 *♐DIAGONAL composite. (add creator credit when known\!)*
 
 ### 3-D Composite
 
-![ DIAGONAL - screecap of vantjac's 3D
-render.png](_DIAGONAL_-_screecap_of_vantjac's_3D_render.png
-" DIAGONAL - screecap of vantjac's 3D render.png")
+![DIAGONAL - screecap of vantjac's 3D render.png](_DIAGONAL_-_screecap_of_vantjac's_3D_render.png)
 
 *screencap of ♐DIAGONAL 3-D composite by vantjac*
 

@@ -3,8 +3,7 @@
 ♐[FOLD](FOLD "wikilink") was posted). ♐BREADTH 1 was posted on
 December 6, 2016 (the day before ♐[STEM](STEM "wikilink") was posted).
 
-This series is noteworthy for its role in the discovery of [3-D
-Composites](3D_Composite "wikilink").
+This series is noteworthy for its role in the discovery of [3-D Composites](3D_Composite "wikilink").
 
 ![Breadth\_animated\_3-d\_render\_(small).gif](Breadth_animated_3-d_render_\(small\).gif
 "Breadth_animated_3-d_render_(small).gif")
@@ -33,8 +32,7 @@ The videos have a silent stereo audio track.
 
 <http://tomasf.se/projects/semi/BREADTH_composite.png>
 
-![ BREADTH composite.jpg](_BREADTH_composite.jpg
-" BREADTH composite.jpg")
+![BREADTH composite.jpg](_BREADTH_composite.jpg)
 
 *♐BREADTH composite by thomasf (**n.b.**: image uploaded to this wiki as
 a jpg due to file size restrictions)*
@@ -44,15 +42,11 @@ a jpg due to file size restrictions)*
 
 ### 3-D Composite
 
-![ Breadth 3-D composite - view
-1.png](_Breadth_3-D_composite_-_view_1.png
-" Breadth 3-D composite - view 1.png")
+![Breadth 3-D composite - view 1.png](_Breadth_3-D_composite_-_view_1.png)
 
 *screencap of 3-D ♐BREADTH composite*
 
-![ Breadth 3-D composite - view
-2.png](_Breadth_3-D_composite_-_view_2.png
-" Breadth 3-D composite - view 2.png")
+![Breadth 3-D composite - view 2.png](_Breadth_3-D_composite_-_view_2.png)
 
 *screencap of 3-D ♐BREADTH composite*
 

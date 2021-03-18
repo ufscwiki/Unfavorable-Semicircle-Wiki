@@ -1,7 +1,6 @@
 # ♐AZO
 
-♐AZO is a series of videos uploaded to the [3rd youtube
-channel](3rd_youtube_channel "wikilink"). It began on May 3rd, 2018,
+♐AZO is a series of videos uploaded to the [3rd youtube channel](3rd_youtube_channel "wikilink"). It began on May 3rd, 2018,
 four days after ♐[NEO](NEO "wikilink") was posted.
 ♐[DIFF](DIFF "wikilink") would be posted 19 days later. It is the
 first series posted since ♐[STRAND](STRAND "wikilink"), and the first
@@ -30,16 +29,14 @@ pixels that are next to the main image (which is unusual for UFSC).
 
 ## Meaning of name
 
-"Azo" or "AZO" has [several
-meanings](https://en.wikipedia.org/wiki/Azo), none of which seem
+"Azo" or "AZO" has [several meanings](https://en.wikipedia.org/wiki/Azo), none of which seem
 obviously connected to UFSC's usual themes.
 
 ## Composites
 
 ### 2-D
 
-![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png
-"AZO_0_composite_RGB_600x327_1x1.png")
+![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png)
 
 (*♐AZO 1 composite by discord user kingrodian*)
 
@@ -57,8 +54,7 @@ The 3-D composite for ♐AZO is visually similar to the one for
 ♐[NEO](NEO "wikilink"), looking like a "keyboard" that is nearly flat
 in the third dimension.
 
-![Azo\_0-2\_3-d\_composite\_animation.gif](Azo_0-2_3-d_composite_animation.gif
-"Azo_0-2_3-d_composite_animation.gif")
+![Azo\_0-2\_3-d\_composite\_animation.gif](Azo_0-2_3-d_composite_animation.gif)
 
 (*animation of ♐AZO 0-2 3-D composite by discord user extra*)
 

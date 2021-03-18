@@ -50,8 +50,7 @@ during the posting (and please note this list is probably incomplete).
 This is noteworthy for two reasons:
 
   - This has been generally rare behavior by UFSC, leading credence to
-    the theory that post-♐[RESET STRANGE
-    YD](RESET_STRANGE_YD "wikilink") is not the same creator as before.
+    the theory that post-♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") is not the same creator as before.
     The only evidence of skipped numbers comes from
     ♐[LEE](LEE "wikilink") and ♐[MOTH](MOTH "wikilink") (and later,
     ♐[STRAND](STRAND "wikilink")).

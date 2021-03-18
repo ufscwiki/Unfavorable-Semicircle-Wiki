@@ -1,5 +1,4 @@
-♐ZORO was a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") account on March 26, 2018. The
+♐ZORO was a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on March 26, 2018. The
 video was removed by the uploader immediately after it was posted —
 youtube alerts were sent out, but the video was gone by the time the
 channel was accessed. The video was uploaded/removed two months to the
@@ -15,8 +14,7 @@ three days after this.
 
 *missing video screencapped by discord user A Hidden Waffle*
 
-![Zoro\_notification\_2.jpg](Zoro_notification_2.jpg
-"Zoro_notification_2.jpg")
+![Zoro\_notification\_2.jpg](Zoro_notification_2.jpg)
 
 *youtube notification received by discord user Ryallin*
 

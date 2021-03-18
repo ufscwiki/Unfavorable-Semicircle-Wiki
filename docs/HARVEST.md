@@ -42,8 +42,7 @@ further anomalies.
 ## Significance of name
 
 Besides the obvious autumnal resonance of the name, it has been noted
-that the video was posted on [Canadian
-Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving_\(Canada\)).
+that the video was posted on [Canadian Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving_\(Canada\)).
 
 ## Composites
 
@@ -71,8 +70,7 @@ The angled line in the lower right section is similar to the line in
 
 It was discovered by thomasf that the lower area of the top right
 "panel" contains contains tiny text (black, with green/gray outline
-around it) which cites the beginning of the [Wikipedia page for
-Art](https://en.wikipedia.org/wiki/Art):
+around it) which cites the beginning of the [Wikipedia page for Art](https://en.wikipedia.org/wiki/Art):
 
 <img width="368" alt="HARVEST_text" src="https://user-images.githubusercontent.com/67172823/111562833-3c6ea000-876d-11eb-9629-bffaf1b12b95.png">
 

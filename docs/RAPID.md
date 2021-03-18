@@ -15,12 +15,9 @@ sounds throughout.
 ## Audio analysis
 
 The audio is a mono track with heavily-distorted spoken words. It is
-difficult to confirm if it is the [Unknown
-Voice](Unknown_Voice "wikilink") or not.
+difficult to confirm if it is the [Unknown Voice](Unknown_Voice "wikilink") or not.
 
-Discord user ErasablePotato has observed the words sound like the [NATO
-phonetic
-alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet), as used
+Discord user ErasablePotato has observed the words sound like the [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet), as used
 in
 [HFGCS](https://en.wikipedia.org/wiki/High_Frequency_Global_Communications_System)
 messages. (*[sample](https://www.youtube.com/watch?v=Xi6d7F0Z3I0)*)
@@ -57,8 +54,7 @@ There is some variability in the alignment of the image depending on the
 width used in constructing the composite. Here is the composite with a
 width of 497 instead of 498
 
-![RAPID\_composite\_497.png](RAPID_composite_497.png
-"RAPID_composite_497.png")
+![RAPID\_composite\_497.png](RAPID_composite_497.png)
 
 ## Significance of Composite
 

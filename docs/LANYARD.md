@@ -7,8 +7,7 @@ after this video.
 
 ![Thumbnail of ♐LANYARD](Lanyard.jpeg "Thumbnail of ♐LANYARD")
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=smLdTcvkvAw>}} [Original
-Link](https://youtu.be/s-H9-8YWU9c)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=smLdTcvkvAw>}} [Original Link](https://youtu.be/s-H9-8YWU9c)
 
 ## Description of video
 
@@ -33,8 +32,7 @@ to:
       - "Aboard a ship, \[lanyard\] may refer to a piece of rigging used
         to secure or lower objects." \[This might link this video
         further to ♐[HULL](HULL "wikilink").
-  - [the unsuccessful first
-    attempt](https://en.wikipedia.org/wiki/KH-6_Lanyard) to develop and
+  - [the unsuccessful first attempt](https://en.wikipedia.org/wiki/KH-6_Lanyard) to develop and
     deploy a high-resolution optical reconnaissance satellite by the
     United States National Reconnaissance Office.
 

@@ -1,6 +1,5 @@
 **biomass** is a copycat [YouTube](YouTube "wikilink") channel, posting
-videos similar to [Unfavorable
-Semicircle](Unfavorable_Semicircle "wikilink") and [stabilitory
+videos similar to [Unfavorable Semicircle](Unfavorable_Semicircle "wikilink") and [stabilitory
 newing](stabilitory_newing "wikilink"). Its sister channel is [one
 divided by zero](one_divided_by_zero "wikilink"), which is clearly
 linked by having a single video by the name of "biomass" (both channels

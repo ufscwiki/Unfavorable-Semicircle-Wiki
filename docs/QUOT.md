@@ -13,5 +13,4 @@ of purple-colored frames.
 Regular: <http://tomasf.se/projects/semi/QUOT_composite.png>  
 Enlarged: <http://tomasf.se/projects/semi/QUOT_composite_enlarged.png>
 
-![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png
-"QUOT_composite_enlarged.png")
+![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png)

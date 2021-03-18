@@ -1,5 +1,4 @@
-♐NEO is a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") account on April 29, 2018. It
+♐NEO is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on April 29, 2018. It
 was posted exactly one month after ♐[COEF](COEF "wikilink"), and four
 days before the beginning of the ♐[AZO](AZO "wikilink") series.
 
@@ -20,8 +19,7 @@ The audio has been passed through a low-pass filter or similar, leaving
 a very distinctive "cliff" (at just under 15000Hz) visible in a
 frequency analysis
 
-![Neo\_frequency\_analysis.png](Neo_frequency_analysis.png
-"Neo_frequency_analysis.png")
+![Neo\_frequency\_analysis.png](Neo_frequency_analysis.png)
 
 *screenshot of an Audacity frequency analysis captured by discord user
 Unfavorablist*
@@ -47,15 +45,12 @@ contrast with ♐[AZO](AZO "wikilink") 0, which similarly has no green.)
 
 (*♐NEO 3-D composite by tukkek*)
 
-![Neo\_3-d\_-extra's\_viewer-\_-\_view\_1.png](Neo_3-d_-extra's_viewer-_-_view_1.png
-"Neo_3-d_-extra's_viewer-_-_view_1.png")![Neo\_3-d\_-extra's\_viewer-\_-\_view\_2.png](Neo_3-d_-extra's_viewer-_-_view_2.png
-"Neo_3-d_-extra's_viewer-_-_view_2.png")
+![Neo\_3-d\_-extra's\_viewer-\_-\_view\_1.png](Neo_3-d_-extra's_viewer-_-_view_1.png)
+![Neo\_3-d\_-extra's\_viewer-\_-\_view\_2.png](Neo_3-d_-extra's_viewer-_-_view_2.png)
 
-(*screencaps of two perspectives of ♐NEO's 3-D composite in [extra's
-reader](https://lorpus.github.io/sketches/ufsc3d/)*)
+(*screencaps of two perspectives of ♐NEO's 3-D composite in [extra's reader](https://lorpus.github.io/sketches/ufsc3d/))
 
-![NEO\_3-d\_composite\_animated.gif](NEO_3-d_composite_animated.gif
-"NEO_3-d_composite_animated.gif")
+![NEO\_3-d\_composite\_animated.gif](NEO_3-d_composite_animated.gif)
 
 (*animated render of ♐NEO's 3-D composite by extra*)
 

@@ -7,8 +7,7 @@ UFSC.*
 
 This proof-of-concept video used this source picture:
 
-![ Bering original picture.png](_Bering_original_picture.png
-" Bering original picture.png")
+![ Bering original picture.png](_Bering_original_picture.png)
 
 which renders this composite:
 

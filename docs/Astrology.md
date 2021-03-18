@@ -9,11 +9,9 @@ Stabilitory Newing uses the astrological glyph for
 No other explicit astrology symbols or terms are used in the videos.
 
 Modern astrology avoids using judgmental words such as 'bad' or 'good'
-when interpreting an [astrological
-chart](http://wiki.astro.com/astrowiki/en/Chart), so 'Unfavorable' would
+when interpreting an [astrological chart](http://wiki.astro.com/astrowiki/en/Chart), so 'Unfavorable' would
 not be used professionally, though it might be used as such by amateur
-astrologers or anyone not familiar with [modern Western
-astrology](http://wiki.astro.com/astrowiki/en/Modern_Astrology).
+astrologers or anyone not familiar with [modern Western astrology](http://wiki.astro.com/astrowiki/en/Modern_Astrology).
 
 The term Semicircle has no real meaning in astrology. A semicircle could
 be an indirect reference to an
@@ -30,8 +28,7 @@ traditionally seen to be 'unfavorable'.
 
 The videos [DUAL](DUAL "wikilink") and [BROTHER](BROTHER "wikilink")
 could be oblique references to the zodiac sign
-[http://wiki.astro.com/astrowiki/en/Gemini
-Gemini](http://wiki.astro.com/astrowiki/en/Gemini_Gemini "wikilink"),
+[Gemini](http://wiki.astro.com/astrowiki/en/Gemini_Gemini "wikilink"),
 which is the sign in opposition to
 [Sagittarius](Sagittarius "wikilink").
 

@@ -10,8 +10,7 @@ fully preserved. *add info on how many videos were saved/not saved*
 ## Characteristics of original series videos
 
 These videos set the template for "classic" style UFSC videos. Most were
-four seconds long, with a single colored frame and the [Unknown
-Voice](Unknown_Voice "wikilink") reciting a single letter or number.
+four seconds long, with a single colored frame and the [Unknown Voice](Unknown_Voice "wikilink") reciting a single letter or number.
 
 Videos with irregular audio in this series include:
 
@@ -33,8 +32,7 @@ study.
 
 ## Different "seasons"?
 
-In [the
-analysis](https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown_of_todays_findings_february_22nd_2016/)
+In [the analysis](https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown_of_todays_findings_february_22nd_2016/)
 of Reddit user u/McSweepyPants, there were several "seasons" in these
 videos and the contemporaneous stand-alone videos:
 
@@ -91,15 +89,13 @@ videos and the contemporaneous stand-alone videos:
 
 ## Composites
 
-![original unnamed series composite](Numbered_composite_bydate.png
-"original unnamed series composite")
+![original unnamed series composite](Numbered_composite_bydate.png)
 
 *original unnamed series composite by tomasfra, ordered by date posted*
 
 ## Transcription
 
-Through auto-hashing, [the preserved videos from the original channel
-were transcribed](http://tomasf.se/projects/semi/transcription.html).
+Through auto-hashing, [the preserved videos from the original channel were transcribed](http://tomasf.se/projects/semi/transcription.html).
 
 ## Archives
 

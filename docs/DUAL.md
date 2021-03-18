@@ -11,8 +11,7 @@ a series of rapidly-flashing frames.
 
 ## Audio
 
-The audio is a dual mono track of a whirring machine sound (with [DC
-offset](DC_offset "wikilink")) in bursts lasting approximately 2 minutes
+The audio is a dual mono track of a whirring machine sound (with [DC offset](DC_offset "wikilink")) in bursts lasting approximately 2 minutes
 48 seconds. The pattern changes at the end. The
 [Handshake](Handshake "wikilink") can be heard at the start and end of
 the audio.
@@ -24,8 +23,7 @@ sections with a 'steppy line level' silence afterwards":
 
 He adds: "interestingly, the handshake doesn't have an offset":
 
-![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png
-"Dual_no_dc_offset_in_handshake.png")
+![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 ## Composites
 
@@ -37,15 +35,11 @@ He adds: "interestingly, the handshake doesn't have an offset":
 
 ### 3-D Composite
 
-![ Dual 0-9 - 3-d composite - view
-1.png](_Dual_0-9_-_3-d_composite_-_view_1.png
-" Dual 0-9 - 3-d composite - view 1.png")
+![Dual 0-9 - 3-d composite - view 1.png](_Dual_0-9_-_3-d_composite_-_view_1.png)
 
 *screencap of full ♐DUAL 3-D composite (view 1)*
 
-![ Dual 0-9 - 3-d composite - view
-2.png](_Dual_0-9_-_3-d_composite_-_view_2.png
-" Dual 0-9 - 3-d composite - view 2.png")
+![Dual 0-9 - 3-d composite - view 2.png](_Dual_0-9_-_3-d_composite_-_view_2.png)
 
 *screencap of full ♐DUAL 3-D composite (view 2)*
 

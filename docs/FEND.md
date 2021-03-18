@@ -1,5 +1,4 @@
-FEND is a series posted to the [second YouTube
-account](Real_and_Fake_channels "wikilink") between May 26 and June 4,
+FEND is a series posted to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 26 and June 4,
 2016. There are 20 videos in the series (numbered 0 - 19).
 
 ## Details
@@ -19,8 +18,7 @@ Composite by tomasf: <http://tomasf.se/projects/semi/FEND_composite.png>
 It is worth noting that one section near the beginning of the combined
 gradient composite had an "island" like object in it:
 
-![ FEND object in 2-d composite.png](_FEND_object_in_2-d_composite.png
-" FEND object in 2-d composite.png")
+![ FEND object in 2-d composite.png](_FEND_object_in_2-d_composite.png)
 
 *detail from ♐FEND 2-d composite, showing "island"-type object.png*
 
@@ -31,13 +29,11 @@ gradient composite had an "island" like object in it:
 several planes crossing through each other with some mountain-like
 shapes.
 
-![ FEND 3-d composite, view 1.png](_FEND_3-d_composite,_view_1.png
-" FEND 3-d composite, view 1.png")
+![FEND 3-d composite, view 1.png](_FEND_3-d_composite,_view_1.png)
 
 *♐FEND 3-D composite, view 1*
 
-![ FEND 3-d composite, view 2.png](_FEND_3-d_composite,_view_2.png
-" FEND 3-d composite, view 2.png")
+![FEND 3-d composite, view 2.png](_FEND_3-d_composite,_view_2.png)
 
 *♐FEND 3-D composite, view 1*
 

@@ -13,8 +13,7 @@ purpose.
 In Audacity (or a similar program) DC offset is visible as an off-centre
 waveform:
 
-![DC\_offset\_in\_FOLD.png](DC_offset_in_FOLD.png
-"DC_offset_in_FOLD.png")
+![DC\_offset\_in\_FOLD.png](DC_offset_in_FOLD.png)
 
 *DC offset in ♐FOLD. Image by Risto*
 
@@ -23,7 +22,6 @@ waveform:
 It has been observed by Discord user Risto that in at least one case,
 "the handshake doesn't have an offset" when the rest of the audio does"
 
-![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png
-"Dual_no_dc_offset_in_handshake.png")
+![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 *Handshake + Cd offset audio in ♐DUAL*

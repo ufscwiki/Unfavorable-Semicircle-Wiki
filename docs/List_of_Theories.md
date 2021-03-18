@@ -9,8 +9,7 @@ distributing such a large number of videos might be the "point" of the
 project — or they could each be pieces of a massively complicated
 puzzle.
 
-![UFSC theory matrix.jpg](_UFSC_theory_matrix.jpg
-"UFSC theory matrix.jpg")
+![UFSC theory matrix.jpg](_UFSC_theory_matrix.jpg)
 
 *UFSC theories, visually represented*
 
@@ -18,13 +17,11 @@ puzzle.
 
 ### Outsider art
 
-Unfavorable Semicircle exhibits some elements of [outsider
-art](https://en.wikipedia.org/wiki/Outsider_art) — an elaborate "world"
+Unfavorable Semicircle exhibits some elements of [outsider art](https://en.wikipedia.org/wiki/Outsider_art) — an elaborate "world"
 whose meaning and internal logic are opaque to external observers. The
 "art" may be an attempt to relate or explain the author's worldview, or
 it may solely be created to satisfy the author's creative urges. (See,
-for example, the works of [Henry
-Darger](https://en.wikipedia.org/wiki/Henry_Darger),
+for example, the works of [Henry Darger](https://en.wikipedia.org/wiki/Henry_Darger),
 [Jandek](https://en.wikipedia.org/wiki/Jandek) and the maker of the
 [Toynbee tiles](https://en.wikipedia.org/wiki/Toynbee_tiles).)
 
@@ -37,16 +34,14 @@ Steganography is the act of hiding information in plain sight, more or
 less "Security through obscurity". What good is knowing how to crack any
 conceivable code if you don't know the code exists in the first place?
 
-A feasible example of Steganography would be [hiding images within other
-images](Composite_visual_overview "wikilink") using "least significant
+A feasible example of Steganography would be [hiding images within other images](Composite_visual_overview "wikilink") using "least significant
 bit" encoding. The LSB of each color is changed slightly, the changes
 are not perceivable, but are only revealed when an original and almost
 identical image is XORed with the modified image.
 
 #### Modern number station
 
-Due to the "eerie factor" alone the similarity with [number
-stations](https://en.wikipedia.org/wiki/Numbers_station) has been
+Due to the "eerie factor" alone the similarity with [number stations](https://en.wikipedia.org/wiki/Numbers_station) has been
 brought up many times, which is another phenomena that was found and
 studied for decades before eventually surfacing as a method of secure
 long-distance communication. The fact that UFSC uses public platforms
@@ -81,9 +76,7 @@ stations.
     been proven either way.
   - Original reddit post and discussion here
     <https://www.reddit.com/r/UnfavorableSemicircle/comments/54pxyw/ive_done_it_and_it_is_truly_amazing/>
-  - More info on Discord user festercluck's [ theories on Stagefright
-    and Rowhammer
-    exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
+  - More info on Discord user festercluck's [theories on Stagefright and Rowhammer exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
   - The videos have been shown to cause strange behavior in some cases,
     such as playing after the [YouTube](YouTube "wikilink") duration bar
     is over or causing Android phones to shut down their screens.
@@ -99,22 +92,18 @@ stations.
 There have been some cryptic recruitment puzzles happening in the modern
 web so it's only natural that this comparison would be made -
 [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301) being the most
-notorious example. The apparent technical complexity and [cryptographic
-elements](Composite_visual_overview "wikilink") of UFSC only further
+notorious example. The apparent technical complexity and [cryptographic elements](Composite_visual_overview "wikilink") of UFSC only further
 such comparisons.
 
 ### ARG
 
-Unfavorable Semicircle may be an [alternate reality
-game](https://en.wikipedia.org/wiki/Alternate_reality_game).
+Unfavorable Semicircle may be an [alternate reality game](https://en.wikipedia.org/wiki/Alternate_reality_game).
 
 ### LTSM
 
-[Long short-term
-memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM) is
+[Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM) is
 a recurrent neural network (RNN) architecture. Some analysis on its
-possible relationship to UFSC can be found [
-here](LSTM_Theory "wikilink").
+possible relationship to UFSC can be found [here](LSTM_Theory "wikilink").
 
 ### Work of a disturbed mind
 

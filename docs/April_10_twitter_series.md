@@ -5,8 +5,7 @@ A series of unnamed videos was uploaded to the [Twitter](Twitter "wikilink") acc
 digit number as its title.
 
 The videos in this series similar to the "classic" UFSC style, with
-three second long videos that have the [Unknown
-Voice](Unknown_Voice "wikilink") saying a letter or number. However, the
+three second long videos that have the [Unknown Voice](Unknown_Voice "wikilink") saying a letter or number. However, the
 visual is a solid color frame with no floating pixels. Unusually, all of
 these videos are exactly the same length (3134 ms long). In that
 respect, the videos are similar to those in the ♐[NIL](NIL "wikilink")

@@ -8,18 +8,15 @@ message with the same phrase appeared on the Google plus page). It
 appears the name was changed around the same time
 ♐[RECOVER](RECOVER "wikilink") was posted.
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=f5QwzAFrnCg>}} [Original
-Link](https://youtu.be/rc__oa08k4Q)
+{{\#ev:youtube|<https://www.youtube.com/watch?v=f5QwzAFrnCg>}} [Original Link](https://youtu.be/rc__oa08k4Q)
 
 ## Description of video
 
 The video is 27:25 in duration. The video contains a static brown frame
 with pixel "fingerprint". One of the pixels is outlined in white. It
-contains a mono audio track. The [Unknown
-Voice](Unknown_Voice "wikilink") spells out FREEBIRD3 near the
+contains a mono audio track. The [Unknown Voice](Unknown_Voice "wikilink") spells out FREEBIRD3 near the
 beginning. The audio track also contains a near-inaudible series of
-throbbing sounds with a large amount of [DC
-offset](DC_offset "wikilink").
+throbbing sounds with a large amount of [DC offset](DC_offset "wikilink").
 
 ## Meaning of "FREEBIRD3"
 

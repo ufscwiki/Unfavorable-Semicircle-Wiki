@@ -6,8 +6,7 @@
 assumed that set of sixteen videos meant the series was complete,
 ♐BROTHER 16 was posted on November 14, 2016.
 
-⊕BROTHER is also the first series posted to the [Stabilitory
-newing](Stabilitory_newing "wikilink") channel. (*see below*.)
+⊕BROTHER is also the first series posted to the [Stabilitory newing](Stabilitory_newing "wikilink") channel. (*see below*.)
 
 ## Description of main channel videos
 
@@ -24,8 +23,7 @@ a square wave merged with the right channel's audio"). The audio in
 
 <http://tomasf.se/projects/semi/BROTHER_composite.png>
 
-![ BROTHER composite.png](_BROTHER_composite.png
-" BROTHER composite.png")
+![ BROTHER composite.png](_BROTHER_composite.png)
 
 *combined and complete ♐BROTHER composite (to ♐BROTHER 31)*
 

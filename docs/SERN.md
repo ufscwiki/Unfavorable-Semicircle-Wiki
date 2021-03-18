@@ -1,5 +1,4 @@
-♐SERN is a video posted to the [3rd youtube
-channel](3rd_youtube_channel "wikilink") account on January 26, 2018. It
+♐SERN is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on January 26, 2018. It
 is 1:01:12 long and contains a single image (held constant through 1239
 frames — *confirm\!*). It was posted 4 days after
 ♐[NODE](NODE "wikilink"). The video was removed by Youtube on or
@@ -35,8 +34,7 @@ As a single, still image, SERN is similar to
 
 ## Meaning of Title
 
-Although SERN does have a meaning in [the field of
-rocketry](https://en.wikipedia.org/wiki/SERN), there are more
+Although SERN does have a meaning in [the field of rocketry](https://en.wikipedia.org/wiki/SERN), there are more
 interesting connections with
 [sern.js](https://github.com/dannyvassallo/sernjs), "a Full-Stack
 Javascript for an easy starting point with SequelizeJS, ExpressJS,

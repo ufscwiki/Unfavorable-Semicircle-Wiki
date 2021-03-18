@@ -1,6 +1,4 @@
-![Waterfall view of the Handshake, taken from
-♐ZUFCHO.](Ufsc_handshake.png
-"Waterfall view of the Handshake, taken from ♐ZUFCHO.")
+![Waterfall view of the Handshake, taken from ♐ZUFCHO.](Ufsc_handshake.png)
 
 The **Handshake**, sometimes also referred to as **Sign-off** or
 **Log-off** is a short sound clip, typically lasting shorter than one
@@ -35,10 +33,7 @@ program, such as a signal to begin or stop audio recording.
 
 ## Similar Features
 
-![View of the Handshake, microphone static at four times the speed, and
-the microphone static normally. Note the higher frequency near the end
-of the microphone static.](Threehandshake.PNG
-"View of the Handshake, microphone static at four times the speed, and the microphone static normally. Note the higher frequency near the end of the microphone static.")
+![View of the Handshake, microphone static at four times the speed, and the microphone static normally. Note the higher frequency near the end of the microphone static.](Threehandshake.PNG)
 
 A similar low, bass noise can be heard in
 [♐574016](http://www.unfavorablesemicircle.com/wiki/574016) after each
@@ -64,11 +59,9 @@ Discord user alexbassguy discovered "what appears to be a symbol in the
 middle" of the handshake when the sound is viewed in a waterfall
 sonogram:
 
-![HANDSHAKE\_by\_ALEXBASSGUY.png](HANDSHAKE_by_ALEXBASSGUY.png
-"HANDSHAKE_by_ALEXBASSGUY.png")
+![HANDSHAKE\_by\_ALEXBASSGUY.png](HANDSHAKE_by_ALEXBASSGUY.png)
 
-![Handshake\_image\_detail\_by\_resto.png](Handshake_image_detail_by_resto.png
-"Handshake_image_detail_by_resto.png")
+![Handshake\_image\_detail\_by\_resto.png](Handshake_image_detail_by_resto.png)
 
 *detail of spectrogram image by discord user Risto*
 
@@ -82,8 +75,7 @@ audio I've looked at, but there's always this weird 'dead zone' above
 
 Risto noted overtones in the spectrogram:
 
-![Handshake\_harmonics\_by\_resto.png](Handshake_harmonics_by_resto.png
-"Handshake_harmonics_by_resto.png")
+![Handshake\_harmonics\_by\_resto.png](Handshake_harmonics_by_resto.png)
 
 (alexbassguy concurred: "they're second-order harmonics, usually caused
 by distortion, of which there's plenty.")
@@ -94,8 +86,7 @@ alexbassguy "was able to create this \[image\] using a sine generator
 and some extensive distortion processing. This is the sonogram, closeish
 but not exact."
 
-![HANDSHAKE\_RECREATED.png](HANDSHAKE_RECREATED.png
-"HANDSHAKE_RECREATED.png")
+![HANDSHAKE\_RECREATED.png](HANDSHAKE_RECREATED.png)
 
 It had been noted that the symbol in the spectrogram image is similar to
 ♓️, the astrological symbol for Pisces, so "on a lark, I \[alexbassguy\]
@@ -139,7 +130,6 @@ It has been observed by Discord user Risto that in at least one case
 that the handshake doesn't have a [DC offset](DC_offset "wikilink") when
 the rest of the audio does:
 
-![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png
-"Dual_no_dc_offset_in_handshake.png")
+![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 *Handshake + DC offset audio in ♐DUAL*

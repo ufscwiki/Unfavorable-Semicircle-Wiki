@@ -1,5 +1,4 @@
-***(See also the list of [ videos without
-series](List_of_videos_without_series "wikilink").)***
+***(See also the list of [videos without series](List_of_videos_without_series "wikilink").)***
 
 ## 1st youtube account
 
