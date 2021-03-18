@@ -50,13 +50,14 @@ Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving_\(Canada\)).
 
 ## Composites
 
-!(Harvest_composite_by_hellajt.png)
+![harvest composite by hellajt](https://user-images.githubusercontent.com/67172823/111562096-f5cc7600-876b-11eb-900f-1309c35f3cfa.png)
 
 *♐HARVEST composite by hellajt*
 
 <http://tomasf.se/projects/semi/HARVEST_composite.png>
 
-!(HARVEST_composite.png)
+![HARVEST_composite](https://user-images.githubusercontent.com/67172823/111562290-55c31c80-876c-11eb-9309-5ba062408818.png)
+
 
 *♐HARVEST composite by thomasf*
 
@@ -76,18 +77,18 @@ It was discovered by thomasf that the lower area of the top right
 around it) which cites the beginning of the [Wikipedia page for
 Art](https://en.wikipedia.org/wiki/Art):
 
-!(HARVEST_text.png)
+!(HARVEST_text.png)<img width="368" alt="HARVEST_text" src="https://user-images.githubusercontent.com/67172823/111562329-683d5600-876c-11eb-89e8-d0b7d3a7d30e.png">
 
 *closeup of text in ♐HARVEST composite (from thomasf's composite)*
 
-!(HARVEST_text2.png)
+!(HARVEST_text2.png)<img width="588" alt="HARVEST_text2" src="https://user-images.githubusercontent.com/67172823/111562373-7a1ef900-876c-11eb-9b36-ba5ba7d56423.png">
 
 *same as above, but with corresponding text added for clarity*
 
 > Art is a diverse range of human activities in creating visual,
 > auditory or performing artifacts – artworks, expressing the author's
 
-!(Wikipedia_art_screencap.jpg)
+!(Wikipedia_art_screencap.jpg)![wikipedia art screencap](https://user-images.githubusercontent.com/67172823/111562400-860abb00-876c-11eb-8727-28a4314fcf74.jpg)
 
 *screencap of Wikipedia article on "Art" — note the slightly different
 punctuation than used in the composite*
