@@ -1,9 +1,6 @@
 # ♐HARVEST
 
-♐HARVEST is a video posted to the second youtube account on October 10,
-2016. It was posted five days after the conclusion of the
-♐[BROTHER](BROTHER "wikilink") series and a day before the beginning
-the the ♐[SLIM](SLIM "wikilink") series.
+♐HARVEST is a video posted to the second youtube account on October 10, 2016. It was posted five days after the conclusion of the ♐[BROTHER](BROTHER "wikilink") series and a day before the beginning of the ♐[SLIM](SLIM "wikilink") series.
 
 It is noteworthy in that its composite image includes a string of text
 from the [Wikipedia article on "Art"](https://en.wikipedia.org/wiki/Art). (see below)
