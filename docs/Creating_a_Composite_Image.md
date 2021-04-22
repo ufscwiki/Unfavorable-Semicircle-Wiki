@@ -1,3 +1,5 @@
+# Creating a Composite Image
+
 The [composites](Video_Composites "wikilink") are created with
 extracting each frame as a png file. So if a video has 30 frames per
 second and the video is 90 seconds long you will have 2700 images. What
