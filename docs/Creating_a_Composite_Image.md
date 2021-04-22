@@ -10,7 +10,7 @@ pixels, etc) and what are the dimensions of the grid.
 (*created by hellajt*)
 
 Easy to use + with instructions, made for beginners:
-<https://www.dropbox.com/s/ozn5emlgtaak85r/UFSC.7z?dl=0>
+~~<https://www.dropbox.com/s/ozn5emlgtaak85r/UFSC.7z?dl=0>~~ (*link inactive!*)
 
 ## Step-by-step method (for Mac)
 
