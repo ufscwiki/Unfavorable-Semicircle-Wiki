@@ -1,3 +1,5 @@
+# List of Theories
+
 ## Introduction on theories
 
 Because so little is understood about UFSC relative to the massive
