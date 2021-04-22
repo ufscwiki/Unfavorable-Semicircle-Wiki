@@ -9,7 +9,7 @@ distributing such a large number of videos might be the "point" of the
 project — or they could each be pieces of a massively complicated
 puzzle.
 
-![UFSC theory matrix.jpg](_UFSC_theory_matrix.jpg)
+![UFSC_theory_matrix.jpg](UFSC_theory_matrix.jpg)
 
 *UFSC theories, visually represented*
 
