@@ -160,7 +160,7 @@ In the absence of new dispatches from UFSC, the community investigating it conti
 
 Take a look at the [theories page](List_of_Theories "wikilink") as well
 as the [Timeline](Timeline "wikilink"), and the [List of Things
-Accomplished/Tried](List_of_Things_Accomplished/Tried "wikilink").
+Accomplished/Tried](List_of_Things_Accomplished_Tried "wikilink").
 
 ## Joining the Community
 
