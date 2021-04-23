@@ -3,11 +3,11 @@
 ♐UPRIGHT is a video that was posted to the second youtube account on
 January 7th 2017.
 
-![Upright.gif](Upright.gif "Upright.gif | width=398")
+<img src="Upright.gif"  width="398"/>
 
 *animated gif based on ♐UPRIGHT video by parsec*
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=vHdplGjIQkY>}}
+
 
 ## Content
 
