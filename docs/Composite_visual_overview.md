@@ -1,4 +1,4 @@
-\_\_TOC\_\_
+# Composite visual overview
 
 ***This page is a work in progress\!***
 
