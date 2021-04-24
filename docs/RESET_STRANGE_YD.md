@@ -1,3 +1,5 @@
+# RESET STRANGE YD
+
 ♐RESET STRANGE YD, uploaded on Friday, September 15, 2017, was the [last video](https://www.youtube.com/watch?v=T-2zJNqzm24) to be added to the
 [unfavorablesemi](unfavorablesemi "wikilink") YouTube channel. It was
 removed from the channel less than half an hour after being discovered.
@@ -127,3 +129,4 @@ deleted Twitter account using the same name as before rather than doing
 the same with the deleted [YouTube channel](YouTube_channel "wikilink")
 since there still is a [Google Plus account](Google_Plus_account "wikilink") linked to that particular
 profile.
+

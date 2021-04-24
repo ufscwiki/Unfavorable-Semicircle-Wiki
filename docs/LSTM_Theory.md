@@ -1,3 +1,5 @@
+# LSTM Theory
+
 ## Introduction to LSTM Theory
 
 ### UFSC is the product of an LSTM Neural Network
@@ -28,3 +30,4 @@ Kaparthy's Famous Blog Post (21.05.15):
 
 "Visualizing and Understanding Recurrent Networks" (10.09.15):
 [2](https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks)
+

@@ -1,3 +1,5 @@
+# CRIMP
+
 ♐CRIMP is a video posted to the second [second YouTube account](Real_and_Fake_channels "wikilink") account on November 25,
 2016.
 
@@ -32,3 +34,4 @@ video as the frames, unlike other videos, are one color throughout.
 
 The patterns in the video can be observed in this image which shows all
 the frames in sequence.
+

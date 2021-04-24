@@ -1,3 +1,5 @@
+# 3D Composite
+
 **(*See also the [Composite visual overview](Composite_visual_overview "wikilink").*)**
 
 A 3D composite is created by plotting the colors of each pixel in a
@@ -30,3 +32,4 @@ Slower, but with color and alternate viewing modes:
 ## Shapes or Patterns Seen in 3D Composites
 
 *to be editied*
+

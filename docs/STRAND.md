@@ -1,3 +1,5 @@
+# STRAND
+
 ♐STRAND is a series of videos uploaded to the
 [Twitter](Twitter "wikilink") account. It began on December 23rd, 2017
 at 6:52 PM EST, ten days after the apparent end of
@@ -29,3 +31,4 @@ All videos seem to be 60 seconds long (1:00).
 
 The composite for ♐STRAND is particularly non-obvious as to the
 "correct" width.
+

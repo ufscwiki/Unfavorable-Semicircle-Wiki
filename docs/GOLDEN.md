@@ -1,3 +1,5 @@
+# GOLDEN
+
 ♐GOLDEN is a video posted to the second youtube account on March 18,
 2017. It was the first video posted after an almost two-week break on
 the youtube account (♐[MOTH](MOTH "wikilink") 55 was posted on March
@@ -53,3 +55,4 @@ The top-left quadrant has a schematic/wireframe look similar to
 ### 3-D Composite
 
 *none yet\!*
+

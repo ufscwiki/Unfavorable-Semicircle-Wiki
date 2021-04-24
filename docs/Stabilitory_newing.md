@@ -1,3 +1,5 @@
+# Stabilitory newing
+
 Stabilitory newing is a YouTube channel that started posting videos on
 September 3, 2016. The relationship between Stabilitory newing and UFSC
 is currently unclear, but is related to UFSC by the [Third Google+ post](Google_Plus#G.2B_post_3 "wikilink"):
@@ -44,3 +46,4 @@ The Twitter account was deleted (apparently by the author(s)
 [Unfavorable Semicircle](Unfavorable_Semicircle "wikilink") itself) at
 the time ♐[RESET\_STRANGE\_YD](RESET_STRANGE_YD "wikilink") was
 uploaded.
+

@@ -1,3 +1,5 @@
+# Investigation into color data in SN visuals
+
 *summarized from Discord conversation 2017-05-18*
 
 *technical work by extra; ideas + transcription by unfavorablist*
@@ -54,3 +56,4 @@ here: <https://hastebin.com/ficubivoze.py>
     duplicate images are handled so you don't have to worry about that
   - shl is the y position of the always-there horizontal line, I dont
     think it ever changes
+

@@ -1,3 +1,5 @@
+# Video Composites
+
 **(*For a complete listing, see the [Composite visual overview](Composite_visual_overview "wikilink").*)**
 
 -----
@@ -136,3 +138,4 @@ C: <http://tomasf.se/projects/semi/DEPTH_composite_flipped.png>
 ### ♐[STEM](STEM "wikilink")
 
 <http://www.unfavorablesemicircle.com/wiki/images/9/91/STEM_Composite_by_hellajt.png>
+

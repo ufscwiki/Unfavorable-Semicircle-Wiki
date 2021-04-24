@@ -1,3 +1,5 @@
+# Astrology
+
 ## Astrological Links to USFC
 
 Unfavorable Semicircle uses the astrological symbol, or glyph, for
@@ -39,3 +41,4 @@ That's the format astrology uses for placement of planets in a sign. Any
 references to planet names and specific angles. Any
 latitude/longitude/time references. You need these to calculate an
 astrological chart
+

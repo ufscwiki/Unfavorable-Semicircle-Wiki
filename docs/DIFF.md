@@ -1,3 +1,5 @@
+# DIFF
+
 ♐DIFF is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") on May 26, 2018. It was posted
 19 days after the ♐[AZO](AZO "wikilink") series was posted. It was the
 last video posted for nearly three months, until ♐[CFO](CFO "wikilink")
@@ -20,3 +22,4 @@ Glitch2 from Illformed. It creates a very, very specific rhythmic glitch
 effect on audio, and I will bet any amount of money it created the audio
 in DIFF." He created a recreation "by running Glitch2 on some basic
 audio and distorting/downsampling the crap out of it."
+

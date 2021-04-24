@@ -1,3 +1,5 @@
+# Sagittarius
+
 Unfavorable Semicircle has an ambiguous and unexplained connection to
 the constellation of Sagittarius. The "♐" symbol that precedes the title
 of most UFSC videos is the
@@ -80,3 +82,4 @@ Mercury is in detriment in Sagittarius.
 \[<https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%9B%D7%91>|
 Hebrew-language wikipedia article for "Star"\] contains an image of the
 [Sagittarius](Sagittarius "wikilink") Star Cloud.
+

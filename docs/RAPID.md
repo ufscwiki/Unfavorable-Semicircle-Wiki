@@ -1,3 +1,5 @@
+# RAPID
+
 ♐RAPID is a video posted to the second youtube account on November 11,
 2016.
 
@@ -59,3 +61,4 @@ width of 497 instead of 498
 ## Significance of Composite
 
 *Please expand\!*
+

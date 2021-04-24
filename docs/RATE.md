@@ -1,3 +1,5 @@
+# RATE
+
 ⊕RATE is a video posted to [Stabilitory newing](Stabilitory_newing "wikilink") on May 17, 2017. It was the first
 video posted to that account since the parallel
 ⊕[BROTHER](BROTHER "wikilink") series ended on October 9, 2016. It was
@@ -25,3 +27,4 @@ is also similar to the Stabilitory newing BROTHER series.
 The significance of the name 'rate' is as yet unclear.
 
 "Rate" could be a reference to [rate limiting](https://en.wikipedia.org/wiki/Rate_limiting).
+

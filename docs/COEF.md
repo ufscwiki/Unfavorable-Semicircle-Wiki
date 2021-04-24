@@ -1,3 +1,5 @@
+# COEF
+
 ♐COEF is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on March 29, 2018. It
 is 4:12 long and contains a series of rapidly-flashing images. It was
 posted three days after ♐[ZORO](ZORO "wikilink") was posted and deleted.
@@ -29,3 +31,4 @@ RETIO and the voice used in DEPTH".
 
   - "COEF" is a common abbreviation for "coefficient", a
     "[multiplicative factor in some term of a polynomial, a series or any expression](https://en.wikipedia.org/wiki/Coefficient)".
+
