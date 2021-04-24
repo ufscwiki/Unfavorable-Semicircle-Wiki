@@ -1,4 +1,12 @@
-\_\_TOC\_\_
+# Timeline
+
+## Table of contents
+  * [2015](#2015)
+  * [2016](#2016)
+  * [2017](#2017)
+  * [2018](#2018)
+  * [2019](#2019)
+
 
 ## 2015
 
@@ -17,7 +25,7 @@
 
 | Date       | Description                                                                                                                                                                                                                                                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016-01-05 | [♐ (nameless video)](♐_\(nameless_video\) "wikilink") posted, with voice saying "10x10". This is the first video in 2016. [http://www.unfavorablesemicircle.com/database/y1/video/vYet7yM9Nc4 1](http://www.unfavorablesemicircle.com/database/y1/video/vYet7yM9Nc4_1 "wikilink")                                                                                       |
+| 2016-01-05 | [♐ (nameless video)](♐_(nameless_video) "wikilink") posted, with voice saying "10x10". This is the first video in 2016. [http://www.unfavorablesemicircle.com/database/y1/video/vYet7yM9Nc4 1](http://www.unfavorablesemicircle.com/database/y1/video/vYet7yM9Nc4_1 "wikilink")                                                                                       |
 | 2016-02-02 | ♐[PER](PER "wikilink") posted                                                                                                                                                                                                                                                                                                                                           |
 | 2016-02-14 | First [BRILL](BRILL "wikilink") video posted (♐[BRILL B](BRILL_B "wikilink")) followed by numbered BRILL videos, starting with ♐BRILL 0.                                                                                                                                                                                                                                |
 | 2016-02-21 | ♐[QUOT](QUOT "wikilink") posted right after <span>♐</span>BRILL 24000, followed by <span>♐</span>BRILL 24001.                                                                                                                                                                                                                                                           |
@@ -53,8 +61,8 @@
 | 2016-06-14 | ♐[DEPTH](DEPTH "wikilink") series begins on twitter.                                                                                                                                                                                                                                                                                                                    |
 | 2016-06-16 | Twitter resumes posting after one of a series of pauses.                                                                                                                                                                                                                                                                                                                |
 | 2016-07-12 | ♐[JALVINSACH](JALVINSACH "wikilink") posted on youtube.                                                                                                                                                                                                                                                                                                                 |
-| 2016-07-12 | An [unnamed series](Numbered_videos_\(2nd_channel\) "wikilink") begins on youtube with ♐260265.                                                                                                                                                                                                                                                                         |
-| 2016-07-13 | [Unnamed series](Numbered_videos_\(2nd_channel\) "wikilink") on youtube ends with ♐113450 after 10 videos.                                                                                                                                                                                                                                                              |
+| 2016-07-12 | An [unnamed series](Numbered_videos_(2nd_channel) "wikilink") begins on youtube with ♐260265.                                                                                                                                                                                                                                                                         |
+| 2016-07-13 | [Unnamed series](Numbered_videos_(2nd_channel) "wikilink") on youtube ends with ♐113450 after 10 videos.                                                                                                                                                                                                                                                              |
 | 2016-07-14 | Twitter posts [♐DEPTH 28153](https://twitter.com/unfavorablesemi/status/753696696807329792), after which the Twitter account goes silent for four months.                                                                                                                                                                                                               |
 | 2016-07-14 | ♐[MAX\_TEND](MAX_TEND "wikilink") posted on youtube.                                                                                                                                                                                                                                                                                                                    |
 | 2016-08-24 | [Stabilitory newing](Stabilitory_newing "wikilink") channel started on youtube.                                                                                                                                                                                                                                                                                         |

@@ -1,3 +1,5 @@
+# List of Series
+
 ***(See also the list of [videos without series](List_of_videos_without_series "wikilink").)***
 
 ## 1st youtube account
@@ -21,9 +23,11 @@
   - ♐[DUAL](DUAL "wikilink")
   - ♐[BROAD](BROAD "wikilink")
 
-## 3rd youtube account
+## [3rd youtube account](Un-REAL_UFSC "wikilink")
 
   - ♐[AZO](AZO "wikilink")
+
+*Note that videos from this channel are considered "non-canonical"*
 
 ## [Twitter](Twitter "wikilink") account
 

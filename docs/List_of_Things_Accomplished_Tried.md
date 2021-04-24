@@ -1,7 +1,11 @@
+# List of Things Accomplished & Tried
+
 (*Adapted from
 [this](https://www.reddit.com/r/UnfavorableSemicircle/comments/4cv2e9/unfavorablesemicircle_start_here/)
 reddit thread. Some of these have been discussed further or have
 possibly been tentatively dismissed on other threads.*)
+
+(*This may not be exhaustive or up-to-date!*)
 
 ## Successful ideas
 

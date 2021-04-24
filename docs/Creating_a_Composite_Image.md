@@ -1,3 +1,5 @@
+# Creating a Composite Image
+
 The [composites](Video_Composites "wikilink") are created with
 extracting each frame as a png file. So if a video has 30 frames per
 second and the video is 90 seconds long you will have 2700 images. What
@@ -10,7 +12,7 @@ pixels, etc) and what are the dimensions of the grid.
 (*created by hellajt*)
 
 Easy to use + with instructions, made for beginners:
-<https://www.dropbox.com/s/ozn5emlgtaak85r/UFSC.7z?dl=0>
+~~<https://www.dropbox.com/s/ozn5emlgtaak85r/UFSC.7z?dl=0>~~ (*link inactive!*)
 
 ## Step-by-step method (for Mac)
 

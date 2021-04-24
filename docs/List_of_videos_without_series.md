@@ -1,3 +1,5 @@
+# List of videos without series
+
 These are videos that are not part of a
 [series](List_of_Series "wikilink"). This list is in chronological
 order, from oldest to newest.
@@ -59,7 +61,8 @@ After the "[strange reset](RESET_STRANGE_YD "wikilink")":
 
   - ⊕[RATE](RATE "wikilink")
 
-## [3rd youtube channel‎](3rd_youtube_channel‎ "wikilink") (Potentially fake)
+## [3rd youtube channel](Un-REAL_UFSC "wikilink")
+*(n.b.: non-canonical)*
 
   - ♐[PORT](PORT "wikilink")
   - ♐[RUN](RUN "wikilink")

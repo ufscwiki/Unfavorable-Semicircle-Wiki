@@ -1,5 +1,25 @@
 # History and Background
 
+## Table of Contents
+  * [What is Unfavorable Semicircle?](#what-is-unfavorable-semicircle-)
+  * [What do we know about Unfavorable Semicircle?](#what-do-we-know-about-unfavorable-semicircle-)
+    + [Origins](#origins)
+    + [Attention and disappearance](#attention-and-disappearance)
+    + [Investigation and reappearance](#investigation-and-reappearance)
+    + [Continuing efforts](#continuing-efforts)
+    + [A "strange reset"](#a--strange-reset-)
+    + [Twitter returns, and a new youtube channel](#twitter-returns-and-a-new-youtube-channel)
+    + [What is ♐REAL?](#what-is--real-)
+    + [A voice from somewhere](#a-voice-from-somewhere)
+    + ["Homesick"](#-homesick-)
+  * [Catching up/Articles to read](#catching-up-articles-to-read)
+  * [Joining the Community](#joining-the-community)
+    + [Subreddit](#subreddit)
+    + [Discord Chat](#discord-chat)
+  * [The videos](#the-videos)
+    + [Archives](#archives)
+    + [Grabbing new videos](#grabbing-new-videos)
+
 ## What is Unfavorable Semicircle?
 
 "Unfavorable Semicircle" was originally the name of a Youtube channel posting strange
@@ -160,7 +180,7 @@ In the absence of new dispatches from UFSC, the community investigating it conti
 
 Take a look at the [theories page](List_of_Theories "wikilink") as well
 as the [Timeline](Timeline "wikilink"), and the [List of Things
-Accomplished/Tried](List_of_Things_Accomplished/Tried "wikilink").
+Accomplished/Tried](List_of_Things_Accomplished_Tried "wikilink").
 
 ## Joining the Community
 
