@@ -1,3 +1,5 @@
+# BRILL Composite
+
 [BRILL](BRILL "wikilink") has a [composite](Video_Composites "wikilink")
 that is shared across many other videos and series.
 
@@ -22,3 +24,4 @@ composites.](Numbered-color-shifted.png
     hue-shifted and distorted version of the composite. The hue is
     mirrored across the 120 / 300 degrees axis (green / magenta). (538 x
     101)
+

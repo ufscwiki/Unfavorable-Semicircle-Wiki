@@ -1,3 +1,5 @@
+# NYE tweet
+
 A tweet with cryptic text was
 [posted](https://twitter.com/unfavorablesemi/status/947613244260343808)
 to the [Twitter](Twitter "wikilink") account on December 31, 2017 at
@@ -20,3 +22,4 @@ The symbol ⌅ can be used to mean [Projective space](https://en.wikipedia.org/w
 It was discovered by discord user Peter that the text string is encoded
 in base64, which decodes to the string"UCsgRTRJNy05MuB7g2X5ueqg". That
 string of characters appears in the address of the [3rd youtube channel‎](3rd_youtube_channel‎ "wikilink").
+

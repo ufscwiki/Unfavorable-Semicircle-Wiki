@@ -1,3 +1,5 @@
+# DC offset
+
 According to Wikipedia, "DC offset... is the mean amplitude of the
 waveform. If the mean amplitude is zero, there is no DC bias. A waveform
 with no DC bias is known as a *DC balanced* or *DC free waveform*.
@@ -25,3 +27,4 @@ It has been observed by Discord user Risto that in at least one case,
 ![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 *Handshake + Cd offset audio in ♐DUAL*
+

@@ -1,3 +1,5 @@
+# DUAL
+
 ♐DUAL is series uploaded to the second YouTube account. ♐DUAL 0 was
 posted on March 19, 2017 (the day after ♐[GOLDEN](GOLDEN "wikilink") was
 posted). There are 10 videos in the series (♐DUAL 0 to ♐DUAL 9). ♐DUAL 9
@@ -69,3 +71,4 @@ to that of ♐[POINT](POINT "wikilink")'s 3-D composite. This (and other)
 ♐DUAL 8: <https://youtu.be/7wWVFFnTfYY>
 
 ♐DUAL 9: <https://youtu.be/LRdFLCk-_d0>
+

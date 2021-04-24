@@ -1,3 +1,5 @@
+# BRING
+
 ♐BRING is a video posted to the second youtube account on June 2, 2017.
 It was the first video posted on the main account since
 ♐[LANYARD](LANYARD "wikilink"), twenty-one days earlier. In the
@@ -46,3 +48,4 @@ the development of the algebraic concept known as [Bring radicals](https://en.wi
 ### 3D Composite
 
 *videos of this style generally do not create 3-D composites.*
+

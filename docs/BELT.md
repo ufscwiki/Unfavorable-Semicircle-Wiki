@@ -1,3 +1,5 @@
+# BELT
+
 ⊕BELT is series that was uploaded to [Stabilitory newing](Stabilitory_newing "wikilink"). ⊕BELT 0 was posted on May 17,
 2017 (the same day as ♐[RATE](RATE "wikilink") was posted). The series
 ended with ⊕BELT 24, posted on June 1, 2017. ♐[BRING](BRING "wikilink")
@@ -108,3 +110,4 @@ effort to extract data from Stabilitory newing visuals.*)
 ⊕BELT 23: <https://youtu.be/NpCDEXBR6mE>
 
 ⊕BELT 24: <https://youtu.be/rqvf1I2NxK8>
+

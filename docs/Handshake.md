@@ -1,3 +1,5 @@
+# Handshake
+
 ![Waterfall view of the Handshake, taken from ♐ZUFCHO.](Ufsc_handshake.png)
 
 The **Handshake**, sometimes also referred to as **Sign-off** or
@@ -133,3 +135,4 @@ the rest of the audio does:
 ![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 *Handshake + DC offset audio in ♐DUAL*
+

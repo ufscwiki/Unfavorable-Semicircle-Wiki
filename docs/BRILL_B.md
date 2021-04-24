@@ -1,3 +1,5 @@
+# BRILL B
+
 ♐BRILL B is a video posted to the first youtube account on February 14,
 2016. It preceded the numbered videos of the [BRILL](BRILL "wikilink")
 series.
@@ -16,3 +18,4 @@ The video was posted with the text "1000" in the description field.
 ## relationship to [BRILL](BRILL "wikilink") series
 
 *please expand\!*
+

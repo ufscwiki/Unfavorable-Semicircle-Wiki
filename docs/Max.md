@@ -1,3 +1,5 @@
+# Max
+
 **[Max](https://cycling74.com/products/max/)** is an audiovisual
 programming language. Some of the videos created using this technology
 bear striking similarity to UFSC's own works.
@@ -19,3 +21,4 @@ create them.
 ## See also
 
   - ♐[MAX TEND](MAX_TEND "wikilink")
+

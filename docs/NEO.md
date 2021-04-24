@@ -1,3 +1,5 @@
+# NEO
+
 ♐NEO is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on April 29, 2018. It
 was posted exactly one month after ♐[COEF](COEF "wikilink"), and four
 days before the beginning of the ♐[AZO](AZO "wikilink") series.
@@ -64,3 +66,4 @@ similar to a tree.
   - NEO is a character from the matrix trilogy
   - NEO means"new" in latin
   - "one" is an anagram of NEO
+

@@ -1,3 +1,5 @@
+# LANYARD
+
 ♐LANYARD is a video posted to the second youtube account on May 12,
 2017. It was the first video posted after a 38-day break following the
 end of the ♐[BROAD](BROAD "wikilink") series. No series followed it on
@@ -48,3 +50,4 @@ posted near the start or end of a series.
 ## 3D Composite
 
 *pending\!*
+
