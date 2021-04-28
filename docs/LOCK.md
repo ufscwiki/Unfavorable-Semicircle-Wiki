@@ -1,10 +1,23 @@
 # LOCK
 
-♐LOCK is a video posted to the original UFSC YouTube channel on July 18,
-2015. Analysis of the video lead to the creation of the first composite
-image.
+## Table of Contents
+* [Overview](#overview)
+* [Description of video](#description-of-video)
+  * [Audio](#audio)
+  * [Significance](#significance)
+    + [Frame composite discovery](#frame-composite-discovery)
+  * [Composite image](#composite-image)
+    + [3-D Composite](#3-d-composite)
+  * [Theories and possible explanations](#theories-and-possible-explanations)
+    + [Observations on the ♐LOCK image](#observations-on-the--lock-image)
+    + [Other possible theories](#other-possible-theories)
+  * [Contemporaneous Reddit Threads](#contemporaneous-reddit-threads)
+  * [See also](#see-also)
 
-{{\#ev:youtube|[https://www.youtube.com/watch?v=zp-X9o\_Ko6U|480](https://www.youtube.com/watch?v=zp-X9o_Ko6U%7C480)}}
+
+## Overview
+
+♐LOCK is a video posted to the original UFSC YouTube channel on July 18, 2015. Analysis of the video lead to the creation of the first [composite image](Composite_visual_overview "wikilink").
 
 ## Description of video
 
