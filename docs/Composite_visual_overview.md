@@ -1,5 +1,9 @@
 # Composite visual overview
 
+## Introduction
+
+Composites are images created by extracting frames (generally keyframes) from videos posted by Unfavorable Semicircle and arranging those extracted frames in a grid. The width of the grid used is usually established by internal evidence within an image (creating straight lines, for example).
+
 ***This page is a work in progress\!***
 
 Blank spots on this chart could mean:
@@ -8,6 +12,10 @@ Blank spots on this chart could mean:
   - a composite has been made, but no image has been uploaded to this
     wiki
   - it wouldn't make sense to made a composite of that video
+
+## Archive of composites
+
+* a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
 
 ## Original youtube channel: Non-series videos
 
