@@ -11,6 +11,8 @@ distributing such a large number of videos might be the "point" of the
 project — or they could each be pieces of a massively complicated
 puzzle.
 
+Also remember that we tend to "view" such a complicated thing through the lens of our own experiences and technical vocabularies, but [that may also steer us away from seeing the bigger whole](elephant "wikilink").
+
 ![UFSC_theory_matrix.jpg](UFSC_theory_matrix.jpg)
 
 *UFSC theories, visually represented*
