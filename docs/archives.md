@@ -29,7 +29,7 @@ videos will remain available to this community and future researchers.
 
 ### Archives of composites
 
-* an archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
+* a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
 
 ## Grabbing videos from youtube
 
