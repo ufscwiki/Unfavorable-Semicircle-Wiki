@@ -6,6 +6,7 @@
   * [2017](#2017)
   * [2018](#2018)
   * [2019](#2019)
+  * [2020](#2020)
 
 
 ## 2015
@@ -157,3 +158,9 @@
 
 <sup>\*</sup> *This material is now considered non-canonical; please see
 [Un-REAL UFSC](Un-REAL_UFSC "wikilink")*.
+
+## 2020
+
+| Date       | Description                                                                                                                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-12-26 | Youtuber Chill Fuel posts a video entitled "[Unfavorable Semicircle - Youtube's Strangest Channel](https://youtu.be/GxyJ1rZ4lY8)" which quickly garners over one hunded thousand views, bringing renewed interest to UFSC|
