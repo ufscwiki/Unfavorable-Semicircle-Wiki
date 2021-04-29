@@ -1,10 +1,12 @@
 # Archives
 
 ## Table of Contents
-
 - [Archives](#archives)
+  * [Table of Contents](#table-of-contents)
   * [Overview](#overview)
   * [Existing Archives](#existing-archives)
+    + [Archives of videos](#archives-of-videos)
+    + [Archives of composites](#carchives-of-composites)
   * [Grabbing videos from youtube](#grabbing-videos-from-youtube)
 
 ## Overview
@@ -15,25 +17,19 @@ videos will remain available to this community and future researchers.
 
 ## Existing Archives
 
-An archive (large, but not complete) of the videos from the original
-youtube account can be found here:
-<http://www.mediafire.com/?94a040t5vwsprwx>
+### Archives of videos
 
-(*n.b. The 7zip is 300MB, but what's inside is 7.5GB, 77442 files*)
+* An archive (large, but not complete) of the videos from the original youtube account can be found here: <http://www.mediafire.com/?94a040t5vwsprwx><br/>(*n.b. The 7zip is 300MB, but what's inside is 7.5GB, 77442 files*)
 
-An archive of the videos from the second youtube account can be found
-here: <https://mega.nz/#F!ThAi2TZT!kFlgV0_JDaFeQdVWmJG7bg>
+* An archive of the videos from the second youtube account can be found here: <https://mega.nz/#F!ThAi2TZT!kFlgV0_JDaFeQdVWmJG7bg>
 
-tomasf has an archive of some videos
-[here](http://tomasf.se/projects/semi/videos/), including most major
-videos of the deleted channel as well as the deleted video
-[SQEN](SQEN "wikilink").
+* tomasf has an archive of some videos [here](http://tomasf.se/projects/semi/videos/), including most major videos of the deleted channel as well as the deleted video [SQEN](SQEN "wikilink").
 
-A mirror of the 3 sources above is also available
-[here](https://ufsc1654.blaucloud.de/index.php/s/ldXZzjZVuLPAXS0) (note
-that the website is very slow but it will eventually open and allow you
-to download the files at normal speed, just be patient). Total mirror
-size is just under 2GB.
+* A mirror of the 3 sources above is also available [here](https://ufsc1654.blaucloud.de/index.php/s/ldXZzjZVuLPAXS0) (note that the website is very slow but it will eventually open and allow you to download the files at normal speed, just be patient). Total mirror size is just under 2GB.
+
+### Archives of composites
+
+* an archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
 
 ## Grabbing videos from youtube
 
