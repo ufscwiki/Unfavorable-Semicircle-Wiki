@@ -1,7 +1,6 @@
 # FEND
 
-FEND is a series posted to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 26 and June 4,
-2016. There are 20 videos in the series (numbered 0 - 19).
+FEND is a series posted to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 26 and June 4, 2016. There are 20 videos in the series (numbered 0 - 19).
 
 ## Details
 
