@@ -1,13 +1,15 @@
 # LOCK
 
 ## Table of Contents
-* [Overview](#overview)
-* [Description of video](#description-of-video)
+  * [Table of Contents](#table-of-contents)
+  * [Overview](#overview)
+  * [Description of video](#description-of-video)
   * [Audio](#audio)
   * [Significance](#significance)
     + [Frame composite discovery](#frame-composite-discovery)
   * [Composite image](#composite-image)
     + [3-D Composite](#3-d-composite)
+  * ["black dots" and "bars"](#-black-dots--and--bars-)
   * [Theories and possible explanations](#theories-and-possible-explanations)
     + [Observations on the ♐LOCK image](#observations-on-the--lock-image)
     + [Other possible theories](#other-possible-theories)
@@ -61,6 +63,20 @@ earlier videos, but there is nothing particularly "interesting" in this
 video's 3-D composite.
 
 ![Lock.PNG](Lock.PNG "Lock.PNG")
+
+## "black dots" and "bars"
+
+Many frames in ♐LOCK contain a single black pixel at different locations in the 50 x 50 image. (The small image size means that there is an 8 x 8  compression artifact around the dot.) Some frame also have a "bar" across the bottom. Discord user Dom has noted "some frames have a dot, some have a bar, and some have both. Darker frames tend to have neither."
+
+![black_dot_example_frame.png](black_dot_example_frame.png "black dot example frame")
+
+**An enlarged frame from LOCK (original 50x50). Note the 8x8 artifact and the 2x50 bar.**
+
+*This image has been adjusted the contrast for visibility (normally the artifacts are much more subtle, especially the bar).*
+
+*Image by Discord user Dom.* 
+
+It has long been debated as to whether the the positions of the dots are random or represent meaningful data.
 
 ## Theories and possible explanations
 
