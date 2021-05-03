@@ -1,5 +1,15 @@
 # BRINE
 
+## Table of Contents
+  * [Overview](#overview)
+  * [Composites](#composites)
+  * [Meaning of name](#meaning-of-name)
+  * [Playback errors](#playback-errors)
+  * [Links](#links)
+
+
+## Overview
+
 ♐BRINE is a [series](List_of_Series "wikilink") of sixteen videos that
 was uploaded to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 15 and May 23,
 2016.
@@ -26,8 +36,14 @@ group.
 
 ## Meaning of name
 
-  - "Brine" is one of several nautical-themed UFSC titles. (*See also
-    ♐[HULL](HULL "wikilink") and ♐[PORT](PORT "wikilink").*)
+* "Brine" is one of several nautical-themed UFSC titles. (*See also ♐[HULL](HULL "wikilink") and ♐[PORT](PORT "wikilink").*)
+** Deep ocean fish (such as ♐[BRILL](BRILL "wikilink") live in brine.
+
+## Playback errors
+
+Out of all the videos on Unfavorable Semicircle, this series seems to
+have the most playback errors, particularly on console and mobile
+devices.
 
 ## Links
 
@@ -80,10 +96,3 @@ BRINE 14: \[<https://www.youtube.com/watch?v=U0pb1JXuftk>|
 
 BRINE 15: \[<https://youtu.be/QwgQQwZwipk>|
 <https://youtu.be/QwgQQwZwipk>\]
-
-## Playback errors
-
-Out of all the videos on Unfavorable Semicircle, this series seems to
-have the most playback errors, particularly on console and mobile
-devices.
-
