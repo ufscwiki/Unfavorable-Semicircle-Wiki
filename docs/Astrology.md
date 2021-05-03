@@ -48,7 +48,7 @@ Discord users Anteater and Vomalhaut have made some connections between differen
 * [Gemini](https://en.wikipedia.org/wiki/Gemini_(astrology)) = twins (*i.e.*, [brothers](BROTHER "wikilink"))
 * Sagittarius (obvious from UFSC's use of ♐, the sign's astrological symbol)
 * Virgo is associated with [harvest goddess mythology](https://en.wikipedia.org/wiki/Virgo_(astrology)), which connects to [HARVEST](HARVEST "wikilink")
-* Pisces is symbolozed by fish; [BRILL](BRILL "wikilink") are [a kind of fish](https://en.wikipedia.org/wiki/Brill_(fish))
+* Pisces is symbolized by fish; [BRILL](BRILL "wikilink") are [a kind of fish](https://en.wikipedia.org/wiki/Brill_(fish))
 
 Interestingly, the "houses" of Gemini and Sagittarius, as well as those of Vrigo and Pisces, are opposed to each other, drawing a series of connections.
 
