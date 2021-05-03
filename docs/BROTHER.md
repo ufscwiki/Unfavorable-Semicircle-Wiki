@@ -64,9 +64,7 @@ three-dimensional object.
 
 ## Stabilitory newing Series
 
-[Stabilitory newing](Stabilitory_newing "wikilink") posted 56 videos (0
-- 55), titled with a leading ⊕. There may be some "fraternal"
-relationship between the two series.
+[Stabilitory newing](Stabilitory_newing "wikilink") posted 56 videos (0-55), titled with a leading ⊕. There may be some "fraternal" relationship between the two series.
 
 ### Description of Stabilitory newing videos
 
