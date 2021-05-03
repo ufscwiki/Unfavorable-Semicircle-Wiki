@@ -57,7 +57,7 @@ Discord users Anteater and Vomalhaut have made some connections between differen
 * Virgo is associated with [harvest goddess mythology](https://en.wikipedia.org/wiki/Virgo_(astrology)), which connects to [HARVEST](HARVEST "wikilink")
 * Pisces is symbolized by fish; [BRILL](BRILL "wikilink") are [a kind of fish](https://en.wikipedia.org/wiki/Brill_(fish))
 
-Interestingly, the "houses" of Gemini and Sagittarius, as well as those of Vrigo and Pisces, are opposed to each other, drawing a series of connections.
+Interestingly, the "houses" of Gemini and Sagittarius, as well as those of Virgo and Pisces, are opposed to each other, drawing a series of connections.
 
 ![astrological connections by Vomalhaut.png](astrological connections by Vomalhaut.png)
 
