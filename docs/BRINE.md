@@ -37,7 +37,7 @@ group.
 ## Meaning of name
 
 * "Brine" is one of several nautical-themed UFSC titles. (*See also ♐[HULL](HULL "wikilink") and ♐[PORT](PORT "wikilink").*)
-  * Deep ocean fish (such as ♐[BRILL](BRILL "wikilink") live in brine.
+  * Deep ocean fish (such as ♐[BRILL](BRILL "wikilink")) live in brine.
 
 ## Playback errors
 
