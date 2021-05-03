@@ -1,5 +1,19 @@
 # BRILL
 
+## Table of Contents
+  * [Overview](#overview)
+  * [Description of video](#description-of-video)
+  * [Composite](#composite)
+  * [3d Composite](#3d-composite)
+  * [Transcription](#transcription)
+  * [Relationship to special ♐BRILL videos and to ♐BRINE](#relationship-to-special--brill-videos-and-to--brine)
+  * [Possible meanings of name](#possible-meanings-of-name)
+    + [Relationship to brill tagging](#relationship-to-brill-tagging)
+    + [Brill.com](#brillcom)
+    + [Brill (fish)](#brill--fish-)
+
+## Overview
+
 ♐BRILL is a series of videos that was uploaded to the first and second
 YouTube accounts between February 14 and March 9, 2016. The original
 youtube account was suspended on February 25th, after more than
@@ -56,4 +70,10 @@ Apparently <https://brill.com> is a large scholarly repository. UFSC
 could be using information in these videos to point to data within this
 system to use as a complex cypher incapable of being easily reasoned.
 Definitely worth checking out.
+
+### Brill (fish)
+
+Brill are a type "[species of flatfish](https://en.wikipedia.org/wiki/Brill_(fish)) in the turbot family... found... primarily in deeper offshore waters."
+* this could [connect them to the astrological sign of Pisces](Astrology "wikilink").
+* it also creates a connection to ♐[BRINE](BRINE "wikilink"), as brill live in saltwater.
 
