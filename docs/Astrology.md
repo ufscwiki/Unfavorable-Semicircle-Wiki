@@ -1,5 +1,12 @@
 # Astrology
 
+## Table of Contents
+- [Astrological Links to USFC](#astrological-links-to-usfc)
+  * [Astrological References to Look For](#astrological-references-to-look-for)
+- [Possible Links between USFC and Astrology](#possible-links-between-usfc-and-astrology)
+- [Relating astrological signs to UFSC Videos](#relating-astrological-signs-to-ufsc-videos)
+
+
 ## Astrological Links to USFC
 
 Unfavorable Semicircle uses the astrological symbol, or glyph, for
