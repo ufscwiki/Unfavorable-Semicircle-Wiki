@@ -7,12 +7,9 @@ second and the video is 90 seconds long you will have 2700 images. What
 create the composite. Some variables are how big is each image (1x1, 5x5
 pixels, etc) and what are the dimensions of the grid.
 
-## Composite maker kit
+## Composite maker 
 
-(*created by hellajt*)
-
-Easy to use + with instructions, made for beginners:
-~~<https://www.dropbox.com/s/ozn5emlgtaak85r/UFSC.7z?dl=0>~~ (*link inactive!*)
+Discord user Dom has created a python script to create composites, which is [available on github](https://github.com/applesdom/composite). It has a GUI and was written for Python 3.6.9.
 
 ## Step-by-step method (for Mac)
 
