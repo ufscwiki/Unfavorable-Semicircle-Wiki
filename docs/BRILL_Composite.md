@@ -10,7 +10,7 @@ composites.](Numbered-color-shifted.png
 
   - The [BRILL](BRILL "wikilink") series has a cropped version of the
     composite. (1000 x 30)
-  - [BRILL 49999 (Long)](BRILL_49999_\(Long\) "wikilink") has a
+  - [BRILL 49999 (Long)](BRILL_49999_(Long) "wikilink") has a
     different cropped version of the composite (most easily visible with
     a width of 789.5).
   - [N\* BRILL](N*_BRILL "wikilink") has a cropped version of the
