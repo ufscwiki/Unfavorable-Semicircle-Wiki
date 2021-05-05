@@ -1,11 +1,18 @@
 # N* BRILL
 
-♐N\*BRILL is a video posted to the second youtube account on March 9,
-2016. It was posted twelve days after the "long" ♐[BRILL 49999](BRILL_49999_\(Long\) "wikilink") and on the same day as the
-[short video of the same name](BRILL_49999_\(Short\) "wikilink"). (It
-was also around this time that the twitter account was launched.)
+## Table of Contents
+- [Oveview](#oveview)
+- [Description of video](#description-of-video)
+- [Audio](#audio)
+- [Relationship to [BRILL](BRILL "wikilink") series](#relationship-to--brill--brill--wikilink---series)
+- [Composite](#composite)
+- [Contemporaneous reddit threads](#contemporaneous-reddit-threads)
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=j7LxfTqXD-Q>}} [Original Link](https://www.youtube.com/watch?v=gqPFPw7g_QE)
+
+## Oveview
+
+♐N\*BRILL is a video posted to the second youtube account on March 9, 2016. It was posted twelve days after the "long" ♐[BRILL 49999](BRILL_49999_\(Long\) "wikilink") and on the same day as the [short video of the same name](BRILL_49999_\(Short\) "wikilink"). (It
+was also around this time that the twitter account was launched.)
 
 ## Description of video
 
@@ -34,7 +41,7 @@ the first 5000 frames of [BRILL](BRILL "wikilink")".
 
 <http://tomasf.se/projects/semi/BRILLN_composite.png>
 
-![ BRILLN composite.png](_BRILLN_composite.png " BRILLN composite.png")
+![BRILLN composite.png](BRILLN_composite.png "BRILLN composite.png")
 
 *♐N\* BRILL composite*
 
