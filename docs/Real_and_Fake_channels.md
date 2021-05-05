@@ -257,7 +257,7 @@
 <td><p>YouTube</p></td>
 <td><ul>
 <li>Account created Feb 13, 2021</li>
-<li>shortly after its creation re-posted two UFSC videos: ⊕ BROTHER 55 (from the original [stabilitory newing](Stabilitory_newing "wikilink") channel) and ♐230511 (from the [first YouTube channel](Original_unnamed_series "wikilink").</li>
+<li>shortly after its creation re-posted two UFSC videos: ⊕ BROTHER 55 (from the original <a href="Stabilitory_newing" title="wikilink">stabilitory newing</a> channel) and ♐230511 (from the <a href="Original_unnamed_series" title="wikilink">first YouTube channel</a>").</li>
 </ul></td>
 <td><p><a href="https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/">https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/</a></p></td>
 </tr></tbody>
