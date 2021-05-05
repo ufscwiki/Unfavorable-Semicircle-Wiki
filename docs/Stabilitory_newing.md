@@ -1,8 +1,16 @@
 # Stabilitory newing
 
-Stabilitory newing is a YouTube channel that started posting videos on
-September 3, 2016. The relationship between Stabilitory newing and UFSC
-is currently unclear, but is related to UFSC by the [Third Google+ post](Google_Plus#G.2B_post_3 "wikilink"):
+## Table of Contents
+
+- [Overview](#overview)
+- [Videos](#videos)
+- [Possible significance of name](#possible-significance-of-name)
+- [Work on finding information in the visuals](#work-on-finding-information-in-the-visuals)
+- [Removal](#removal)
+
+## Overview
+
+Stabilitory newing was a YouTube channel created on [August 24, 2016](https://www.youtube.com/channel/UCEUj7apDhQq5hh87U8iP4-w/about) that started posting videos on September 3, 2016. The relationship between Stabilitory newing and UFSC was originally unclear, but was connected to UFSC by the [third Google+ post](Google_Plus#G.2B_post_3 "wikilink"):
 
 ![screencap of third G+ post](Maxtendmalform_gplus_post.jpg)
 
@@ -14,10 +22,8 @@ is currently unclear, but is related to UFSC by the [Third Google+ post](Google_
     ♐[BROTHER](BROTHER "wikilink") 0 was posted to UFSC's main channel
     on 2016-09-23, the second date in the G+ post.
 
-URL: <https://www.youtube.com/channel/UCEUj7apDhQq5hh87U8iP4-w/videos>
+The channel was confirmed as "REAL" in the [fourth Google+ post](Google_Plus#G.2B_post_4 "wikilink").
 
-The Channel Join date is Aug 24, 2016
-[Source](https://www.youtube.com/channel/UCEUj7apDhQq5hh87U8iP4-w/about)
 
 ## Videos
 
@@ -38,7 +44,7 @@ Anagrams of "stabilitory newing":
 
 ## Work on finding information in the visuals
 
-[Notes on some ideas on treating the "histograms" as a source of data.](http://www.unfavorablesemicircle.com/wiki/Investigation_into_color_data_in_SN_visuals)
+[Notes on some ideas on treating the "histograms" as a source of data.](Investigation_into_color_data_in_SN_visuals "wikilink")
 
 ## Removal
 
