@@ -252,6 +252,14 @@
 <td><p>short videos, either recreations or snippets of old UFSC videos. Account description is "OUOFOR". Posted most recently on 2017-11-05.</p></td>
 <td><p><a href="https://www.instagram.com/unfsemi/">https://www.instagram.com/unfsemi/</a></p></td>
 </tr>
-</tbody>
+<tr class="even">
+<td><p>Stabilitory newing</p></td>
+<td><p>YouTube</p></td>
+<td><ul>
+<li>Account created Feb 13, 2021</li>
+<li>shortly after its creation re-posted two UFSC videos: ⊕ BROTHER 55 (from the original [stabilitory newing](Stabilitory_newing "wikilink") channel) and ♐230511 (from the [first YouTube channel](Original_unnamed_series "wikilink").</li>
+</ul></td>
+<td><p><a href="https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/">https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/</a></p></td>
+</tr></tbody>
 </table>
 
