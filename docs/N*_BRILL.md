@@ -4,7 +4,7 @@
 - [Oveview](#oveview)
 - [Description of video](#description-of-video)
 - [Audio](#audio)
-- [Relationship to [BRILL](BRILL "wikilink") series](#relationship-to--brill--brill--wikilink---series)
+- Relationship to [BRILL](BRILL "wikilink") series
 - [Composite](#composite)
 - [Contemporaneous reddit threads](#contemporaneous-reddit-threads)
 
