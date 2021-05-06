@@ -10,7 +10,7 @@ order, from oldest to newest.
 
   - ♐[LOCK](LOCK "wikilink")
   - ♐[DELOCK](DELOCK "wikilink")
-  - [♐ (nameless video)](♐_\(nameless_video\) "wikilink")
+  - [♐ (nameless video)](♐_(nameless_video) "wikilink")
   - ♐[PER](PER "wikilink")
   - ♐[BRILL B](BRILL_B "wikilink"), though there were other numbered
     [BRILL](BRILL "wikilink") videos
