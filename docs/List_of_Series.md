@@ -4,7 +4,7 @@
 
 ## 1st youtube account
 
-  - [original unnamed series](original_unnamed_series "wikilink")
+  - [original unnamed series](Original_unnamed_series "wikilink")
   - ♐[BRILL](BRILL "wikilink")
   - [OR](OR "wikilink")
 
