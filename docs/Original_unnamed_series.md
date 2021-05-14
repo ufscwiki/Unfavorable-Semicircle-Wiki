@@ -4,7 +4,7 @@
 
 The "original unnamed series" consists of over 48,000 videos uploaded to the [first YouTube channel](Real_and_Fake_channels "wikilink") between April 5, 2015 and February 25, 2016. It includes the first known video posted to the channel (♐980708) as well as the last (♐612831). All titles in this series consist of the Sagittarius symbol (♐) followed by a seemingly randomly generated number ranging from 23 to 999997. Many videos share the same titles. 26 distinct sub-series (seasons) have been identified within the original unnamed series. The audio and visual content of these videos has been the subject of much analysis.
 
-48258 videos from this series have been [archived](Archives "wikilink"), though it is unknown if this constitutes the full extent of the series.
+48258 videos from this series have been [archived](archives "wikilink"), though it is unknown if this constitutes the full extent of the series.
 
 <br/>
 <br/>
@@ -26,7 +26,7 @@ Many videos feature readings by [the unknown voice](Unknown_Voice "wikilink"). A
   - various tones and distorted sounds
   - silence
 
-[Extracted data for each archived video can be found here!](og_manifest.csv)
+[Extracted data for each archived video can be found here!](og_manifest.csv "wikilink")
 ## Seasons
 
 Reddit user u/McSweepyPants first noted in [a post on the subreddit](https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown_of_todays_findings_february_22nd_2016/) the existence of several sub-series within the original unnanmed series, which he dubbed "seasons". Further analysis of upload dates, composites, and transcripts has led to the identification of 26 distinct seasons within the original unnamed series.
