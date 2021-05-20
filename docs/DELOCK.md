@@ -25,8 +25,10 @@ The video's audio track contains a dual mono audio track with
 "calliope"/ragtime-type music, which had originally been compared to the
 sounds in the cartoon [*Steamboat Willie*](https://youtu.be/BBgghnQF6E4). The [Unknown
 Voice](Unknown_Voice "wikilink") spells out "IANNOP6" near the beginning
-(similar to the spelling of "FREEBIRD3" in
-[MAX\_TEND](MAX_TEND "wikilink")).
+(similar to the spelling of "FREEBIRD3" in [MAX\_TEND](MAX_TEND "wikilink")).
+However, it has been proposed by **Dom** on Discord that the letters actually
+spell "I AM NOT H". This reading would explain the pauses in the audio (compared to
+"I AN NOP 6").
 
 ### Analysis + Re-creation of music
 
