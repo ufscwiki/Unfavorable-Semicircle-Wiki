@@ -1,5 +1,21 @@
 # ♐DELOCK
 
+## Table of Contents
+  * [Overview](#overview)
+  * [Description of video](#description-of-video)
+  * [Audio](#audio)
+    + [Audio analysis](#audio-analysis)
+      - [alexbassguy's Analysis](#alexbassguy-s-analysis)
+      - ["Homesick"](#-homesick-)
+      - ["I am not H"](#-i-am-not-h-)
+    + [Possible significance of the audio](#possible-significance-of-the-audio)
+  * [Relationship to original unnamed series](#relationship-to-original-unnamed-series)
+  * [Significance and meaning](#significance-and-meaning)
+    + [Deadlock](#deadlock)
+  * [Contemporaneous Reddit Threads](#contemporaneous-reddit-threads)
+
+## Overview
+
 ♐DELOCK is a video posted to the original UFSC YouTube channel on
 December 29, 2015. It was the first video posted after a lengthy hiatus.
 (The previous postings were the [OR](OR "wikilink") videos on August
@@ -16,21 +32,17 @@ UFSC canon.
 
 ## Description of video
 
-The video is 2:52 in duration. The video shows a white grid-like shape
-on a black background. Colored pixels shift around the grid.
+The video is 2:52 in duration. The video shows a white grid-like shape n a black background. Colored pixels shift around the grid.
 
 ## Audio
 
-The video's audio track contains a dual mono audio track with
-"calliope"/ragtime-type music, which had originally been compared to the
-sounds in the cartoon [*Steamboat Willie*](https://youtu.be/BBgghnQF6E4). The [Unknown
-Voice](Unknown_Voice "wikilink") spells out "IANNOP6" near the beginning
-(similar to the spelling of "FREEBIRD3" in
-[MAX\_TEND](MAX_TEND "wikilink")).
+The video's audio track contains a dual mono audio track with "calliope"/ragtime-type music, which had originally been compared to the sounds in the cartoon [*Steamboat Willie*](https://youtu.be/BBgghnQF6E4). The [Unknown Voice](Unknown_Voice "wikilink") spels out a series of letters near the beginning (similar to the spelling of "FREEBIRD3" in [MAX\_TEND](MAX_TEND "wikilink")).
 
-### Analysis + Re-creation of music
+### Audio analysis
 
-This is the analysis of Discord user alexbassguy: "After a careful
+#### alexbassguy's Analysis
+
+This is the analysis of discord user alexbassguy: "After a careful
 review, it's not Steamboat Willie. BUT - I can say with some confidence
 that the audio is definitely like Steamboat Willie. I.e., early cartoon
 music with sound effects. It could be from one of hundreds of old
@@ -38,16 +50,34 @@ cartoons. But I think it's audio from an old Tom and Jerry or something,
 with sound effects over orchestral music in the background, very much
 like Steamboat Willie."
 
-To test this concept, he created a re-creation: "I... used a snippet of
+To test this concept, he created a [re-creation](DELOCK_-_RECONSTRUCTED.mp3): "I... used a snippet of
 Steamboat Willie to recreate what I hear in DELOCK, here's what I came
 up with. It's close, and the techniques I employed here could (with some
-variation) create DELOCK." [Media:DELOCK - RECONSTRUCTED.mp3](Media:DELOCK_-_RECONSTRUCTED.mp3 "wikilink")
+variation) create DELOCK."
 
-### "Homesick"
+{*see discord discussion in #solving on 2020-02-08*}
+
+#### "Homesick"
 
 On June 19, 2020, Discord user Freezepond observed that the music in ♐DELOCK appears to be a manipulated version of "[*Homesick*](https://youtu.be/Mw6n1LuMaBQ)", recorded by Bailey's Lucky Seven. (Gennett 4979, the b-side to “Carolina In The Morning”.)  This would seemingly be confirmed by (and explains) the hitherto-obscure comment "HOMESICKDELOCK" in the final [G+](Google_Plus "wikilink") post.
 
-#### Possible significance of the audio
+#### "I am not H"
+
+Original analysis identified the spoken text near the beginning as "IANNOP6".
+
+Further research by discord user Dom "\[t\]ook a closer look at the spoken letters in ♐DELOCK, comparing them to the master (ABC...) track. They spell out 'I AM NOT H' when you take the spaces into account."
+
+![I am not H](DELOCK_I_am_not_H.png)
+
+Dom further observes: "I compared the waveforms for each letter to get this result. Here's an example for the last letter. You can see it matches the 'H' waveform significantly better than the '8' one. I had similar findings with 'N' and 'M'".
+
+![H vs 8](DELOCK_Dom_analysis.png)
+
+The meaning of "H" remains open to conjecture.
+
+{*see discord discussion in #on-topic-misc on 2021-05-18*}
+
+### Possible significance of the audio
 
 Both "Homesick" and “Away Down East In Maine” (the song used as the sound-source for [♐RETIO](RETIO "wikilink")) were on 78 RPM singles recorded in 1922. Discord user Unfavorablist observed that that year is "significant in terms of copyright. After the Disney/Steamboat Willie copyright extension, nothing after 1922 entered the public domain in the U.S. until recently." (Further discussion in [*this*](https://www.smithsonianmag.com/arts-culture/first-time-20-years-copyrighted-works-enter-public-domain-180971016/) article.)
 
@@ -64,9 +94,7 @@ corresponding positions.*
 
 ## Significance and meaning
 
-  - Due to the name it has long been suspected that this video is the
-    key to deciphering any concealed messages that other videos might
-    contain.
+  - Due to the name, it has long been suspected that this video is the key to deciphering any concealed messages that other videos might contain.
 
 ### Deadlock
 
