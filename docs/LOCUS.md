@@ -1,5 +1,17 @@
 # LOCUS
 
+## Table of Contents
+  * [Overview](#overview)
+  * [Description of videos](#description-of-videos)
+  * [Significance of name](#significance-of-name)
+  * [Composites](#composites)
+    + [2-D Composites](#2-d-composites)
+    + [3-D Composites](#3-d-composites)
+  * [Links](#links)
+
+
+## Overview
+
 ♐LOCUS is a series of videos uploaded to the second YouTube account.
 ♐LOCUS 0 was posted on October 16, 2016 (approximately three hours
 after ♐[BROTHER](BROTHER "wikilink") 22). There are sixteen videos in
@@ -34,42 +46,35 @@ according to mathematically defined conditions" in mathematics.
 Full LOCUS composite (0 - 15) by tomasf:
 <http://tomasf.se/projects/semi/LOCUS_composite.png>
 
-![ Locus composite by hellajt.png](_Locus_composite_by_hellajt.png)
+![Locus composite by hellajt.png](Locus_composite_by_hellajt.png)
 
 *♐LOCUS 0 composite by hellajt*
 
-![ LOCUS0 768.png](_LOCUS0_768.png " LOCUS0 768.png")
+![LOCUS0 768.png](LOCUS0_768.png "LOCUS0 768.png")
 
 *♐LOCUS 0 composite by ShadowMorphyn (width: 768 pixels)*
 
-![ LOCUS0 1080.png](_LOCUS0_1080.png " LOCUS0 1080.png")
+![LOCUS0 1080.png](LOCUS0_1080.png "LOCUS0 1080.png")
 
 *♐LOCUS 0 composite by ShadowMorphyn (width: 1080 pixels)*
 
-The nature of the pattern (or
-[patternicity](https://en.wikipedia.org/wiki/Apophenia)) make it unclear
-what width should be used for making 2-D composites.
+The nature of the pattern (or [patternicity](https://en.wikipedia.org/wiki/Apophenia)) make it unclear what width should be used for making 2-D composites.
 
-Tomas' full composite of the series (large file\!) is
-[here](http://tomasf.se/projects/semi/LOCUS_composite.png).
+Tomas' full composite of the series (*large file!*) is [here](http://tomasf.se/projects/semi/LOCUS_composite.png).
 
 ### 3-D Composites
 
 Creating a [3D\_Composite](3D_Composite "wikilink") from the LOCUS
 videos reveals a clearly defined shape.
 
-The .stl of Thomas' 3-D composite can be found
-[here](http://tomasf.se/projects/semi/LOCUS_composite3D.stl) and a video
-of it
-[here](http://tomasf.se/projects/semi/LOCUS_composite3D_recording.mp4).
+![locus-3d.png](locus-3d.png "locus-3d.png")
 
-Vantjac also has a composite
-[here](http://vanjac.github.io/sketches/ufsc3d/).
+The .stl of Thomas' 3-D composite can be found [here](http://tomasf.se/projects/semi/LOCUS_composite3D.stl) and a video of it [here](http://tomasf.se/projects/semi/LOCUS_composite3D_recording.mp4).
 
-**N.B.**: *These composites are large and may cause distress to your
-computer if you try to open them\!*
+Vantjac also has a composite [here](http://vanjac.github.io/sketches/ufsc3d/).
 
-**To do**: *add screencaps of 3-D composite\!*
+**N.B.**: *These composites are large and may cause distress to your computer if you try to open them!*
+
 
 ## Links
 
