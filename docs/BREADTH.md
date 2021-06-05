@@ -47,11 +47,11 @@ The videos have a silent stereo audio track.
 
 ### 3-D Composite
 
-![Breadth_3-D_composite_-_view_1.png](Breadth_3-D_composite_-_view_1.png)
+![breadth3-Dcomposite-view1.png](breadth3-Dcomposite-view1.png)
 
 *screencap of 3-D ♐BREADTH composite*
 
-![Breadth_3-D_composite_-_view_2.png](Breadth_3-D_composite_-_view_2.png)
+![breadth3-Dcomposite-view2.png](breadth3-Dcomposite-view2.png)
 
 *screencap of 3-D ♐BREADTH composite*
 
