@@ -1,22 +1,32 @@
 # MOTH
 
-♐MOTH is a [series](List_of_Series "wikilink") that was uploaded to the
-second Youtube account. The series started on January 29th, 2017, the
-same day as ♐[POINT](POINT "wikilink") started on Twitter. The series
-ended on March 9, 2017 with ♐MOTH 55. After the end of the series, the
-account was quiet for two weeks before posting
-♐[GOLDEN](GOLDEN "wikilink").
+## Table of Contents
 
-♐MOTH is (so far) the series with the longest total video time.
+  * [Overview](#overview)
+  * [Description of videos](#description-of-videos)
+    + [Irregularities](#irregularities)
+  * [Audio](#audio)
+    + [Spectrographic Image](#spectrographic-image)
+    + [Further Analysis](#further-analysis)
+  * [Composites](#composites)
+    + [2-D composite](#2-d-composite)
+    + [3-D composite](#3-d-composite)
+      - [Analysis of 3-D Composite](#analysis-of-3-d-composite)
+  * [Appearances elsewhere](#appearances-elsewhere)
+  * [Links](#links)
+
+
+## Overview
+
+♐MOTH is a [series](List_of_Series "wikilink") that was uploaded to the second Youtube account. The series started on January 29th, 2017, the same day as ♐[POINT](POINT "wikilink") started on Twitter. The series ended on March 9, 2017 with ♐MOTH 55. After the end of the series, the account was quiet for two weeks before posting ♐[GOLDEN](GOLDEN "wikilink").
+
+♐MOTH is the series with the longest total video time.
 
 ## Description of videos
 
-Each ♐MOTH video is 9:15:33 (33333 seconds) long at 30 fps, making it a
-million frames per video.
+Each ♐MOTH video is 9:15:33 (33333 seconds) long at 30 fps, making it a million frames per video.
 
-It is assumed that the audio in all ♐MOTH videos is identical. The first
-six videos have all been tested and are identical; ♐MOTH 32 has been
-tested and is identical to ♐MOTH 0.
+It is assumed that the audio in all ♐MOTH videos is identical. The first six videos have all been tested and are identical; ♐MOTH 32 has been tested and is identical to ♐MOTH 0.
 
 ### Irregularities
 
@@ -75,16 +85,15 @@ immense number of data points, this file is very large*)
 
 ### 3-D composite
 
-![ MOTH 3-D composite - view 1.png](_MOTH_3-D_composite_-_view_1.png)
+![MOTH3-Dcomposite-view1.png](MOTH3-Dcomposite-view1.png)
 
-![ MOTH 3-D composite - view 2.png](_MOTH_3-D_composite_-_view_2.png)
+![MOTH3-Dcomposite-view2.png](MOTH3-Dcomposite-view2.png)
 
 *two screencaps of ♐MOTH 3-D composite by vantjac. (note that due to the
 immense number of data points this is not the complete series; however,
 all points from further videos fall within the same plane.)*
 
-This composite can be browsed in a 3-D projection
-[here](http://vanjac.github.io/sketches/ufsc3d/).
+This composite can be browsed in a 3-D projection [here](http://vanjac.github.io/sketches/ufsc3d/).
 
 #### Analysis of 3-D Composite
 
@@ -92,11 +101,7 @@ The [3D Composite](3D_Composite "wikilink") of MOTH is a plane.
 
 ## Appearances elsewhere
 
-Discord user ShadowMorphyn has noted that the
-["fake"](Real_and_Fake_channels "wikilink") [unfavorable
-semicircle](https://www.youtube.com/channel/UCA2j2wFhXsQej79c9V4v_Lg/)
-channel has apparently used a ♐MOTH video as the basis of its
-[♐♐CULLET](https://youtu.be/JZcmftIz-HM) video.
+Discord user ShadowMorphyn has noted that the ["other"](Real_and_Fake_channels "wikilink") [unfavorable semicircle](https://www.youtube.com/channel/UCA2j2wFhXsQej79c9V4v_Lg/) channel has apparently used a ♐MOTH video as the basis of [♐♐CULLET](https://youtu.be/JZcmftIz-HM).
 
 ## Links
 
