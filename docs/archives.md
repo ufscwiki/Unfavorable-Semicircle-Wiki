@@ -28,6 +28,7 @@ videos will remain available to this community and future researchers.
 * tomasf has an archive of some videos [here](http://tomasf.se/projects/semi/videos/), including most major videos of the deleted channel as well as the deleted video [SQEN](SQEN "wikilink").
 
 * Discord user Dom has started a new archive [here](https://mega.nz/folder/yQw2RaoR#DP89I-1yRbd_1ABzer1_IA) to consolidate the above, noting that it "contains a handy catalog so you can see what's included and what's missing."
+  * The archive key is `DP89I-1yRbd_1ABzer1_IA` (it is included in the URL if you click the top link)
 
 ### Archives of composites
 
