@@ -1,12 +1,24 @@
 # GOLDEN
 
+## Table of Contents
+  * [Overview](#overview)
+  * [Description of video](#description-of-video)
+  * [Audio & analysis](#audio---analysis)
+  * [Significance of name and relationship to other videos](#significance-of-name-and-relationship-to-other-videos)
+  * [Composites](#composites)
+    + [2-D Composite](#2-d-composite)
+      - [Significant data in the composite](#significant-data-in-the-composite)
+        * [Text in composite](#text-in-composite)
+        * [Similarity to ♐[RAPID](RAPID "wikilink")?]
+    + [3-D Composite](#3-d-composite)
+
+## Overview
+
 ♐GOLDEN is a video posted to the second youtube account on March 18,
 2017. It was the first video posted after an almost two-week break on
 the youtube account (♐[MOTH](MOTH "wikilink") 55 was posted on March
 4th) and the day before the start of the ♐[DUAL](DUAL "wikilink")
 series.
-
-{{\#ev:youtube|<https://www.youtube.com/watch?v=jlBmcNN4-tY>}} [Original Link](https://youtu.be/c2kTtzjAtf8)
 
 ## Description of video
 
@@ -27,7 +39,7 @@ The significance of the name 'golden' is as yet unclear.
 
 ### 2-D Composite
 
-![♐GOLDEN Composite by ShadowMorphyn](_GOLDEN.png)
+![♐GOLDEN Composite by ShadowMorphyn](GOLDEN.png)
 
 *♐GOLDEN Composite by ShadowMorphyn*
 
@@ -42,7 +54,7 @@ Similar to ♐[HARVEST](HARVEST "wikilink"), it appears that there is text
 encoded at the bottom of the top right quadrant. it is not yet clear
 what it says.
 
-![ GOLDEN text.png](_GOLDEN_text.png " GOLDEN text.png")
+![GOLDEN text.png](GOLDEN_text.png " GOLDEN text.png")
 
 *closeup of text in ♐GOLDEN composite*
 
