@@ -19,7 +19,7 @@ that gives no clear meaning.
 
 ## Composites
 
-![ STEM Composite by hellajt.png](_STEM_Composite_by_hellajt.png)
+![STEM Composite by hellajt.png](STEM_Composite_by_hellajt.png)
 
 *♐STEM composite by hellajt*
 
