@@ -25,7 +25,7 @@ Several composites have been made of the videos.
 
 ## Composites
 
-![DEPTH composite.png](_DEPTH_composite.png "DEPTH composite.png")
+![DEPTH composite.png](DEPTH_composite.png "DEPTH composite.png")
 
 (*♐DEPTH composite — not including the November tweets*)
 
@@ -49,7 +49,7 @@ investigation has been made to determine whether they are exactly
 similar. Likewise, it is otherwise unclear why or how the two series are
 related.
 
-![ HARVEST composite.png](_HARVEST_composite.png)
+![HARVEST composite.png](HARVEST_composite.png)
 
 *♐HARVEST composite by thomasf*
 
