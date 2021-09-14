@@ -13,7 +13,7 @@ removal reveals other sounds underneath.)
 
 ## Composite Image
 
-![ JALVINSACH composite.png](_JALVINSACH_composite.png)
+![JALVINSACH composite.png](JALVINSACH_composite.png)
 
 *♐JALVINSACH composite*
 
