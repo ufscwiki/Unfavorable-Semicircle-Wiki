@@ -54,7 +54,7 @@ Closer observation shows there are, in fact, four high-frequency
 "spikes" in the audio: the largest at 2815 Hz, and then at roughly 5600
 Hz, 8490 Hz and 14200 Hz.
 
-![PORT\_freq\_analysis\_(tone\_2).png](PORT_freq_analysis_\(tone_2\).png
+![PORT_freq_analysis_(tone_2).png](PORT_freq_analysis_(tone_2).png
 "PORT_freq_analysis_(tone_2).png")
 
 (*frequency analysis by discord user Unfavorablist*)
