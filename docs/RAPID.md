@@ -48,7 +48,7 @@ on Canadian Thanksgiving and BRILL B being posted on Valentine's day.
 
 <http://tomasf.se/projects/semi/RAPID_composite.png>
 
-![\_RAPID\_composite.png](_RAPID_composite.png "_RAPID_composite.png")
+![RAPID_composite.png](RAPID_composite.png "_RAPID_composite.png")
 
 *♐RAPID composite by thomasf*
 
@@ -56,7 +56,7 @@ There is some variability in the alignment of the image depending on the
 width used in constructing the composite. Here is the composite with a
 width of 497 instead of 498
 
-![RAPID\_composite\_497.png](RAPID_composite_497.png)
+![RAPID_composite_497.png](RAPID_composite_497.png)
 
 ## Significance of Composite
 
