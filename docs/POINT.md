@@ -27,22 +27,22 @@ Data pertaining to the periods can be found at [Tomas' website](http://tomasf.se
 
 ### 2-D Composites
 
-![POINT composite.png](_POINT_composite.png "POINT composite.png")
+![POINT composite.png](POINT_composite.png "POINT composite.png")
 
 (*♐POINT composite, complete to ♐POINT 5818*)
 
-![POINT composite annotated.png](_POINT_composite_annotated.png)
+![POINT composite annotated.png](POINT_composite_annotated.png)
 
 (*♐POINT composite annotated with "periods" described above, complete to 
 ♐POINT 5818*)
 
 ### 3-D Composites
 
-![ Point - 3-d composite - view 1.png](_Point_-_3-d_composite_-_view_1.png)
+![Point - 3-d composite - view 1.png](Point_-_3-d_composite_-_view_1.png)
 
 *screencap of ♐POINT 3-D composite (view 1)*
 
-![ Point - 3-d composite - view 2.png](_Point_-_3-d_composite_-_view_2.png)
+![Point - 3-d composite - view 2.png](Point_-_3-d_composite_-_view_2.png)
 
 *screencap of ♐POINT 3-D composite (view 2)*
 
@@ -58,7 +58,7 @@ backed up on the wiki [here](POINT_transcription "wikilink").
 
 ### Character frequency
 
-![POINT transcription frequency.png](_POINT_transcription_frequency.png)
+![POINT transcription frequency.png](POINT_transcription_frequency.png)
 
 (*[Tomas' analysis](http://tomasf.se/projects/semi/POINT_transcription_frequency.png)
 shows the frequency of each character in the ♐POINT transcription,
@@ -73,7 +73,7 @@ ShadowMorphyn has found the possible references to two other UFSC videos
 ([LOVE](LOVE "wikilink") and [JALVINSACH](JALVINSACH "wikilink")) with a
 22 character shift.
 
-![POINT cipher output.png](_POINT_cipher_output.png)
+![POINT cipher output.png](POINT_cipher_output.png)
 
 (*Screencap of brute-forcing the ♐POINT transcription as a Caesar
 Cipher*)

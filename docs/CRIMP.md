@@ -28,7 +28,7 @@ video as the frames, unlike other videos, are one color throughout.
 
 ## Frame image
 
-![ Crimp patterns.png](_Crimp_patterns.png " Crimp patterns.png")
+![Crimp patterns.png](Crimp_patterns.png " Crimp patterns.png")
 
 *♐CRIMP frames*
 

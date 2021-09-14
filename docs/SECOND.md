@@ -111,7 +111,7 @@ correcting errors.
 
 ## Composites
 
-![Full\_SECOND\_composite\_(reduced).jpg](Full_SECOND_composite_\(reduced\).jpg
+![Full_SECOND_composite_(reduced).jpg](Full_SECOND_composite_(reduced).jpg
 "Full_SECOND_composite_(reduced).jpg")
 
 (*composite of series II by extra. Note that due to wiki limitations
@@ -119,7 +119,7 @@ this is currently being posted in a lossy jpg version.*)
 
 ### Details in composites
 
-![Second\_(center\_detail).png](Second_\(center_detail\).png
+![Second_(center_detail).png](Second_(center_detail).png
 "Second_(center_detail).png")
 
 (*detail of "square" section, from an earlier version of the composite*)
@@ -131,7 +131,7 @@ There is a richness of detail in this composite, especially in the
     can be better seen in this inverted/color adjusted edit (by discord
     user ShadowMorphyn) where the dots appear in blue:
 
-![Second\_vibrancy\_.png](Second_vibrancy_.png "Second_vibrancy_.png")
+![Second_vibrancy_.png](Second_vibrancy_.png "Second_vibrancy_.png")
 
 this has been observed to possibly correspond with the stars in the
 constellation Sagittarius.

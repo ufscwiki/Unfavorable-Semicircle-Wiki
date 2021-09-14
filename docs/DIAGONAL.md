@@ -41,13 +41,13 @@ if or how the two are related.
 
 ### 2-D Composite
 
-![Diagonal - horizontal composite.png](_Diagonal_-_horizontal_composite.png)
+![Diagonal - horizontal composite.png](Diagonal_-_horizontal_composite.png)
 
 *♐DIAGONAL composite. (add creator credit when known\!)*
 
 ### 3-D Composite
 
-![DIAGONAL - screecap of vantjac's 3D render.png](_DIAGONAL_-_screecap_of_vantjac's_3D_render.png)
+![DIAGONAL - screecap of vantjac's 3D render.png](DIAGONAL_-_screecap_of_vantjac's_3D_render.png)
 
 *screencap of ♐DIAGONAL 3-D composite by vantjac*
 

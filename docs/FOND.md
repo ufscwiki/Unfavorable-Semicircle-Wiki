@@ -26,7 +26,7 @@ Side A: <http://tomasf.se/projects/semi/FOND_composite_A.png>
 
 Side B: <http://tomasf.se/projects/semi/FOND_composite_B.png>
 
-![ FOND composite.png](_FOND_composite.png " FOND composite.png")
+![FOND composite.png](FOND_composite.png " FOND composite.png")
 
 *combined ♐FOND composite*
 
@@ -35,7 +35,7 @@ Side B: <http://tomasf.se/projects/semi/FOND_composite_B.png>
 Inspired by the reference to the ⊕ (XOR) symbol in the [third G+ post](Google_Plus#G.2B_post_3 "wikilink"), Piecat has created an XOR'ed
 composite.
 
-![ Fond xor composite.PNG](_Fond_xor_composite.PNG)
+![Fond xor composite.PNG](Fond_xor_composite.PNG)
 
 *♐FOND XOR composite*
 
@@ -51,11 +51,11 @@ composite.
 
 Creating a 3-D composite reveals an inner structure:
 
-![ FOND 3-D composite, view 1.png](_FOND_3-D_composite,_view_1.png)
+![FOND 3-D composite, view 1.png](FOND_3-D_composite,_view_1.png)
 
 *♐FOND 3-D composite, view 1.png*
 
-![ FOND 3-D composite, view 2.png](_FOND_3-D_composite,_view_2.png)
+![FOND 3-D composite, view 2.png](FOND_3-D_composite,_view_2.png)
 
 *♐FOND 3-D composite, view 2.png*
 
