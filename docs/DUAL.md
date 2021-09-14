@@ -21,27 +21,27 @@ the audio.
 Discord user Risto notes: "the whirring is composed of identical
 sections with a 'steppy line level' silence afterwards":
 
-![Dual\_audio.png](Dual_audio.png "Dual_audio.png")
+![Dual_audio.png](Dual_audio.png "Dual_audio.png")
 
 He adds: "interestingly, the handshake doesn't have an offset":
 
-![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)
+![Dual_no_dc_offset_in_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 ## Composites
 
 ### 2-D Composite
 
-![ DUAL\_real.png](DUAL_real.png " DUAL_real.png")
+![DUAL_real.png](DUAL_real.png " DUAL_real.png")
 
 *♐DUAL composite by extra*
 
 ### 3-D Composite
 
-![Dual 0-9 - 3-d composite - view 1.png](_Dual_0-9_-_3-d_composite_-_view_1.png)
+![Dual 0-9 - 3-d composite - view 1.png](Dual_0-9_-_3-d_composite_-_view_1.png)
 
 *screencap of full ♐DUAL 3-D composite (view 1)*
 
-![Dual 0-9 - 3-d composite - view 2.png](_Dual_0-9_-_3-d_composite_-_view_2.png)
+![Dual 0-9 - 3-d composite - view 2.png](Dual_0-9_-_3-d_composite_-_view_2.png)
 
 *screencap of full ♐DUAL 3-D composite (view 2)*
 
