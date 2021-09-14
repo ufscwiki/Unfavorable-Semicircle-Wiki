@@ -29,7 +29,7 @@ NIL's composite is almost identical to [BRILL](BRILL "wikilink"), with
 the exception of colored lines, which divide the composite up into
 different portions (?)
 
-![ NIL composite combined.png](_NIL_composite_combined.png)
+![NIL composite combined.png](NIL_composite_combined.png)
 
 *combined NIL composite*
 
