@@ -26,7 +26,7 @@ amount of [DC offset](DC_offset "wikilink").
 A composite of the various frames illustrates how the lines are
 continuous with each other.
 
-![\_Recover-still-frames-horizontal.png](_Recover-still-frames-horizontal.png)
+![Recover-still-frames-horizontal.png](Recover-still-frames-horizontal.png)
 
 *RECOVER composite, frames re-arranged horizontally*
 
