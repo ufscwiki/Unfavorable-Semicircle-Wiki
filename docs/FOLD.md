@@ -72,7 +72,7 @@ structure's hierarchy, using the function in a systematic way."
 
 ## Composites
 
-![\_FOLD\_37.png](_FOLD_37.png "_FOLD_37.png")
+![FOLD_37.png](_FOLD_37.png "_FOLD_37.png")
 
 *♐FOLD composite by ShadowMorphyn*
 
