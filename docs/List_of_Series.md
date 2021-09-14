@@ -13,7 +13,7 @@
   - ♐[BRINE](BRINE "wikilink")
   - ♐[FEND](FEND "wikilink")
   - ♐[FOND](FOND "wikilink")
-  - [New unnamed series](Numbered_videos_\(2nd_channel\) "wikilink")
+  - [New unnamed series](Numbered_videos_(2nd_channel) "wikilink")
   - ♐[BROTHER](BROTHER "wikilink")
   - ♐[SLIM](SLIM "wikilink")
   - ♐[LOCUS](LOCUS "wikilink")
