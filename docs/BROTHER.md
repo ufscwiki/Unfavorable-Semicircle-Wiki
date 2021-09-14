@@ -41,13 +41,13 @@ a square wave merged with the right channel's audio"). The audio in
 
 <http://tomasf.se/projects/semi/BROTHER_composite.png>
 
-![ BROTHER composite.png](_BROTHER_composite.png)
+![BROTHER composite.png](BROTHER_composite.png)
 
 *combined and complete ♐BROTHER composite (to ♐BROTHER 31)*
 
 ## 3d Composite
 
-![Brother\_3d.PNG](Brother_3d.PNG "Brother_3d.PNG")
+![Brother_3d.PNG](Brother_3d.PNG "Brother_3d.PNG")
 
 ## Significance of composite image
 
