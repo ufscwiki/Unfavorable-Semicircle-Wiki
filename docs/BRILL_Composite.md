@@ -20,8 +20,7 @@ composites.](Numbered-color-shifted.png
     is almost identical to BRILL. (1000 x 31)
   - The [BRINE](BRINE "wikilink") series has a cropped version of the
     composite (most easily visible with a width of 540.5).
-  - [Numbered videos (2nd channel)](Numbered_videos_\(2nd_channel\) "wikilink") has a
+  - [Numbered videos (2nd channel)](Numbered_videos_(2nd_channel) "wikilink") has a
     hue-shifted and distorted version of the composite. The hue is
     mirrored across the 120 / 300 degrees axis (green / magenta). (538 x
     101)
-
