@@ -121,7 +121,7 @@ In 2021 some further investigaton was done on [♐LOCK](LOCK "wikilink"), ♐DEL
 
 On July 28, @Daxterapid *got a script running that prints the hue of any one pixel every frame on delock, I chose (50, 50) as it's in the middle and mostly away from the white lines. And it appears it's not the same color the entire video through, but I think that's from compression or something, i.e the pixel above has an effect on its hue because the image is sort of blurry*.
 
-[[/color map.jpeg]]
+![♐DELOCK color map by Daxterapid](delock_color_map.jpeg)
 
 On August 4, @tukkek posted a video *tracking individual change in color*:
 
