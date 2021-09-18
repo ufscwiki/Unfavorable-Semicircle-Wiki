@@ -1,5 +1,6 @@
 # Contributing to the wiki
-**a step-by-step guide for dummies by @tukkek**
+
+## A step-by-step guide for dummies by @tukkek
 
 *Requirements: a web browser.*
 
@@ -20,3 +21,6 @@
     * In your own copy, hit `Fetch upstream` and then `Fetch and merge`.
 
 If you have any questions post them on the Discord's #skill-share channel.
+
+## Other tips + tricks
+* github pages doesn't like spaces in filenames, so if creating a new page or uploading an image, substitute underscores for spaces.
