@@ -65,4 +65,4 @@ the Discord.
 
 ## Contributing to the Wiki
 This wiki was migrated from the original MediaWiki to Github Pages.
-If you would like to contribute please see [Updating the wiki](Updating_the_Wiki "wikilink")
+If you would like to contribute please see [Updating the wiki](Updating_the_Wiki "wikilink").
