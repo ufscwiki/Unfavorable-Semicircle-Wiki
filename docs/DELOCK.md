@@ -1,3 +1,4 @@
+
 # ♐DELOCK
 
 ## Table of Contents
@@ -12,6 +13,7 @@
   * [Relationship to original unnamed series](#relationship-to-original-unnamed-series)
   * [Significance and meaning](#significance-and-meaning)
     + [Deadlock](#deadlock)
+  * [2021 investigations](#2021-investigations)
   * [Contemporaneous Reddit Threads](#contemporaneous-reddit-threads)
 
 ## Overview
@@ -112,6 +114,25 @@ illustration of the concept in the wiki article:
 
 *By Marble machine - Own work, CC BY-SA 4.0,
 <https://commons.wikimedia.org/w/index.php?curid=47970297>*
+
+## 2021 investigations
+
+In 2021 some further investigaton was done on [♐LOCK](LOCK "wikilink"), ♐DELOCK and [♐UPRIGHT](UPRIGHT "wikilink") by Discord users.
+
+On July 28, @Daxterapid *got a script running that prints the hue of any one pixel every frame on delock, I chose (50, 50) as it's in the middle and mostly away from the white lines. And it appears it's not the same color the entire video through, but I think that's from compression or something, i.e the pixel above has an effect on its hue because the image is sort of blurry*.
+
+[[/color map.jpeg]]
+
+On August 4, @tukkek posted a video *tracking individual change in color*:
+
+https://www.unfavorablesemicircle.com/DELOCK.delta.mp4
+
+The same user would then on August 5, create a new video based on an idea by @Kai45: 
+
+> **Kai45**: Has anyone else noticed that Upright matches with Delock although it's off-center? The bottom left area of Upright has the center square of Delock and the lines around it match up as well. 
+> **tukkek**: i followed through @Kai45's idea and rebuilt ♐DELOCK from ♐UPRIGHT. im not adjusting for the panning or boundaries changing yet but i can try to go the extra mile if an interesting idea in how to apply this to ♐DELOCK shows up.
+
+https://www.unfavorablesemicircle.com/UPRIGHT.puzzle.mp4
 
 ## Contemporaneous Reddit Threads
 
