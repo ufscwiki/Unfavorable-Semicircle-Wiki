@@ -9,6 +9,8 @@ youtube account (♐[UPRIGHT](UPRIGHT "wikilink") was posted on January
 
 {{\#ev:youtube|<https://youtu.be/B9z2XBC9N-E>}} [Original Link](https://youtu.be/9m3XuGbURi4)
 
+This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+
 ## Description of video
 
 The video is 24:30 in length. The visuals contain a flickering series of

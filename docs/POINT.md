@@ -7,6 +7,8 @@ It was posted in parallel with the [MOTH](MOTH "wikilink") series being
 posted on the second youtube account. The series was the final series
 posted to Twitter before the [manual closing of the account](RESET_STRANGE_YD "wikilink").
 
+This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+
 ## Description of videos
 
 Similar to series such as [NIL](NIL "wikilink"), the videos in this

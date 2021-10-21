@@ -13,6 +13,8 @@ series, which began shortly after these ended.
 
 The videos of this series have been archived.
 
+This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+
 ## Composites
 
 This short series appears to be the first whose composite creates a

@@ -7,6 +7,8 @@ first series posted since ♐[STRAND](STRAND "wikilink"), and the first
 post-[Reset](RESET_STRANGE_YD "wikilink") series on youtube. The series
 has apparently ended with ♐AZO 4 on May 7th, 2018.
 
+This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+
 ## Characteristics
 
 The videos have a series of flashing solid colored frames and no audio.

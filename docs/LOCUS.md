@@ -20,6 +20,8 @@ before ♐[CRIMP](CRIMP "wikilink") was posted). Unusually, the first
 seven videos were posted concurrently on youtube with the end of the
 ♐[BROTHER](BROTHER "wikilink") series.
 
+This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+
 ## Description of videos
 
 ♐LOCUS videos are 7:16:46 in length. They contains a series of
