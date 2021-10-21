@@ -51,8 +51,6 @@ Note, for example, how some of those are purely RGB whle others feature yellow, 
 
 [♐DUAL](DUAL "wikilink") (LUMA, RGB and YC):
 
-![DUAL](/scopes/dualluma.png)
-
 ![DUAL](/scopes/dualluma90.png)
 
 ![DUAL](/scopes/dualrgb.png)
