@@ -95,6 +95,10 @@ free to revisit these or use them as a starting point.
   - Layering composites of videos over each other
   - Discord user Parogar found [a selfie-type image](Spokeo_selfie "wikilink") (via spokeo.com) allegedly
     associated with the email unfavorablesemicircle@gmail.com
+  - A fuller examination of [Video scopes](Video_scopes "wikilink"),
+    including other composites and vectorscopes. Integrating the more
+    interesting scopes into [the composite overview](Composite_visual_overview "wikilink")
+    would also be welcome.
     
  ## Other ways to help
   - updating this wiki (see instructions on how to contribute [here](Updating_the_Wiki "wikilink"))

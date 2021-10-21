@@ -6,6 +6,8 @@ posted). There are 10 videos in the series (♐DUAL 0 to ♐DUAL 9). ♐DUAL 9
 was posted on March 24th, five days before ♐[HULL](HULL "wikilink") was
 posted.
 
+This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+
 ## Description of videos
 
 Regular ♐DUAL videos are 1:06:40 (4,000 seconds) in length and contains
