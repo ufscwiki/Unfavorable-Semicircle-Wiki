@@ -21,7 +21,7 @@ on a new YouTube account after decoding a
 [post](Google_Plus#G.2B_post_1 "wikilink") on the Google+ page that was
 linked to the Original YouTube channel.
 
-On 2017 the channel deleted itself, and its twitter account.
+On 2017 the channel [deleted itself](RESET_STRANGE_YD), and its twitter account.
 
 Later, the twitter account was reopened, and linked to another YouTube
 account, although later evidence has indicated that these may not be
