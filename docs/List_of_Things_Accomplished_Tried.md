@@ -99,6 +99,8 @@ free to revisit these or use them as a starting point.
     including other composites and vectorscopes. Integrating the more
     interesting scopes into [the composite overview](Composite_visual_overview "wikilink")
     would also be welcome.
+  - [Investigation into color data in SN visuals](Investigation_into_color_data_in_SN_visuals "wikilink")
+    (see Follow-up section).
     
  ## Other ways to help
   - updating this wiki (see instructions on how to contribute [here](Updating_the_Wiki "wikilink"))
