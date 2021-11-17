@@ -90,6 +90,20 @@ stations.
     reverse-engineer YouTube internals (or Twitter, for that particular
     account) by creating scenarios that would target specific systems
     such as transcoding, storage or copyright identification.
+  - Discord user `festercluck`  has in multiple occasions identified
+    similarities between Android's [Stagefright](https://en.wikipedia.org/wiki/Stagefright_\(bug\))
+    family of media-related exploits - including the timeline and 
+    specific vectors of attack such as 
+    [CVE-2019-2017](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-2017).
+    Whether the use of these exploits is intentional or simply bugs or
+    poor standard compliance from a custom encoder is hard to determine
+    externally. Another criticism of this theory is that there seems
+    to be little to gain from a successful Stagefright exploit on a 
+    YouTube viewer's device other than knowing it's possible or not.
+  - In November 2021, Discord user `electrojustin` reported the
+    possiblity of UFSC being an attack on YouTube meant to reveal
+    proprietary video codec- and compression-related information
+    ([link](https://docs.google.com/document/d/1zHYQBtRiLHSkBlstCLgwoTuCX9mvrz27Es5_IiX98IA/edit)).
 
 ### Recruitment puzzle or test
 
