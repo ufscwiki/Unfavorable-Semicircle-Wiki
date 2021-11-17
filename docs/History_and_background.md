@@ -75,7 +75,7 @@ reddit.
 
 On March 15, 2016 [garbled text](G+_post_1 "wikilink") was discovered on
 the Google+ page linked with the terminated YouTube account. This was
-decoded to be source of a [Twitter account](https://twitter.com/unfavorablesemi) and also contained a link
+decoded to be source of a [Twitter](Twitter "wikilink") and also contained a link
 to a [second YouTube account](https://www.youtube.com/channel/UCLEBJyqL1KKsKKz_aBqfPaQ). Both
 these accounts were named **Unfavorable Semi**. (Since then, there have
 been several "copycat" channels re-posting the videos but
