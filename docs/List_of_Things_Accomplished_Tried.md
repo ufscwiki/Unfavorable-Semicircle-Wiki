@@ -22,6 +22,10 @@ possibly been tentatively dismissed on other threads.*)
     by Miss Patricola with the Virginians.
   - efforts have been made to [reverse engineer](Reverse_Engineering_Attempts "wikilink") the videos, or to
     understand the process by building new videos "from the ground up".
+  - [Keyhole position, color and background analysis](https://colab.research.google.com/drive/1q0DmzKY7eztm-nfwFjRrgRq5BvzMG_hn?usp=sharing)
+    for the [original unnamed series](Original_unnamed_series "wikilink"), including heatmap, entropy and
+    more by Discord user `electrojustin` (November 2021).
+    - [CSV with extracted data](https://drive.google.com/file/d/1zt7h4mA1zBIy42wpXoOuMS0NzXvtliS2/view?usp=sharing).
 
 ## Needing further investigation
 
