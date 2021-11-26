@@ -107,4 +107,5 @@ free to revisit these or use them as a starting point.
     (see Follow-up section).
     
  ## Other ways to help
-  - updating this wiki (see instructions on how to contribute [here](Updating_the_Wiki "wikilink"))
+
+- updating this wiki (see instructions on how to contribute [here](Updating_the_Wiki "wikilink"))
