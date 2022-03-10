@@ -66,13 +66,13 @@ Some videos also feature a [handshake](handshake "wikilink") and actual
 numbers being spoken - both obvious features from traditional number
 stations.
 
-### Penetration-testing
+### Hacking
 
-***Main article: [Penetration-testing](pentesting "wikilink").***
+***Main article: [Hacking](hacking "wikilink").***
 
-[Adapted from wikipedia](https://en.wikipedia.org/wiki/Penetration_test):
+[Adapted from wikipedia](https://en.wikipedia.org/wiki/Security_hacker):
 
-> A penetration-test is a cyberattack on a computer network, performed to evaluate its security. The test is performed to identify weaknesses (also referred to as vulnerabilities), including the potential to gain access to the system's features and data, as well as strengths, enabling a full risk assessment to be completed. 
+> A hacker is someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network. Hackers may be motivated by a multitude of reasons such as profit, protest, information gathering, challenge, recreation and evaluation of a system's weaknesses to assist in formulating defenses against other hackers.
 
 ### Recruitment puzzle or test
 

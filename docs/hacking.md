@@ -1,4 +1,4 @@
-# List of theories: penetration testing
+# List of theories: hacking
 
 ## Memory manipulation
 
