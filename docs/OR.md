@@ -39,12 +39,17 @@ The OR videos are unusual in several respects:
 
 ## Unusual playback behavior
 
-A strange effect was discovered on certain TVs that played any of the
-videos:
+A strange effect was discovered on certain TVs that played any of the videos:
 
   - <https://youtu.be/A9Cpe7jsgfg>
   - <https://youtu.be/YMU9eZ5xoFc>
   - <https://youtu.be/CRa88uNEsQo>
+
+On December 2021, Discord user `Stekapinko` uploaded a video, along with this comment (referring to *♐OR_101*):
+
+> hey i just found this server from a video about unfavorable semicircle and looked at the archives of it. I looked at a video called "RETIO" and saw that my phone saw something different than my pc
+> 
+> the same goes for [this video](OR-101-mobile-playback.mp4)
 
 This behavior is possibly related to memory glitches from [Stagefright exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
 
