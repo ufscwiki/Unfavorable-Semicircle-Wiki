@@ -66,44 +66,13 @@ Some videos also feature a [handshake](handshake "wikilink") and actual
 numbers being spoken - both obvious features from traditional number
 stations.
 
-### Penetration testing
+### Penetration-testing
 
-  - The idea is that the video may be carrying a payload or is affecting
-    memory elsewhere when played through memory leaks. This would be a
-    significant exploit and would be a huge deal.
-  - Idea by /u/FesterCluck
-  - More specifically, FesterCluck believed the entity behind UFSC is
-    pen-testing for a GPU RAM exploit via YouTube (or video content in
-    general).
-  - This is a bit of a controversial theory. Many of us are not sure how
-    this would work, or if it is even possible, but as of now hasn't
-    been proven either way.
-  - Original reddit post and discussion here
-    <https://www.reddit.com/r/UnfavorableSemicircle/comments/54pxyw/ive_done_it_and_it_is_truly_amazing/>
-  - More info on Discord user festercluck's [theories on Stagefright and Rowhammer exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
-  - The videos have been shown to cause strange behavior in some cases,
-    such as playing after the [YouTube](YouTube "wikilink") duration bar
-    is over or causing Android phones to shut down their screens.
-    Whether this is intended or a byproduct of the custom process used
-    in creating videos is unknown.
-  - Another possibility is that the author(s) are trying to
-    reverse-engineer YouTube internals (or Twitter, for that particular
-    account) by creating scenarios that would target specific systems
-    such as transcoding, storage or copyright identification.
-  - Discord user `festercluck`  has in multiple occasions identified
-    similarities between Android's [Stagefright](https://en.wikipedia.org/wiki/Stagefright_\(bug\))
-    family of media-related exploits - including the timeline and 
-    specific vectors of attack such as 
-    [CVE-2019-2017](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-2017).
-    Whether the use of these exploits is intentional or simply bugs or
-    poor standard compliance from a custom encoder is hard to determine
-    externally. Another criticism of this theory is that there seems
-    to be little to gain from a successful Stagefright exploit on a 
-    YouTube viewer's device other than knowing it's possible or not.
-  - In November 2021, Discord user `electrojustin` reported the
-    possiblity of UFSC being an attack on YouTube meant to reveal
-    proprietary video codec- and compression-related information
-    ([link](https://docs.google.com/document/d/1zHYQBtRiLHSkBlstCLgwoTuCX9mvrz27Es5_IiX98IA/edit)).
+***Main article: [Penetration-testing](pentesting "wikilink").***
+
+[Adapted from wikipedia](https://en.wikipedia.org/wiki/Penetration_test):
+
+> A penetration-test is a cyberattack on a computer network, performed to evaluate its security. The test is performed to identify weaknesses (also referred to as vulnerabilities), including the potential to gain access to the system's features and data, as well as strengths, enabling a full risk assessment to be completed. 
 
 ### Recruitment puzzle or test
 
