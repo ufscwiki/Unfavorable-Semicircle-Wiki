@@ -42,7 +42,7 @@ On January 2022, Discord user `Princeton King` has made the following claim:
 
 > Guys the audio in lock its reads fear in Morse code 
 > 
-> ••-• • •- •-•
+> `••-• • •- •-•`
 > 
 > play the video at 0.25x
 > 
