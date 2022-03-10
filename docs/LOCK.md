@@ -44,11 +44,9 @@ On January 2022, Discord user `Princeton King` has made the following claim:
 > 
 > ••-• • •- •-•
 > 
-> play the video at .25x
+> play the video at 0.25x
 > 
 > Then you can see the flashes and hear the sound how they line up It's easier to  line them up
-> 
-> That's 0.25x
 
 ## Significance
 
