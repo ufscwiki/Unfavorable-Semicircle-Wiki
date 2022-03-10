@@ -159,10 +159,8 @@ referencing Unfavorable Semicircle or its experimental purpose.
 
 ### UFSC is a test by or affiliated with google, much like Webdriver Torso
 
-  - The first YouTube channel was banned on (date) due to multiple terms
-    of service violations.
-  - Unfavorable Semicircle also created a twitter account, so we know
-    that it isn't YouTube specific.
+  - The first YouTube channel was banned on February 2016 due to multiple terms of service violations.
+  - Unfavorable Semicircle also created a [Twitter](Twitter "wikilink") account, so we know that it isn't YouTube-specific.
 
 ### UFSC is a script run amok
 
