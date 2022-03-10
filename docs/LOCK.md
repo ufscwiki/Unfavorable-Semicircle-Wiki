@@ -5,6 +5,7 @@
   * [Overview](#overview)
   * [Description of video](#description-of-video)
   * [Audio](#audio)
+    + [Morse code](#morse-code)
   * [Significance](#significance)
     + [Frame composite discovery](#frame-composite-discovery)
   * [Composite image](#composite-image)
@@ -34,6 +35,18 @@ sounds, heard separately in the left and right channels.
 
 Unusually, this is the only known UFSC video at a 48K sample rate (as
 opposed to 44.1K)
+
+### Morse code
+
+On January 2022, Discord user `Princeton King` has made the following claim:
+
+> Guys the audio in lock its reads fear in Morse code 
+> 
+> ••-• • •- •-•
+> 
+> play the video at 0.25x
+> 
+> Then you can see the flashes and hear the sound how they line up It's easier to  line them up
 
 ## Significance
 
