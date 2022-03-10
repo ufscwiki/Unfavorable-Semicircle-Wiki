@@ -1,6 +1,20 @@
 # List of Theories
 
-## Introduction on theories
+* [Introduction](#introduction)
+* [Plausible theories](#plausible-theories)
+  + [Outsider art](#outsider-art)
+  + [Steganography](#steganography)
+  + [Hacking](#hacking)
+  + [Recruitment puzzle or test](#recruitment-puzzle-or-test)
+  + [ARG](#arg)
+  + [LTSM](#ltsm)
+  + [Work of a disturbed mind](#work-of-a-disturbed-mind)
+  + [Experiment of human interpretation](#experiment-of-human-interpretation)
+* [Unlikely theories](#unlikely-theories)
+* [Debunked theories with evidence](#debunked-theories-with-evidence)
+* [Other extreme theories](#other-extreme-theories)
+    
+## Introduction
 
 Because so little is understood about UFSC relative to the massive
 amount of content, theories as the meaning of the project and the intent
@@ -17,7 +31,7 @@ Also remember that we tend to "view" such a complicated thing through the lens o
 
 *UFSC theories, visually represented*
 
-## Possible Theories
+## Plausible theories
 
 ### Outsider art
 
@@ -130,7 +144,7 @@ the beginning of Unfavorable Semicircle's existence in 2015 and its
 arguable "ending" in 2017, there have been no published studies
 referencing Unfavorable Semicircle or its experimental purpose.
 
-## Unlikely Theories
+## Unlikely theories
 
 ### UFSC is a viral advertising campaign
 
