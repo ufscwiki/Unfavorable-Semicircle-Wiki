@@ -110,6 +110,7 @@ free to revisit these or use them as a starting point.
     would also be welcome.
   - [Investigation into color data in SN visuals](Investigation_into_color_data_in_SN_visuals "wikilink")
     (see Follow-up section).
+  - There's a claim on the [♐LOCK](LOCK "wikilink") article that slowing down the video 4x makes the audio easier to read as morse code. Between the size of archives and possible playbacks speeds without distoring the audio track too much (both faster and slower), that approach could be taken with a lot of videos.
     
  ## Other ways to help
 
