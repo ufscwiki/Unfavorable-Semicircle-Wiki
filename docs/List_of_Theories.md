@@ -1,6 +1,20 @@
 # List of Theories
 
-## Introduction on theories
+* [Introduction](#introduction)
+* [Plausible theories](#plausible-theories)
+  + [Outsider art](#outsider-art)
+  + [Steganography](#steganography)
+  + [Hacking](#hacking)
+  + [Recruitment puzzle or test](#recruitment-puzzle-or-test)
+  + [ARG](#arg)
+  + [LTSM](#ltsm)
+  + [Work of a disturbed mind](#work-of-a-disturbed-mind)
+  + [Experiment of human interpretation](#experiment-of-human-interpretation)
+* [Unlikely theories](#unlikely-theories)
+* [Debunked theories with evidence](#debunked-theories-with-evidence)
+* [Other extreme theories](#other-extreme-theories)
+    
+## Introduction
 
 Because so little is understood about UFSC relative to the massive
 amount of content, theories as the meaning of the project and the intent
@@ -17,7 +31,7 @@ Also remember that we tend to "view" such a complicated thing through the lens o
 
 *UFSC theories, visually represented*
 
-## Possible Theories
+## Plausible theories
 
 ### Outsider art
 
@@ -66,13 +80,13 @@ Some videos also feature a [handshake](handshake "wikilink") and actual
 numbers being spoken - both obvious features from traditional number
 stations.
 
-### Penetration-testing
+### Hacking
 
-***Main article: [Penetration-testing](pentesting "wikilink").***
+***Main article: [Hacking](hacking "wikilink").***
 
-[Adapted from wikipedia](https://en.wikipedia.org/wiki/Penetration_test):
+[Adapted from wikipedia](https://en.wikipedia.org/wiki/Security_hacker):
 
-> A penetration-test is a cyberattack on a computer network, performed to evaluate its security. The test is performed to identify weaknesses (also referred to as vulnerabilities), including the potential to gain access to the system's features and data, as well as strengths, enabling a full risk assessment to be completed. 
+> A hacker is someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network. Hackers may be motivated by a multitude of reasons such as profit, protest, information gathering, challenge, recreation and evaluation of a system's weaknesses to assist in formulating defenses against other hackers.
 
 ### Recruitment puzzle or test
 
@@ -130,7 +144,7 @@ the beginning of Unfavorable Semicircle's existence in 2015 and its
 arguable "ending" in 2017, there have been no published studies
 referencing Unfavorable Semicircle or its experimental purpose.
 
-## Unlikely Theories
+## Unlikely theories
 
 ### UFSC is a viral advertising campaign
 
@@ -145,10 +159,8 @@ referencing Unfavorable Semicircle or its experimental purpose.
 
 ### UFSC is a test by or affiliated with google, much like Webdriver Torso
 
-  - The first YouTube channel was banned on (date) due to multiple terms
-    of service violations.
-  - Unfavorable Semicircle also created a twitter account, so we know
-    that it isn't YouTube specific.
+  - The first YouTube channel was banned on February 2016 due to multiple terms of service violations.
+  - Unfavorable Semicircle also created a [Twitter](Twitter "wikilink") account, so we know that it isn't YouTube-specific.
 
 ### UFSC is a script run amok
 
