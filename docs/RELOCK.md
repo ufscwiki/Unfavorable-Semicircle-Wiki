@@ -29,9 +29,6 @@ The composite of RELOCK is very similar, but not identical, to
 
 <http://tomasf.se/projects/semi/RELOCK_composite.png>
 
-This animation shows the difference between the RELOCK and LOCK
-composite. RELOCK has additional noise in the background, and in LOCK
-many of the pixels extend one pixel to the right.
+This image highlights the mismatching pixels between LOCK and RELOCK, with the differences being too subtle to notice through a visual inspection only.
 
-![LOCK-RELOCK-compare.gif](LOCK-RELOCK-compare.gif)
-
+![lock-relock-diff-highlight.png](lock-relock-diff-highlight.png)
