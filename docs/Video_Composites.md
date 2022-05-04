@@ -17,6 +17,8 @@ page.
 Composites can sometimes be plotted in 3D to produce a shape: see the
 [3D Composite](3D_Composite "wikilink") page.
 
+[The first discovery of a 2D composite happened in April 20, 2016 (♐LOCK)](https://www.reddit.com/r/UnfavorableSemicircle/comments/4fo16c/lock_frames_combined_into_one_image/), and [February 3, 2017 for the first 3D composite (♐BREADTH)](https://discord.com/channels/193619269794267137/266676732122103831/277134579406471168). This is noteworthy because some of the most notable composites that came later, such as [♐HARVEST](HARVEST "wikilink") could have been created purposefully for the solving community to find them, including the entirety of 3D composites as the upload of ♐BREADTH postdates the discovery of 2D composites. UFSC has been suspected of interacting indirectly with the community (see [♐FOND](FOND "wikilink")) so it wouldn't be a stretch to imagine composites being used as intentional messages, red-herrings, pranks...
+
 ## Composites created by tomasfra
 
 ### ♐[LOCK](LOCK "wikilink")
