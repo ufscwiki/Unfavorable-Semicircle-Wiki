@@ -76,7 +76,7 @@ content-delivery networks as a way of being immediately accessible 24/7
 anywhere in the world that is connected to the Internet (so pretty much
 any civilized location anywhere in the globe).
 
-Some videos also feature a [handshake](handshake "wikilink") and actual
+Some videos also feature a [handshake](Handshake "wikilink") and actual
 numbers being spoken - both obvious features from traditional number
 stations.
 
