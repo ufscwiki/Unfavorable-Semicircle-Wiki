@@ -69,6 +69,10 @@ Huge Size: <http://tomasf.se/projects/semi/LOCK_composite_huge.png>
 
 ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")
 
+An alternative ♐LOCK composite with width of 197.36 pixels that does not need to be shifted to the left like the previous one (which may be skewed):
+
+![LOCK\_composite197.png](LOCK_composite197.png "LOCK_composite197.png")
+
 ### 3-D Composite
 
 The later discovery of 3-d Composited lead to retrospective analysis of
