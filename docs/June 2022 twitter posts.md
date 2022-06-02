@@ -6,7 +6,7 @@ On June 1, 2022, the Unfavorable Semicircle twitter account (@unfavorablesem) be
 
 ### Tweet #1
 
-![Tweet #1](june_22_tweet_1 "Tweet #1")
+![Tweet #1](june_22_tweet_1.png "Tweet #1")
 
 > I  think if an alien were to communicate with us it'd be like UFSC. Totally unhuman way of communication and thought.
 > (I'm not saying UFSC is an actual alien lol)
@@ -22,7 +22,7 @@ The first tweet is a direct quotation from a post from December 8, 2021 by disco
 
 ### Tweet #2
 
-![Tweet #2](june_22_tweet_1 "Tweet #2")
+![Tweet #2](june_22_tweet_2.png "Tweet #2")
 
 > got it basically right. outsider art, some puzzle some arg. webdriver inspired. a fine line between comprehensible and noise. stream of conscious, vague meanings. programming project & nothing exciting. meaningless poem unfound. not sure can be. nice work to all involved!♐️
 
@@ -32,7 +32,7 @@ A largely straightforward comment, although the reference to the "meaningless po
 
 ### Tweet #3
 
-![Tweet #3](june_22_tweet_1 "Tweet #3")
+![Tweet #3](june_22_tweet_3.png "Tweet #3")
 
 > love this
 
