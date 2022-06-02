@@ -7,6 +7,8 @@
   * [2018](#2018)
   * [2019](#2019)
   * [2020](#2020)
+  * [2022](#2022)
+
 
 
 ## 2015
@@ -164,3 +166,9 @@
 | Date       | Description                                                                                                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-12-26 | Youtuber Chill Fuel posts a video entitled "[Unfavorable Semicircle - Youtube's Strangest Channel](https://youtu.be/GxyJ1rZ4lY8)" which quickly garners over one hunded thousand views, bringing renewed interest to UFSC|
+
+## 2022
+
+| Date       | Description                                                                                                                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-06-01 | the Unfavorable Semicircle twitter account ([@unfavorablesem](https://twitter.com/unfavorablesem)) became active for the first time since its founding in March 2019, posting [a series of tweets](June_2022_twitter_posts "wikilink") in a short period of time.|
