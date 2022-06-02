@@ -55,7 +55,7 @@ This tweet included [a youtube link](https://youtu.be/68C1Gc4De7c) to the song "
 
 #### Analysis
 
-Discored user ShadowMorphyn posited that "that song they posted is definitely the sound for [SQEN](SQEN "wikilink")".
+Discored user ShadowMorphyn posited that "that song they posted is definitely the sound for ♐[SQEN](SQEN "wikilink")".
 
 ### Tweet #4
 
@@ -83,5 +83,24 @@ This is an obvious assertion that the image in the ♐LOCK composite is of the V
 
 The image posted is a 250x250 version of the ♐LOCK composite, which has apparenly not been previously posted in the community.
 
+### Tweet #6
 
+![Tweet #6](june_22_tweet6.png "Tweet #6")
 
+> \_OLDTHOUGHT
+
+![GOLDEN composite](june_22_GOLDEN_version.png "GOLDEN composite")
+
+#### Analysis
+
+The meaning of "\_OLDTHOUGHT" is unclear. The tweet includes an image of the ♐[GOLDEN](GOLDEN "wikilink"), as a resolution of 680x680. This would seem to tie this compososite, like ♐LOCK, to the Voyager golden record.
+
+### Tweet #7
+
+![Tweet #7](june_22_tweet7.png "Tweet #7")
+
+> If a single structured/voted list of questions is created somewhere (platform of your choosing) I will answer some of the top questions. Can't answer everything. Will start answering 1 week from today. Will answer here.
+
+#### Analysis
+
+This tweet was pinned in the twitter account. It is pretty straightforward, and efforts began immediately to respond with questions of authentiicity and method.
