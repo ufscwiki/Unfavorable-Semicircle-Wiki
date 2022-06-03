@@ -12,6 +12,7 @@
     + [What is ♐REAL?](#what-is--real-)
     + [A voice from somewhere](#a-voice-from-somewhere)
     + ["Homesick"](#-homesick-)
+    + ["nice work to all involved!"](#-nice-work-to-all-involved-)
   * [Catching up/Articles to read](#catching-up-articles-to-read)
   * [Joining the Community](#joining-the-community)
     + [Subreddit](#subreddit)
@@ -173,6 +174,9 @@ final Google+ post.
 
 ### "Homesick"
 In the absence of new dispatches from UFSC, the community investigating it continues to congregate at the Discord server, even if things are quieter than in the past. New ideas get bounced around, and new discoveries are still being made — for example, in June 2020, it was discovered that the music in ♐[DELOCK](DELOCK "wikilink") appears to be a manipulated version of "[*Homesick*](https://youtu.be/Mw6n1LuMaBQ)", recorded by Bailey's Lucky Seven. This would seemingly be confirmed by (and explains) the hitherto-obscure comment "HOMESICKDELOCK" in the final [G+](Google_Plus "wikilink") post.
+
+### "nice work to all involved!"
+On [June 1, 2022](June_2022_twitter_posts "wikilink"), the Unfavorable Semicircle twitter account ([@unfavorablesem](https://twitter.com/unfavorablesem)) became active for the first time since its founding in March 2019, posting a series of tweets in a short period of time. They included a quotation from the UFSC discord, what appears to be a more complete version of the various composites found in the [BRILL group](BRILL_Composite "wikilink") as well as versions of the ♐[LOCK](LOCK "wikilink") and  ♐[GOLDEN](GOLDEN "wikilink") composites, a link to a song and some commentary and a promise to answer questions from the community. It is unclear if the person posting  the tweets account is an actual author of UFSC or merely someone who has assumed control of the account.
 
 ## Catching up/Articles to read
 
