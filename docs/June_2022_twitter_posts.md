@@ -95,6 +95,10 @@ The image posted is a 250x250 version of the ♐LOCK composite, which has appare
 
 The meaning of "\_OLDTHOUGHT" is unclear. The tweet includes an image of the ♐[GOLDEN](GOLDEN "wikilink"), as a resolution of 680x680. This would seem to tie this compososite, like ♐LOCK, to the Voyager golden record.
 
+The posting of this version of the composite has lead to the conclusion that the text in the image reads "THERE IS ALWAYS MORE THERE IS ALWAYS MORE..." (see the ♐[GOLDEN](GOLDEN "wikilink") article for more details.)
+
+![GOLDEN text interpolation](golden_text_interpolation.png "GOLDEN text interpolation")
+
 ### Tweet #7
 
 ![Tweet #7](june_22_tweet7.png "Tweet #7")
