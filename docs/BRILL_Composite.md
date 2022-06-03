@@ -16,6 +16,7 @@ Shown above is the full, uncropped BRILL source image shared by the [@unfavorabl
   - The [BRINE](BRINE "wikilink") series has a cropped version of the composite (most easily visible with a width of 540.5).
     ![BRINE series composite](https://www.unfavorablesemicircle.com/BRINE_composite_width_540_5.png)
   - [Numbered videos (2nd channel)](Numbered_videos_(2nd_channel) "wikilink") has a hue-shifted and distorted version of the composite. The hue is mirrored across the 120 / 300 degrees axis (green / magenta). (538 x 101)
+    
     ![2nd channel numbered videos composite](https://www.unfavorablesemicircle.com/Numbered_2016-07-12_composite.png)
   - On [June 1st, 2022](June_2022_twitter_posts "wikilink"), the [@unfavorablesem](twitter.com/@unfavorablesem) twitter account began posting various messages and    media, one of which being the source image for the BRILL composite; presumably as proof the person behind the twitter account is UFSC themself.
     ![](https://www.unfavorablesemicircle.com/june_22_brill_composite.jpg)
