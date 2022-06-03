@@ -67,7 +67,8 @@ Discord user ShadowMorphyn posted that "that song they posted is definitely the 
 
 #### Analysis
 
-(to follow!)
+Appears to be an attempt at proving that unfavorablesem is UFSC [or at least someone close to them] following requests to prove their identity after Tweet #2.
+This specific BRILL composite has never been found before by the community.
 
 ### Tweet #5
 
