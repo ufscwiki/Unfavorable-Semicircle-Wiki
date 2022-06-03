@@ -22,8 +22,7 @@ series.
 
 ## Description of video
 
-The video is 5:33:49 in length. It has a series of flashing frames that
-create a 2-D composite.
+The video is 5:33:49 in length. It has a series of flashing frames that create a 2-D composite.
 
 ## Audio & analysis
 
@@ -33,30 +32,44 @@ the background throughout that is not audible when watching on youtube.
 
 ## Significance of name and relationship to other videos
 
-The significance of the name 'golden' is as yet unclear.
+There was no agreement as to the significance of the title after it was posted. The "\_OLDTHOUGHT" [tweet](June_2022_twitter_posts "wikilink") has linked it to the [Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
 
 ## Composites
 
 ### 2-D Composite
 
+The composite creates a grid with four different images, similar to ♐[HARVEST](HARVEST "wikilink").
+
 ![♐GOLDEN Composite by ShadowMorphyn](GOLDEN.png)
 
 *♐GOLDEN Composite by ShadowMorphyn*
 
-The composite creates a grid with four different images, similar to
-♐[HARVEST](HARVEST "wikilink").
+![♐GOLDEN Composite by @unfavorablesem](june_22_GOLDEN_version.png)
+
+*♐GOLDEN Composite by @unfavorablesem*
+
 
 #### Significant data in the composite
 
 ##### Text in composite
 
-Similar to ♐[HARVEST](HARVEST "wikilink"), it appears that there is text
-encoded at the bottom of the top right quadrant. it is not yet clear
-what it says.
+Similar to ♐[HARVEST](HARVEST "wikilink"), it appears that there is text encoded at the bottom of the top right quadrant. The small size made the text difficult to decipher. However, with the posting of @unfavorablesem's version of the composite in 2022, discord user && has theorized that the text reads "THERE IS ALWAYS MORE THERE IS ALWAYS MORE..." 
 
 ![GOLDEN text.png](GOLDEN_text.png " GOLDEN text.png")
 
-*closeup of text in ♐GOLDEN composite*
+*closeup of text in ♐GOLDEN composite from community composite*
+
+![GOLDEN text interpolation](golden_text_interpolation.png "GOLDEN text interpolation")
+
+*version with pixel interpolation by alexanderpanos*
+
+![oldthought tweet version](golden_text_oldthought.png "oldthought tweet version")
+
+*text from "oldthought" version by &&*
+
+![GOLDEN text xor](golden_text_xor.png "GOLDEN text xor")
+
+*text from XOR analysis by &&*
 
 ##### Similarity to ♐[RAPID](RAPID "wikilink")?
 
