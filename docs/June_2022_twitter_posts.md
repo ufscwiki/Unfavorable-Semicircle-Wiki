@@ -1,6 +1,6 @@
 # June 2022 twitter posts
 
-On June 1, 2022, the Unfavorable Semicircle twitter account ([@unfavorablesem](https://twitter.com/unfavorablesem)) became active for the first time since its founding in March 2019, posting a series of tweets in a short period of time.
+On June 1, 2022, the Unfavorable Semicircle twitter account ([@unfavorablesem](https://twitter.com/unfavorablesem)) became active for the first time since its creation in March 2019, posting a series of tweets in a short period of time.
 
 It is unclear if the person posting to the twitter account is an actual author of UFSC or merely someone who has assumed control of the account.
 
@@ -37,7 +37,7 @@ A largely straightforward comment, although the reference to the "meaningless po
 
 > love this
 
-This tweet included [a youtube link](https://youtu.be/68C1Gc4De7c) to the song "The Most Beautiful Day" by Professor Kliq. The lyrics of the song describe UFO's arriving at Earth:
+This tweet included [a youtube link](https://youtu.be/68C1Gc4De7c) to the song "The Most Beautiful Day" by Professor Kliq. The lyrics of the song describe UFOs arriving on Earth:
 
 > And once it came close enough I knew
 > 
@@ -55,7 +55,7 @@ This tweet included [a youtube link](https://youtu.be/68C1Gc4De7c) to the song "
 
 #### Analysis
 
-Discored user ShadowMorphyn posited that "that song they posted is definitely the sound for ♐[SQEN](SQEN "wikilink")".
+Discord user ShadowMorphyn posted that "that song they posted is definitely the sound for ♐[SQEN](SQEN "wikilink")".
 
 ### Tweet #4
 
@@ -67,7 +67,8 @@ Discored user ShadowMorphyn posited that "that song they posted is definitely th
 
 #### Analysis
 
-(to follow!)
+Appears to be an attempt at proving that unfavorablesem is UFSC [or at least someone close to them] following requests to prove their identity after Tweet #2.
+This specific BRILL composite has never been found before by the community.
 
 ### Tweet #5
 
@@ -81,7 +82,7 @@ Discored user ShadowMorphyn posited that "that song they posted is definitely th
 
 This is an obvious assertion that the image in the ♐LOCK composite is of the Voyager Golden Record.
 
-The image posted is a 250x250 version of the ♐LOCK composite, which has apparenly not been previously posted in the community.
+The image posted is a 250x250 version of the ♐LOCK composite, which has apparently not been previously posted in the community.
 
 ### Tweet #6
 
@@ -93,7 +94,13 @@ The image posted is a 250x250 version of the ♐LOCK composite, which has appare
 
 #### Analysis
 
-The meaning of "\_OLDTHOUGHT" is unclear. The tweet includes an image of the ♐[GOLDEN](GOLDEN "wikilink"), as a resolution of 680x680. This would seem to tie this compososite, like ♐LOCK, to the Voyager golden record.
+The meaning of "\_OLDTHOUGHT" is unclear. The tweet includes a version of the ♐[GOLDEN](GOLDEN "wikilink") composite with a resolution of 680x680. This version of the composite has a filled-in version of the previously-unintelligible text in the top-right quadrant, now identified as the mantra of "There is always more..."
+
+Shown below is the text section from _OLDTHOUGHT
+![Text from _OLDTHOUGHT](https://cdn.discordapp.com/attachments/193619269794267137/982051700472954880/unknown.png)
+
+Shown below is the text section from _OLDTHOUGHT, XORred with the original GOLDEN composite. [clearer result]
+![XOR analysis](https://cdn.discordapp.com/attachments/193619269794267137/982051792374333440/unknown.png)
 
 The posting of this version of the composite has lead to the conclusion that the text in the image reads "THERE IS ALWAYS MORE THERE IS ALWAYS MORE..." (see the ♐[GOLDEN](GOLDEN "wikilink") article for more details.)
 
@@ -107,4 +114,4 @@ The posting of this version of the composite has lead to the conclusion that the
 
 #### Analysis
 
-This tweet was pinned in the twitter account. It is pretty straightforward, and efforts began immediately to respond with questions of authentiicity and method.
+This tweet was pinned in the twitter account. It is pretty straightforward, and efforts began immediately to respond with questions of authenticity and method.
