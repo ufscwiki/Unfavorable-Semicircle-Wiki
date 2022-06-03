@@ -8,7 +8,7 @@
     + [Morse code](#morse-code)
   * [Significance](#significance)
     + [Frame composite discovery](#frame-composite-discovery)
-  * [Composite image](#composite-image)
+  * [Composite images](#composite-images)
     + [3-D Composite](#3-d-composite)
   * ["black dots" and "bars"](#-black-dots--and--bars-)
   * [Theories and possible explanations](#theories-and-possible-explanations)
@@ -56,22 +56,23 @@ On January 2022, Discord user `Princeton King` has made the following claim:
 
 ### Frame composite discovery
 
-On April 20, 2016, Reddit user tomasf.se discovered that when each
-individual frame of the video is combined into an image with a width of
-197 pixels, a picture appears. It is currently unknown what the image
-portrays, but many users have tampered with the image in search of a
-more clear visual.
+On April 20, 2016, Reddit user tomasf.se discovered that when each individual frame of the video is combined into an image with a width of 197 pixels, a picture appears. The subject of this image was subject to intense debate over several years (_see below_). In June 2022, @unfavorablesem [posted](https://twitter.com/unfavorablesem/status/1532221038372786177) a new version of the composite image alongside a link to the wikipedia article on the [Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
 
-## Composite image
+## Composite images
 
 Regular Size: <http://tomasf.se/projects/semi/LOCK_composite.png>  
 Huge Size: <http://tomasf.se/projects/semi/LOCK_composite_huge.png>
 
 ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")
 
-An alternative ♐LOCK composite with width of 197.36 pixels that does not need to be shifted to the left like the previous one (which may be skewed):
-
 ![LOCK\_composite197.png](LOCK_composite197.png "LOCK_composite197.png")
+
+(_alternative ♐LOCK composite with width of 197.36 pixels that does not need to be shifted to the left like the previous one (which may be skewed_)
+
+![@unfavorablesem version posted to twitter](june_22_LOCK_version.png "@unfavorablesem version posted to twitter")
+
+(_version [posted to twitter](June_2022_twitter_posts "wikilink") by @unfavorablesem_)
+
 
 ### 3-D Composite
 
