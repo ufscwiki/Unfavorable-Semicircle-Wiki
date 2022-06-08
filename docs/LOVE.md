@@ -25,7 +25,7 @@ throughout.
 ## LAME tags
 
 On September 14, 2017, Discord user [unstable olding](unstable_olding "wikilink") mentioned finding *LAME3.99.5*
-strings in the [LOVE text files](LOVE_text_files "wikilink"). This is
+strings in the LOVE text files. This is
 the metadata tag of [a famous MP3 file encoder](http://lame.sourceforge.net/), in it's latest version as of the
 date (3.99.5, released back in 2012). This could be evidence that either
 this encoder was used to generate the audio tracks for the video or that
