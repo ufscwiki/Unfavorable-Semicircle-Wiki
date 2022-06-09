@@ -1,0 +1,1 @@
+♐️ANSWERS was the title of a tweet posted to the ([@unfavorablesem](https://twitter.com/unfavorablesem)) Twitter account on June 9, 2022. It was in respose to a list of questions submitted by Discord users (see below) and _prima facie_ brings closure to the mysteries of Unfavorable Semicircle. (Though see "Questions of Authenticity" below.)
