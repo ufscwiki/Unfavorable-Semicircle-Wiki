@@ -115,3 +115,13 @@ The posting of this version of the composite has lead to the conclusion that the
 #### Analysis
 
 This tweet was pinned in the twitter account. It is pretty straightforward, and efforts began immediately to respond with questions of authenticity and method.
+
+### Tweet #7 / ♐️ANSWERS
+
+![answers.jpg](answers.jpg "answers.jpg")
+
+This tweet consisted of a background image with a large amount of text, written in response to the [community-generated questions](unfavorablesem_AMA "wikilink") inspired by the previous tweet.
+
+#### Details and Analysis
+
+_see [ANSWERS](ANSWERS "wikilink")_
