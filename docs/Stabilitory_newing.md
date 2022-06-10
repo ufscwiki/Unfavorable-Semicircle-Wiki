@@ -44,7 +44,7 @@ Anagrams of "stabilitory newing":
 
 ## Work on finding information in the visuals
 
-[Notes on some ideas on treating the "histograms" as a source of data.](Investigation_into_color_data_in_SN_visuals "wikilink")
+Earlier work focused on [treating the "histograms" as a source of data](Investigation_into_color_data_in_SN_visuals "wikilink"). Interest was renewed after the June 2022 ♐️[ANSWERS](ANSWERS "wikilink") tweet specifically said that "yes, there are Stabilitory Newing composites".
 
 ## Removal
 
