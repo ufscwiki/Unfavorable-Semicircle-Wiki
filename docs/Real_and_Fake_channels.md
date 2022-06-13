@@ -78,7 +78,6 @@
 <td><p><a href="Twitter" title="wikilink">Twitter</a></p></td>
 <td><ul>
 <li>Referred to as LA ("latest"?) in the <a href="Google_Plus#G.2B_post_4" title="wikilink">fourth G+ post</a>.</li>
-<li>Currently has not posted anything.</li>
 </ul></td>
 <td><p><a href="https://twitter.com/unfavorablesem">https://twitter.com/unfavorablesem</a></p></td>
 </tr>
