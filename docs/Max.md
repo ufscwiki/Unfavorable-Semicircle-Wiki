@@ -14,9 +14,9 @@ create them.
 
 | Unfavorable Semicircle                                                                                                 | Max community videos                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| {{\#ev:youtube|[https://www.youtube.com/watch?v=zp-X9o\_Ko6U|480](https://www.youtube.com/watch?v=zp-X9o_Ko6U%7C480)}} | {{\#ev:youtube|[https://www.youtube.com/watch?v=FhEI1REY6zw|480](https://www.youtube.com/watch?v=FhEI1REY6zw%7C480)}} |
-| {{\#ev:youtube|[https://www.youtube.com/watch?v=Y-bl68X6aIg|480](https://www.youtube.com/watch?v=Y-bl68X6aIg%7C480)}}  | {{\#ev:youtube|[https://www.youtube.com/watch?v=MexC6VbWBRk|480](https://www.youtube.com/watch?v=MexC6VbWBRk%7C480)}} |
-| {{\#ev:youtube|[https://www.youtube.com/watch?v=vHdplGjIQkY|480](https://www.youtube.com/watch?v=vHdplGjIQkY%7C480)}}  | {{\#ev:youtube|[https://www.youtube.com/watch?v=wpRHwRzkdjs|480](https://www.youtube.com/watch?v=wpRHwRzkdjs%7C480)}} |
+| https://www.youtube.com/watch?v=zp-X9o_Ko6U | https://www.youtube.com/watch?v=FhEI1REY6zw |
+| https://www.youtube.com/watch?v=Y-bl68X6aIg | https://www.youtube.com/watch?v=MexC6VbWBRk |
+| https://www.youtube.com/watch?v=vHdplGjIQkY | https://www.youtube.com/watch?v=wpRHwRzkdjs |
 
 ## See also
 
