@@ -30,6 +30,8 @@ videos will remain available to this community and future researchers.
 * Discord user Dom has started a new archive [here](https://mega.nz/folder/yQw2RaoR#DP89I-1yRbd_1ABzer1_IA) to consolidate the above, noting that it "contains a handy catalog so you can see what's included and what's missing."
   * The archive key is `DP89I-1yRbd_1ABzer1_IA` (it is included in the URL if you click the top link)
 
+* User *Nostalgic* has created [a mirror of the archives on Internet Archive](https://archive.org/details/unfavorable-semicircle-archive).
+
 ### Archives of composites
 
 * a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
