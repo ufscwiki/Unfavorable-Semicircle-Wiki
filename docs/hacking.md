@@ -25,7 +25,7 @@ Ultimately, neither family of exploits were ever weaponized to their full potent
 See also:
 
 * More info on Discord user `festercluck`'s [theories on Stagefright and Rowhammer exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
-* "[A log](./videolog.txt) of *BRILL 49999* triggering the stagefright exploit in VLC", also by `festercluck`, generated on an old Android smartphone.
+* "[A log](./videolog.txt) of *[BRILL](BRILL "wikilink") 49999* triggering the stagefright exploit in VLC", also by `festercluck`, generated on an old Android smartphone.
 
 ## Playback glitches
 
