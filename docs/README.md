@@ -41,9 +41,10 @@ account, although later evidence has indicated that these may not be
 ### Composites
 
   - [Composite visual overview](Composite_visual_overview "wikilink")
-  - [Video Composites](Video_Composites "wikilink")
-  - [3D Composites](3D_Composite "wikilink")
-  - [Creating a Composite Image](Creating_a_Composite_Image "wikilink")
+  - [Video composites](Video_Composites "wikilink")
+  - [3D composites](3D_Composite "wikilink")
+  - [Audio composites](audio_composites "wikilink")
+  - [Creating a composite](Creating_a_Composite_Image "wikilink")
 
 ## Joining the Community
 

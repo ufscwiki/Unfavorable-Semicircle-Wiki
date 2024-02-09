@@ -12,6 +12,8 @@ Blank spots on this chart could mean:
   - a composite has been made, but no image has been uploaded to this
     wiki
   - it wouldn't make sense to made a composite of that video
+  
+**See also**: [Audio composites](audio_composites "wikilink").
 
 ## Archive of composites
 
@@ -19,7 +21,7 @@ Blank spots on this chart could mean:
 
 ## Original youtube channel: Non-series videos
 
-| Video or series                                       | 2-D composite                                                                               | 3-D composite |
+| Video or series                                       | [2D composite](Video_Composites "wikilink") | [3D composite](3D_Composite "wikilink") |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
 | ♐[LOCK](LOCK "wikilink")                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             |               |
 | ♐[DELOCK](DELOCK "wikilink")                          |                                                                                             |               |
