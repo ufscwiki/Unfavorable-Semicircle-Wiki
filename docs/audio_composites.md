@@ -76,9 +76,11 @@ if __name__ == '__main__':
     main()
 ```
 
-## Other ♐LOCK composites
+## Other composites
 
-By `N25_CT13`:
+Unless stated otherwise, these are from ♐LOCK.
+
+### By N25_CT13
 
 ![audio_composites_ball.png](audio_composites_ball.png "audio_composites_ball.png")
 ![audio_composites_stel.png](audio_composites_stel.png "audio_composites_stel.png")
@@ -89,7 +91,11 @@ By `N25_CT13`:
 
 ![audio_composites_poles.png](audio_composites_poles.png "audio_composites_poles.png")
 
-By `Dom`:
+> N25_CT13: also tried converting the handshake
+
+![audio_composites_hsh1.png](audio_composites_hsh1.png "audio_composites_hsh1.png")
+
+### By Dom
 
 > Dom: Here are the first million samples (20.83 seconds) of LOCK's left channel, generated using the script I linked above. I used the composite tool to reshape it to a width of 1024 pixels. It's interesting to see so much periodicity at this width, since 1024 is a power of two
 >
