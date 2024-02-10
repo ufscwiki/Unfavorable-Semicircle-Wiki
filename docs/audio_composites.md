@@ -31,7 +31,7 @@ Discord user `Dom` explains the process:
 
 It has been postulated that since YouTube's encoding would not preserve the exact fidelity of any data encoded in audio samples, it was necessary for UFSC to first slow down the audio before uploading the videos. As such, the audios have to be sped up again to return to their intended form. The exact factor by which the samples have been altered is unknown and different approaches to this step will produce varied qualities in the final result.
 
-### Pythen script by Dom
+### Python script by Dom
 
 ```py
 import cv2
