@@ -204,7 +204,11 @@ _see_ [unfavorablesem AMA](unfavorablesem_AMA "wikilink")
 
 ## Questions of authenticity
 
-Further research (and, ultimately, personal opinion) will determine if this poster is the "real" maker of UFSC. It is not impossible that the "legitimate" twitter was hacked or taken control of by a third party, so the internal evidence and "new" revelations from the tweets will have to be weighed to determine whether or not this was a reliable account.
+Further research (and, ultimately, personal opinion) will determine if this poster is the "real" maker of UFSC. It is not impossible that the "legitimate" Twitter account was hacked or taken control of by a third party, so the internal evidence and "new" revelations from the tweets will have to be weighed to determine whether or not this was a reliable account.
+
+The possibility that this message was written by one member of a larger team or someone only tangentially connected to the original creators (perhaps oven without their full consent) has also been discussed.
+
+One of the main arguments against the authenticity of the message is the missod opportunity to hand over proof in the form of details about the methods and tools used to create the videos, which would have established the author as genuine. Whether this was deliberately done out of artistic integrity or because the message's author does not have access to such tools and knowledge remains unknown.
 
 The subsequent discovery of [audio composites](audio_composites "wikilink") seems to contradict the claim that no major discoveries were left to be made in the UFSC investigation.
 
