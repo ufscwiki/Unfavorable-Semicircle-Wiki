@@ -32,5 +32,6 @@ continuous with each other.
 
 ## See also
 
-  - [Max](Max "wikilink") (software)
+- [Max](Max "wikilink") (software)
+- [♐CRIMP](CRIMP "wikilink"), which seems to be synchronized in some way with ♐RECOVER
 
