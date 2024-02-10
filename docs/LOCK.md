@@ -155,5 +155,5 @@ various things. Possibilities mentioned by users include:
 
 ## See also
 
-  - [Max](Max "wikilink") (software)
-
+- [Max](Max "wikilink") (software)
+- [♐CRIMP](CRIMP "wikilink") and [recover](RECOVER "wikilink") may also have a lock-and-key dynamic
