@@ -206,11 +206,10 @@ _see_ [unfavorablesem AMA](unfavorablesem_AMA "wikilink")
 
 Further research (and, ultimately, personal opinion) will determine if this poster is the "real" maker of UFSC. It is not impossible that the "legitimate" twitter was hacked or taken control of by a third party, so the internal evidence and "new" revelations from the tweets will have to be weighed to determine whether or not this was a reliable account.
 
+The subsequent discovery of [audio composites](audio_composites "wikilink") seems to contradict the claim that no major discoveries were left to be made in the UFSC investigation.
+
 ## Background image
 
 Behind the text is an image "in the style of UFSC", which may warrant further analysis. Discord user noxxy observed there is a "sneaky semicircle ♐ icon in the bottom left" of the image.
 
 ![♐️answers detail](answers_detail.png "♐️ANSWERS detail")
-
-
-

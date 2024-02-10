@@ -112,6 +112,7 @@ free to revisit these or use them as a starting point.
     (see Follow-up section).
   - There's a claim on the [♐LOCK](LOCK "wikilink") article that slowing down the video 4x makes the audio easier to read as morse code. Between the size of archives and possible playbacks speeds without distoring the audio track too much (both faster and slower), that approach could be taken with a lot of videos.
   - Creating composites from different pixel coordinates, such as [this experiment based on the ♐LOCK keyhole heat-map](lock_heatmap_composites.pdf).
+  - Creating more [audio composites](audio_composites "wikilink").
     
  ## Other ways to help
 
