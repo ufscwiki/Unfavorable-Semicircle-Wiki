@@ -208,7 +208,7 @@ Further research (and, ultimately, personal opinion) will determine if this post
 
 The possibility that this message was written by one member of a larger team or someone only tangentially connected to the original creators (perhaps oven without their full consent) has also been discussed.
 
-One of the main arguments against the authenticity of the message is the missod opportunity to hand over proof in the form of details about the methods and tools used to create the videos, which would have established the author as genuine. Whether this was deliberately done out of artistic integrity or because the message's author does not have access to such tools and knowledge remains unknown.
+One of the main arguments against the authenticity of the message is the missed opportunity to hand over proof in the form of details about the methods and tools used to create the videos, which would have established the author as genuine. Whether this was deliberately done out of artistic integrity or because the message's author does not have access to such tools and knowledge remains unknown.
 
 The subsequent discovery of [audio composites](audio_composites "wikilink") seems to contradict the claim that no major discoveries were left to be made in the UFSC investigation.
 

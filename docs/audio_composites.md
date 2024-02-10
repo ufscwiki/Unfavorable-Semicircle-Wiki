@@ -92,7 +92,7 @@ Unless stated otherwise, these are from ♐LOCK.
 
 ![audio_composites_poles.png](audio_composites_poles.png "audio_composites_poles.png")
 
-> N25_CT13: also tried converting the handshake
+> N25_CT13: also tried converting [the handshake](Handshake "wikilink")
 
 ![audio_composites_hsh1.png](audio_composites_hsh1.png "audio_composites_hsh1.png")
 
