@@ -86,6 +86,7 @@ Unless stated otherwise, these are from ♐LOCK.
 ![audio_composites_stel.png](audio_composites_stel.png "audio_composites_stel.png")
 ![audio_composites_stel_long.png](audio_composites_stel_long.png "audio_composites_stel_long.png")
 ![audio_composites_flipped.png](audio_composites_flipped.png "audio_composites_flipped.png")
+![audio_composites_cube.png](audio_composites_cube.png "audio_composites_cube.png")
 
 > tukkek: these look nearly identical to some visual composites such as [♐FOND](FOND "wikilink") and [♐GOLDEN](GOLDEN "wikilink")
 
