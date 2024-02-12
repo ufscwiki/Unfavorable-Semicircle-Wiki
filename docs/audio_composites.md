@@ -6,9 +6,6 @@ Some of the iconography unveiled through this process has been entirely novel to
 
 The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWERS "wikilink") tweet that claimed no major discoveries were left to be made in the UFSC investigation.
 
-
-Discord user `noxxy` suggests [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink") as potential targets for further investigation.
-
 ## First composite
 
 > N25_CT13: i dont know if this is useful or not but ive turned the [lock](LOCK "wikilink")'s right audio channel into an image
@@ -30,51 +27,6 @@ Discord user `Dom` explains the process:
 > Step #2 is also equivalent to speeding up the video 100x, we think. This is where resampling and interpolation come in.
 
 It has been postulated that since YouTube's encoding would not preserve the exact fidelity of any data encoded in audio samples, it was necessary for UFSC to first slow down the audio before uploading the videos. As such, the audios have to be sped up again to return to their intended form. The exact factor by which the samples have been altered is unknown and different approaches to this step will produce varied qualities in the final result.
-
-### Python script by Dom
-
-```py
-import cv2
-import numpy as np
-import wave
-
-def main():
-    # Open WAV file
-    w = wave.open('LOCK.wav', 'rb')
-    number_of_channels = w.getnchannels()
-    number_of_frames = w.getnframes()
-    #print(number_of_channels, number_of_frames)
-
-    # Set desired size of output images (width, height)
-    size = (120, 657901)
-
-    # Create arrays to hold left and right samples
-    left = np.zeros(dtype=np.uint8, shape=(size[1], size[0], 1))
-    right = np.zeros(dtype=np.uint8, shape=(size[1], size[0], 1))
-
-    # Skip frames
-    #w.readframes(18480)
-
-    for n in range(size[0]*size[1]):
-        # Read left and right audio samples
-        frame = w.readframes(1)
-        sample1 = int.from_bytes(frame[0:2], byteorder='little', signed=True)
-        sample2 = int.from_bytes(frame[2:4], byteorder='little', signed=True)
-
-        # Convert from 16-bit signed (-32,768 to 32,767) to 8-bit unsigned (0 to 255)
-        sample1 = int(((sample1/32768) + 1.0)*128)
-        sample2 = int(((sample2/32768) + 1.0)*128)
-
-        # Write samples to arrays
-        left[n // size[0], n % size[0]] = sample1
-        right[n // size[0], n % size[0]] = sample2
-
-    cv2.imwrite("left.png", left)
-    cv2.imwrite("right.png", right)
-
-if __name__ == '__main__':
-    main()
-```
 
 ## Other composites
 
@@ -114,3 +66,161 @@ Unless stated otherwise, these are from ♐LOCK.
 ## See also
 
 - [Composite visual overview](Composite_visual_overview "wikilink")
+- [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink"), which Discord user `noxxy` suggests as potential targets for further investigation
+
+## Python script by Dom
+
+> It only works with WAV files and it only does audio->image conversion, not resampling or "squishing". If you use another program to speed up and convert the audio, and then put the output from this script into a composite tool, you may get some results.
+
+```py
+#!/usr/bin/env python3
+
+import cv2
+import numpy as np
+import math
+import sys
+import wave
+
+# audio_2_image.py
+#
+# Input file must be in WAV format!
+#
+# Usage: python3 audio_2_image.py [options] <input_file>
+# Options:
+#     -l          Select left channel
+#     -r          Select right channel
+#     -w <width>  Specify width
+
+def main():
+    input_file = None
+    select_left = True
+    select_right = True
+    width = -1
+
+    # Parse command line arguments
+    if len(sys.argv) <= 1 or sys.argv[1] == '-h':
+        print('Usage: python3 audio_2_image.py [options] <input_file>\n' + 
+              'Options:\n' +
+              '    -l          Select left channel\n' +
+              '    -r          Select right channel\n' +
+              '    -w <width>  Specify width')
+        return
+    i = 1
+    while i < len(sys.argv):
+        arg = sys.argv[i]
+        if arg == '-l':
+            select_right = False
+            if select_left == False:
+                print('ERROR: Cannot use both -l and -r at once')
+                return
+        elif arg == '-r':
+            select_left = False
+            if select_right == False:
+                print('ERROR: Cannot use both -l and -r at once')
+                return
+        elif arg == '-w':
+            i += 1
+            if i == len(sys.argv):
+                print('ERROR: Must specify a number after -w')
+                return
+            else:
+                try:
+                    width = int(sys.argv[i])
+                except ValueError:
+                    print('ERROR: Must specify a number after -w')
+                    return
+                if width <= 0:
+                    print('ERROR: Width must be greater than 0')
+                    return
+        else:
+            if input_file == None:
+                input_file = arg
+            else:
+                print('ERROR: Unknown token or duplicate file name:', arg)
+                return
+        i += 1
+    if input_file == None:
+        print('ERROR: No input file given')
+        return
+
+    # Open input WAV file
+    try:
+        w = wave.open(input_file, 'rb')
+    except wave.Error:
+        print('ERROR: Input file must be in WAV format')
+        return
+    except FileNotFoundError:
+        print('ERROR: File not found: ' + input_file)
+        return
+    number_of_channels = w.getnchannels()
+    number_of_frames = w.getnframes()
+    sample_width = w.getsampwidth()
+    if number_of_channels > 1:
+        print('%s: %d frames, %d channels' % (input_file.split('/')[-1], number_of_frames, number_of_channels))
+    else:
+        print('%s: %d frames' % (input_file.split('/')[-1], number_of_frames))
+
+    # Calculate output array size
+    if width == -1:
+        width = math.ceil(math.sqrt(number_of_frames))
+    height = math.ceil(number_of_frames / width)
+    if width >= 32767 or height >= 32767:
+        print('WARNING: Output dimension greater than 32,767. File might not save properly.')
+
+    # Create output arrays
+    left = None
+    right = None
+    if number_of_channels == 1:
+        if select_left == False or select_right == False:
+            print('Audio is mono, ignoring channel selection')
+        select_left = True
+        select_right = False
+    if select_left:
+        left = np.zeros(dtype=np.uint8, shape=(height, width, 1))
+    if select_right:
+        right = np.zeros(dtype=np.uint8, shape=(height, width, 1))
+
+    # Print starting text
+    if select_left and select_right:
+        print('Writing to left.png AND right.png at %dx%d' % (width, height), end='', flush=True)
+    elif select_left:
+        print('Writing to left.png at %dx%d' % (width, height), end='', flush=True)
+    else:
+        print('Writing to right.png at %dx%d' % (width, height), end='', flush=True)
+    tenth_interval = number_of_frames // 10
+
+    # Read all audio samples to image array(s)
+    for n in range(number_of_frames):
+        frame = w.readframes(1)
+        if select_left:
+            left_sample = int.from_bytes(frame[0:2], byteorder='little', signed=True)
+        if select_right:
+            right_sample = int.from_bytes(frame[2:4], byteorder='little', signed=True)
+
+        # Convert from 16-bit signed (-32,768 to 32,767) to 8-bit unsigned (0 to 255)
+        if select_left:
+            left_sample = int(((left_sample/32768) + 1.0)*128)
+        if select_right:
+            right_sample = int(((right_sample/32768) + 1.0)*128)
+
+        x = n % width
+        y = n // width
+        if select_left:
+            left[y, x] = left_sample
+        if select_right:
+            right[y, x] = right_sample
+
+        if n % tenth_interval == 0:
+            print('.', end='', flush=True)
+
+    print('DONE')
+
+    # Write image(s)
+    if select_left:
+        cv2.imwrite("left.png", left)
+    if select_right:
+        cv2.imwrite("right.png", right)
+
+if __name__ == '__main__':
+    main()
+```
