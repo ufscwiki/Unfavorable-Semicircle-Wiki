@@ -8,7 +8,7 @@ The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWER
 
 ## First composite
 
-> N25_CT13: i dont know if this is useful or not but ive turned the [lock](LOCK "wikilink")'s right audio channel into an image
+> N25_CT13: i dont know if this is useful or not but ive turned [the lock](LOCK "wikilink")'s right audio channel into an image
 >
 > N25_CT13: i put every sample's value as a pixel color and have set the image width to the amount of samples between repeating noises
 
@@ -26,7 +26,13 @@ Discord user `Dom` explains the process:
 >
 > Step #2 is also equivalent to speeding up the video 100x, we think. This is where resampling and interpolation come in.
 
-It has been postulated that since YouTube's encoding would not preserve the exact fidelity of any data encoded in audio samples, it was necessary for UFSC to first slow down the audio before uploading the videos. As such, the audios have to be sped up again to return to their intended form. The exact factor by which the samples have been altered is unknown and different approaches to this step will produce varied qualities in the final result.
+It has been postulated that since YouTube's encoding would not preserve the exact fidelity of any data encoded in audio samples, it was necessary for UFSC to first slow down the audio before uploading the videos. As such, the audios have to be sped up again to return to their intended form. 
+
+> Dom: I was wrong earlier when I said the audio composites look better at x128. Some do, some don't. The ball and the cube have much better proportions at x100, but less noise at x128.
+> 
+> I suggested x128 because the audio has a constant buzz of 375 hz, which is a period of exactly 128 samples at 48000 per second. Speeding up the audio effectively applies a low-pass filter that eliminates the buzz.
+> 
+> I think x100 is the correct scale, but we need to find a better way to de-noise the signal first.
 
 ## Other composites
 
@@ -60,8 +66,23 @@ Unless stated otherwise, these are from ♐LOCK.
 
 ![audio_composites_LOCK_ball.png](audio_composites_LOCK_ball.png "audio_composites_LOCK_ball.png")
 
-![audio_composites_out7.png](audio_composites_out7.png "audio_composites_out7.png")
+> Dom: nteresting gradient from the left channel audio composite of LOCK, at ~25:41
+
+![audio_composites_out6.png](audio_composites_out6.png "audio_composites_out6.png")
+
+> Dom: I've been focusing on the pentagrams lately. There are 3 different spots where they can be heard: 4:30, 5:17, and 9:01. Each instance has 3-5 pentagrams at different scales, which gives us a lot of data.
+> 
+> I think if we try overlaying the pentagram samples, we can eliminate the noise and get a better idea of how to denoise the other images
+> 
+> The pentagram array sample at 4:30, the other two look the same:
+
 ![audio_composites_out9.png](audio_composites_out9.png "audio_composites_out9.png")
+
+> Dom: the three pentagrams featured in the array, each is visible at a certain composite width: 63, 42, and 21 pixels
+
+![audio_composites_LOCK_stel_x100_rescale.png](audio_composites_LOCK_stel_x100_rescale.png "audio_composites_LOCK_stel_x100_rescale.png")
+
+![audio_composites_out7.png](audio_composites_out7.png "audio_composites_out7.png")
 
 ## See also
 
