@@ -4,7 +4,7 @@
 
 Some of the iconography unveiled through this process has been entirely novel to UFSC's body-of-work, while others seem more familiar.
 
-The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWERS "wikilink") tweet that claimed no major discoveries were left to be made in the UFSC investigation.
+The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWERS "wikilink") tweet that claimed no major discoveries were left to be made in the UFSC investigation. If legitimate, it's also possible that the author was unaware of these images and that they are unintended side-effects of the process used to generate the huge quantity of videos uploaded.
 
 ## First composite
 
@@ -83,6 +83,22 @@ Unless stated otherwise, these are from ♐LOCK.
 ![audio_composites_LOCK_stel_x100_rescale.png](audio_composites_LOCK_stel_x100_rescale.png "audio_composites_LOCK_stel_x100_rescale.png")
 
 ![audio_composites_out7.png](audio_composites_out7.png "audio_composites_out7.png")
+
+## Executable file theory
+
+Discord user `noxxy` presents the idea that the images being seen could be embedded media on an executable file:
+
+> there's a bunch of relatively recognizable images being found between what seems to otherwise be just a mess of data. yknow what else does that? executable files!
+>
+> that is to say, if there's recognizable images, perhaps the stuff between is other data? 
+>
+> here's the executable of a little game called rocks'n'diamonds being imported as raw data into GIMP for instance, with the relatively simple yet recognizable icon clearly visible. note how the icon above also seems to be stored upside down!
+
+Executables can embed other media in them (like other files) so they can be distributed and managed more easily as a single file when preferred. In particular, embedded icons are used as a way to display a custom image to users of the program.
+
+These icons have a variety of sizes in them, so that the operating system can choose the best version to show depending on the display resolution and context (such as a larger desktop icon or a smaller file-browser list-view item). Since automatic resizing of icons can generate poor results, developers are recommended to provide the differently-sized icons themselves.
+
+> N25_CT13: also i think the star is an .ico file since it repeats itself so many times
 
 ## See also
 
