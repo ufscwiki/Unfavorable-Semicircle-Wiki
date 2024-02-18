@@ -1,22 +1,4 @@
-
 # ♐DELOCK
-
-## Table of Contents
-  * [Overview](#overview)
-  * [Description of video](#description-of-video)
-  * [Audio](#audio)
-    + [Audio analysis](#audio-analysis)
-      - [alexbassguy's Analysis](#alexbassguy-s-analysis)
-      - ["Homesick"](#-homesick-)
-      - ["I am not H"](#-i-am-not-h-)
-    + [Possible significance of the audio](#possible-significance-of-the-audio)
-  * [Relationship to original unnamed series](#relationship-to-original-unnamed-series)
-  * [Significance and meaning](#significance-and-meaning)
-    + [Deadlock](#deadlock)
-  * [2021 investigations](#2021-investigations)
-  * [Contemporaneous Reddit Threads](#contemporaneous-reddit-threads)
-
-## Overview
 
 ♐DELOCK is a video posted to the original UFSC YouTube channel on
 December 29, 2015. It was the first video posted after a lengthy hiatus.
@@ -156,3 +138,7 @@ https://www.unfavorablesemicircle.com/UPRIGHT.puzzle.mp4
   - [So this thing I bought awhile ago looks like DELOCK.](https://www.reddit.com/r/UnfavorableSemicircle/comments/5ldzj7/so_this_thing_i_bought_awhile_ago_looks_like/)
   - [Delock means Deadlock](https://www.reddit.com/r/UnfavorableSemicircle/comments/85ihof/delock_means_deadlock/)
   - [DELOCK and REDLOC similarity](https://www.reddit.com/r/UnfavorableSemicircle/comments/89c4ey/delock_and_redloc_similarity/)
+
+## See also
+
+* [Hearthstone](Hearthstone "wikilink")

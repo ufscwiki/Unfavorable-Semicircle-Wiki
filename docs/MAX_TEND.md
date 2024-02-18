@@ -13,3 +13,7 @@ The video is 27:25 in duration. The video contains a static brown frame with pix
 ## Meaning of "FREEBIRD3"
 
 The password-like "FREEBIRD3" is similar to the spelled-out "I AM NOT H" near the beginning of [DELOCK](DELOCK "wikilink").
+
+## See also
+
+* [Hearthstone](Hearthstone "wikilink")

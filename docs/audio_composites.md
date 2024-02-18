@@ -2,7 +2,7 @@
 
 **Audio-sample compositing** is a technique pioneered by Discord user `N25_CT13` in December, 2023 that involves converting the stereo audio channels of Unfavorable Semicircle's videos into images similar to [visual composites](Video_Composites "wikilink") - the core difference being that they are sourced from audio-samples rather than video-frames.
 
-Some of the iconography unveiled through this process has been entirely novel to UFSC's body-of-work, while others seem more familiar.
+Some of the iconography unveiled through this process has been entirely novel to UFSC's body-of-work, while others seem more familiar. One of the images revealed is the [Hearthstone](Hearthstone "wikilink") video-game icon.
 
 The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWERS "wikilink") tweet that claimed no major discoveries were left to be made in the UFSC investigation. If legitimate, it's also possible that the author was unaware of these images and that they are unintended side-effects of the process used to generate the huge quantity of videos uploaded.
 
@@ -43,7 +43,6 @@ Unless stated otherwise, these are from ♐LOCK.
 ![audio_composites_ball.png](audio_composites_ball.png "audio_composites_ball.png")
 ![audio_composites_stel.png](audio_composites_stel.png "audio_composites_stel.png")
 ![audio_composites_stel_long.png](audio_composites_stel_long.png "audio_composites_stel_long.png")
-![audio_composites_flipped.png](audio_composites_flipped.png "audio_composites_flipped.png")
 ![audio_composites_cube.png](audio_composites_cube.png "audio_composites_cube.png")
 
 > tukkek: these look nearly identical to some visual composites such as [♐FOND](FOND "wikilink") and [♐GOLDEN](GOLDEN "wikilink")
@@ -83,6 +82,28 @@ Unless stated otherwise, these are from ♐LOCK.
 ![audio_composites_LOCK_stel_x100_rescale.png](audio_composites_LOCK_stel_x100_rescale.png "audio_composites_LOCK_stel_x100_rescale.png")
 
 ![audio_composites_out7.png](audio_composites_out7.png "audio_composites_out7.png")
+
+### Hearthstone compass
+
+![audio_composites_flipped.png](audio_composites_flipped.png "audio_composites_flipped.png")
+
+> Dom: Here's a cleaned up version I just made. I lined up the top and bottom half by hand and inverted the colors. The stripe about 1/4 of the way down is where the letters "L, O, C, K" are read
+
+![audio_composites_LOCK_star_clean.png](audio_composites_LOCK_star_clean.png "audio_composites_LOCK_star_clean.png")
+
+### Posiible text soction
+
+> tukkek: these are letters aren't they? pretty sure i see a couple As and Ds, a C and a F - all in two very clear, pixel-perfect lines of text
+
+![audio_composites_text.png](audio_composites_text.png "audio_composites_text.png")
+
+> tukkek: the resizing is not ideal but: A on the bottom left, Ds on the right, everything aligned pixel-perfectly 
+
+![audio_composites_text2.png](audio_composites_text2.png "audio_composites_text2.png")
+
+> tukkek: AF?
+
+![audio_composites_text3.png](audio_composites_text3.png "audio_composites_text3.png")
 
 ## Executable file theory
 

@@ -1,19 +1,5 @@
 # List of Theories
 
-* [Introduction](#introduction)
-* [Plausible theories](#plausible-theories)
-  + [Outsider art](#outsider-art)
-  + [Steganography](#steganography)
-  + [Hacking](#hacking)
-  + [Recruitment puzzle or test](#recruitment-puzzle-or-test)
-  + [ARG](#arg)
-  + [LTSM](#ltsm)
-  + [Work of a disturbed mind](#work-of-a-disturbed-mind)
-  + [Experiment of human interpretation](#experiment-of-human-interpretation)
-* [Unlikely theories](#unlikely-theories)
-* [Debunked theories with evidence](#debunked-theories-with-evidence)
-* [Other extreme theories](#other-extreme-theories)
-    
 ## Introduction
 
 Because so little is understood about UFSC relative to the massive
@@ -143,6 +129,12 @@ university, this theory becomes less likely as time progresses. Since
 the beginning of Unfavorable Semicircle's existence in 2015 and its
 arguable "ending" in 2017, there have been no published studies
 referencing Unfavorable Semicircle or its experimental purpose.
+
+### Connection with the digital card-game Hearthstone
+
+A partial print of [Hearthstone](Hearthstone "wikilink") icon was found in one of [♐LOCK](LOCK "wikilink")'s [audio composites](audio_composites "wikilink"). This has lead to the investigation of further connections between the game and UFSC's body-of-work.
+
+Whether these connections are meaningful or not - or even if the inclusion of the icon was intentional (as opposed to being a by-product of the video-making process) remains unknown.
 
 ## Unlikely theories
 
