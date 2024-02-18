@@ -1,6 +1,6 @@
 # Hearthstone 
 
-Hearthstone is a 2014 online collectible card game by Blizzard Entertainment. In February 2023, investigation of [audio composites](audio_composites "wikilink") revealed that the game's icon, a stylized compass was contained within [♐LOCK](LOCK "wikilink")'s audio data, which Discord user `Piecat` then identified as being from Hearthstone through a reverse-image-search on Google.
+Hearthstone is a 2014 online collectible card game by Blizzard Entertainment. In February 2024, investigation of [audio composites](audio_composites "wikilink") revealed that the game's icon, a stylized compass was contained within [♐LOCK](LOCK "wikilink")'s audio data, which Discord user `Piecat` then identified as being from Hearthstone through a reverse-image-search on Google.
 
 A collage with a section of ♐LOCK's audio composite on the left and one version of the IOS game logo on the right:
 
