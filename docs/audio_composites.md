@@ -83,11 +83,27 @@ Unless stated otherwise, these are from ♐LOCK.
 
 ![audio_composites_out7.png](audio_composites_out7.png "audio_composites_out7.png")
 
+### Hearthstone compass
+
 ![audio_composites_flipped.png](audio_composites_flipped.png "audio_composites_flipped.png")
 
 > Dom: Here's a cleaned up version I just made. I lined up the top and bottom half by hand and inverted the colors. The stripe about 1/4 of the way down is where the letters "L, O, C, K" are read
 
 ![audio_composites_LOCK_star_clean.png](audio_composites_LOCK_star_clean.png "audio_composites_LOCK_star_clean.png")
+
+### Posiible text soction
+
+> tukkek: these are letters aren't they? pretty sure i see a couple As and Ds, a C and a F - all in two very clear, pixel-perfect lines of text
+
+![audio_composites_text.png](audio_composites_text.png "audio_composites_text.png")
+
+> tukkek: the resizing is not ideal but: A on the bottom left, Ds on the right, everything aligned pixel-perfectly 
+
+![audio_composites_text2.png](audio_composites_text2.png "audio_composites_text2.png")
+
+> tukkek: AF?
+
+![audio_composites_text3.png](audio_composites_text3.png "audio_composites_text3.png")
 
 ## Executable file theory
 
