@@ -1,19 +1,5 @@
 # BRILL
 
-## Table of Contents
-  * [Overview](#overview)
-  * [Description of video](#description-of-video)
-  * [Composite](#composite)
-  * [3d Composite](#3d-composite)
-  * [Transcription](#transcription)
-  * [Relationship to special ♐BRILL videos and to ♐BRINE](#relationship-to-special--brill-videos-and-to--brine)
-  * [Possible meanings of name](#possible-meanings-of-name)
-    + [Relationship to brill tagging](#relationship-to-brill-tagging)
-    + [Brill.com](#brillcom)
-    + [Brill (fish)](#brill--fish-)
-
-## Overview
-
 ♐BRILL is a series of videos that was uploaded to the first and second
 YouTube accounts between February 14 and March 9, 2016. The original
 youtube account was suspended on February 25th, after more than
@@ -77,3 +63,6 @@ Brill are a type "[species of flatfish](https://en.wikipedia.org/wiki/Brill_(fis
 * this could [connect them to the astrological sign of Pisces](Astrology "wikilink").
 * it also creates a connection to ♐[BRINE](BRINE "wikilink"), as brill live in saltwater.
 
+## See also
+
+* [Hearthstone](Hearthstone "wikilink")
