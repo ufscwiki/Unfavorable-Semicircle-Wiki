@@ -126,7 +126,7 @@ These icons have a variety of sizes in them, so that the operating system can ch
 - [Composite visual overview](Composite_visual_overview "wikilink")
 - [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink"), which Discord user `noxxy` suggests as potential targets for further investigation
 
-## Python script by Dom
+## Python scripts by Dom
 
 > It only works with WAV files and it only does audio->image conversion, not resampling or "squishing". If you use another program to speed up and convert the audio, and then put the output from this script into a composite tool, you may get some results.
 
@@ -278,6 +278,80 @@ def main():
         cv2.imwrite("left.png", left)
     if select_right:
         cv2.imwrite("right.png", right)
+
+if __name__ == '__main__':
+    main()
+```
+
+> I just finished a script to repair the clipping in LOCK. The amplitude has been decreased to 1/4 to make room for the peaks, so we've lost a little precision, but we can now see data values that were previously clipped to pure white.
+
+```py
+#!/usr/bin/env python3
+
+import cv2
+import numpy as np
+import math
+import sys
+import wave
+
+def main():    
+    win = wave.open('LOCK_left.wav', 'rb')
+    number_of_channels = win.getnchannels()
+    number_of_frames = win.getnframes()
+    sample_width = win.getsampwidth()
+
+    wout = wave.open("out.wav", "wb")
+    wout.setnchannels(1)
+    wout.setsampwidth(2)
+    wout.setframerate(48000)
+    
+    cutoff = 32768 - 16
+    scale = 0.25
+
+    clip_size = 0
+    counter = 0
+    prev_samples = [0]*2048
+    for n in range(number_of_frames):
+        frame = win.readframes(1)
+
+        sample = int.from_bytes(frame, byteorder='little', signed=True)
+
+        if sample >= cutoff or sample <= -cutoff:
+            clip_size += 1
+        else:
+            if clip_size > 0:
+                counter += 1
+                if counter == 2:
+                    start_slope = prev_samples[-2*2 - clip_size + 2] - prev_samples[-2*2 - clip_size + 1]
+                    start_slope *= clip_size + 1
+                    end_slope = sample - prev_samples[-2 + 1]
+                    end_slope *= clip_size + 1
+                    a = start_slope + end_slope
+                    b = -2*start_slope - end_slope
+                    c = start_slope
+                    for m in range(clip_size):
+                        x = (m + 1)/(clip_size + 1)
+                        #ramp_sample = min(prev_samples[-2*2 - clip_size + 2] + start_slope*x, 2*cutoff)
+                        poly_sample = a*x*x*x + b*x*x + c*x + prev_samples[-2*2 - clip_size + 2]
+                        poly_sample = min(poly_sample, 2*32768 - 1)
+                        #sin_sample = 32767*(0.5 + 0.5*math.sin(3.1415*m/(clip_size - 1)))
+                        #sin_sample = cutoff
+                        wout.writeframes(max(-32768, min(32767, int(scale*poly_sample))).to_bytes(2, 'little', signed=True))
+                    for m in range(2 - 1):
+                        prev_sample = prev_samples[-2 + m]
+                        wout.writeframes(int(scale*prev_sample).to_bytes(2, 'little', signed=True))
+                    wout.writeframes(int(scale*sample).to_bytes(2, 'little', signed=True))
+                    #print(n, clip_size)
+                    clip_size = 0
+                    counter = 0
+            else:
+                wout.writeframes(int(scale*sample).to_bytes(2, 'little', signed=True))
+    
+        prev_samples.append(sample)
+        prev_samples.pop(0)
+
+    win.close()
+    wout.close()
 
 if __name__ == '__main__':
     main()
