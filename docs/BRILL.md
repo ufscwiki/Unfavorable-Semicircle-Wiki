@@ -63,6 +63,6 @@ Brill are a type "[species of flatfish](https://en.wikipedia.org/wiki/Brill_(fis
 * this could [connect them to the astrological sign of Pisces](Astrology "wikilink").
 * it also creates a connection to ♐[BRINE](BRINE "wikilink"), as brill live in saltwater.
 
-## See also
+### Hearthstone
 
-* [Hearthstone](Hearthstone "wikilink")
+Brill is the name of a town in the Warcraft fictional universe, also shared by [Hearthstone](Hearthstone "wikilink").
