@@ -1,23 +1,5 @@
 # LOCK
 
-## Table of Contents
-  * [Table of Contents](#table-of-contents)
-  * [Overview](#overview)
-  * [Description of video](#description-of-video)
-  * [Audio](#audio)
-    + [Morse code](#morse-code)
-  * [Significance](#significance)
-    + [Frame composite discovery](#frame-composite-discovery)
-  * [Composite images](#composite-images)
-    + [3-D Composite](#3-d-composite)
-  * ["black dots" and "bars"](#-black-dots--and--bars-)
-  * [Theories and possible explanations](#theories-and-possible-explanations)
-    + [Observations on the ♐LOCK image](#observations-on-the--lock-image)
-    + [Other possible theories](#other-possible-theories)
-  * [Contemporaneous Reddit Threads](#contemporaneous-reddit-threads)
-  * [See also](#see-also)
-
-
 ## Overview
 
 ♐LOCK is a video posted to the original UFSC YouTube channel on July 18, 2015. Analysis of the video lead to the creation of the first [composite image](Composite_visual_overview "wikilink").
@@ -48,9 +30,25 @@ On January 2022, Discord user `Princeton King` has made the following claim:
 > 
 > Then you can see the flashes and hear the sound how they line up It's easier to  line them up
 
+### Direct-current offset
+
+> Dom: It seems like the DC offset of LOCK's left channel is correlated with the amplitude of the signal. Here's a few snippets from the section with [the hearthstone composite](Hearthstone "wikilink"):
+
+![LOCK_offset1.png](LOCK_offset1.png "LOCK_offset1.png")
+
+![LOCK_offset2.png](LOCK_offset2.png "LOCK_offset2.png")
+
+> When there is no signal (in the blank space near the left and right side of the image), the waveform is centered around 0, or slightly higher. As the signal comes in, the DC offset increases and the whole waveform gets lower. Seems like it has some inertia to it, and it eventually reaches a steady position if the signal is constant in amplitude, as it is in the first image.
+>
+> Also worth noting the waveform for basically the entire track looks like this. Google calls it a "half-wave rectified sine". Even the voice has this waveform
+
+![LOCK_sine.png](LOCK_sine.png "LOCK_sine.png")
+
+> Mike & Rich - reg: Yeah thats basically a unipolar sine wave, a simpler name for it
+
 ## Significance
 
-  - Along with ♐[DELOCK](DELOCK "wikilink"), due to its name it has long
+  - Along with [♐DELOCK](DELOCK "wikilink"), due to its name it has long
     been suspected that this video is of special significance in
     deciphering any concealed messages that other videos might contain.
 
@@ -73,12 +71,11 @@ Huge Size: <http://tomasf.se/projects/semi/LOCK_composite_huge.png>
 
 (_version [posted to twitter](June_2022_twitter_posts "wikilink") by @unfavorablesem_)
 
+### 3D Composite
 
-### 3-D Composite
-
-The later discovery of 3-d Composited lead to retrospective analysis of
+The later discovery of 3D Composited lead to retrospective analysis of
 earlier videos, but there is nothing particularly "interesting" in this
-video's 3-D composite.
+video's 3D composite.
 
 ![Lock.PNG](Lock.PNG "Lock.PNG")
 
@@ -127,7 +124,7 @@ various things. Possibilities mentioned by users include:
   - a result of a computer program attempting to create music
   - speaker feedback sounds
 
-## Contemporaneous Reddit Threads
+## Contemporaneous Reddit threads
 
 *arranged roughly in chronological order*
 
