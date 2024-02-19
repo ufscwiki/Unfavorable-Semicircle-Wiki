@@ -125,6 +125,7 @@ These icons have a variety of sizes in them, so that the operating system can ch
 
 - [Composite visual overview](Composite_visual_overview "wikilink")
 - [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink"), which Discord user `noxxy` suggests as potential targets for further investigation
+- Discord user `Mike & Rich` claims "[Stabilitory Newing](Stabilitory_newing "wikilink") has the same sort of printer sounds"
 
 ## Python scripts by Dom
 

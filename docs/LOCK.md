@@ -44,7 +44,7 @@ On January 2022, Discord user `Princeton King` has made the following claim:
 
 ![LOCK_sine.png](LOCK_sine.png "LOCK_sine.png")
 
-> Mike & Rich - reg: Yeah thats basically a unipolar sine wave, a simpler name for it
+> Mike & Rich: Yeah thats basically a unipolar sine wave, a simpler name for it
 
 ## Significance
 
