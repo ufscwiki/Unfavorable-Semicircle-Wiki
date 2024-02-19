@@ -10,6 +10,12 @@ Discord user `ShinyQuagsire` has pin-pointed the 2015 IOS icon to be the exact v
 
 ![hearthstone-heroes-warcraft-2015-04-27.png](hearthstone-heroes-warcraft-2015-04-27.png "hearthstone-heroes-warcraft-2015-04-27.png")
 
+> Dom: here's the best image I could come up with after repairing the clipped peaks, removing DC offset, sampling the high point of each 128 length block, adding 56 black pixels after the voice interlude, and lining everything up \[visually\] by hand.
+> 
+> Based on visual comparison, I'd say this is the red channel of the hearthstone logo, not a true black and white version
+
+![Hearthstone_LOCK_ht_perfect.png](Hearthstone_LOCK_ht_perfect.png "Hearthstone_LOCK_ht_perfect.png")
+
 Since this discovery, many similarities between the game and UFSC have been found, including:
 
 * A card named Spell Lock.
