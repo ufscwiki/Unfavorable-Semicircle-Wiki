@@ -91,7 +91,7 @@ Unless stated otherwise, these are from ♐LOCK.
 
 ![audio_composites_LOCK_star_clean.png](audio_composites_LOCK_star_clean.png "audio_composites_LOCK_star_clean.png")
 
-### Posiible text soction
+### Possible text section
 
 > tukkek: these are letters aren't they? pretty sure i see a couple As and Ds, a C and a F - all in two very clear, pixel-perfect lines of text
 
