@@ -6,6 +6,8 @@ A collage with a section of ♐LOCK's audio composite on the left and one versio
 
 ![Hearthstone_collage.png](Hearthstone_collage.png "Hearthstone_collage.png")
 
+# Further investigation
+
 Discord user `ShinyQuagsire` has pin-pointed the 2015 IOS icon to be the exact version used, which was likely to be the current one at the time ♐LOCK was uploaded:
 
 ![hearthstone-heroes-warcraft-2015-04-27.png](hearthstone-heroes-warcraft-2015-04-27.png "hearthstone-heroes-warcraft-2015-04-27.png")
@@ -15,6 +17,16 @@ Discord user `ShinyQuagsire` has pin-pointed the 2015 IOS icon to be the exact v
 > Based on visual comparison, I'd say this is the red channel of the hearthstone logo, not a true black and white version
 
 ![Hearthstone_LOCK_ht_perfect.png](Hearthstone_LOCK_ht_perfect.png "Hearthstone_LOCK_ht_perfect.png")
+
+> Dom: Found another copy of hearthstone logo in LOCK
+> 
+> Easiest to see at the bottom, where the noise is least. You can also see the vertical lines along the left side.
+> 
+> This one is found immediately after the first, and it has a width of 192 pixels, the first was 256 pixels.
+
+![Hearthstone2.png](Hearthstone2.png)
+
+## Other similarities
 
 Since this discovery, many similarities between the game and UFSC have been found, including:
 

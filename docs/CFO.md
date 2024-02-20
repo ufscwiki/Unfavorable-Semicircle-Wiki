@@ -42,3 +42,6 @@ internal structure... \[that\] looks like a cradle".
   - "Child Furniture Object", as suggested by Discord user
     HolySnickerPuffs
 
+## See alse
+
+* [Recursive composites](recursive_composites "wikilink")
