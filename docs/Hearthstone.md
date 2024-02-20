@@ -6,7 +6,7 @@ A collage with a section of ♐LOCK's audio composite on the left and one versio
 
 ![Hearthstone_collage.png](Hearthstone_collage.png "Hearthstone_collage.png")
 
-# Further investigation
+## Further investigation
 
 Discord user `ShinyQuagsire` has pin-pointed the 2015 IOS icon to be the exact version used, which was likely to be the current one at the time ♐LOCK was uploaded:
 
