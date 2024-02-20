@@ -25,10 +25,13 @@ All videos seem to be 60 seconds long (1:00).
 
 ## Composites
 
-![Strand\_599.png](Strand_599.png "Strand_599.png")
-
-*composite at width 599 by extra*
-
 The composite for ♐STRAND is particularly non-obvious as to the
 "correct" width.
 
+Composite at width 599 by `extra`:
+
+![Strand\_599.png](Strand_599.png "Strand_599.png")
+
+A section of the same composite pixel-shifted by `-0.00127`:
+
+![Strand_shift.png](Strand_shift.png)

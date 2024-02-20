@@ -58,6 +58,10 @@ width of 497 instead of 498
 
 ![RAPID_composite_497.png](RAPID_composite_497.png)
 
+A sub-section of the composite pixel-shifted by `+0.00233`:
+
+![RAPID_shift.png](RAPID_shift.png)
+
 ## Significance of Composite
 
 *Please expand\!*

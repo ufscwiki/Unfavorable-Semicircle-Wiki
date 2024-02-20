@@ -12,6 +12,10 @@ This series has been partially preserved (214/624 videos)
 
 ## Composites
 
-![Ria\_partial\_composite.png](Ria_partial_composite.png)
-This composite was made with 214 out of the known 624 videos.
+This composite was made with 214 out of the known 624 videos:
 
+![Ria\_partial\_composite.png](Ria_partial_composite.png)
+
+The same composite pixel-shifted by `+0.04` and manually realigned:
+
+![RIA_shift.png](RIA_shift.png)
