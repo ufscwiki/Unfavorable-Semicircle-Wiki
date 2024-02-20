@@ -34,7 +34,7 @@ Blank spots on this chart could mean:
 
 | Video or series                                               | 2-D composite                                                                                   | 3-D composite- |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- |
-| [original unnamed series](original_unnamed_series "wikilink") | ![Numbered composite bydate.png](Numbered_composite_bydate.png "Numbered composite bydate.png") |                |
+| [Original unnamed series](Original_unnamed_series "wikilink") | ![Numbered composite bydate.png](Numbered_composite_bydate.png "Numbered composite bydate.png") |                |
 | ♐[BRILL](BRILL "wikilink")                                    | ![BRILL\_composite.png](BRILL_composite.png "BRILL_composite.png")                              |                |
 | ♐[OR](OR "wikilink")                                          | *n/a*                                                                                           | *n/a*          |
 
