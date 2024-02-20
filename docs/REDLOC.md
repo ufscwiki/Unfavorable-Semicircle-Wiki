@@ -40,6 +40,10 @@ which shows all non-black pixels at once.
   
 ![REDLOC\_composite.png](REDLOC_composite.png "REDLOC_composite.png")
 
+## See alse
+
+* [Recursive composites](recursive_composites "wikilink")
+
 ## Contemporaneous Reddit Threads
 
   - [As of an hour ago, the uploads stopped. 10 minutes ago, the tweet only says, "REDLOC"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b1ijr/as_of_an_hour_ago_the_uploads_stopped_10_minutes/)

@@ -1,19 +1,5 @@
 # BROTHER
 
-## Table of Contents
-  * [Overview](#overview)
-  * [Description of main channel videos](#description-of-main-channel-videos)
-  * [Composite](#composite)
-  * [3d Composite](#3d-composite)
-  * [Significance of composite image](#significance-of-composite-image)
-  * [Irregularities](#irregularities)
-  * [Stabilitory newing Series](#stabilitory-newing-series)
-    + [Description of Stabilitory newing videos](#description-of-stabilitory-newing-videos)
-    + [Auto-generated subtitles in Stabilitory newing BROTHER videos](#auto-generated-subtitles-in-stabilitory-newing-brother-videos)
-  * [Possible astrological connections](#possible-astrological-connections)
-  * [Links](#links)
-
-
 ## Overview
 
 ♐BROTHER is a series of videos uploaded to the second YouTube account.
@@ -109,6 +95,10 @@ Oh 400 48 53 54
 The [astrological sign of Gemini](https://en.wikipedia.org/wiki/Gemini_(astrology)) is, by its nature, associated with brothers.
 
 * *further discussion in the wiki's [Astrology](Astrology "wikilink") article*
+
+## See alse
+
+* [Recursive composites](recursive_composites "wikilink")
  
 ## Links
 

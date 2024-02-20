@@ -13,8 +13,6 @@ Blank spots on this chart could mean:
     wiki
   - it wouldn't make sense to made a composite of that video
   
-**See also**: [Audio composites](audio_composites "wikilink").
-
 ## Archive of composites
 
 * a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
