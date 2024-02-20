@@ -32,6 +32,6 @@ Composite at width 599 by `extra`:
 
 ![Strand\_599.png](Strand_599.png "Strand_599.png")
 
-A section of the same composite pixel-shifted by `-0.00127`:
+The same composite pixel-shifted by `-0.00127`:
 
 ![Strand_shift.png](Strand_shift.png)
