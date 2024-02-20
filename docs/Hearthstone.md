@@ -26,6 +26,10 @@ Discord user `ShinyQuagsire` has pin-pointed the 2015 IOS icon to be the exact v
 
 ![Hearthstone2.png](Hearthstone2.png)
 
+Composite by ShinyQuagsire:
+
+![Hearthstone_composite.png](Hearthstone_composite.png)
+
 ## Other similarities
 
 Since this discovery, many similarities between the game and UFSC have been found, including:
