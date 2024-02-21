@@ -32,6 +32,19 @@ Testing has shown that the audio in ♐BROAD 0 - 4 are identical.
 
 *♐BROAD composite (0 - 9)*
 
+A "narrow" version of the composite where empty (black) lines and columns are progressively removed.
+
+![broad_narrow.png](broad_narrow.png)
+
+Possible text from the narrow composite ("DOG" and "LUNA")?
+
+![broad_dog.png](broad_dog.png)
+![broad_luna.png](broad_luna.png)
+
+> Broomstick: i can almost see "DOG" and "LUNA" out of both of those
+> 
+> tukkek: isnt there a hero called Luna who rides a dog in DOTA... a game originally released as a mod for Warcraft 3, which is in the same universe as [Hearthstone]{Hearthstone "wikilink"}...? 
+
 ### 3d Composite
 
 ![Broad_3d.PNG](Broad_3d.PNG "Broad_3d.PNG")
@@ -57,4 +70,3 @@ Testing has shown that the audio in ♐BROAD 0 - 4 are identical.
 ♐BROAD 8: <https://youtu.be/6FLRRkIP7Yc>
 
 ♐BROAD 9: <https://youtu.be/I1n5TaloJZ0>
-

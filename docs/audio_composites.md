@@ -127,7 +127,9 @@ These icons have a variety of sizes in them, so that the operating system can ch
 - [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink"), which Discord user `noxxy` suggests as potential targets for further investigation
 - Discord user `Mike & Rich` claims "[Stabilitory Newing](Stabilitory_newing "wikilink") has the same sort of printer sounds"
 
-## Python scripts by Dom
+## Python scripts
+
+### By Dom
 
 > It only works with WAV files and it only does audio->image conversion, not resampling or "squishing". If you use another program to speed up and convert the audio, and then put the output from this script into a composite tool, you may get some results.
 
@@ -357,3 +359,15 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+### By ShinyQuagsire
+
+> ooh I managed to pull out more detail
+> 
+> there are more icons underneath
+
+![Hearthstone_composite.png](Hearthstone_composite.png)
+
+> https://gist.github.com/shinyquagsire23/383450a11b81d3c952599af9f633ceb3
+> 
+> `python3 lock_decode.py -l -w 256 Downloads/lock_audio_s16.wav`

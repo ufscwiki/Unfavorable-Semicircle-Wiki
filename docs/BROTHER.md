@@ -96,7 +96,7 @@ The [astrological sign of Gemini](https://en.wikipedia.org/wiki/Gemini_(astrolog
 
 * *further discussion in the wiki's [Astrology](Astrology "wikilink") article*
 
-## See alse
+## See also
 
 * [Recursive composites](recursive_composites "wikilink")
  

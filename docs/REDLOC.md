@@ -40,7 +40,7 @@ which shows all non-black pixels at once.
   
 ![REDLOC\_composite.png](REDLOC_composite.png "REDLOC_composite.png")
 
-## See alse
+## See also
 
 * [Recursive composites](recursive_composites "wikilink")
 
