@@ -46,6 +46,14 @@ On January 2022, Discord user `Princeton King` has made the following claim:
 
 > Mike & Rich: Yeah thats basically a unipolar sine wave, a simpler name for it
 
+#### Red-shift
+
+Red-shifting is a concept in physics, especially important to the field of astronomy, when it comes to measuring the distance and speed of deep-space objects or radiation. The Oxford dictionary defines it as:
+
+> The displacement of spectral lines toward longer wavelengths (the red end of the spectrum) in radiation from distant galaxies and celestial objects.
+
+The DC offset here may have a similar effect. It has been observed that ♐LOCK's Hearthstone icon seems to be a copy of the original image's red channel (rather than the entire red-green-blue image). Since one of UFSC's themes is astrology (or astronomy), it is possible that this is a delberate technical-aesthetical choice.
+
 ## Significance
 
   - Along with [♐DELOCK](DELOCK "wikilink"), due to its name it has long
