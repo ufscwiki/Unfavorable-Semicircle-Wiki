@@ -26,7 +26,7 @@ def fullsize_filename(orig_fname):
     if "full" in parts:
         return orig_fname
     else:
-        return "".join(parts[:-1]) + ".full." + parts[1]
+        return "".join(parts[:-1]) + ".full." + parts[-1]
 
 def resize_for_wiki(img, dim):
     factor      = dim / max(img.size)
