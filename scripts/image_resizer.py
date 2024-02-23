@@ -4,16 +4,13 @@ import os
 from PIL import Image
 
 def navigate_to_docs():
-    match os.getcwd().split('/')[-1]:
-        case "docs":
-            return
-        case "Unfavorable-Semicircle-Wiki":
-            os.chdir("docs")
-        case "scripts":
-            os.chdir("../docs")
-        case _:
-            err_msg = "Directory not found. Please run script inside Unfavorable-Semicircle-Wiki"
-            raise RuntimeError(err_msg)
+    wiki_dir    = "Unfavorable-Semicircle-Wiki"
+    pwd         = os.getcwd()
+    if wiki_dir in pwd:
+        os.chdir(pwd.split(wiki_dir)[0] + wiki_dir + "/docs")
+    else:
+        msg = "Directory not found. Please run script inside Unfavorable-Semicircle-Wiki"
+        raise RuntimeError(msg)
 
 def try_open_img(path):
     try:
@@ -35,7 +32,7 @@ def resize_for_wiki(img, dim):
 
 def check_and_resize(img, dim=500):
     fs_fn   = fullsize_filename(img.filename)
-    if (img.size[0] > dim or img.size[1] > dim) and fs_fn not in os.listdir():
+    if fs_fn not in os.listdir():
         print("\nResizing " + img.filename)
         resize_for_wiki(img, dim).save(img.filename)
         img.save(fs_fn)
@@ -48,7 +45,9 @@ if __name__ == "__main__":
     imgs = filter(lambda x: x != None, [try_open_img(x) for x in os.listdir()])
 
     for img in imgs:
-        # Resizes any image with either dimension larger than 500 to a maximum of 500
+        # Resizes images so that the largest dimension is 500
+        # (or 499 for some due to rounding)
+        #
         # To use a different max dimension use the keyword dim. e.g.:
         # check_and_resize(img, dim=1000)
         check_and_resize(img)
