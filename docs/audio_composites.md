@@ -105,6 +105,20 @@ Unless stated otherwise, these are from ♐LOCK.
 
 ![audio_composites_text3.png](audio_composites_text3.png "audio_composites_text3.png")
 
+### By Elbe
+
+> Elbe: left audio channel, clear extraction
+>
+> So I loaded the entire wav as a numpy array, then I split the thing into small arrays of length 128 (the distance between each peak) with an offset of 64 (gives lowest standard distribution of length between peaks -> one window should contain only one peak) and then on each window the maximum is the peak and the average of the minimum 5%-25% (so outlier that are lower are skipped and only the low values are taken, so we do not use the peak) of entries are the baseline. Finally just subtract peak from baseline (to get the difference in signal) and plot that (and baseline and peaks also)
+>
+> peaks-baseline, peaks and baseline:
+
+![audio_composites_LOCK_left_both.png](audio_composites_LOCK_left_both.png)
+
+![audio_composites_LOCK_left_peaks.png](audio_composites_LOCK_left_peaks.png)
+
+![audio_composites_LOCK_left_baseline.png](audio_composites_LOCK_left_baseline.png)
+
 ## Executable file theory
 
 Discord user `noxxy` presents the idea that the images being seen could be embedded media on an executable file:
@@ -127,7 +141,9 @@ These icons have a variety of sizes in them, so that the operating system can ch
 - [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink"), which Discord user `noxxy` suggests as potential targets for further investigation
 - Discord user `Mike & Rich` claims "[Stabilitory Newing](Stabilitory_newing "wikilink") has the same sort of printer sounds"
 
-## Python scripts
+## Scripts
+
+[By Elbe](audio_composites_LOCK_left.zip "wikilink").
 
 ### By Dom
 
