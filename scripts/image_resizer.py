@@ -29,9 +29,13 @@ def check_date(fname):
     response    = subprocess.run(cmd.split(" ") + [fname], capture_output=True, text=True)
     if response.stderr != '':
         print("Unable to process creation date for " + fname + ". Skipping...")
-    date_string = response.stdout.split("format:")[1].split(" ")[0]
-    file_date   = date.fromisoformat(date_string)
-    return file_date > date(2024, 2, 22)
+        return False
+    elif response.stderr == '' and response.stdout == '':
+        return True
+    else:
+        date_string = response.stdout.split("format:")[1].split(" ")[0]
+        file_date   = date.fromisoformat(date_string)
+        return file_date > date(2024, 2, 22)
 
 def try_open_img(path):
     try:
