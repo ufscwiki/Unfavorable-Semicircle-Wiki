@@ -54,3 +54,13 @@ In November 2021, Discord user `electrojustin` reported the
 possiblity of UFSC being an attack on YouTube meant to reveal
 proprietary video codec- and compression-related information
 ([link](https://docs.google.com/document/d/1zHYQBtRiLHSkBlstCLgwoTuCX9mvrz27Es5_IiX98IA/edit)).
+
+## ffmpeg vulnerabilities
+
+`ffmpeg` is the ubiquitous transcoder for video platforms, known to be used by YouTube, X, Twitch and others. It is famously prone to attacks, especially if used with default parameters that are not tailored for security or others that favor performance (hence cost reduction on a massive scale).
+
+Due to the fact that `ffmpeg` is a piece of the back-end and not immediately accessible to end-users, video platforms often overlook security considerations that would seem common-sense elsewhere.
+
+Among other exploits, including very many uses of unitialized-memory leakage (like the "colored thumbnail column" that can still be seen in older, very-low-resolution videos), [Attacks on video converters](https://docs.google.com/presentation/d/1yqWy_aE3dQNXAhW8kxMxRqtP7qMHaIfMzUDpEqFneos/mobilepresent#slide=id.p) describes methods (some proven to work on YouTube) to exfiltrate internal file-system data.
+
+As with other hacking theories, the extremely unusual quantity and nature of the videos also in themselves raise suspicion of a potential attack vector being exploited.

@@ -113,11 +113,7 @@ Unless stated otherwise, these are from ♐LOCK.
 >
 > peaks-baseline, peaks and baseline:
 
-![audio_composites_LOCK_left_both.png](audio_composites_LOCK_left_both.png)
-
-![audio_composites_LOCK_left_peaks.png](audio_composites_LOCK_left_peaks.png)
-
-![audio_composites_LOCK_left_baseline.png](audio_composites_LOCK_left_baseline.png)
+![audio_composites_LOCK_left_both.png](audio_composites_LOCK_left_both.png) ![audio_composites_LOCK_left_peaks.png](audio_composites_LOCK_left_peaks.png) ![audio_composites_LOCK_left_baseline.png](audio_composites_LOCK_left_baseline.png)
 
 ## Executable file theory
 
