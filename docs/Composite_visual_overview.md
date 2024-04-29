@@ -48,151 +48,151 @@ Blank spots on this chart could mean:
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>♐<a href="RELOCK" title="wikilink">RELOCK</a></p></td>
+<td><p>♐<a href="RELOCK">RELOCK</a></p></td>
 <td><figure>
-<img src="RELOCK_composite.png" title="RELOCK_composite.png" width="400" alt="" /><figcaption>RELOCK_composite.png</figcaption>
+<img src="RELOCK_composite.png" title="RELOCK_composite.png" width="400"/><figcaption>RELOCK_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="BRILL_49999" title="wikilink">BRILL 49999</a></p></td>
+<td><p>♐<a href="BRILL_49999">BRILL 49999</a></p></td>
 <td><figure>
-<img src="BRILL49999_composite.png" title="BRILL49999_composite.png" width="400" alt="" /><figcaption>BRILL49999_composite.png</figcaption>
+<img src="BRILL49999_composite.png" title="BRILL49999_composite.png" width="400"/><figcaption>BRILL49999_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="N*_BRILL" title="wikilink">N* BRILL</a></p></td>
+<td><p>♐<a href="N*_BRILL">N* BRILL</a></p></td>
 <td><figure>
-<img src="BRILLN_composite.png" title="BRILLN_composite.png" width="400" alt="" /><figcaption>BRILLN_composite.png</figcaption>
+<img src="BRILLN_composite.png" title="BRILLN_composite.png" width="400"/><figcaption>BRILLN_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="REDLOC" title="wikilink">REDLOC</a></p></td>
+<td><p>♐<a href="REDLOC">REDLOC</a></p></td>
 <td><figure>
-<img src="REDLOC_composite.png" title="REDLOC_composite.png" width="400" alt="" /><figcaption>REDLOC_composite.png</figcaption>
+<img src="REDLOC_composite.png" title="REDLOC_composite.png" width="400"/><figcaption>REDLOC_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="ZUFCHO" title="wikilink">ZUFCHO</a></p></td>
+<td><p>♐<a href="ZUFCHO">ZUFCHO</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="LONE" title="wikilink">LONE</a></p></td>
+<td><p>♐<a href="LONE">LONE</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="WINGSET" title="wikilink">WINGSET</a></p></td>
+<td><p>♐<a href="WINGSET">WINGSET</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="RETIO" title="wikilink">RETIO</a></p></td>
+<td><p>♐<a href="RETIO">RETIO</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="LIMIT" title="wikilink">LIMIT</a></p></td>
+<td><p>♐<a href="LIMIT">LIMIT</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="SQEN" title="wikilink">SQEN</a></p></td>
+<td><p>♐<a href="SQEN">SQEN</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="RESQEN" title="wikilink">RESQEN</a></p></td>
+<td><p>♐<a href="RESQEN">RESQEN</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="CREM" title="wikilink">CREM</a></p></td>
+<td><p>♐<a href="CREM">CREM</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="LOVE" title="wikilink">LOVE</a></p></td>
+<td><p>♐<a href="LOVE">LOVE</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-  <td><p>♐<a href="JALVINSACH" title="wikilink">JALVINSACH</a></p></td>
-  <td><img src="JALVINSACH_composite.png" title="JALVINSACH_composite.png" width="400" alt="" /></td>
-  <td><img src="jalvinsach.3d.n25.png" title="jalvinsach.3d.n25.png" width="400" alt="" /></td>
+  <td><p>♐<a href="JALVINSACH">JALVINSACH</a></p></td>
+  <td><img src="JALVINSACH_composite.png" title="JALVINSACH_composite.png" width="400"/></td>
+  <td><img src="jalvinsach.3d.n25.png" title="jalvinsach.3d.n25.png" width="400"/></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="MAX_TEND" title="wikilink">MAX TEND</a></p></td>
+<td><p>♐<a href="MAX_TEND">MAX TEND</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="RECOVER" title="wikilink">RECOVER</a></p></td>
+<td><p>♐<a href="RECOVER">RECOVER</a></p></td>
 <td><figure>
-<img src="Recover-still-frames-horizontal.png" title="Recover-still-frames-horizontal.png" width="400" alt="" /><figcaption>Recover-still-frames-horizontal.png</figcaption>
+<img src="Recover-still-frames-horizontal.png" title="Recover-still-frames-horizontal.png" width="400"/><figcaption>Recover-still-frames-horizontal.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="HARVEST" title="wikilink">HARVEST</a></p></td>
+<td><p>♐<a href="HARVEST">HARVEST</a></p></td>
 <td><figure>
-<img src="HARVEST_composite.png" title="HARVEST_composite.png" width="400" alt="" /><figcaption>HARVEST_composite.png</figcaption>
+<img src="HARVEST_composite.png" title="HARVEST_composite.png" width="400"/><figcaption>HARVEST_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="RAPID" title="wikilink">RAPID</a></p></td>
+<td><p>♐<a href="RAPID">RAPID</a></p></td>
 <td><figure>
-<img src="RAPID_composite.png" title="RAPID_composite.png" width="400" alt="" /><figcaption>RAPID_composite.png</figcaption>
+<img src="RAPID_composite.png" title="RAPID_composite.png" width="400"/><figcaption>RAPID_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-  <td><p>♐<a href="CRIMP" title="wikilink">CRIMP</a></p></td>
-  <td><img src="crimp.n25.png" title="crimp.n25.png" width="400" alt="" /></td>
+  <td><p>♐<a href="CRIMP">CRIMP</a></p></td>
+  <td><img src="crimp.n25.png" title="crimp.n25.png" width="400"/></td>
   <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="FOLD" title="wikilink">FOLD</a></p></td>
+<td><p>♐<a href="FOLD">FOLD</a></p></td>
 <td><figure>
-<img src="FOLD_37.png" title="FOLD_37.png" width="400" alt="" /><figcaption>FOLD_37.png</figcaption>
+<img src="FOLD_37.png" title="FOLD_37.png" width="400"/><figcaption>FOLD_37.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="STEM" title="wikilink">STEM</a></p></td>
+<td><p>♐<a href="STEM">STEM</a></p></td>
 <td><figure>
-<img src="STEM_Composite_by_hellajt.png" title="STEM_Composite_by_hellajt.png" width="400" alt="" /><figcaption>STEM_Composite_by_hellajt.png</figcaption>
+<img src="STEM_Composite_by_hellajt.png" title="STEM_Composite_by_hellajt.png" width="400"/><figcaption>STEM_Composite_by_hellajt.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="UPRIGHT" title="wikilink">UPRIGHT</a></p></td>
+<td><p>♐<a href="UPRIGHT">UPRIGHT</a></p></td>
 <td><p><em>Impossible</em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="DIAGONAL" title="wikilink">DIAGONAL</a></p></td>
+<td><p>♐<a href="DIAGONAL">DIAGONAL</a></p></td>
 <td><figure>
-<img src="Diagonal_-_horizontal_composite.png" title="Diagonal_-_horizontal_composite.png" width="400" alt="" /><figcaption>Diagonal_-_horizontal_composite.png</figcaption>
+<img src="Diagonal_-_horizontal_composite.png" title="Diagonal_-_horizontal_composite.png" width="400"/><figcaption>Diagonal_-_horizontal_composite.png</figcaption>
 </figure></td>
 <td><figure>
-<img src="DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png" title="DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png" width="400" alt="" /><figcaption>DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png</figcaption>
+<img src="DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png" title="DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png" width="400"/><figcaption>DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="GOLDEN" title="wikilink">GOLDEN</a></p></td>
+<td><p>♐<a href="GOLDEN">GOLDEN</a></p></td>
 <td><figure>
-<img src="GOLDEN.png" title="GOLDEN.png" width="400" alt="" /><figcaption>GOLDEN.png</figcaption>
+<img src="GOLDEN.png" title="GOLDEN.png" width="400"/><figcaption>GOLDEN.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="HULL" title="wikilink">HULL</a></p></td>
+<td><p>♐<a href="HULL">HULL</a></p></td>
 <td></td>
 <td><p><img src="HULL_3d.png" title="fig:HULL_3d.png" width="400" alt="HULL_3d.png" /><br />
 Visualization of each frame's contents rather than mean RGB</p></td>
@@ -271,67 +271,67 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>♐<a href="EL" title="wikilink">EL</a></p></td>
+<td><p>♐<a href="EL">EL</a></p></td>
 <td><p><img src="El_partial_composite.png" title="fig:El_partial_composite.png" width="400" alt="El_partial_composite.png" /><br />
 Partial composite</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="RIA" title="wikilink">RIA</a></p></td>
+<td><p>♐<a href="RIA">RIA</a></p></td>
 <td><p><img src="Ria_partial_composite.png" title="fig:Ria_partial_composite.png" width="400" alt="Ria_partial_composite.png" /><br />
 Partial composite</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="LEE" title="wikilink">LEE</a></p></td>
+<td><p>♐<a href="LEE">LEE</a></p></td>
 <td><p><img src="Lee_combined.png" title="fig:Lee_combined.png" width="400" alt="Lee_combined.png" /><br />
 Partial composite</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="CAB" title="wikilink">CAB</a></p></td>
+<td><p>♐<a href="CAB">CAB</a></p></td>
 <td><figure>
-<img src="CAB393.png" title="CAB393.png" width="400" alt="" /><figcaption>CAB393.png</figcaption>
+<img src="CAB393.png" title="CAB393.png" width="400"/><figcaption>CAB393.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="MUL" title="wikilink">MUL</a></p></td>
+<td><p>♐<a href="MUL">MUL</a></p></td>
 <td><figure>
-<img src="MUL_composite.png" title="MUL_composite.png" width="400" alt="" /><figcaption>MUL_composite.png</figcaption>
+<img src="MUL_composite.png" title="MUL_composite.png" width="400"/><figcaption>MUL_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="April_10_twitter_series" title="wikilink">April 10 twitter series</a></p></td>
+<td><p><a href="April_10_twitter_series">April 10 twitter series</a></p></td>
 <td><figure>
-<img src="April10square.png" title="April10square.png" width="400" alt="" /><figcaption>April10square.png</figcaption>
+<img src="April10square.png" title="April10square.png" width="400"/><figcaption>April10square.png</figcaption>
 </figure></td>
 <td><figure>
-<img src="April10_3-d_projection.png" title="April10_3-d_projection.png" width="400" alt="" /><figcaption>April10_3-d_projection.png</figcaption>
+<img src="April10_3-d_projection.png" title="April10_3-d_projection.png" width="400"/><figcaption>April10_3-d_projection.png</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="NIL" title="wikilink">NIL</a></p></td>
+<td><p>♐<a href="NIL">NIL</a></p></td>
 <td><figure>
-<img src="NIL_composite_combined.png" title="NIL_composite_combined.png" width="400" alt="" /><figcaption>NIL_composite_combined.png</figcaption>
+<img src="NIL_composite_combined.png" title="NIL_composite_combined.png" width="400"/><figcaption>NIL_composite_combined.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="DEPTH" title="wikilink">DEPTH</a></p></td>
+<td><p>♐<a href="DEPTH">DEPTH</a></p></td>
 <td><figure>
-<img src="DEPTH_composite.png" title="DEPTH_composite.png" width="400" alt="" /><figcaption>DEPTH_composite.png</figcaption>
+<img src="DEPTH_composite.png" title="DEPTH_composite.png" width="400"/><figcaption>DEPTH_composite.png</figcaption>
 </figure></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="POINT" title="wikilink">POINT</a></p></td>
+<td><p>♐<a href="POINT">POINT</a></p></td>
 <td><figure>
-<img src="POINT_composite.png" title="POINT_composite.png" width="400" alt="" /><figcaption>POINT_composite.png</figcaption>
+<img src="POINT_composite.png" title="POINT_composite.png" width="400"/><figcaption>POINT_composite.png</figcaption>
 </figure></td>
 <td><figure>
-<img src="Point_-_3-d_composite_-_view_1.png" title="Point_-_3-d_composite_-_view_1.png" width="400" alt="" /><figcaption>Point_-_3-d_composite_-_view_1.png</figcaption>
+<img src="Point_-_3-d_composite_-_view_1.png" title="Point_-_3-d_composite_-_view_1.png" width="400"/><figcaption>Point_-_3-d_composite_-_view_1.png</figcaption>
 </figure></td>
 </tr>
 </tbody>
