@@ -41,7 +41,7 @@ Created from each frame of all CAB's found in the archive listed in [Files](File
 
 ![CAB393.png](CAB393.png "CAB393.png")
 
-> N25_CT13: CAB composite, gray pixels are the missing videos from the archive.
+> N25_CT13: CAB composite, gray pixels are the missing videos from the archive.  I used the videos' mode value of each pixel for the first frame, like the most used color.
 
 ![cab.n25.png](cab.n25.png)
 
