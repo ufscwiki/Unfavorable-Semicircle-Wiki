@@ -37,10 +37,13 @@ format. <sup>(citation needed)</sup>
 
 ## Composites
 
+Created from each frame of all CAB's found in the archive listed in [Files](Files "wikilink"):
+
 ![CAB393.png](CAB393.png "CAB393.png")
 
-Created from each frame of all CAB's found in the archive listed in
-[Files](Files "wikilink").
+> N25_CT13: CAB composite, gray pixels are the missing videos from the archive.
+
+![cab.n25.png](cab.n25.png)
 
 ### 3d Composite
 

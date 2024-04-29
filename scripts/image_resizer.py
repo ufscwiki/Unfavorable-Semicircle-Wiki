@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import os
 import sys
 from PIL import Image
@@ -43,25 +42,25 @@ def try_open_img(path):
     except:
         return
 
-def fullsize_filename(orig_fname):
-    parts   = orig_fname.split(".")
-    if "full" in parts:
-        return orig_fname
-    else:
-        return "".join(parts[:-1]) + ".full." + parts[-1]
+def fullsize_filename(original):
+  parts=original.split('.')
+  if 'full' in parts:
+    return original 
+  parts.insert(len(parts)-1,'full')
+  return '.'.join(parts)
 
 def resize_for_wiki(img, dim):
     factor      = dim / max(img.size)
     new_size    = (int(img.size[0] * factor), int(img.size[1] * factor))
     return img.resize(new_size)
 
-def check_and_resize(img, dim=500):
-    fs_fn   = fullsize_filename(img.filename)
-    if fs_fn not in os.listdir() and (check_ignore_date() or check_date(img.filename)):
-        print("\nResizing " + img.filename)
-        resize_for_wiki(img, dim).save(img.filename)
-        img.save(fs_fn)
-        print("Original saved as " + fs_fn)
+def check_and_resize(img,dim=500):
+    fs_fn=fullsize_filename(img.filename)
+    if not os.path.exists(fs_fn) and (check_ignore_date() or check_date(img.filename)):
+      print("\nResizing " + img.filename)
+      resize_for_wiki(img, dim).save(img.filename)
+      img.save(fs_fn)
+      print("Original saved as " + fs_fn)
 
 if __name__ == "__main__":
     navigate_to_docs()
