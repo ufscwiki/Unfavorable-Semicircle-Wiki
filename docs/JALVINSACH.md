@@ -11,9 +11,12 @@ frames, "fingerprinted" by horizontal lines of dots that look similar to
 braille. It contains a mono audio track of grinding sounds. (Noise
 removal reveals other sounds underneath.)
 
-## Composite Image
+## Composites
+
+2D composite:
 
 ![JALVINSACH composite.png](JALVINSACH_composite.png)
 
-*♐JALVINSACH composite*
+3D composite by Discord user `N25_CT13`:
 
+![jalvinsach.3d.n25.png](jalvinsach.3d.n25.png)

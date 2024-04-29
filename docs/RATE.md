@@ -28,3 +28,8 @@ The significance of the name 'rate' is as yet unclear.
 
 "Rate" could be a reference to [rate limiting](https://en.wikipedia.org/wiki/Rate_limiting).
 
+# Composite
+
+Discord user `N25_CT13` has created a composite with similar method to [CRIMP](CRIMP).
+
+![rate.n25.png](rate.n25.png)

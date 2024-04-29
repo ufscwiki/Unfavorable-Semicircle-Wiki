@@ -121,11 +121,9 @@ Blank spots on this chart could mean:
 <td></td>
 </tr>
 <tr class="even">
-<td><p>♐<a href="JALVINSACH" title="wikilink">JALVINSACH</a></p></td>
-<td><figure>
-<img src="JALVINSACH_composite.png" title="JALVINSACH_composite.png" width="400" alt="" /><figcaption>JALVINSACH_composite.png</figcaption>
-</figure></td>
-<td></td>
+  <td><p>♐<a href="JALVINSACH" title="wikilink">JALVINSACH</a></p></td>
+  <td><img src="JALVINSACH_composite.png" title="JALVINSACH_composite.png" width="400" alt="" /></td>
+  <td><img src="jalvinsach.3d.n25.png" title="jalvinsach.3d.n25.png" width="400" alt="" /></td>
 </tr>
 <tr class="odd">
 <td><p>♐<a href="MAX_TEND" title="wikilink">MAX TEND</a></p></td>
@@ -154,9 +152,9 @@ Blank spots on this chart could mean:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♐<a href="CRIMP" title="wikilink">CRIMP</a></p></td>
-<td></td>
-<td></td>
+  <td><p>♐<a href="CRIMP" title="wikilink">CRIMP</a></p></td>
+  <td><img src="crimp.n25.png" title="crimp.n25.png" width="400" alt="" /></td>
+  <td></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="FOLD" title="wikilink">FOLD</a></p></td>
@@ -221,9 +219,9 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 
 ## Stabilitory newing: Non-series videos
 
-| Video or series          | 2-D composite | 3-D composite |
-| ------------------------ | ------------- | ------------- |
-| ⊕[RATE](RATE "wikilink") | *none yet*    | *none yet*    |
+| Video or series          | 2-D composite                    | 3-D composite |
+| ------------------------ | -------------                    | ------------- |
+| ⊕[RATE](RATE "wikilink") | ![rate.n25.png](rate.n25.png)    | *none yet*    |
 
 ## Stabilitory newing: Series
 

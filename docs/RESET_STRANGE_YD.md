@@ -13,6 +13,8 @@ The video has since received the bittersweet nickname of *Reset "strange
 YouTube data"* - the data being UFSC's strange videos themselves, of
 course.
 
+Discord user `Super Nerd` mentions that the Strange Reset happened on the day which [the Cassini space prebe was retired](https://en.wikipedia.org/wiki/Cassini_retirement). Given the many astronomical references in UFSC's body of work, it could've been a deliberate thematic choice to "decomission" the You Tube channel on the same day the probe that was operational for nealy two decades was destroyed.
+
 [Mirrored version of the video](https://vimeo.com/234123114).
 
 ## Description of video

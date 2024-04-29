@@ -19,8 +19,13 @@ second.
 
 ## Composites
 
-A [composite](Video_Composites "wikilink") has not been created for this
-video as the frames, unlike other videos, are one color throughout.
+> N25_CT13: overlayed all of the frames together including the visual hand-shake and got this.
+
+![crimp.n25.png](crimp.n25.png)
+
+> N25_CT13: also here's the taken maximum of each frame.
+
+![crimp.n25.maximum.png](crimp.n25.maximum.png)
 
 ## Frame image
 
