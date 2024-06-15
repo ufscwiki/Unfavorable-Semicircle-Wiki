@@ -38,7 +38,7 @@ There are several ways to download the videos that are posted online.
 
 Here are some suggested command arguments for optimal use of `yt-dlp` when archiving:
 
-> festercluck: This will get you thumbnails, all video formats without them writing over one another, and not changed by any post-processing that youtube-dl might normally do:
+> festercluck: This will get you thumbnails, all video formats without them writing over one another and not changed by any post-processing that youtube-dl might normally do:
 > 
 > festercluck: `yt-dlp --all-formats --fixup never --write-all-thumbnails -w --autonumber-start 0 -o %(title)s-%(id)s-%(container)s-%(autonumber)s.%(ext)s https://www.youtube.com/watch?v=whatever`
 
