@@ -1,3 +1,4 @@
+
 # Archives
 
 ## Table of Contents
@@ -36,24 +37,26 @@ videos will remain available to this community and future researchers.
 
 * a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
 
-## Grabbing videos from youtube
+## Archiving videos
 
-There are several ways to download the videos that are posted on
-youtube.
+There are several ways to download the videos that are posted online.
 
-  - [youtube-dl](https://rg3.github.io/youtube-dl) is a command line
-    utility for downloading videos from YouTube, Twitter, and other
-    sites. It can download groups of videos by keyword or channel, and
-    control the format of the video and audio it downloads in.
-  - [JDownloader](http://jdownloader.org/) is a free, open-source
-    download management tool which will download material in the same
-    format it was uploaded.
-  - Discord user spicy boy indicates that
-    [ClipConverter](http://www.clipconverter.cc/) is the best online
-    youtube downloader.
-  - Firefox users can use add-ons such as [Download YouTube Videos as MP4](https://github.com/gantt/downloadyoutube), which integrates
-    with YouTube's interface, adding a button to download YouTube videos
-    directly from YouTube.
+### yt-dlp
+
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) is a command line utility for downloading videos from YouTube, X and other sites. It can download groups of videos by keyword or channel and control the format of the video and audio it downloads in.
+
+It is based on the older `youtube-dl` project, whose last release was in 2021.
+
+Here are some suggested command arguments for optimal use of `yt-dlp` when archiving:
+
+> festercluck: This will get you thumbnails, all video formats without them writing over one another, and not changed by any post-processing that youtube-dl might normally do.
+> 
+> festercluck: `yt-dlp --all-formats --fixup never --write-all-thumbnails -w --autonumber-start 0 -o %(title)s-%(id)s-%(container)s-%(autonumber)s.%(ext)s https://www.youtube.com/watch?v=whatever`
+
+### Other programs
+
+- [JDownloader](http://jdownloader.org/) is a free, open-source download management tool which will download material in the same format it was uploaded.
+- Firefox users can use add-ons such as [Download YouTube Videos as MP4](https://github.com/gantt/downloadyoutube), which integrates with the site's interface, adding a button that allows them to download videos.
 
 ## Defunct archives 
 
