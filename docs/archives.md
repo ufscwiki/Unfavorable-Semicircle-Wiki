@@ -1,15 +1,6 @@
 
 # Archives
 
-## Table of Contents
-- [Archives](#archives)
-  * [Table of Contents](#table-of-contents)
-  * [Overview](#overview)
-  * [Existing Archives](#existing-archives)
-    + [Archives of videos](#archives-of-videos)
-    + [Archives of composites](#carchives-of-composites)
-  * [Grabbing videos from youtube](#grabbing-videos-from-youtube)
-
 ## Overview
 
 The original youtube account was shut down for TOS violations, and UFSC's creator(s) deliberately removed the later material.
@@ -43,13 +34,11 @@ There are several ways to download the videos that are posted online.
 
 ### yt-dlp
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) is a command line utility for downloading videos from YouTube, X and other sites. It can download groups of videos by keyword or channel and control the format of the video and audio it downloads in.
-
-It is based on the older `youtube-dl` project, whose last release was in 2021.
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) is a command line utility for downloading videos from You-Tube, X and other sites. It can download groups of videos by keyword or channel and control the format of the video and audio it downloads in. It is based on the older `youtube-dl` project, whose last release was in 2021.
 
 Here are some suggested command arguments for optimal use of `yt-dlp` when archiving:
 
-> festercluck: This will get you thumbnails, all video formats without them writing over one another, and not changed by any post-processing that youtube-dl might normally do.
+> festercluck: This will get you thumbnails, all video formats without them writing over one another and not changed by any post-processing that youtube-dl might normally do:
 > 
 > festercluck: `yt-dlp --all-formats --fixup never --write-all-thumbnails -w --autonumber-start 0 -o %(title)s-%(id)s-%(container)s-%(autonumber)s.%(ext)s https://www.youtube.com/watch?v=whatever`
 
