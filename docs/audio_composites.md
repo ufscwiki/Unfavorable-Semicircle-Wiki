@@ -131,7 +131,7 @@ These icons have a variety of sizes in them, so that the operating system can ch
 
 > N25_CT13: also i think the star is an .ico file since it repeats itself so many times
 
-### Doom 3 icon
+## Doom 3 icon
 
 In June 2024, Discord user `Fufeng Industries` noted:
 
