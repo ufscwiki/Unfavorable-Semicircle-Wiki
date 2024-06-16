@@ -1,4 +1,4 @@
-# Audio composites
+c# Audio composites
 
 **Audio-sample compositing** is a technique pioneered by Discord user `N25_CT13` in December, 2023 that involves converting the stereo audio channels of Unfavorable Semicircle's videos into images similar to [visual composites](Video_Composites "wikilink") - the core difference being that they are sourced from audio-samples rather than video-frames.
 
@@ -141,7 +141,7 @@ In June 2024, Discord user `Fufeng Industries` noted:
 > 
 > Fufeng Industries: As someone who did play (and very much loves) Doom 3, there are recurring themes of machinery and computers being possessed by ghosts and demons. The ambience is very detailed and is a gold mine for finding spooky sound effects. Last but not least, the plot is centered around decrypting an alien message.
 
-Discord user `tukkek` creatod a high-lighted comparison of the game icon and the composite pentagram:
+Discord user `tukkek` created a high-lighted comparison of the game icon and the composite pentagram:
 
 ![audio_composites_doom.png](audio_composites_doom.png)
 
