@@ -131,6 +131,24 @@ These icons have a variety of sizes in them, so that the operating system can ch
 
 > N25_CT13: also i think the star is an .ico file since it repeats itself so many times
 
+### Doom 3 icon
+
+In June 2024, Discord user `Fufeng Industries` noted:
+
+> Fufeng Industries: This pentagram is so very similar to the icon for the Doom 3 game. It would make even more sense if it is an .ICO file, and thus has three resolutions.
+> 
+> Fufeng Industries: Well when someone here mentioned it could be an ICO file, this was the first place my mind went. Doom 3 is the only game that has a pentagram for an icon, and it is also an upside-down pentagram, and the star has those "shiny" points, which I can also see in the LOCK composite.
+> 
+> Fufeng Industries: As someone who did play (and very much loves) Doom 3, there are recurring themes of machinery and computers being possessed by ghosts and demons. The ambience is very detailed and is a gold mine for finding spooky sound effects. Last but not least, the plot is centered around decrypting an alien message.
+
+Discord user `tukkek` creatod a high-lighted comparison of the game icon and the composite pentagram:
+
+![audio_composites_doom.png]
+
+Like the previously-found mobile Hearthstone icon, *Doom 3* is also available on mobile devices.
+
+> yam00: mf literally trying to run Doom on youtube
+
 ## See also
 
 - [Composite visual overview](Composite_visual_overview "wikilink")
