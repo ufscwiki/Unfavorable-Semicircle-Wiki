@@ -143,7 +143,7 @@ In June 2024, Discord user `Fufeng Industries` noted:
 
 Discord user `tukkek` creatod a high-lighted comparison of the game icon and the composite pentagram:
 
-![audio_composites_doom.png]
+![audio_composites_doom.png](audio_composites_doom.png)
 
 Like the previously-found mobile Hearthstone icon, *Doom 3* is also available on mobile devices.
 
