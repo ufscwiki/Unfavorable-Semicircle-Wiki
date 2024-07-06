@@ -244,7 +244,7 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 | ♐[DIFF](DIFF "wikilink") |                                                                                                   |                                                                                                              |
 | ♐[CFO](CFO "wikilink")   | ![Cfo\_composite.png](Cfo_composite.png "Cfo_composite.png")                                      | ![Cfo-3d-2.png](Cfo-3d-2.png "Cfo-3d-2.png")                                                                 |
 | ♐[GEN](GEN "wikilink")   | ![GEN\_composite\_288\_width.png](GEN_composite_288_width.png "GEN_composite_288_width.png")      | ![Gen-3d.png](Gen-3d.png "Gen-3d.png")                                                                       |
-| ♐[ROOT](GEN "wikilink")  | ![ROOT-alpha.png](ROOT-alpha.png)      | ![ROOT-3d.png](ROOT-3d.png)                                                                       |
+| ♐[ROOT](ROOT)  | ![ROOT-alpha.png](ROOT-alpha.png)      | ![ROOT-3d.png](ROOT-3d.png)                                                                       |
 
 ## [3rd youtube channel](3rd_youtube_channel "wikilink"): Series
 
