@@ -25,13 +25,15 @@ analysis by Discord user ungato, there are 47906 total pixels, of which
 The audio of ♐ROOT 0 is a continuous mono track that runs the entire
 length of the video with a low rumbling sound.
 
-## Meaning of name
-
-*more to follow\!*
-
 ## Composites
 
-*more to follow\!*
+2D composite by `N25_CT13`:
+
+![ROOT-alpha.png](ROOT-alpha.png)
+ 
+3D composite by `N25_CT13`:
+
+![ROOT-3d.png](ROOT-3d.png) 
 
 ## Videos in the series
 
