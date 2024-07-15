@@ -23,3 +23,13 @@ effect on audio, and I will bet any amount of money it created the audio
 in DIFF." He created a recreation "by running Glitch2 on some basic
 audio and distorting/downsampling the crap out of it."
 
+## Composites
+
+> N25_CT13: first is resized to nearest square, second to width 6 where it repeats a pixel before the next row
+
+![DIFF_36.png](DIFF_36.png)
+![DIFF_6.png](DIFF_6.png)
+
+A 3D composite, also by `N25_CT13`.
+
+![DIFF_36.png](DIFF_3D.png)
