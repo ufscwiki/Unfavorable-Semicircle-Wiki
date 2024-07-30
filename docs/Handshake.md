@@ -136,3 +136,8 @@ the rest of the audio does:
 
 *Handshake + DC offset audio in ♐DUAL*
 
+## Audio composite
+
+User `N25_CT13` has tried converting the handshake into an [audio composite](audio_composites):
+
+![audio_composites_hsh1.png](audio_composites_hsh1.png "audio_composites_hsh1.png")

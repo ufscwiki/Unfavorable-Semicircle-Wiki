@@ -6,6 +6,8 @@ Some of the iconography unveiled through this process has been entirely novel to
 
 The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWERS "wikilink") tweet that claimed no major discoveries were left to be made in the UFSC investigation. If legitimate, it's also possible that the author was unaware of these images and that they are unintended side-effects of the process used to generate the huge quantity of videos uploaded.
 
+Besides ♐LOCK, which is the main focus of this page audio composites have also been found in other videos as well (as listed in the see-also section).
+
 ## First composite
 
 > N25_CT13: i dont know if this is useful or not but ive turned [the lock](LOCK "wikilink")'s right audio channel into an image
@@ -48,10 +50,6 @@ Unless stated otherwise, these are from ♐LOCK.
 > tukkek: these look nearly identical to some visual composites such as [♐FOND](FOND "wikilink") and [♐GOLDEN](GOLDEN "wikilink")
 
 ![audio_composites_poles.png](audio_composites_poles.png "audio_composites_poles.png")
-
-> N25_CT13: also tried converting [the handshake](Handshake "wikilink")
-
-![audio_composites_hsh1.png](audio_composites_hsh1.png "audio_composites_hsh1.png")
 
 ### By Dom
 
@@ -157,6 +155,7 @@ Like the previously-found mobile Hearthstone icon, *Doom 3* is also available on
 
 ### Other audio composites
 
+* [The handshake](Handshake "wikilink")
 * [Original unnamed series](Original_unnamed_series)
 
 ## Scripts
