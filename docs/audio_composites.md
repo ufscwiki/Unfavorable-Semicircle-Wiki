@@ -155,6 +155,10 @@ Like the previously-found mobile Hearthstone icon, *Doom 3* is also available on
 - [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink"), which Discord user `noxxy` suggests as potential targets for further investigation
 - Discord user `Mike & Rich` claims "[Stabilitory Newing](Stabilitory_newing "wikilink") has the same sort of printer sounds"
 
+### Other audio composites
+
+* [Original unnamed series](Original_unnamed_series)
+
 ## Scripts
 
 [By Elbe](audio_composites_LOCK_left.zip "wikilink").
