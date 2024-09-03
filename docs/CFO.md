@@ -7,6 +7,8 @@ frames. ♐[GEN](GEN "wikilink") would follow 58 days later.
 
 {{\#ev:youtube|<https://www.youtube.com/watch?v=dklWhhjfArs>}}
 
+[This is a video of ♐CFO and ♐DIFF causing the You Tube player to stall at the 0:10 mork on an Android phone](https://www.youtube.com/watch?v=jka_w-QgG00).
+
 ## Audio
 
 This video has no audio.
