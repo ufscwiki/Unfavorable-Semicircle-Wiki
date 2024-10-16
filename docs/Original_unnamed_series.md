@@ -27,6 +27,7 @@ Many videos feature readings by [the unknown voice](Unknown_Voice "wikilink"). A
   - silence
 
 [Extracted data for each archived video can be found here!](og_manifest.csv "wikilink")
+
 ## Seasons
 
 Reddit user u/McSweepyPants first noted in [a post on the subreddit](https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown_of_todays_findings_february_22nd_2016/) the existence of several sub-series within the original unnanmed series, which he dubbed "seasons". Further analysis of upload dates, composites, and transcripts has led to the identification of 26 distinct seasons within the original unnamed series.
@@ -59,3 +60,9 @@ Reddit user u/McSweepyPants first noted in [a post on the subreddit](https://www
 | 24 | February 5, 2016 | 6 | <img src="og_24_6_upscale.png"> | NA | This season has not been fully transcribed. |
 | 25 | February 5, 2016  | 9 | <img src="og_25_3_upscale.png"> | NA | This season has not been fully transcribed. |
 | 26 | February 20-25, 2016 | 15 | <img src="og_26_5_upscale.png"> | NA | This season has not been fully transcribed. |
+
+## Audio composite
+
+In July 2024, user `N25_CT13` found and colorized this [audio composite](audio_composites) from ♐970558:
+
+![original_970558_colorized_audio_composite.png](original_970558_colorized_audio_composite.png)
