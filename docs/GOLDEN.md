@@ -43,6 +43,8 @@ Similar to ♐[HARVEST](HARVEST "wikilink"), it appears that there is text encod
 
 ![GOLDEN text.png](GOLDEN_text.png " GOLDEN text.png")
 
+![GOLDEN_there_is_always_more.png](GOLDEN_there_is_always_more.png)
+
 *closeup of text in ♐GOLDEN composite from community composite*
 
 ![GOLDEN text interpolation](golden_text_interpolation.png "GOLDEN text interpolation")

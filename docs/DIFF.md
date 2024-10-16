@@ -7,6 +7,8 @@ was posted on August 17th.
 
 {{\#ev:youtube|<https://www.youtube.com/watch?v=_GYQGUG8AR0>}}
 
+[This is a video of ♐CFO and ♐DIFF causing the You Tube player to stall at the 0:10 mark on an Android phone](https://www.youtube.com/watch?v=jka_w-QgG00).
+
 ## Audio
 
 The 42 second video consists of flashing colors, with a beat repeating
