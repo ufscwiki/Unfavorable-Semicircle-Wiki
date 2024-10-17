@@ -134,3 +134,30 @@ The [astrological sign of Virgo](https://en.wikipedia.org/wiki/Virgo_(astrology)
 
 * *further discussion in the wiki's [Astrology](Astrology "wikilink") article*
  
+## Docomposite
+
+October 2024, Discord user `tukkek` decomposed the Harvest composite, with a few note-worthy images as the result:
+
+![harvest_decompose.webp](harvest_decompose.webp)
+
+![harvest_decompose_south.webp](harvest_decompose_south.webp)
+
+> tukkek: bottom panel is google maps with the location markers turned on and off, isnt it? 
+>
+> tukkek: and perhaps the side-bar shown and hidden but inverted horizontally
+
+![harvest_decompose_north_west.png](harvest_decompose_north_west.png)
+
+> tukkek: theres is a shaded object in the background, same as the top of the leaf is shaded.
+>
+> tukkek: a person behind leaves?
+>
+> noxxy: yeah i can see it being some kinda odd leaves, maybe with some kinda (gooey?) liquid pouring down...
+>
+> noxxy: would explain the downwards orientation and the blob near the bottom left
+> 
+> tukkek: someone taking pictures hidden behind leaves hidden behind layers of noise hidden in one of 3 panels seems like too much to be a coincidence
+>
+> tukkek: is that a watermark on the corner? LMAO
+
+A similar droplet-shaped water-mark can be seen in [Answers](answers).
