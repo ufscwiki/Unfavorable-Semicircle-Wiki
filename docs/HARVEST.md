@@ -160,4 +160,4 @@ October 2024, Discord user `tukkek` decomposed the Harvest composite, with a few
 >
 > tukkek: is that a watermark on the corner? LMAO
 
-A similar droplet-shaped water-mark can be seen in [Answers](answers).
+A similar droplet-shaped water-mark can be seen in [Answers](ANSWERS).
