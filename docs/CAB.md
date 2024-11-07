@@ -12,6 +12,8 @@ The videos in this series differ from the "classic" UFSC style: they are
 slightly longer at five seconds and the [Unknown Voice](Unknown_Voice "wikilink") has been replaced by a series of
 static-laden bursts.
 
+Cab is one of the earliest series to feature the [handshake](Handshake), being up-loaded a week or-so after its debut in [Zufcho](ZUFCHO). Cab 267, for example ends with a hand-shake.
+
 ## "It's binary"
 
 [Investigation confirmed](https://www.reddit.com/r/UnfavorableSemicircle/comments/4c8jjk/its_binary/)
