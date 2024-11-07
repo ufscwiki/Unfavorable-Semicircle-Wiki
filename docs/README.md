@@ -39,6 +39,7 @@ account, although later evidence has indicated that these may not be
   - [List of videos without series](List_of_videos_without_series "wikilink")
   - [List of theories](List_of_Theories "wikilink")
   - [List of ideas accomplished or tried](List_of_Things_Accomplished_Tried "wikilink")
+  - [List of glitches](List_of_glitches)
 
 #### Composites
 
