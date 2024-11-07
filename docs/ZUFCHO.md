@@ -42,6 +42,8 @@ it sounds pretty damn close." [Media:ZUFCHO - LEFT CHANNEL CLEANED 2.wav](Media:
 (This is not a consensus conclusion, and other listeners do not hear the
 "love you" in the audio.)
 
+Some Discord users hear the words start as *pay attention*! This would have an important meaning as Zufcho seems to be the first appearance of the Hand-shake, which plays very-shortly after the words are said. The message could then be interpreted as *pay attention to this audio-signal which I'm about to introduce*, as a clue to its importance?
+
 ### Other Audio Analysis
 
 Discord user Risto notes that the "right channel has... the handshake at
