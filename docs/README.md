@@ -30,15 +30,17 @@ account, although later evidence has indicated that these may not be
 ### Pages
 
   - [History and background](History_and_background "wikilink")
-  - [Real and Fake channels](Real_and_Fake_channels "wikilink")
-  - [List of Series](List_of_Series "wikilink")
-  - [List of videos without series](List_of_videos_without_series "wikilink")
+  - [Real and fake channels](Real_and_Fake_channels "wikilink")
   - [Timeline](Timeline "wikilink")
-  - [List of Theories](List_of_Theories "wikilink")
-  - [List of Things Accomplished/Tried](List_of_Things_Accomplished_Tried "wikilink")
   - [Video archives](archives "wikilink")
 
-### Composites
+#### Lists
+  - [List of series](List_of_Series "wikilink")
+  - [List of videos without series](List_of_videos_without_series "wikilink")
+  - [List of theories](List_of_Theories "wikilink")
+  - [List of ideas accomplished or tried](List_of_Things_Accomplished_Tried "wikilink")
+
+#### Composites
 
   - [Composite visual overview](Composite_visual_overview "wikilink")
   - [Video composites](Video_Composites "wikilink")
