@@ -17,7 +17,7 @@ While these problems may be unintentional (such as defects from a custom-made vi
 
 ### System crashes
 
-* [Brill](BRILL) has been documented to crash an Android device (probably version 9.0 or later).
+* [Brill](BRILL) has been documented to crash an Android device.
 
 ## See also
 
