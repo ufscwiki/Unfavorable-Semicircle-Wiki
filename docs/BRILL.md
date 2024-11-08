@@ -11,6 +11,8 @@ youtube account, after posting ♐[RELOCK](RELOCK "wikilink"), ♐[BRILL
 resumed from ♐BRILL 49999 (a "regular" BRILL video different than
 ♐[BRILL 49999](BRILL_49999 "wikilink")) and continued to ♐BRILL 50099.
 
+Discord user `festercluck` [has documented Brill 49,999 causing a system crash in Android](videolog.txt) (possibly a 2018 Android 9.0 phone, or later model).
+
 ## Description of video
 
 "Typical" BRILL videos are five seconds in duration, contain a single
