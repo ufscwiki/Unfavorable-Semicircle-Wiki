@@ -32,6 +32,7 @@ program, such as a signal to begin or stop audio recording.
   - [FOLD](FOLD "wikilink")
   - [DDR\_DONE](DDR_DONE "wikilink") (At audio start; clearest sample;
     contains possible counterpart)
+  - [CAB](CAB)
 
 ## Similar Features
 

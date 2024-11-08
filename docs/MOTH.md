@@ -46,12 +46,13 @@ MOTH videos have a [Handshake](Handshake "wikilink") at the start.
 
 ### Spectrographic Image
 
-The audio in ♐MOTH 0 contains a distinct visual pattern when viewed as a
-spectrograph:
+The audio in ♐MOTH 0 contains a distinct visual pattern when viewed as a spectrograph (image by by `salo´):
 
 ![Moth-spectrogram\_small.png](Moth-spectrogram_small.png)
 
-*image by by salo*
+Pattern high-light by `tukkek`:
+
+![moth_pattern.png](moth_pattern.png)
 
 ### Further Analysis
 
