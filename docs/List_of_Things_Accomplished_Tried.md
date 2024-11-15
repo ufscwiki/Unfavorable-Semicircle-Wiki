@@ -114,7 +114,11 @@ free to revisit these or use them as a starting point.
   - Creating composites from different pixel coordinates, such as [this experiment based on the ♐LOCK keyhole heat-map](lock_heatmap_composites.pdf).
   - Creating more [audio composites](audio_composites "wikilink").
   - Creating 3D composites using RYB, CMY, HSV and HSL rather than RGB.
-  - Create more decomposites like the one in [Harvest](harvest). Also: trying to recompose the decomposed layers, perhaps using different colors.
+  - Create more decomposites like the one in [Harvest](harvest).
+    - A newbie-friendly guide has been provided: https://imgur.com/a/decomposing-guide-xto0OgC
+    - Also: trying to recompose the decomposed layers, perhaps using different colors.
+  - Try to decode LOCK's audio as GSM data:
+    - https://www.unfavorablesemicircle.com/LOCK#gsm
     
  ## Other ways to help
 
