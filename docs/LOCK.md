@@ -60,6 +60,8 @@ On November 2024, Discord user `N25_CT13` wrote:
 
 > Lock's right audio channel is most likely raw data read as GSM 6.10 "format" which is present in Audacity and the left channel's DC offset could have been removed due to the GSM encoding removing DC offset for some reason (could be due to compression).
 
+A comparison of LOCK's audio and some raw-data encoded as GSM provided by `N25_CT13`:
+
 ![LOCK_GSM.png](LOCK_GSM.png)
 
 ## Significance
