@@ -40,6 +40,10 @@ which shows all non-black pixels at once.
   
 ![REDLOC\_composite.png](REDLOC_composite.png "REDLOC_composite.png")
 
+## Music
+
+In November 2024: Discord user `FFW` [cleared the music](REDLOC_homesick.mp4) in REDLOC's audio and the segment was then identified as Homesick (at the 0:47 mark). This is the same song present in [DELOCK](DELOCK) and mentioned in multiple UFSC social media communications.
+
 ## See also
 
 * [Recursive composites](recursive_composites "wikilink")
