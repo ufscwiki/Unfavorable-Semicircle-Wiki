@@ -64,6 +64,8 @@ A comparison of raw-data encoded as GSM (provided by `N25_CT13`) and LOCK's audi
 
 ![LOCK_GSM.png](LOCK_GSM.png)
 
+The next month: GSM-like audio was also discovered in 40 videos in the [original unnamed series](Original_unnamed_series).
+
 ## Significance
 
   - Along with [♐DELOCK](DELOCK "wikilink"), due to its name it has long
