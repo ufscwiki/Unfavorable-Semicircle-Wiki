@@ -6,12 +6,6 @@ The "original unnamed series" consists of over 48,000 videos uploaded to the [fi
 
 48258 videos from this series have been [archived](archives "wikilink"), though it is unknown if this constitutes the full extent of the series.
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## Video and Audio Analysis
 
 <img align="right" src="og_example_frame.png" width="200" height="200">
@@ -27,6 +21,22 @@ Many videos feature readings by [the unknown voice](Unknown_Voice "wikilink"). A
   - silence
 
 [Extracted data for each archived video can be found here!](og_manifest.csv "wikilink")
+
+### GSM
+
+In December 2024, after the discovery of GSM-like audio in [Lock](LOCK): Discord user `Fufeng Industries` says:
+
+> "example.wav" is the exact same sound from the numbered series, I will find it and repost it here so it will be easier to compare.
+>
+> There are 40 videos in the numbered series that have this specific sound in them.
+>
+> I have slowed the audio from the numbered series video "♐337321-aVuE7bgfPuI" and have been granted LOCK-esque wubbs:
+
+[Audio](OUS_SLOWED0.013.mp3).
+
+> I took the LOCK audio, separated the right channel and sped it up 77 times. Behold, this is the GSM-type sound that was just discussed:
+
+[Audio](OUS_LOCK_SPED_RIGHT.mp3).
 
 ## Seasons
 
