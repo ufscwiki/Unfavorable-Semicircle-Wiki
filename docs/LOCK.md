@@ -66,6 +66,14 @@ A comparison of raw-data encoded as GSM (provided by `N25_CT13`) and LOCK's audi
 
 The next month: GSM-like audio was also discovered in 40 videos in the [original unnamed series](Original_unnamed_series).
 
+In January 2025, user `Fufeng Industries` says:
+
+> Fufeng Industries LLC: Imported small EXE into Audacity using GSM 6.10. It ended up with the characteristic DC offset as seen in LOCK. A bit more chaotic and all over the place, but it does bear very much resemblance.
+>
+> tukkek: does it sound like UFSC too? Considering its likely the audio-composite icons are also from EXEs (different sizes repeat), this makes a lot of sense.
+>
+> Fufeng Industries LLC: Yes, very much. It sounds exactly like the videos in [the original numbered series](Original_unnamed_series), and when slowed to 0.013 of the original speed it sounds like LOCK (repeating "wump, wump, wump" noises).
+
 ## Significance
 
   - Along with [♐DELOCK](DELOCK "wikilink"), due to its name it has long
