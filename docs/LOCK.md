@@ -70,7 +70,7 @@ In January 2025, user `Fufeng Industries` says:
 
 > Fufeng Industries LLC: Imported small EXE into Audacity using GSM 6.10. It ended up with the characteristic DC offset as seen in LOCK. A bit more chaotic and all over the place, but it does bear very much resemblance.
 >
-> tukkek: does it sound like UFSC too? Considering its likely the audio-composite icons are also from EXEs (different sizes repeat), this makes a lot of sense.
+> tukkek: does it sound like UFSC too? Considering its likely the [audio-composite](audio_composites) icons are also from EXEs (different sizes repeat), this makes a lot of sense.
 >
 > Fufeng Industries LLC: Yes, very much. It sounds exactly like the videos in [the original numbered series](Original_unnamed_series), and when slowed to 0.013 of the original speed it sounds like LOCK (repeating "wump, wump, wump" noises).
 
