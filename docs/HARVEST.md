@@ -1,18 +1,5 @@
 # ♐HARVEST
 
-## Table of Contents
-
-  * [Overview](#overview)
-  * [Description of video](#description-of-video)
-    + [Audio analysis](#audio-analysis)
-  * [Significance of name](#significance-of-name)
-  * [Composites](#composites)
-    + [3D composites](#3d-composites)
-  * [Significance of Composite](#significance-of-composite)
-    + [Text in composite](#text-in-composite)
-  * [Possible astrological connections](#possible-astrological-connections)
-
-
 ## Overview
 
 ♐HARVEST is a video posted to the second youtube account on October 10, 2016. It was posted five days after the conclusion of the ♐[BROTHER](BROTHER "wikilink") series and a day before the beginning of the ♐[SLIM](SLIM "wikilink") series.
@@ -134,7 +121,7 @@ The [astrological sign of Virgo](https://en.wikipedia.org/wiki/Virgo_(astrology)
 
 * *further discussion in the wiki's [Astrology](Astrology "wikilink") article*
  
-## Docomposite
+## Decomposite
 
 October 2024, Discord user `tukkek` decomposed the Harvest composite, with a few note-worthy images as the result:
 
