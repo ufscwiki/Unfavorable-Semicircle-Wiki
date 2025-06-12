@@ -142,3 +142,4 @@ https://www.unfavorablesemicircle.com/UPRIGHT.puzzle.mp4
 ## See also
 
 * [Hearthstone](Hearthstone "wikilink")
+* [Crimp](CRIMP)
