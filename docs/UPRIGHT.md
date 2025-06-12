@@ -1,5 +1,4 @@
 # ♐UPRIGHT
-
 ♐UPRIGHT is a video that was posted to the second youtube account on
 January 7th 2017.
 
@@ -7,16 +6,12 @@ January 7th 2017.
 
 *animated gif based on ♐UPRIGHT video by parsec*
 
-
-
 ## Content
-
 The video is only 12 seconds long and consists of an animation of
 vertical and horizontal, greyscale lines moving in a seemingly random
 pattern.
 
 ### Analysis
-
 Discord users StrugLove and ShadowMorphyn have pointed out that the
 lines seem to make up a pattern in the form of a person from the
 shoulders up, like a webcam user or a news anchor. It has also been
@@ -26,11 +21,9 @@ too few
 [I-frames](https://en.wikipedia.org/wiki/Video_compression_picture_types).
 
 ## Audio
-
-A distorted [Handshake](Handshake "wikilink") can be heard at the end.
+A distorted [Handshake](Handshake "wikilink") can be heard at the end. `Lukidot` also mentions the start of the audio is similar to sounds in [Delock](DELOCK).
 
 ### Audio Analysis
-
 Discord user Risto observes, "♐UPRIGHT is a strange one. The higher
 pitched noise either sounds like a really bad flute, or a Floppy Disk
 Drive. There is no handshake per se at the end of the audio: there's a
@@ -41,7 +34,7 @@ handshake."
 
 *incomplete handshake spectrograph by Risto*
 
-Risto further observes: "at the exact end of the audio, dDenoising the
+Risto further observes: "at the exact end of the audio, denoising the
 thing in audacity has revealed an audible **mouse click** at the end.
 Which is something that audacity does when you stop recording with it,
 as the delay makes the click record itself. And that makes me suspect
@@ -57,14 +50,12 @@ sonogram. Looks like it could be a converted image of some kind?"
 ![UPRIGHT\_SPECTRO.png](UPRIGHT_SPECTRO.png "UPRIGHT_SPECTRO.png")
 
 ## Composite
-
 Due to the nature of the video it is not possible to make a composite
 with intelligible results. However, as seen at the top of this article,
 the whole video has been made into a gif, similar to
 ♐[DELOCK](DELOCK "wikilink").
 
 ## Time of posting
-
 This video broke with UFSC's usual posting pattern, where a non-series
 video would be posted, a day or two before a new series begins (or an
 [old one continues](http://www.unfavorablesemicircle.com/wiki/index.php/BROTHER)).
@@ -82,5 +73,4 @@ month-long gap following ♐[STEM](STEM "wikilink") and three weeks before
     similarities).*
 
 ## See also
-
   - [Max](Max "wikilink") (software)

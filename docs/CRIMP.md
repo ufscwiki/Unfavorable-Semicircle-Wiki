@@ -27,6 +27,10 @@ second.
 
 ![crimp.n25.maximum.png](crimp.n25.maximum.png)
 
+`Lukidot` has matched Crimp's composite to [Delock](DELOCK).
+
+![crimp_delock.webp](crimp_delock.webp)
+
 ## Frame image
 
 ![Crimp patterns.png](Crimp_patterns.png " Crimp patterns.png")
