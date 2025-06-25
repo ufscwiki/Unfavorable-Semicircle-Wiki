@@ -42,11 +42,13 @@ In June 2025, user `N25_CT13` found composites in SN's videos:
 >
 > N25_CT13: note that i only took data each 30 frames for brother and 2 frames for belt to make it match the composite size.
 
-The Numpy and space-separated data can be downloaded here: https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/master/docs/SN.7z.
+The Numpy and space-separated data can be downloaded [here](https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/master/docs/SN.7z).
 
 ![SN.brother.png](SN.brother.png)
 > N25_CT13: brother, 100x100, third column
+>
 > tukkek: looks a bit like a ♐ pointing north-west, doesnt it?
+>
 > N25_CT13: or maybe two Semicircles
 
 ![SN.belt.webp](SN.belt.webp)
