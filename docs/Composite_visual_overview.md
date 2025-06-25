@@ -225,10 +225,10 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 
 ## Stabilitory newing: Series
 
-| Video or series                | 2-D composite | 3-D composite |
-| ------------------------------ | ------------- | ------------- |
-| ⊕[BROTHER](BROTHER "wikilink") | *none yet*    | *none yet*    |
-| ⊕[BELT](BELT "wikilink")       |               |               |
+| Video or series                | 2-D composite                     | 3-D composite |
+| ------------------------------ | --------------------------------- | ------------- |
+| ⊕[BROTHER](BROTHER "wikilink") | ![SN.brother.png](SN.brother.png) | *none yet*    |
+| ⊕[BELT](BELT "wikilink")       | ![SN.belt.webp](SN.belt.webp)     |               |
 
 ## [3rd youtube channel](3rd_youtube_channel "wikilink"): Non-series videos
 
