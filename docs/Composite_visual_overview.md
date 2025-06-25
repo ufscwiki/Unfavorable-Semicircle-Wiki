@@ -217,13 +217,13 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 | ♐[DUAL](DUAL "wikilink")                                      | ![DUAL\_real.png](DUAL_real.png "DUAL_real.png")                                                              | ![Dual\_0-9\_-\_3-d\_composite\_-\_view\_2.png](Dual_0-9_-_3-d_composite_-_view_2.png "Dual_0-9_-_3-d_composite_-_view_2.png") |
 | ♐[BROAD](BROAD "wikilink")                                    | ![Broad\_combined.png](Broad_combined.png "Broad_combined.png")                                               |                                                                                                                                |
 
-## Stabilitory newing: Non-series videos
+## [Stabilitory newing](Stabilitory_newing): non-series videos
 
 | Video or series          | 2-D composite                    | 3-D composite |
 | ------------------------ | -------------                    | ------------- |
 | ⊕[RATE](RATE "wikilink") | ![rate.n25.png](rate.n25.png)    | *none yet*    |
 
-## Stabilitory newing: Series
+## [Stabilitory newing](Stabilitory_newing): series
 
 | Video or series                | 2-D composite                     | 3-D composite |
 | ------------------------------ | --------------------------------- | ------------- |
