@@ -194,11 +194,11 @@ _transcription by Discord user &&_
 
 ## Full list of submitted questions
 
-_see_ [unfavorablesem AMA](unfavorablesem_AMA "wikilink")
+_see_ [unfavorablesem AMA](unfavorablesem_AMA)
 
 ## Revelations from this message
 
-- that there are unfound [Stabilitory newing](Stabilitory_newing "wikilink") composites
+- that there are unfound [Stabilitory newing](Stabilitory_newing) composites
 - that there is a "hidden poem" somewhere in the videos
 - "There was never any pen-testing/hacking/clandestine goals of any kind."
 
@@ -210,7 +210,9 @@ The possibility that this message was written by one member of a larger team or 
 
 One of the main arguments against the authenticity of the message is the missed opportunity to hand over proof in the form of details about the methods and tools used to create the videos, which would have established the author as genuine. Whether this was deliberately done out of artistic integrity or because the message's author does not have access to such tools and knowledge remains unknown.
 
-The subsequent discovery of [audio composites](audio_composites "wikilink") seems to contradict the claim that no major discoveries were left to be made in the UFSC investigation.
+The subsequent discovery of [audio composites](audio_composites) seems to contradict the claim that no major discoveries were left to be made in the UFSC investigation.
+
+The discovery of the claimed [Stabilitory Newing](Stabilitory_newing) composites in 2025 conversely adds to the authenticity of the message.
 
 ## Background image
 
