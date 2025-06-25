@@ -46,6 +46,8 @@ The Numpy and space-separated data can be downloaded here: https://github.com/uf
 
 ![SN.brother.png](SN.brother.png)
 > N25_CT13: brother, 100x100, third column
+> tukkek: looks a bit like a ♐ pointing north-west, doesnt it?
+> N25_CT13: or maybe two Semicircles
 
 ![SN.belt.webp](SN.belt.webp)
 > N25_CT13: belt, 365x365, third column
