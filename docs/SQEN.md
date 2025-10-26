@@ -19,6 +19,8 @@ The third [tweet from June 2022](June_2022_twitter_posts "wikilink") included [a
 
 Maybe SQEN is a draft-video and the next is RESQEN. But the content isn't so similar. What do you think?
 
+Discord user `Afraid Success` suggests it may be a reference to Square Enix, one of Japan's biggest game-publishers. The gaming-icons found in [audio composites](audio_composites) make this theory plausible.
+
 ## Composites
 
 _this style of video does not have a composite embedded._
