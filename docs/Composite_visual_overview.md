@@ -21,7 +21,7 @@ Blank spots on this chart could mean:
 
 | Video or series                                       | [2D composite](Video_Composites "wikilink") | [3D composite](3D_Composite "wikilink") |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
-| ♐[LOCK](LOCK "wikilink")                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             |               |
+| ♐[LOCK](LOCK "wikilink")                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             | ![LOCK3d6.webp](LOCK3d6.webp) |
 | ♐[DELOCK](DELOCK "wikilink")                          |                                                                                             |               |
 | [♐ (nameless video)](♐_\(nameless_video\) "wikilink") |                                                                                             |               |
 | ♐[PER](PER "wikilink")                                |                                                                                             |               |
@@ -235,7 +235,7 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 | Video or series          | 2-D composite                                                                                     | 3-D composite                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | ♐[PORT](PORT "wikilink") | ![PORT\_composite\_398\_width.png](PORT_composite_398_width.png "PORT_composite_398_width.png")   | *none yet*                                                                                                   |
-| ♐[RUN](RUN "wikilink")   | ![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")                 | *none yet*                                                                                                   |
+| ♐[RUN](RUN "wikilink")   | ![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")                 | ![RUN3d3.webp](RUN3d3.webp)                                                                                                   |
 | ♐[NODE](NODE "wikilink") | ![Node\_composite\_width\_839.png](Node_composite_width_839.png "Node_composite_width_839.png")   | ![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png "Node_3-d_composite_by_tukkek.png") |
 | ♐[SERN](SERN "wikilink") | *Impossible*                                                                                      | *Impossible*                                                                                                 |
 | ♐[ZORO](ZORO "wikilink") | *Impossible*                                                                                      | *Impossible*                                                                                                 |
