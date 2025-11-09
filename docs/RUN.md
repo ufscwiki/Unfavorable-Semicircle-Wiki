@@ -35,9 +35,9 @@ Discord user ShadowMorphyn has decoded these as "IGMENADENDNNEGOEMOOM".
 ## 3D composites
 By Lukidot:
 
-![RUN3d1.full.webp](RUN3d1.full.webp)
-![RUN3d2.full.webp](RUN3d2.full.webp)
-![RUN3d3.full.webp](RUN3d3.full.webp)
+![RUN3d1.webp](RUN3d1.webp)
+![RUN3d2.webp](RUN3d2.webp)
+![RUN3d3.webp](RUN3d3.webp)
 
 The arrow-tip shape is similar to [Lock](LOCK).
 

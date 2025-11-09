@@ -95,8 +95,8 @@ The later discovery of 3D Composited lead to retrospective analysis of earlier v
 
 By Lukidot:
 
-![LOCK3d2.full.webp](LOCK3d2.full.webp)
-![LOCK3d6.full.webp](LOCK3d6.full.webp)
+![LOCK3d2.webp](LOCK3d2.webp)
+![LOCK3d6.webp](LOCK3d6.webp)
 
 The arrow-tip shape is similar to [Run](RUN).
 
