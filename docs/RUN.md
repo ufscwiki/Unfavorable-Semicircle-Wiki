@@ -39,6 +39,8 @@ By Lukidot:
 ![RUN3d2.full.webp](RUN3d2.full.webp)
 ![RUN3d3.full.webp](RUN3d3.full.webp)
 
+The arrow-tip shape is similar to [Lock](LOCK).
+
 ## "Morse code"
 Following on the analysis of dots and dashes in ♐[NODE](NODE "wikilink") (which could be decoded as 7-bit ASCII), discord user NKC1982 made a preliminary analysis of the dots and dashes in the top left corner:
 - The black/white pixel code in the top left of the RUN composite yielded some text, but nothing meaningful. Using my method of removing the leading black/white pair and ignoring extra bits got "DYL@Oe@hAb@ns@c\_oO" which I'm pretty sure is meaningless.

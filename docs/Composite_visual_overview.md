@@ -21,7 +21,7 @@ Blank spots on this chart could mean:
 
 | Video or series                                       | [2D composite](Video_Composites "wikilink") | [3D composite](3D_Composite "wikilink") |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
-| ♐[LOCK](LOCK "wikilink")                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             |               |
+| ♐[LOCK](LOCK "wikilink")                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             | ![LOCK3d6.full.webp](LOCK3d6.full.webp) |
 | ♐[DELOCK](DELOCK "wikilink")                          |                                                                                             |               |
 | [♐ (nameless video)](♐_\(nameless_video\) "wikilink") |                                                                                             |               |
 | ♐[PER](PER "wikilink")                                |                                                                                             |               |
