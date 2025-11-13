@@ -8,10 +8,17 @@ posted three days after ♐[ZORO](ZORO "wikilink") was posted and deleted.
 {{\#ev:youtube|<https://youtu.be/GJvERY41FqA>}}
 
 ## Audio
+The audio track contains a constant, very loud stream of sounds. Discord user Unstable Olding notes that "it seems like a combination of PORT, RETIO and the voice used in DEPTH".
 
-The audio track contains a constant, very loud stream of sounds. Discord
-user Unstable Olding notes that "it seems like a combination of PORT,
-RETIO and the voice used in DEPTH".
+> ben's fractals: The audio in COEF sounds like someone playing with the delay time of a high-feedback comb filter(or delay)
+>
+> Because at many points it goes to that annoying high pitch frequency probably meaning that Unfavourable semicircle reached the min. possible delay time for it
+>
+> I'm gonna do a quick example in FL studio
+>
+> Not exactly very close but it's sort of there - 4 different comb filters on top of one another where i change the frequency of them in realtime
+
+https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/tree/master/docs/COEF.flac
 
 ## Composites
 
