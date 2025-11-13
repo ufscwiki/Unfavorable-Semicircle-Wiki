@@ -1,10 +1,4 @@
 # Unknown Voice
-## Table of Contents
-  * [Overview](#overview)
-  * [Trends in Speech](#trends-in-speech)
-  * [Sample of voice](#sample-of-voice)
-  * [Videos Containing the Unknown Voice](#videos-containing-the-unknown-voice)
-
 ## Overview
 The "unknown voice" is present on many of the Unfavorable Semicircle
 videos. The voice is male and not synthesized (though presumably
