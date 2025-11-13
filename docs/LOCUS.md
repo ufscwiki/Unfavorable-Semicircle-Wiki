@@ -61,7 +61,7 @@ Vantjac also has a composite [here](http://vanjac.github.io/sketches/ufsc3d/).
 **N.B.**: *These composites are large and may cause distress to your computer if you try to open them!*
 
 ## Audio
-> ben's fractals: I noticed that when you speed up the audio in the LOCUS series by alot(around 20 times) it turns out that it's actually a really low-passed static
+> ben's fractals: I noticed that when you speed up the audio in the LOCUS series by a lot (around 20 times) it turns out that it's actually a really low-passed static
 > 
 > It does sound like it has something encoded in it though
 
@@ -73,7 +73,7 @@ https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/tree/master/docs/locus0s
 >
 > Also you can isolate the voice in it since the static is completely mono but panned by ~40% to the left
 >
-> I'm pretty sure it's the same audio as in 574016
+> I'm pretty sure it's the same audio as in [574016](574016)
 
 ## Links
 * ♐LOCUS 0: <https://youtu.be/DdUGUsoBD8o>
