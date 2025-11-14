@@ -1,13 +1,5 @@
 # Unknown Voice
-
-## Table of Contents
-  * [Overview](#overview)
-  * [Trends in Speech](#trends-in-speech)
-  * [Sample of voice](#sample-of-voice)
-  * [Videos Containing the Unknown Voice](#videos-containing-the-unknown-voice)
-
 ## Overview
-
 The "unknown voice" is present on many of the Unfavorable Semicircle
 videos. The voice is male and not synthesized (though presumably
 subjected to audio processing). The voice's accent has been subject to
@@ -19,7 +11,6 @@ microphone is being used: maybe a webcam, built-in laptop mic, or
 something similar.
 
 ## Trends in Speech
-
 On the first day of videos being posted, all videos were silent. The
 voice began to appear after this, albeit far less frequently than it
 would
@@ -34,7 +25,6 @@ of
 time<sup>[https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown\_of\_todays\_findings\_february\_22nd\_2016/1](https://www.reddit.com/r/UnfavorableSemicircle/comments/46zwat/breakdown_of_todays_findings_february_22nd_2016/_1 "wikilink")</sup>.
 
 ## Sample of voice
-
 A sample of the "standard" alphabet can be heard
 [here](https://clyp.it/ql1rof5n). (There were numerous videos with this
 identical soundtrack in the pre-♐[BRILL](BRILL "wikilink") videos in the
@@ -43,6 +33,13 @@ original account.)
 ![Alphabet\_standard\_waveforms.png](Alphabet_standard_waveforms.png)
 
 *waveforms of "standard alphabet", as in the audio file linked above.*
+
+## Audio
+> ben's fractals: Also for those voices that say numbers and letters i'm pretty sure Unfavourable semicircle used the Spectral delete Nyquist command and just removed the mid-area of the speech, leaving behind only the low and high ends
+> 
+> The frequency where it is removed ranges from about 1.6KhZ to around 4.9Khz
+
+![unknown_voice_spectogram.webp](unknown_voice_spectogram.webp)
 
 ## Videos Containing the Unknown Voice
 *an incomplete list!*
