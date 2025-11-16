@@ -15,6 +15,7 @@ channel is "loyal" to the actual creator(s) of UFSC.
 ![Loyal\_composite.png](Loyal_composite.png "Loyal_composite.png")
 
 3D-composite by Lukidot.
+
 ![LOYAL3d2.PNG](LOYAL3d2.PNG)
 
 ## Audio
