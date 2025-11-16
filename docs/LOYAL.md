@@ -10,9 +10,12 @@ There is no clear meaning, but this could be taken a a hint that this
 channel is "loyal" to the actual creator(s) of UFSC.
 
 ## Composites
+♐♐LOYAL composite by discord user Mark The Third.
+
 ![Loyal\_composite.png](Loyal_composite.png "Loyal_composite.png")
 
-*♐♐LOYAL composite by discord user mark the third*
+3D-composite by Lukidot.
+![LOYAL3d2.PNG](LOYAL3d2.PNG)
 
 ## Audio
 In November 2025 a song was found in the audio-track:
