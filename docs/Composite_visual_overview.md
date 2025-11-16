@@ -1,7 +1,5 @@
 # Composite visual overview
-
 ## Introduction
-
 Composites are images created by extracting frames (generally keyframes) from videos posted by Unfavorable Semicircle and arranging those extracted frames in a grid. The width of the grid used is usually established by internal evidence within an image (creating straight lines, for example).
 
 ***This page is a work in progress\!***
@@ -14,36 +12,32 @@ Blank spots on this chart could mean:
   - it wouldn't make sense to made a composite of that video
   
 ## Archive of composites
-
-* a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip "wikilink").
+* a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip).
 
 ## Original youtube channel: Non-series videos
-
-| Video or series                                       | [2D composite](Video_Composites "wikilink") | [3D composite](3D_Composite "wikilink") |
+| Video or series                                       | [2D composite](Video_Composites) | [3D composite](3D_Composite) |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
-| ♐[LOCK](LOCK "wikilink")                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             | ![LOCK3d6.webp](LOCK3d6.webp) |
-| ♐[DELOCK](DELOCK "wikilink")                          |                                                                                             |               |
-| [♐ (nameless video)](♐_\(nameless_video\) "wikilink") |                                                                                             |               |
-| ♐[PER](PER "wikilink")                                |                                                                                             |               |
-| ♐[BRILL B](BRILL_B "wikilink")                        |                                                                                             |               |
-| ♐[QUOT](QUOT "wikilink")                              | ![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png "QUOT_composite_enlarged.png") |               |
+| ♐[LOCK](LOCK)                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             | ![LOCK3d6.webp](LOCK3d6.webp) |
+| ♐[DELOCK](DELOCK)                          |                                                                                             |               |
+| [♐ (nameless video)](♐_\(nameless_video\)) |                                                                                             |               |
+| ♐[PER](PER)                                |                                                                                             |               |
+| ♐[BRILL B](BRILL_B)                        |                                                                                             |               |
+| ♐[QUOT](QUOT)                              | ![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png "QUOT_composite_enlarged.png") |               |
 
 ## Original youtube channel: Series
-
-| Video or series                                               | 2-D composite                                                                                   | 3-D composite- |
+| Video or series                                               | 2D composite                                                                                   | 3D composite- |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- |
-| [Original unnamed series](Original_unnamed_series "wikilink") | ![Numbered composite bydate.png](Numbered_composite_bydate.png "Numbered composite bydate.png") |                |
-| ♐[BRILL](BRILL "wikilink")                                    | ![BRILL\_composite.png](BRILL_composite.png "BRILL_composite.png")                              |                |
-| ♐[OR](OR "wikilink")                                          | *n/a*                                                                                           | *n/a*          |
+| [Original unnamed series](Original_unnamed_series) | ![Numbered composite bydate.png](Numbered_composite_bydate.png "Numbered composite bydate.png") |                |
+| ♐[BRILL](BRILL)                                    | ![BRILL\_composite.png](BRILL_composite.png "BRILL_composite.png")                              |                |
+| ♐[OR](OR)                                          | *n/a*                                                                                           | *n/a*          |
 
 ## Second youtube channel: Non-series videos
-
 <table>
 <thead>
 <tr class="header">
 <th><p>Video or series</p></th>
-<th><p>2-D composite</p></th>
-<th><p>3-D composite</p></th>
+<th><p>2D composite</p></th>
+<th><p>3D composite</p></th>
 </tr>
 </thead>
 <tbody>
@@ -201,73 +195,66 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 </table>
 
 ## Second youtube channel: Series
-
-| Video or series                                               | 2-D composite                                                                                                 | 3-D composite-                                                                                                                 |
+| Video or series                                               | 2D composite                                                                                                 | 3D composite-                                                                                                                 |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ♐[BRINE](BRINE "wikilink")                                    | ![BRINE\_composite.png](BRINE_composite.png "BRINE_composite.png")                                            |                                                                                                                                |
-| ♐[FEND](FEND "wikilink")                                      | ![FEND\_object\_in\_2-d\_composite.png](FEND_object_in_2-d_composite.png "FEND_object_in_2-d_composite.png")  | ![FEND\_3-d\_composite,\_view\_1.png](FEND_3-d_composite,_view_1.png "FEND_3-d_composite,_view_1.png")                         |
-| ♐[FOND](FOND "wikilink")                                      | ![FOND\_composite.png](FOND_composite.png "FOND_composite.png")                                               | ![FOND\_3-D\_composite,\_view\_1.png](FOND_3-D_composite,_view_1.png "FOND_3-D_composite,_view_1.png")                         |
-| [Numbered Videos](Numbered_videos_\(2nd_channel\) "wikilink") | ![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png "Numbered_2016-07-12_composite.png") |                                                                                                                                |
-| ♐[BROTHER](BROTHER "wikilink")                                | ![BROTHER\_composite.png](BROTHER_composite.png "BROTHER_composite.png")                                      |                                                                                                                                |
-| ♐[SLIM](SLIM "wikilink")                                      | ![SLIM\_composite.png](SLIM_composite.png "SLIM_composite.png")                                               |                                                                                                                                |
-| ♐[LOCUS](LOCUS "wikilink")                                    | ![Locus\_composite\_by\_hellajt.png](Locus_composite_by_hellajt.png "Locus_composite_by_hellajt.png")         |                                                                                                                                |
-| ♐[CLEAN](CLEAN "wikilink")                                    | ![CLEAN\_composite\_495.55.png](CLEAN_composite_495.55.png "CLEAN_composite_495.55.png")                      |                                                                                                                                |
-| ♐[BREADTH](BREADTH "wikilink")                                | ![BREADTH\_composite.jpg](BREADTH_composite.jpg "BREADTH_composite.jpg")                                      | ![Breadth\_3-D\_composite\_-\_view\_1.png](Breadth_3-D_composite_-_view_1.png "Breadth_3-D_composite_-_view_1.png")            |
-| ♐[MOTH](MOTH "wikilink")                                      |                                                                                                               | ![MOTH\_3-D\_composite\_-\_view\_2.png](MOTH_3-D_composite_-_view_2.png "MOTH_3-D_composite_-_view_2.png")                     |
-| ♐[DUAL](DUAL "wikilink")                                      | ![DUAL\_real.png](DUAL_real.png "DUAL_real.png")                                                              | ![Dual\_0-9\_-\_3-d\_composite\_-\_view\_2.png](Dual_0-9_-_3-d_composite_-_view_2.png "Dual_0-9_-_3-d_composite_-_view_2.png") |
-| ♐[BROAD](BROAD "wikilink")                                    | ![Broad\_combined.png](Broad_combined.png "Broad_combined.png")                                               |                                                                                                                                |
+| ♐[BRINE](BRINE)                                    | ![BRINE\_composite.png](BRINE_composite.png "BRINE_composite.png")                                            |                                                                                                                                |
+| ♐[FEND](FEND)                                      | ![FEND\_object\_in\_2-d\_composite.png](FEND_object_in_2-d_composite.png "FEND_object_in_2-d_composite.png")  | ![FEND\_3-d\_composite,\_view\_1.png](FEND_3-d_composite,_view_1.png "FEND_3-d_composite,_view_1.png")                         |
+| ♐[FOND](FOND)                                      | ![FOND\_composite.png](FOND_composite.png "FOND_composite.png")                                               | ![FOND\_3-D\_composite,\_view\_1.png](FOND_3-D_composite,_view_1.png "FOND_3-D_composite,_view_1.png")                         |
+| [Numbered Videos](Numbered_videos_\(2nd_channel\)) | ![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png "Numbered_2016-07-12_composite.png") |                                                                                                                                |
+| ♐[BROTHER](BROTHER)                                | ![BROTHER\_composite.png](BROTHER_composite.png "BROTHER_composite.png")                                      |                                                                                                                                |
+| ♐[SLIM](SLIM)                                      | ![SLIM\_composite.png](SLIM_composite.png "SLIM_composite.png")                                               |                                                                                                                                |
+| ♐[LOCUS](LOCUS)                                    | ![Locus\_composite\_by\_hellajt.png](Locus_composite_by_hellajt.png "Locus_composite_by_hellajt.png")         |                                                                                                                                |
+| ♐[CLEAN](CLEAN)                                    | ![CLEAN\_composite\_495.55.png](CLEAN_composite_495.55.png "CLEAN_composite_495.55.png")                      |                                                                                                                                |
+| ♐[BREADTH](BREADTH)                                | ![BREADTH\_composite.jpg](BREADTH_composite.jpg "BREADTH_composite.jpg")                                      | ![Breadth\_3-D\_composite\_-\_view\_1.png](Breadth_3-D_composite_-_view_1.png "Breadth_3-D_composite_-_view_1.png")            |
+| ♐[MOTH](MOTH)                                      |                                                                                                               | ![MOTH\_3-D\_composite\_-\_view\_2.png](MOTH_3-D_composite_-_view_2.png "MOTH_3-D_composite_-_view_2.png")                     |
+| ♐[DUAL](DUAL)                                      | ![DUAL\_real.png](DUAL_real.png "DUAL_real.png")                                                              | ![Dual\_0-9\_-\_3-d\_composite\_-\_view\_2.png](Dual_0-9_-_3-d_composite_-_view_2.png "Dual_0-9_-_3-d_composite_-_view_2.png") |
+| ♐[BROAD](BROAD)                                    | ![Broad\_combined.png](Broad_combined.png "Broad_combined.png")                                               |                                                                                                                                |
 
 ## [Stabilitory newing](Stabilitory_newing): non-series videos
-
-| Video or series          | 2-D composite                    | 3-D composite |
+| Video or series          | 2D composite                    | 3D composite |
 | ------------------------ | -------------                    | ------------- |
-| ⊕[RATE](RATE "wikilink") | ![rate.n25.png](rate.n25.png)    | *none yet*    |
+| ⊕[RATE](RATE) | ![rate.n25.png](rate.n25.png)    | *none yet*    |
 
 ## [Stabilitory newing](Stabilitory_newing): series
-
-| Video or series                | 2-D composite                     | 3-D composite |
+| Video or series                | 2D composite                     | 3D composite |
 | ------------------------------ | --------------------------------- | ------------- |
-| ⊕[BROTHER](BROTHER "wikilink") | ![SN.brother.png](SN.brother.png) | *none yet*    |
-| ⊕[BELT](BELT "wikilink")       | ![SN.belt.webp](SN.belt.webp)     |               |
+| ⊕[BROTHER](BROTHER) | ![SN.brother.png](SN.brother.png) | *none yet*    |
+| ⊕[BELT](BELT)       | ![SN.belt.webp](SN.belt.webp)     |               |
 
-## [3rd youtube channel](3rd_youtube_channel "wikilink"): Non-series videos
-
-| Video or series          | 2-D composite                                                                                     | 3-D composite                                                                                                |
+## [3rd youtube channel](3rd_youtube_channel): Non-series videos
+| Video or series          | 2D composite                                                                                     | 3D composite                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ♐[PORT](PORT "wikilink") | ![PORT\_composite\_398\_width.png](PORT_composite_398_width.png "PORT_composite_398_width.png")   | *none yet*                                                                                                   |
-| ♐[RUN](RUN "wikilink")   | ![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")                 | ![RUN3d3.webp](RUN3d3.webp)                                                                                                   |
-| ♐[NODE](NODE "wikilink") | ![Node\_composite\_width\_839.png](Node_composite_width_839.png "Node_composite_width_839.png")   | ![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png "Node_3-d_composite_by_tukkek.png") |
-| ♐[SERN](SERN "wikilink") | *Impossible*                                                                                      | *Impossible*                                                                                                 |
-| ♐[ZORO](ZORO "wikilink") | *Impossible*                                                                                      | *Impossible*                                                                                                 |
-| ♐[COEF](COEF "wikilink") | ![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png "COEF_unadjusted_composite.png") | *none yet*                                                                                                   |
-| ♐[NEO](NEO "wikilink")   | ![Neosquare.png](Neosquare.png "Neosquare.png")                                                   | ![Neo-3d.png](Neo-3d.png "Neo-3d.png")                                                                       |
-| ♐[DIFF](DIFF "wikilink") | ![DIFF_36.png](DIFF_36.png) | ![DIFF_36.png](DIFF_3D.png)                                                                                                                                                        |
-| ♐[CFO](CFO "wikilink")   | ![Cfo\_composite.png](Cfo_composite.png "Cfo_composite.png")                                      | ![Cfo-3d-2.png](Cfo-3d-2.png "Cfo-3d-2.png")                                                                 |
-| ♐[GEN](GEN "wikilink")   | ![GEN\_composite\_288\_width.png](GEN_composite_288_width.png "GEN_composite_288_width.png")      | ![Gen-3d.png](Gen-3d.png "Gen-3d.png")                                                                       |
+| ♐[PORT](PORT) | ![PORT\_composite\_398\_width.png](PORT_composite_398_width.png "PORT_composite_398_width.png")   | *none yet*                                                                                                   |
+| ♐[RUN](RUN)   | ![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")                 | ![RUN3d3.webp](RUN3d3.webp)                                                                                                   |
+| ♐[NODE](NODE) | ![Node\_composite\_width\_839.png](Node_composite_width_839.png "Node_composite_width_839.png")   | ![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png "Node_3-d_composite_by_tukkek.png") |
+| ♐[SERN](SERN) | *Impossible*                                                                                      | *Impossible*                                                                                                 |
+| ♐[ZORO](ZORO) | *Impossible*                                                                                      | *Impossible*                                                                                                 |
+| ♐[COEF](COEF) | ![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png "COEF_unadjusted_composite.png") | *none yet*                                                                                                   |
+| ♐[NEO](NEO)   | ![Neosquare.png](Neosquare.png "Neosquare.png")                                                   | ![Neo-3d.png](Neo-3d.png "Neo-3d.png")                                                                       |
+| ♐[DIFF](DIFF) | ![DIFF_36.png](DIFF_36.png) | ![DIFF_36.png](DIFF_3D.png)                                                                                                                                                        |
+| ♐[CFO](CFO)   | ![Cfo\_composite.png](Cfo_composite.png "Cfo_composite.png")                                      | ![Cfo-3d-2.png](Cfo-3d-2.png "Cfo-3d-2.png")                                                                 |
+| ♐[GEN](GEN)   | ![GEN\_composite\_288\_width.png](GEN_composite_288_width.png "GEN_composite_288_width.png")      | ![Gen-3d.png](Gen-3d.png "Gen-3d.png")                                                                       |
 | ♐[ROOT](ROOT)  | ![ROOT-alpha.png](ROOT-alpha.png)      | ![ROOT-3d.png](ROOT-3d.png)                                                                       |
 
-## [3rd youtube channel](3rd_youtube_channel "wikilink"): Series
-
-| Video or series        | 2-D composite                                                                                                          | 3-D composite                                 |
+## [3rd youtube channel](3rd_youtube_channel): Series
+| Video or series        | 2D composite                                                                                                          | 3D composite                                 |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| ♐[AZO](AZO "wikilink") | ![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png "AZO_0_composite_RGB_600x327_1x1.png") | ![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png") |
+| ♐[AZO](AZO) | ![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png "AZO_0_composite_RGB_600x327_1x1.png") | ![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png") |
 
 *images for ♐AZO currently show AZO 0 only*
 
-## Twitter, pre-"[strange reset](RESET_STRANGE_YD "wikilink")": Non-series videos
-
-| Video or series              | 2-D composite                                                         | 3-D composite                                   |
+## Twitter, pre-"[strange reset](RESET_STRANGE_YD)": Non-series videos
+| Video or series              | 2D composite                                                         | 3D composite                                   |
 | ---------------------------- | --------------------------------------------------------------------- | ----------------------------------------------- |
-| ♐[574016](574016 "wikilink") | ![574016\_composite.png](574016_composite.png "574016_composite.png") | ![574016-3d.png](574016-3d.png "574016-3d.png") |
+| ♐[574016](574016) | ![574016\_composite.png](574016_composite.png "574016_composite.png") | ![574016-3d.png](574016-3d.png "574016-3d.png") |
 
-## Twitter, pre-"[strange reset](RESET_STRANGE_YD "wikilink")": Series
-
+## Twitter, pre-"[strange reset](RESET_STRANGE_YD)": Series
 <table>
 <thead>
 <tr class="header">
 <th><p>Video or series</p></th>
-<th><p>2-D composite</p></th>
-<th><p>3-D composite</p></th>
+<th><p>2D composite</p></th>
+<th><p>3D composite</p></th>
 </tr>
 </thead>
 <tbody>
@@ -338,17 +325,21 @@ Partial composite</p></td>
 </tbody>
 </table>
 
-## Twitter, post-"[strange reset](RESET_STRANGE_YD "wikilink")": Non-series videos
-
-| Video or series                  | 2-D composite                                 | 3-D composite |
+## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Non-series videos
+| Video or series                  | 2D composite                                 | 3D composite |
 | -------------------------------- | --------------------------------------------- | ------------- |
-| ♐[DDR DONE](DDR_DONE "wikilink") | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") |               |
-| ♐[REVI](REVI "wikilink")         | ![REVI.png](REVI.png "REVI.png")              |               |
+| ♐[DDR DONE](DDR_DONE) | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") |               |
+| ♐[REVI](REVI)         | ![REVI.png](REVI.png "REVI.png")              |               |
 
-## Twitter, post-"[strange reset](RESET_STRANGE_YD "wikilink")": Series
-
-| Video or series              | 2-D composite                                                                                                          | 3-D composite |
+## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Series
+| Video or series              | 2D composite                                                                                                          | 3D composite |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
-| ♐[FMI](FMI "wikilink")       | ![FMI\_93s.png](FMI_93s.png "FMI_93s.png")                                                                             |               |
-| ♐[SECOND](SECOND "wikilink") | ![Full\_SECOND\_composite\_(reduced).jpg](Full_SECOND_composite_\(reduced\).jpg "Full_SECOND_composite_(reduced).jpg") |               |
-| ♐[STRAND](STRAND "wikilink") | ![Strand\_599.png](Strand_599.png "Strand_599.png")                                                                    |               |
+| ♐[FMI](FMI)       | ![FMI\_93s.png](FMI_93s.png "FMI_93s.png")                                                                             |               |
+| ♐[SECOND](SECOND) | ![Full\_SECOND\_composite\_(reduced).jpg](Full_SECOND_composite_\(reduced\).jpg "Full_SECOND_composite_(reduced).jpg") |               |
+| ♐[STRAND](STRAND) | ![Strand\_599.png](Strand_599.png "Strand_599.png")                                                                    |               |
+
+## OT
+| Video or series   | 2D composite                                    | 3D composite                                    |
+| ----------------- | ----------------------------------------------- | ----------------------------------------------- |
+| [Loyal](LOYAL)    | ![Loyal\_composite.png](Loyal_composite.png)    | ![LOYAL3d2.PNG](LOYAL3d2.PNG)                   |
+| [Cullet](CULLET)  | ![Cullet\_composite.png](Cullet_composite.png)  | ![Cullet\_composite.png](Cullet_composite.png)  |

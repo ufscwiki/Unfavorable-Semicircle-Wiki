@@ -12,7 +12,7 @@ channel is "loyal" to the actual creator(s) of UFSC.
 ## Composites
 ♐♐LOYAL composite by discord user Mark The Third.
 
-![Loyal\_composite.png](Loyal_composite.png "Loyal_composite.png")
+![Loyal\_composite.png](Loyal_composite.png)
 
 3D-composite by Lukidot.
 
