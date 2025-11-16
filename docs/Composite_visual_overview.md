@@ -342,4 +342,4 @@ Partial composite</p></td>
 | Video or series   | 2D composite                                    | 3D composite                                    |
 | ----------------- | ----------------------------------------------- | ----------------------------------------------- |
 | [Loyal](LOYAL)    | ![Loyal\_composite.png](Loyal_composite.png)    | ![LOYAL3d2.PNG](LOYAL3d2.PNG)                   |
-| [Cullet](CULLET)  | ![Cullet\_composite.png](Cullet_composite.png)  | ![Cullet\_composite.png](Cullet_composite.png)  |
+| [Cullet](CULLET)  | ![Cullet\_composite.png](Cullet_composite.png)  | ![Cullet\_3-d\_screengram\_from\_reddit.png](Cullet_3-d_screengram_from_reddit.png)  |
