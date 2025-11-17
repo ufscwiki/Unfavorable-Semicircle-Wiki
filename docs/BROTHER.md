@@ -74,6 +74,11 @@ rien pour un oui 45 55
 
 Oh 400 48 53 54
 
+### Composite
+> N25_CT13: brother, 100x100, third column
+
+![SN.brother.png](SN.brother.png)
+
 ##  Possible astrological connections
 The [astrological sign of Gemini](https://en.wikipedia.org/wiki/Gemini_(astrology)) is, by its nature, associated with brothers.
 
