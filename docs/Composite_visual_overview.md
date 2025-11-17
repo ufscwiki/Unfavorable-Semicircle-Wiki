@@ -15,6 +15,7 @@ Blank spots on this chart could mean:
 * a downloadable archive of 2D and 3D composites can be found [here](composites-2021-04-28.zip).
 
 ## Original youtube channel: Non-series videos
+
 | Video or series                                       | [2D composite](Video_Composites) | [3D composite](3D_Composite) |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
 | ♐[LOCK](LOCK)                              | ![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")                             | ![LOCK3d6.webp](LOCK3d6.webp) |
@@ -25,6 +26,7 @@ Blank spots on this chart could mean:
 | ♐[QUOT](QUOT)                              | ![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png "QUOT_composite_enlarged.png") |               |
 
 ## Original youtube channel: Series
+
 | Video or series                                               | 2D composite                                                                                   | 3D composite- |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- |
 | [Original unnamed series](Original_unnamed_series) | ![Numbered composite bydate.png](Numbered_composite_bydate.png "Numbered composite bydate.png") |                |
@@ -32,6 +34,7 @@ Blank spots on this chart could mean:
 | ♐[OR](OR)                                          | *n/a*                                                                                           | *n/a*          |
 
 ## Second youtube channel: Non-series videos
+
 <table>
 <thead>
 <tr class="header">
@@ -195,6 +198,7 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 </table>
 
 ## Second youtube channel: Series
+
 | Video or series                                               | 2D composite                                                                                                 | 3D composite-                                                                                                                 |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ♐[BRINE](BRINE)                                    | ![BRINE\_composite.png](BRINE_composite.png "BRINE_composite.png")                                            |                                                                                                                                |
@@ -211,17 +215,20 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 | ♐[BROAD](BROAD)                                    | ![Broad\_combined.png](Broad_combined.png "Broad_combined.png")                                               |                                                                                                                                |
 
 ## [Stabilitory newing](Stabilitory_newing): non-series videos
+
 | Video or series          | 2D composite                    | 3D composite |
 | ------------------------ | -------------                    | ------------- |
 | ⊕[RATE](RATE) | ![rate.n25.png](rate.n25.png)    | *none yet*    |
 
 ## [Stabilitory newing](Stabilitory_newing): series
+
 | Video or series                | 2D composite                     | 3D composite |
 | ------------------------------ | --------------------------------- | ------------- |
 | ⊕[BROTHER](BROTHER) | ![SN.brother.png](SN.brother.png) | *none yet*    |
 | ⊕[BELT](BELT)       | ![SN.belt.webp](SN.belt.webp)     |               |
 
 ## [3rd youtube channel](3rd_youtube_channel): Non-series videos
+
 | Video or series          | 2D composite                                                                                     | 3D composite                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | ♐[PORT](PORT) | ![PORT\_composite\_398\_width.png](PORT_composite_398_width.png "PORT_composite_398_width.png")   | *none yet*                                                                                                   |
@@ -237,6 +244,7 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 | ♐[ROOT](ROOT)  | ![ROOT-alpha.png](ROOT-alpha.png)      | ![ROOT-3d.png](ROOT-3d.png)                                                                       |
 
 ## [3rd youtube channel](3rd_youtube_channel): Series
+
 | Video or series        | 2D composite                                                                                                          | 3D composite                                 |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | ♐[AZO](AZO) | ![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png "AZO_0_composite_RGB_600x327_1x1.png") | ![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png") |
@@ -244,11 +252,13 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 *images for ♐AZO currently show AZO 0 only*
 
 ## Twitter, pre-"[strange reset](RESET_STRANGE_YD)": Non-series videos
+
 | Video or series              | 2D composite                                                         | 3D composite                                   |
 | ---------------------------- | --------------------------------------------------------------------- | ----------------------------------------------- |
 | ♐[574016](574016) | ![574016\_composite.png](574016_composite.png "574016_composite.png") | ![574016-3d.png](574016-3d.png "574016-3d.png") |
 
 ## Twitter, pre-"[strange reset](RESET_STRANGE_YD)": Series
+
 <table>
 <thead>
 <tr class="header">
@@ -326,12 +336,14 @@ Partial composite</p></td>
 </table>
 
 ## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Non-series videos
+
 | Video or series                  | 2D composite                                 | 3D composite |
 | -------------------------------- | --------------------------------------------- | ------------- |
 | ♐[DDR DONE](DDR_DONE) | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") |               |
 | ♐[REVI](REVI)         | ![REVI.png](REVI.png "REVI.png")              |               |
 
 ## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Series
+
 | Video or series              | 2D composite                                                                                                          | 3D composite |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
 | ♐[FMI](FMI)       | ![FMI\_93s.png](FMI_93s.png "FMI_93s.png")                                                                             |               |
@@ -339,6 +351,7 @@ Partial composite</p></td>
 | ♐[STRAND](STRAND) | ![Strand\_599.png](Strand_599.png "Strand_599.png")                                                                    |               |
 
 ## OT
+
 | Video or series   | 2D composite                                    | 3D composite                                    |
 | ----------------- | ----------------------------------------------- | ----------------------------------------------- |
 | [Loyal](LOYAL)    | ![Loyal\_composite.png](Loyal_composite.png)    | ![LOYAL3d2.PNG](LOYAL3d2.PNG)                   |
