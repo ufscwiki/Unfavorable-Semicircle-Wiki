@@ -216,16 +216,16 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 
 ## [Stabilitory newing](Stabilitory_newing): non-series videos
 
-| Video or series          | 2D composite                    | 3D composite |
-| ------------------------ | -------------                    | ------------- |
-| ⊕[RATE](RATE) | ![rate.n25.png](rate.n25.png)    | *none yet*    |
+| Video or series | 2D composite                  | 3D composite  | Column composite            |
+| --------------- | ----------------------------- | ------------- | --------------------------- |
+| ⊕[RATE](RATE)   | ![rate.n25.png](rate.n25.png) | *none yet*    | ![rate.3.webp](rate.3.webp) |
 
 ## [Stabilitory newing](Stabilitory_newing): series
 
-| Video or series                | 2D composite                     | 3D composite |
-| ------------------------------ | --------------------------------- | ------------- |
-| ⊕[BROTHER](BROTHER) | ![SN.brother.png](SN.brother.png) | *none yet*    |
-| ⊕[BELT](BELT)       | ![SN.belt.webp](SN.belt.webp)     |               |
+| Video or series     | 2D composite  | 3D composite  | Column composite                  |
+| ------------------- | ------------- | ------------- | --------------------------------- |
+| ⊕[BROTHER](BROTHER) | -             | -             | ![SN.brother.png](SN.brother.png) |
+| ⊕[BELT](BELT)       | -             | -             | ![SN.belt.webp](SN.belt.webp)     |
 
 ## [3rd youtube channel](3rd_youtube_channel): Non-series videos
 
