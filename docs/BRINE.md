@@ -1,15 +1,5 @@
 # BRINE
-
-## Table of Contents
-  * [Overview](#overview)
-  * [Composites](#composites)
-  * [Meaning of name](#meaning-of-name)
-  * [Playback errors](#playback-errors)
-  * [Links](#links)
-
-
 ## Overview
-
 ♐BRINE is a [series](List_of_Series "wikilink") of sixteen videos that
 was uploaded to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 15 and May 23,
 2016.
@@ -18,13 +8,15 @@ The videos all have a duration of 3:01 and a series of rapidly-flashing
 frames.
 
 ## Composites
-
 ![BRINE composite](BRINE_composite.png "BRINE composite")
 
-Regular: <http://tomasf.se/projects/semi/BRINE_composite.png>  
+Regular: <http://tomasf.se/projects/semi/BRINE_composite.png>
+
 Brightness:
-<http://tomasf.se/projects/semi/BRINE_composite_brightness.png>  
-Hue: <http://tomasf.se/projects/semi/BRINE_composite_hue.png>  
+<http://tomasf.se/projects/semi/BRINE_composite_brightness.png>
+
+Hue: <http://tomasf.se/projects/semi/BRINE_composite_hue.png>
+
 All: <http://tomasf.se/projects/semi/BRINE_composite_adjusted.png>
 
 Alternate width of 540.5:
@@ -35,18 +27,22 @@ BRINE is part of the [BRILL Composite](BRILL_Composite "wikilink")
 group.
 
 ## Meaning of name
-
 * "Brine" is one of several nautical-themed UFSC titles. (*See also ♐[HULL](HULL "wikilink") and ♐[PORT](PORT "wikilink").*)
   * Deep ocean fish (such as ♐[BRILL](BRILL "wikilink")) live in brine.
 
 ## Playback errors
-
 Out of all the videos on Unfavorable Semicircle, this series seems to
 have the most playback errors, particularly on console and mobile
 devices.
 
-## Links
+## Audio
+> ben's fractals: Asked a person who knows a lot more about radio stuff than i do and he said this about brine's audio:
+> 
+> "I feel like the file is FM like its a recording of something using FM mode"
+>
+> "definetly some kind of phase shift keying"
 
+## Links
 All links are now defunct due to the "[strange reset](RESET_STRANGE_YD "wikilink")".
 
 BRINE 0: \[<https://www.youtube.com/watch?v=cSHu0M0jJRI>|
