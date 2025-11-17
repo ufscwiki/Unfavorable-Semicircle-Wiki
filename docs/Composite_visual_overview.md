@@ -27,11 +27,11 @@ Blank spots on this chart could mean:
 
 ## Original youtube channel: Series
 
-| Video or series                                               | 2D composite                                                                                   | 3D composite- |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- |
-| [Original unnamed series](Original_unnamed_series) | ![Numbered composite bydate.png](Numbered_composite_bydate.png "Numbered composite bydate.png") |                |
-| ♐[BRILL](BRILL)                                    | ![BRILL\_composite.png](BRILL_composite.png "BRILL_composite.png")                              |                |
-| ♐[OR](OR)                                          | *n/a*                                                                                           | *n/a*          |
+| Video or series                                    | 2D composite                                 | 3D composite- |
+| -------------------------------------------------- | ---------------------------------------      | ------------- |
+| [Original unnamed series](Original_unnamed_series) | ![og_series_100.png](og_series_100.png)      |               |
+| ♐[BRILL](BRILL)                                    | ![BRILL\_composite.png](BRILL_composite.png) |               |
+| ♐[OR](OR)                                          | *n/a*                                        | *n/a*         |
 
 ## Second youtube channel: Non-series videos
 
