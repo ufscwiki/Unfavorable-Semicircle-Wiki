@@ -1,5 +1,4 @@
 # SECOND
-
 ♐SECOND is a "double series" of videos currently uploaded to the
 [Twitter](Twitter "wikilink") account. It began on December 9th, 2017 at
 2:27 PM EST and was the second post
@@ -29,17 +28,15 @@ posting stopped. Posting to the twitter account resumed ten days later
 with the ♐[STRAND](STRAND "wikilink") series.
 
 ## Characteristics and Questions of Authenticity
-
 Videos were tweeted continuously (generally every 40 seconds) during the
 afternoon/evening (EST) of December 9th, and then steadily when not
 taking breaks. All videos are 72 seconds long (1:12).
 
 Discord user extra notes:
-
-  - the videos are 72 seconds long, and therefore should have had 72\*30
-    (2160) frames per video;
-  - however, there are only 1800 frames, which could only happen at 25
-    fps, even though VLC says they are encoded at 30 fps
+- the videos are 72 seconds long, and therefore should have had 72\*30
+  (2160) frames per video;
+- however, there are only 1800 frames, which could only happen at 25
+  fps, even though VLC says they are encoded at 30 fps
 
 At 1:12, ♐SECOND videos are longer than past twitter series. This could
 be the sign of a different "author" or simply UFSC taking advantage of
@@ -50,28 +47,26 @@ Some numbers (82, 249, 623, and 847 in the first series; 38, 48, 117,
 218, 981, 1060, 1191, 1873, 1749, 1608 in the second) were skipped
 during the posting (and please note this list is probably incomplete).
 This is noteworthy for two reasons:
-
-  - This has been generally rare behavior by UFSC, leading credence to
-    the theory that post-♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") is not the same creator as before.
-    The only evidence of skipped numbers comes from
-    ♐[LEE](LEE "wikilink") and ♐[MOTH](MOTH "wikilink") (and later,
-    ♐[STRAND](STRAND "wikilink")).
-  - An open question has always been how much of the workflow of
-    producing and uploading the videos is automated. Many factors point
-    out that it is, at least, partly automated: for example, the precise
-    uploads every 40 seconds (for this series) and the time spent
-    uploading such a large number of videos in sequence, which would be
-    unfeasible for a human to keep up with. On the other hand, computer
-    programs and tools don't "skip" numbers unless explicitly instructed
-    to do so. Since the numbers in question seem entirely random, this
-    should point out to some form of human mistake or intervention -
-    perhaps some quality assurance determining that number 82 and 249
-    weren't up to expectations (or perhaps the process that creates
-    videos just failed for those particular steps, maybe by having
-    invalid parameters or resulting in pipeline execution errors).
+- This has been generally rare behavior by UFSC, leading credence to
+  the theory that post-♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") is not the same creator as before.
+  The only evidence of skipped numbers comes from
+  ♐[LEE](LEE "wikilink") and ♐[MOTH](MOTH "wikilink") (and later,
+  ♐[STRAND](STRAND "wikilink")).
+- An open question has always been how much of the workflow of
+  producing and uploading the videos is automated. Many factors point
+  out that it is, at least, partly automated: for example, the precise
+  uploads every 40 seconds (for this series) and the time spent
+  uploading such a large number of videos in sequence, which would be
+  unfeasible for a human to keep up with. On the other hand, computer
+  programs and tools don't "skip" numbers unless explicitly instructed
+  to do so. Since the numbers in question seem entirely random, this
+  should point out to some form of human mistake or intervention -
+  perhaps some quality assurance determining that number 82 and 249
+  weren't up to expectations (or perhaps the process that creates
+  videos just failed for those particular steps, maybe by having
+  invalid parameters or resulting in pipeline execution errors).
 
 ## Audio
-
 There appears to be a smaller number of audio tracks that are reused
 many times.
 
@@ -89,7 +84,6 @@ and
 [♐SECOND 506](https://twitter.com/unfavorablesemi/status/939660051660328960).
 
 ## Title
-
 "Second" most likely would mean that this is the second series after
 ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") (after
 ♐[FMI](FMI "wikilink")). It could also mean that the author is not the
@@ -99,7 +93,6 @@ account - even if this latest series has a definite authentic feel to
 it, more so than the latest series.
 
 ## Implications of two series
-
 UFSC has previously had complementary series and videos, most notably
 ♐[BROTHER](BROTHER "wikilink") and ⊕BROTHER. There have also been
 "replacements" (such as ♐[RESQEN](RESQEN "wikilink") for
@@ -110,15 +103,17 @@ is meant to be a contrast/comparison of some sort, or a restart after
 correcting errors.
 
 ## Composites
-
 ![Full_SECOND_composite_(reduced).jpg](Full_SECOND_composite_(reduced).jpg
 "Full_SECOND_composite_(reduced).jpg")
 
 (*composite of series II by extra. Note that due to wiki limitations
 this is currently being posted in a lossy jpg version.*)
 
-### Details in composites
+3D composite by Lukidot:
 
+![SECOND_3d.png](SECOND_3d.png)
+
+### Details in composites
 ![Second_(center_detail).png](Second_(center_detail).png
 "Second_(center_detail).png")
 
@@ -127,9 +122,9 @@ this is currently being posted in a lossy jpg version.*)
 There is a richness of detail in this composite, especially in the
 "square" section of the image, including what may be hidden patterns.
 
-  - there is an intruiging "constellation" of red dots in this area that
-    can be better seen in this inverted/color adjusted edit (by discord
-    user ShadowMorphyn) where the dots appear in blue:
+- there is an intruiging "constellation" of red dots in this area that
+  can be better seen in this inverted/color adjusted edit (by discord
+  user ShadowMorphyn) where the dots appear in blue:
 
 ![Second_vibrancy_.png](Second_vibrancy_.png "Second_vibrancy_.png")
 
@@ -137,6 +132,5 @@ this has been observed to possibly correspond with the stars in the
 constellation Sagittarius.
 
 ## See also
-
-  - [November 25th tweet‎‎](November_25th_tweet‎‎ "wikilink")
+- [November 25th tweet‎‎](November_25th_tweet‎‎ "wikilink")
 

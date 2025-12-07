@@ -1,5 +1,4 @@
 # LEE
-
 ♐LEE is a series of videos that was uploaded to the twitter account
 between March 18 and March 24, 2016. It is the third series posted in
 the twitter account, following ♐[EL](EL "wikilink") and
@@ -19,10 +18,13 @@ and are available
 A composite has been made of the available videos.
 
 ## Composites
+This composite was made from scraped videos combined with [Tomas's Composite](http://tomasf.se/projects/semi/LEE_composite.png)
 
 ![incomplete LEE composite](Lee_combined.png "incomplete LEE composite")
 
-This composite was made from scraped videos combined with [Tomas's Composite](http://tomasf.se/projects/semi/LEE_composite.png)
+3D composite by Lukidot:
+
+![LEE_3d.png](LEE_3d.png)
 
 ## Contemporaneous reddit threads
 

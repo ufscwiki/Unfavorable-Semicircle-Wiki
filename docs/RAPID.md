@@ -1,12 +1,9 @@
 # RAPID
-
-♐RAPID is a video posted to the second youtube account on November 11,
-2016.
+♐RAPID is a video posted to the second youtube account on November 11, 2016.
 
 {{\#ev:youtube|<https://youtu.be/kvNPLt9dp_8>}}
 
 ## Description of video
-
 At 9:43:20 (35000 seconds), this is one of the longest videos posted by
 Unfavorable Semicircle. The visuals contain a flickering series of
 monochrome frames.
@@ -15,7 +12,6 @@ The audio is a mono track with a variety of data transmission type
 sounds throughout.
 
 ## Audio analysis
-
 The audio is a mono track with heavily-distorted spoken words. It is
 difficult to confirm if it is the [Unknown Voice](Unknown_Voice "wikilink") or not.
 
@@ -34,18 +30,15 @@ at the end:
 | ![Rapid\_handshake\_start.png](Rapid_handshake_start.png "Rapid_handshake_start.png") | ![Rapid\_handshake\_end.png](Rapid_handshake_end.png "Rapid_handshake_end.png") |
 
 ## Significance of name
-
 *Please expand\!*
 
 ## Significance of posting date
-
 ♐RAPID was posted on November 11th, known as Veterans Day in the U.S.A.
 and Remembrance Day in Commonwealth nations. It's worth noting that many
 non-series videos were posted on holidays, such as HARVEST being posted
 on Canadian Thanksgiving and BRILL B being posted on Valentine's day.
 
 ## Composites
-
 <http://tomasf.se/projects/semi/RAPID_composite.png>
 
 ![RAPID_composite.png](RAPID_composite.png "_RAPID_composite.png")
@@ -62,7 +55,11 @@ A sub-section of the composite pixel-shifted by `+0.00233`:
 
 ![RAPID_shift.png](RAPID_shift.png)
 
+3D composites by Lukidot:
+
+![RAPID_3d1.png](RAPID_3d1.png)
+
+![RAPID_3d2.png](RAPID_3d2.png)
+
 ## Significance of Composite
-
 *Please expand\!*
-

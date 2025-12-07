@@ -1,5 +1,4 @@
 # NIL
-
 ♐NIL is a series of videos that was uploaded to the twitter account
 between April 10 and June 6, 2016. It is a large series of over thirty
 thousand videos.
@@ -23,7 +22,6 @@ This series is well preserved, and the videos have been scraped.
 Composites have been made.
 
 ## Composites
-
 NIL is part of the [BRILL Composite](BRILL_Composite "wikilink") group.
 NIL's composite is almost identical to [BRILL](BRILL "wikilink"), with
 the exception of colored lines, which divide the composite up into
@@ -41,6 +39,10 @@ Brightness:
 Hue: <http://tomasf.se/projects/semi/nil/NIL_composite_hue.png>
 
 Combined: <http://i.imgur.com/AbJboYf.png>
+
+3D composite by Lukidot:
+
+![NIL_3d.png](NIL_3d.png)
 
 ## Relationship of composites
 
