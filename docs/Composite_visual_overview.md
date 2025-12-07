@@ -23,13 +23,13 @@ Blank spots on this chart could mean:
 | [♐ (nameless video)](♐_\(nameless_video\)) |                                                                                             |               |
 | ♐[PER](PER)                                |                                                                                             |               |
 | ♐[BRILL B](BRILL_B)                        |                                                                                             |               |
-| ♐[QUOT](QUOT)                              | ![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png "QUOT_composite_enlarged.png") |               |
+| ♐[QUOT](QUOT)                              | ![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png "QUOT_composite_enlarged.png") | ![QUOT3d.png](QUOT3d.png) |
 
 ## Original youtube channel: Series
 
 | Video or series                                    | 2D composite                                 | 3D composite- |
 | -------------------------------------------------- | ---------------------------------------      | ------------- |
-| [Original unnamed series](Original_unnamed_series) | ![og_series_100.png](og_series_100.png)      |               |
+| [Original unnamed series](Original_unnamed_series) | ![og_series_100.png](og_series_100.png)      | ![AllSeasons_3d.png](AllSeasons_3d.png) |
 | ♐[BRILL](BRILL)                                    | ![BRILL\_composite.png](BRILL_composite.png) |               |
 | ♐[OR](OR)                                          | *n/a*                                        | *n/a*         |
 
@@ -49,7 +49,7 @@ Blank spots on this chart could mean:
 <td><figure>
 <img src="RELOCK_composite.png" title="RELOCK_composite.png" width="400"/><figcaption>RELOCK_composite.png</figcaption>
 </figure></td>
-<td></td>
+<td><img src="RELOCK_3d1.png"/></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="BRILL_49999">BRILL 49999</a></p></td>
@@ -63,14 +63,14 @@ Blank spots on this chart could mean:
 <td><figure>
 <img src="BRILLN_composite.png" title="BRILLN_composite.png" width="400"/><figcaption>BRILLN_composite.png</figcaption>
 </figure></td>
-<td></td>
+<td><img src="NBRILL_3d.png"/></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="REDLOC">REDLOC</a></p></td>
 <td><figure>
 <img src="REDLOC_composite.png" title="REDLOC_composite.png" width="400"/><figcaption>REDLOC_composite.png</figcaption>
 </figure></td>
-<td></td>
+<td><img src="REDLOC_3d.png"/></td>
 </tr>
 <tr class="odd">
 <td><p>♐<a href="ZUFCHO">ZUFCHO</a></p></td>
@@ -146,26 +146,26 @@ Blank spots on this chart could mean:
 <td><figure>
 <img src="RAPID_composite.png" title="RAPID_composite.png" width="400"/><figcaption>RAPID_composite.png</figcaption>
 </figure></td>
-<td></td>
+<td><img src="RAPID_3d1.png"/></td>
 </tr>
 <tr class="odd">
   <td><p>♐<a href="CRIMP">CRIMP</a></p></td>
   <td><img src="crimp.n25.png" title="crimp.n25.png" width="400"/></td>
-  <td></td>
+  <td><img src="CRIMP_3d1.png"/></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="FOLD">FOLD</a></p></td>
 <td><figure>
 <img src="FOLD_37.png" title="FOLD_37.png" width="400"/><figcaption>FOLD_37.png</figcaption>
 </figure></td>
-<td></td>
+<td><img src="FOLD_3d.png"/></td>
 </tr>
 <tr class="odd">
 <td><p>♐<a href="STEM">STEM</a></p></td>
 <td><figure>
 <img src="STEM_Composite_by_hellajt.png" title="STEM_Composite_by_hellajt.png" width="400"/><figcaption>STEM_Composite_by_hellajt.png</figcaption>
 </figure></td>
-<td></td>
+<td><img src="STEM_3d.png"/></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="UPRIGHT">UPRIGHT</a></p></td>
@@ -201,10 +201,10 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 
 | Video or series                                               | 2D composite                                                                                                 | 3D composite-                                                                                                                 |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ♐[BRINE](BRINE)                                    | ![BRINE\_composite.png](BRINE_composite.png "BRINE_composite.png")                                            |                                                                                                                                |
+| ♐[BRINE](BRINE)                                    | ![BRINE\_composite.png](BRINE_composite.png "BRINE_composite.png")                                            | ![BRINE_3d.png](BRINE_3d.png) |
 | ♐[FEND](FEND)                                      | ![FEND\_object\_in\_2-d\_composite.png](FEND_object_in_2-d_composite.png "FEND_object_in_2-d_composite.png")  | ![FEND\_3-d\_composite,\_view\_1.png](FEND_3-d_composite,_view_1.png "FEND_3-d_composite,_view_1.png")                         |
 | ♐[FOND](FOND)                                      | ![FOND\_composite.png](FOND_composite.png "FOND_composite.png")                                               | ![FOND\_3-D\_composite,\_view\_1.png](FOND_3-D_composite,_view_1.png "FOND_3-D_composite,_view_1.png")                         |
-| [Numbered Videos](Numbered_videos_\(2nd_channel\)) | ![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png "Numbered_2016-07-12_composite.png") |                                                                                                                                |
+| [Numbered Videos](Numbered_videos_\(2nd_channel\)) | ![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png "Numbered_2016-07-12_composite.png") | ![NumberedVideos_3d.png](NumberedVideos_3d.png) |
 | ♐[BROTHER](BROTHER)                                | ![BROTHER\_composite.png](BROTHER_composite.png "BROTHER_composite.png")                                      |                                                                                                                                |
 | ♐[SLIM](SLIM)                                      | ![SLIM\_composite.png](SLIM_composite.png "SLIM_composite.png")                                               |                                                                                                                                |
 | ♐[LOCUS](LOCUS)                                    | ![Locus\_composite\_by\_hellajt.png](Locus_composite_by_hellajt.png "Locus_composite_by_hellajt.png")         |                                                                                                                                |
@@ -272,19 +272,19 @@ Visualization of each frame's contents rather than mean RGB</p></td>
 <td><p>♐<a href="EL">EL</a></p></td>
 <td><p><img src="El_partial_composite.png" title="fig:El_partial_composite.png" width="400" alt="El_partial_composite.png" /><br />
 Partial composite</p></td>
-<td></td>
+<td><p><img src="EL_3d.png"/></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="RIA">RIA</a></p></td>
-<td><p><img src="Ria_partial_composite.png" title="fig:Ria_partial_composite.png" width="400" alt="Ria_partial_composite.png" /><br />
+<td><p><img src="Ria_partial_composite.png" title="fig:Ria_partial_composite.png" width="400" alt="Ria_partial_composite.png"/><br />
 Partial composite</p></td>
-<td></td>
+<td><img src="RIA_3d.png"/></td>
 </tr>
 <tr class="odd">
 <td><p>♐<a href="LEE">LEE</a></p></td>
 <td><p><img src="Lee_combined.png" title="fig:Lee_combined.png" width="400" alt="Lee_combined.png" /><br />
 Partial composite</p></td>
-<td></td>
+<td><img src="LEE_3d.png"/></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="CAB">CAB</a></p></td>
@@ -298,7 +298,7 @@ Partial composite</p></td>
 <td><figure>
 <img src="MUL_composite.png" title="MUL_composite.png" width="400"/><figcaption>MUL_composite.png</figcaption>
 </figure></td>
-<td></td>
+<td><img src="MUL_3d.png"/></td>
 </tr>
 <tr class="even">
 <td><p><a href="April_10_twitter_series">April 10 twitter series</a></p></td>
@@ -314,7 +314,7 @@ Partial composite</p></td>
 <td><figure>
 <img src="NIL_composite_combined.png" title="NIL_composite_combined.png" width="400"/><figcaption>NIL_composite_combined.png</figcaption>
 </figure></td>
-<td></td>
+<td><<img src="NIL_3d.png"/></td>
 </tr>
 <tr class="even">
 <td><p>♐<a href="DEPTH">DEPTH</a></p></td>
@@ -340,15 +340,15 @@ Partial composite</p></td>
 | Video or series                  | 2D composite                                 | 3D composite |
 | -------------------------------- | --------------------------------------------- | ------------- |
 | ♐[DDR DONE](DDR_DONE) | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") |               |
-| ♐[REVI](REVI)         | ![REVI.png](REVI.png "REVI.png")              |               |
+| ♐[REVI](REVI)         | ![REVI.png](REVI.png "REVI.png")              | ![REVI_3d.png](REVI_3d.png) |
 
 ## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Series
 
 | Video or series              | 2D composite                                                                                                          | 3D composite |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
-| ♐[FMI](FMI)       | ![FMI\_93s.png](FMI_93s.png "FMI_93s.png")                                                                             |               |
-| ♐[SECOND](SECOND) | ![Full\_SECOND\_composite\_(reduced).jpg](Full_SECOND_composite_\(reduced\).jpg "Full_SECOND_composite_(reduced).jpg") |               |
-| ♐[STRAND](STRAND) | ![Strand\_599.png](Strand_599.png "Strand_599.png")                                                                    |               |
+| ♐[FMI](FMI)       | ![FMI\_93s.png](FMI_93s.png "FMI_93s.png")                                                                             | ![FMI_3d.png](FMI_3d.png)              |
+| ♐[SECOND](SECOND) | ![Full\_SECOND\_composite\_(reduced).jpg](Full_SECOND_composite_\(reduced\).jpg "Full_SECOND_composite_(reduced).jpg") | ![SECOND_3d.png](SECOND_3d.png) |
+| ♐[STRAND](STRAND) | ![Strand\_599.png](Strand_599.png "Strand_599.png")                                                                    | ![STRAND_3d.png](STRAND_3d.png) |
 
 ## OT
 
