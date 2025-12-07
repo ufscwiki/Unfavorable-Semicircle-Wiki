@@ -1,5 +1,4 @@
 # REVI
-
 ♐REVI is a video
 [posted](https://twitter.com/unfavorablesemi/status/946188691042684929)
 by the Unfavorable Semicircle [Twitter](Twitter "wikilink") account on
@@ -11,7 +10,6 @@ account was silent until posting four days later on [New Year's Eve](NYE_tweet "
 to youtube by discord user unstable olding*.)
 
 ## Title
-
 It has been noted by Discord user scottywiththebody that *Yom Reviʻi*
 (יום רביעי‬ \[abbr. יום ד׳‬\], meaning "fourth day" and corresponding
 to Wednesday) is a day in the Hebrew calendar. (see also
@@ -22,7 +20,6 @@ which was, in fact, a Wednesday.
 of a miraheze staff member.
 
 ## Composite
-
 ![REVI.png](REVI.png "REVI.png")
 
 (*composite at width of 37 pixels by discord user extra*)
@@ -33,3 +30,6 @@ specific image.
 Discord user unfavorablist has noted that the horizontal red lines in
 the top half are reminiscent of ♐[CREM](CREM "wikilink").
 
+3D composite by Lukidot:
+
+![REVI_3d.png](REVI_3d.png)

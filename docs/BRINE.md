@@ -26,6 +26,10 @@ Alternate width of 540.5:
 BRINE is part of the [BRILL Composite](BRILL_Composite "wikilink")
 group.
 
+3D composite by Lukidot:
+
+![BRINE_3d.png](BRINE_3d.png)
+
 ## Meaning of name
 * "Brine" is one of several nautical-themed UFSC titles. (*See also ♐[HULL](HULL "wikilink") and ♐[PORT](PORT "wikilink").*)
   * Deep ocean fish (such as ♐[BRILL](BRILL "wikilink")) live in brine.
