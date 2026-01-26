@@ -59,7 +59,7 @@ Blank spots on this chart could mean:
 | ♐[FOLD](FOLD) | ![FOLD_37.png](FOLD_37.png) | ![FOLD_3d.png](FOLD_3d.png) |
 | ♐[STEM](STEM) | ![STEM_Composite_by_hellajt.png](STEM_Composite_by_hellajt.png) | ![STEM_3d.png](STEM_3d.png) |
 | ♐[UPRIGHT](UPRIGHT) | Impossible. | |
-| ♐[DIAGONAL](DIAGONAL) | ![Diagonal\_-\_horizontal\_composite.png](Diagonal\_-\_horizontal\_composite.png) | ![DIAGONAL\_-\_screecap\_of\_vantjac%27s\_3D\_render.png](DIAGONAL\_-\_screecap\_of\_vantjac%27s\_3D\_render.png) |
+| ♐[DIAGONAL](DIAGONAL) | ![diagonal.composite.horizontal.png](diagonal.composite.horizontal.png) | ![DIAGONAL.3D.vantjac.png](DIAGONAL.3D.vantjac.png) |
 | ♐[GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | |
 | ♐[HULL](HULL) | | ![HULL_3d.png](HULL_3d.png) (Visualization of each frame's contents rather than mean RGB). |
 
@@ -135,7 +135,7 @@ Blank spots on this chart could mean:
 | [April 10 twitter series](April_10_twitter_series) | ![April10square.png](April10square.png) | ![April10_3-d_projection.png](April10_3-d_projection.png) | 
 | ♐[NIL](NIL) | ![NIL_composite_combined.png](NIL_composite_combined.png) | ![NIL_3d.png](NIL_3d.png) | 
 | ♐[DEPTH](DEPTH) | ![DEPTH_composite.png](DEPTH_composite.png) | | 
-| ♐[POINT](POINT) | ![POINT\_composite.png](POINT\_composite.png) | ![Point\_-\_3-d\_composite\_-\_view\_1.png](Point\_-\_3-d\_composite\_-\_view\_1.png) |
+| ♐[POINT](POINT) | ![POINT composite.png](POINT composite.png) | ![Point.3d.1.png](Point.3d.1.png) |
 
 ## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Non-series videos
 
@@ -149,7 +149,7 @@ Blank spots on this chart could mean:
 | Video or series              | 2D composite                                                                                                          | 3D composite |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
 | ♐[FMI](FMI)       | ![FMI\_93s.png](FMI_93s.png "FMI_93s.png")                                                                             | ![FMI_3d.png](FMI_3d.png)              |
-| ♐[SECOND](SECOND) | ![Full\_SECOND\_composite\_\(reduced\).jpg](Full\_SECOND\_composite\_\(reduced\).jpg) | ![SECOND_3d.png](SECOND_3d.png) |
+| ♐[SECOND](SECOND) | ![SECOND.composite.reduced.jpg](SECOND.composite.reduced.jpg) | ![SECOND_3d.png](SECOND_3d.png) |
 | ♐[STRAND](STRAND) | ![Strand\_599.png](Strand_599.png "Strand_599.png")                                                                    | ![STRAND_3d.png](STRAND_3d.png) |
 
 ## OT

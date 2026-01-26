@@ -29,7 +29,7 @@ Data pertaining to the periods can be found at [Tomas' website](http://tomasf.se
 
 ### 2-D Composites
 
-![POINT composite.png](POINT_composite.png "POINT composite.png")
+![POINT composite.png](POINT composite.png)
 
 (*♐POINT composite, complete to ♐POINT 5818*)
 
@@ -40,11 +40,11 @@ Data pertaining to the periods can be found at [Tomas' website](http://tomasf.se
 
 ### 3-D Composites
 
-![Point - 3-d composite - view 1.png](Point_-_3-d_composite_-_view_1.png)
+![Point.3d.1.png](Point.3d.1.png)
 
 *screencap of ♐POINT 3-D composite (view 1)*
 
-![Point - 3-d composite - view 2.png](Point_-_3-d_composite_-_view_2.png)
+![Point.3d.2.png](Point.3d.2.png)
 
 *screencap of ♐POINT 3-D composite (view 2)*
 

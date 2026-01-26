@@ -103,8 +103,7 @@ is meant to be a contrast/comparison of some sort, or a restart after
 correcting errors.
 
 ## Composites
-![Full_SECOND_composite_(reduced).jpg](Full_SECOND_composite_(reduced).jpg
-"Full_SECOND_composite_(reduced).jpg")
+![SECOND.composite.reduced.jpg](SECOND.composite.reduced.jpg)
 
 (*composite of series II by extra. Note that due to wiki limitations
 this is currently being posted in a lossy jpg version.*)
