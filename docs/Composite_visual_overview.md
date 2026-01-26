@@ -126,6 +126,7 @@ Blank spots on this chart could mean:
 ## Twitter, pre-"[strange reset](RESET_STRANGE_YD)": Series
 
 | Video or series | 2D composite | 3D composite |
+| --------------- | ------------ | ------------ |
 | ♐[EL](EL) | ![El_partial_composite.png](El_partial_composite.png) | ![EL_3d.png](EL_3d.png) | 
 | ♐[RIA](RIA) | ![Ria_partial_composite.png](Ria_partial_composite.png) | ![RIA_3d.png](RIA_3d.png) | 
 | ♐[LEE](LEE) | ![Lee_combined.png](Lee_combined.png) | ![LEE_3d.png](LEE_3d.png) | 
