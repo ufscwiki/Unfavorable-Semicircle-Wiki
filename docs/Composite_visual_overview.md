@@ -125,81 +125,16 @@ Blank spots on this chart could mean:
 
 ## Twitter, pre-"[strange reset](RESET_STRANGE_YD)": Series
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Video or series</p></th>
-<th><p>2D composite</p></th>
-<th><p>3D composite</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>♐<a href="EL">EL</a></p></td>
-<td><p><img src="El_partial_composite.png" title="fig:El_partial_composite.png" width="400" alt="El_partial_composite.png" /><br />
-Partial composite</p></td>
-<td><p><img src="EL_3d.png"/></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="RIA">RIA</a></p></td>
-<td><p><img src="Ria_partial_composite.png" title="fig:Ria_partial_composite.png" width="400" alt="Ria_partial_composite.png"/><br />
-Partial composite</p></td>
-<td><img src="RIA_3d.png"/></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="LEE">LEE</a></p></td>
-<td><p><img src="Lee_combined.png" title="fig:Lee_combined.png" width="400" alt="Lee_combined.png" /><br />
-Partial composite</p></td>
-<td><img src="LEE_3d.png"/></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="CAB">CAB</a></p></td>
-<td><figure>
-<img src="CAB393.png" title="CAB393.png" width="400"/><figcaption>CAB393.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="MUL">MUL</a></p></td>
-<td><figure>
-<img src="MUL_composite.png" title="MUL_composite.png" width="400"/><figcaption>MUL_composite.png</figcaption>
-</figure></td>
-<td><img src="MUL_3d.png"/></td>
-</tr>
-<tr class="even">
-<td><p><a href="April_10_twitter_series">April 10 twitter series</a></p></td>
-<td><figure>
-<img src="April10square.png" title="April10square.png" width="400"/><figcaption>April10square.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="April10_3-d_projection.png" title="April10_3-d_projection.png" width="400"/><figcaption>April10_3-d_projection.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="NIL">NIL</a></p></td>
-<td><figure>
-<img src="NIL_composite_combined.png" title="NIL_composite_combined.png" width="400"/><figcaption>NIL_composite_combined.png</figcaption>
-</figure></td>
-<td><<img src="NIL_3d.png"/></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="DEPTH">DEPTH</a></p></td>
-<td><figure>
-<img src="DEPTH_composite.png" title="DEPTH_composite.png" width="400"/><figcaption>DEPTH_composite.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="POINT">POINT</a></p></td>
-<td><figure>
-<img src="POINT_composite.png" title="POINT_composite.png" width="400"/><figcaption>POINT_composite.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="Point_-_3-d_composite_-_view_1.png" title="Point_-_3-d_composite_-_view_1.png" width="400"/><figcaption>Point_-_3-d_composite_-_view_1.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Video or series | 2D composite | 3D composite |
+| ♐[EL](EL) | ![El_partial_composite.png](El_partial_composite.png) | ![EL_3d.png](EL_3d.png) | 
+| ♐[RIA](RIA) | ![Ria_partial_composite.png](Ria_partial_composite.png) | ![RIA_3d.png](RIA_3d.png) | 
+| ♐[LEE](LEE) | ![Lee_combined.png](Lee_combined.png) | ![LEE_3d.png](LEE_3d.png) | 
+| ♐[CAB](CAB) | ![CAB393.png](CAB393.png) | | 
+| ♐[MUL](MUL) | ![MUL_composite.png](MUL_composite.png) | ![MUL_3d.png](MUL_3d.png) | 
+| [April 10 twitter series](April_10_twitter_series) | ![April10square.png](April10square.png) | ![April10_3-d_projection.png](April10_3-d_projection.png) | 
+| ♐[NIL](NIL) | ![NIL_composite_combined.png](NIL_composite_combined.png) | ![NIL_3d.png](NIL_3d.png) | 
+| ♐[DEPTH](DEPTH) | ![DEPTH_composite.png](DEPTH_composite.png) | | 
+| ♐[POINT](POINT) | ![POINT_composite.png](POINT_composite.png) | ![Point_-_3-d_composite_-_view_1.png](Point_-_3-d_composite_-_view_1.png) |
 
 ## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Non-series videos
 
