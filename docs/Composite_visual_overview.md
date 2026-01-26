@@ -37,31 +37,31 @@ Blank spots on this chart could mean:
 
 | Video or series  | 2D composite | 3D composite |
 | ---------------- | ------------ | ------------ |
-| [RELOCK](RELOCK) | ![RELOCK_composite.png](RELOCK_composite.png) | ![RELOCK_3d1.png](RELOCK_3d1.png) |
-| [BRILL 49999](BRILL 49999) | ![BRILL49999_composite.png](BRILL49999_composite.png) | |
-| [N*_BRILL](N*_BRILL) | ![BRILLN_composite.png](BRILLN_composite.png) | ![NBRILL_3d.png](NBRILL_3d.png) |
-| [REDLOC](REDLOC) | ![REDLOC_composite.png](REDLOC_composite.png) | ![REDLOC_3d.png](REDLOC_3d.png) |
-| [ZUFCHO](ZUFCHO) | | |
-| [LONE](LONE) | | |
-| [WINGSET](WINGSET) | | |
-| [RETIO](RETIO) | | |
-| [LIMIT](LIMIT) | | |
-| [SQEN](SQEN) | | |
-| [RESQEN](RESQEN) | | |
-| [CREM](CREM) | | |
-| [LOVE](LOVE) | | |
-| [JALVINSACH](JALVINSACH) | ![JALVINSACH_composite.png](JALVINSACH_composite.png) | ![jalvinsach.3d.n25.png](jalvinsach.3d.n25.png) |
-| [MAX TEND](MAX TEND) | | |
-| [RECOVER](RECOVER) | ![Recover-still-frames-horizontal.png](Recover-still-frames-horizontal.png) | |
-| [HARVEST](HARVEST) | ![HARVEST_composite.png](HARVEST_composite.png) | |
-| [RAPID](RAPID) | ![RAPID_composite.png](RAPID_composite.png) | ![RAPID_3d1.png](RAPID_3d1.png) |
-| [CRIMP](CRIMP) | ![crimp.n25.png](crimp.n25.png) | ![CRIMP_3d1.png](CRIMP_3d1.png) |
-| [FOLD](FOLD) | ![FOLD_37.png](FOLD_37.png) | ![FOLD_3d.png](FOLD_3d.png) |
-| [STEM](STEM) | ![STEM_Composite_by_hellajt.png](STEM_Composite_by_hellajt.png) | ![STEM_3d.png](STEM_3d.png) |
-| [UPRIGHT](UPRIGHT) | Impossible | |
-| [DIAGONAL](DIAGONAL) | ![Diagonal_-_horizontal_composite.png](Diagonal_-_horizontal_composite.png) | ![DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png](DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png) |
-| [GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | |
-| [HULL](HULL) | | ![HULL_3d.png](HULL_3d.png) |
+| ♐[RELOCK](RELOCK) | ![RELOCK_composite.png](RELOCK_composite.png) | ![RELOCK_3d1.png](RELOCK_3d1.png) |
+| ♐[BRILL 49999](BRILL_49999) | ![BRILL49999_composite.png](BRILL49999_composite.png) | |
+| ♐[N*_BRILL](N*_BRILL) | ![BRILLN_composite.png](BRILLN_composite.png) | ![NBRILL_3d.png](NBRILL_3d.png) |
+| ♐[REDLOC](REDLOC) | ![REDLOC_composite.png](REDLOC_composite.png) | ![REDLOC_3d.png](REDLOC_3d.png) |
+| ♐[ZUFCHO](ZUFCHO) | | |
+| ♐[LONE](LONE) | | |
+| ♐[WINGSET](WINGSET) | | |
+| ♐[RETIO](RETIO) | | |
+| ♐[LIMIT](LIMIT) | | |
+| ♐[SQEN](SQEN) | | |
+| ♐[RESQEN](RESQEN) | | |
+| ♐[CREM](CREM) | | |
+| ♐[LOVE](LOVE) | | |
+| ♐[JALVINSACH](JALVINSACH) | ![JALVINSACH_composite.png](JALVINSACH_composite.png) | ![jalvinsach.3d.n25.png](jalvinsach.3d.n25.png) |
+| ♐[MAX TEND](MAX_TEND) | | |
+| ♐[RECOVER](RECOVER) | ![Recover-still-frames-horizontal.png](Recover-still-frames-horizontal.png) | |
+| ♐[HARVEST](HARVEST) | ![HARVEST_composite.png](HARVEST_composite.png) | |
+| ♐[RAPID](RAPID) | ![RAPID_composite.png](RAPID_composite.png) | ![RAPID_3d1.png](RAPID_3d1.png) |
+| ♐[CRIMP](CRIMP) | ![crimp.n25.png](crimp.n25.png) | ![CRIMP_3d1.png](CRIMP_3d1.png) |
+| ♐[FOLD](FOLD) | ![FOLD_37.png](FOLD_37.png) | ![FOLD_3d.png](FOLD_3d.png) |
+| ♐[STEM](STEM) | ![STEM_Composite_by_hellajt.png](STEM_Composite_by_hellajt.png) | ![STEM_3d.png](STEM_3d.png) |
+| ♐[UPRIGHT](UPRIGHT) | Impossible. | |
+| ♐[DIAGONAL](DIAGONAL) | ![Diagonal_-_horizontal_composite.png](Diagonal_-_horizontal_composite.png) | ![DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png](DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png) |
+| ♐[GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | |
+| ♐[HULL](HULL) | | ![HULL_3d.png](HULL_3d.png) (Visualization of each frame's contents rather than mean RGB). |
 
 ## Second youtube channel: Series
 
