@@ -35,167 +35,33 @@ Blank spots on this chart could mean:
 
 ## Second youtube channel: Non-series videos
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Video or series</p></th>
-<th><p>2D composite</p></th>
-<th><p>3D composite</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>♐<a href="RELOCK">RELOCK</a></p></td>
-<td><figure>
-<img src="RELOCK_composite.png" title="RELOCK_composite.png" width="400"/><figcaption>RELOCK_composite.png</figcaption>
-</figure></td>
-<td><img src="RELOCK_3d1.png"/></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="BRILL_49999">BRILL 49999</a></p></td>
-<td><figure>
-<img src="BRILL49999_composite.png" title="BRILL49999_composite.png" width="400"/><figcaption>BRILL49999_composite.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="N*_BRILL">N* BRILL</a></p></td>
-<td><figure>
-<img src="BRILLN_composite.png" title="BRILLN_composite.png" width="400"/><figcaption>BRILLN_composite.png</figcaption>
-</figure></td>
-<td><img src="NBRILL_3d.png"/></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="REDLOC">REDLOC</a></p></td>
-<td><figure>
-<img src="REDLOC_composite.png" title="REDLOC_composite.png" width="400"/><figcaption>REDLOC_composite.png</figcaption>
-</figure></td>
-<td><img src="REDLOC_3d.png"/></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="ZUFCHO">ZUFCHO</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="LONE">LONE</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="WINGSET">WINGSET</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="RETIO">RETIO</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="LIMIT">LIMIT</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="SQEN">SQEN</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="RESQEN">RESQEN</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="CREM">CREM</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="LOVE">LOVE</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-  <td><p>♐<a href="JALVINSACH">JALVINSACH</a></p></td>
-  <td><img src="JALVINSACH_composite.png" title="JALVINSACH_composite.png" width="400"/></td>
-  <td><img src="jalvinsach.3d.n25.png" title="jalvinsach.3d.n25.png" width="400"/></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="MAX_TEND">MAX TEND</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="RECOVER">RECOVER</a></p></td>
-<td><figure>
-<img src="Recover-still-frames-horizontal.png" title="Recover-still-frames-horizontal.png" width="400"/><figcaption>Recover-still-frames-horizontal.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="HARVEST">HARVEST</a></p></td>
-<td><figure>
-<img src="HARVEST_composite.png" title="HARVEST_composite.png" width="400"/><figcaption>HARVEST_composite.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="RAPID">RAPID</a></p></td>
-<td><figure>
-<img src="RAPID_composite.png" title="RAPID_composite.png" width="400"/><figcaption>RAPID_composite.png</figcaption>
-</figure></td>
-<td><img src="RAPID_3d1.png"/></td>
-</tr>
-<tr class="odd">
-  <td><p>♐<a href="CRIMP">CRIMP</a></p></td>
-  <td><img src="crimp.n25.png" title="crimp.n25.png" width="400"/></td>
-  <td><img src="CRIMP_3d1.png"/></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="FOLD">FOLD</a></p></td>
-<td><figure>
-<img src="FOLD_37.png" title="FOLD_37.png" width="400"/><figcaption>FOLD_37.png</figcaption>
-</figure></td>
-<td><img src="FOLD_3d.png"/></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="STEM">STEM</a></p></td>
-<td><figure>
-<img src="STEM_Composite_by_hellajt.png" title="STEM_Composite_by_hellajt.png" width="400"/><figcaption>STEM_Composite_by_hellajt.png</figcaption>
-</figure></td>
-<td><img src="STEM_3d.png"/></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="UPRIGHT">UPRIGHT</a></p></td>
-<td><p><em>Impossible</em></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="DIAGONAL">DIAGONAL</a></p></td>
-<td><figure>
-<img src="Diagonal_-_horizontal_composite.png" title="Diagonal_-_horizontal_composite.png" width="400"/><figcaption>Diagonal_-_horizontal_composite.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png" title="DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png" width="400"/><figcaption>DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>♐<a href="GOLDEN">GOLDEN</a></p></td>
-<td><figure>
-<img src="GOLDEN.png" title="GOLDEN.png" width="400"/><figcaption>GOLDEN.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>♐<a href="HULL">HULL</a></p></td>
-<td></td>
-<td><p><img src="HULL_3d.png" title="fig:HULL_3d.png" width="400" alt="HULL_3d.png" /><br />
-Visualization of each frame's contents rather than mean RGB</p></td>
-</tr>
-</tbody>
-</table>
+| Video or series  | 2D composite | 3D composite |
+| ---------------- | ------------ | ------------ |
+| [RELOCK](RELOCK) | ![RELOCK_composite.png](RELOCK_composite.png) | ![RELOCK_3d1.png](RELOCK_3d1.png) |
+| [BRILL 49999](BRILL 49999) | ![BRILL49999_composite.png](BRILL49999_composite.png) | |
+| [N*_BRILL](N*_BRILL) | ![BRILLN_composite.png](BRILLN_composite.png) | ![NBRILL_3d.png](NBRILL_3d.png) |
+| [REDLOC](REDLOC) | ![REDLOC_composite.png](REDLOC_composite.png) | ![REDLOC_3d.png](REDLOC_3d.png) |
+| [ZUFCHO](ZUFCHO) | | |
+| [LONE](LONE) | | |
+| [WINGSET](WINGSET) | | |
+| [RETIO](RETIO) | | |
+| [LIMIT](LIMIT) | | |
+| [SQEN](SQEN) | | |
+| [RESQEN](RESQEN) | | |
+| [CREM](CREM) | | |
+| [LOVE](LOVE) | | |
+| [JALVINSACH](JALVINSACH) | ![JALVINSACH_composite.png](JALVINSACH_composite.png) | ![jalvinsach.3d.n25.png](jalvinsach.3d.n25.png) |
+| [MAX TEND](MAX TEND) | | |
+| [RECOVER](RECOVER) | ![Recover-still-frames-horizontal.png](Recover-still-frames-horizontal.png) | |
+| [HARVEST](HARVEST) | ![HARVEST_composite.png](HARVEST_composite.png) | |
+| [RAPID](RAPID) | ![RAPID_composite.png](RAPID_composite.png) | ![RAPID_3d1.png](RAPID_3d1.png) |
+| [CRIMP](CRIMP) | ![crimp.n25.png](crimp.n25.png) | ![CRIMP_3d1.png](CRIMP_3d1.png) |
+| [FOLD](FOLD) | ![FOLD_37.png](FOLD_37.png) | ![FOLD_3d.png](FOLD_3d.png) |
+| [STEM](STEM) | ![STEM_Composite_by_hellajt.png](STEM_Composite_by_hellajt.png) | ![STEM_3d.png](STEM_3d.png) |
+| [UPRIGHT](UPRIGHT) | Impossible | |
+| [DIAGONAL](DIAGONAL) | ![Diagonal_-_horizontal_composite.png](Diagonal_-_horizontal_composite.png) | ![DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png](DIAGONAL_-_screecap_of_vantjac%27s_3D_render.png) |
+| [GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | |
+| [HULL](HULL) | | ![HULL_3d.png](HULL_3d.png) |
 
 ## Second youtube channel: Series
 
