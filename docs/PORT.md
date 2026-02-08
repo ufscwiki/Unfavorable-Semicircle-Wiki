@@ -17,11 +17,15 @@ most interestingly it could refer to:
   - several nautical terms (similar to ♐[HULL](HULL "wikilink") and
     ♐[BRINE](BRINE "wikilink")) (*observed by discord user yam00*)
 
-## Composite
+## 2D Composite
 
 ![PORT\_composite\_398\_width.png](PORT_composite_398_width.png)
 
 (*composite by discord user extra*)
+
+## 3D Composite
+
+![port-3d.webp](port-3d.webp)
 
 ### Details in composite
 
