@@ -53,14 +53,14 @@ Blank spots on this chart could mean:
 | ♐[JALVINSACH](JALVINSACH) | ![JALVINSACH_composite.png](JALVINSACH_composite.png) | ![jalvinsach.3d.n25.png](jalvinsach.3d.n25.png) |
 | ♐[MAX TEND](MAX_TEND) | | |
 | ♐[RECOVER](RECOVER) | ![Recover-still-frames-horizontal.png](Recover-still-frames-horizontal.png) | |
-| ♐[HARVEST](HARVEST) | ![HARVEST_composite.png](HARVEST_composite.png) | |
+| ♐[HARVEST](HARVEST) | ![HARVEST_composite.png](HARVEST_composite.png) | ![harvest_3d_partial](harvest_3d_partial.png) |
 | ♐[RAPID](RAPID) | ![RAPID_composite.png](RAPID_composite.png) | ![RAPID_3d1.png](RAPID_3d1.png) |
 | ♐[CRIMP](CRIMP) | ![crimp.n25.png](crimp.n25.png) | ![CRIMP_3d1.png](CRIMP_3d1.png) |
 | ♐[FOLD](FOLD) | ![FOLD_37.png](FOLD_37.png) | ![FOLD_3d.png](FOLD_3d.png) |
 | ♐[STEM](STEM) | ![STEM_Composite_by_hellajt.png](STEM_Composite_by_hellajt.png) | ![STEM_3d.png](STEM_3d.png) |
 | ♐[UPRIGHT](UPRIGHT) | Impossible. | |
 | ♐[DIAGONAL](DIAGONAL) | ![diagonal.composite.horizontal.png](diagonal.composite.horizontal.png) | ![DIAGONAL.3D.vantjac.png](DIAGONAL.3D.vantjac.png) |
-| ♐[GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | |
+| ♐[GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | [Video](golden_3d.mp4) |
 | ♐[HULL](HULL) | | ![HULL_3d.png](HULL_3d.png) (Visualization of each frame's contents rather than mean RGB). |
 
 ## Second youtube channel: Series
@@ -130,7 +130,7 @@ Blank spots on this chart could mean:
 | ♐[EL](EL) | ![El_partial_composite.png](El_partial_composite.png) | ![EL_3d.png](EL_3d.png) | 
 | ♐[RIA](RIA) | ![Ria_partial_composite.png](Ria_partial_composite.png) | ![RIA_3d.png](RIA_3d.png) | 
 | ♐[LEE](LEE) | ![Lee_combined.png](Lee_combined.png) | ![LEE_3d.png](LEE_3d.png) | 
-| ♐[CAB](CAB) | ![CAB393.png](CAB393.png) | | 
+| ♐[CAB](CAB) | ![CAB393.png](CAB393.png) | ![CAB\_3d.PNG](CAB_3d.PNG) | 
 | ♐[MUL](MUL) | ![MUL_composite.png](MUL_composite.png) | ![MUL_3d.png](MUL_3d.png) | 
 | [April 10 twitter series](April_10_twitter_series) | ![April10square.png](April10square.png) | ![April10_3-d_projection.png](April10_3-d_projection.png) | 
 | ♐[NIL](NIL) | ![NIL_composite_combined.png](NIL_composite_combined.png) | ![NIL_3d.png](NIL_3d.png) | 
@@ -141,7 +141,7 @@ Blank spots on this chart could mean:
 
 | Video or series                  | 2D composite                                 | 3D composite |
 | -------------------------------- | --------------------------------------------- | ------------- |
-| ♐[DDR DONE](DDR_DONE) | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") |               |
+| ♐[DDR DONE](DDR_DONE) | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") | ![Ddr\_done\_3d.PNG](Ddr_done_3d.PNG) |
 | ♐[REVI](REVI)         | ![REVI.png](REVI.png "REVI.png")              | ![REVI_3d.png](REVI_3d.png) |
 
 ## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Series
