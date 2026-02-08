@@ -52,7 +52,7 @@ Tomas' full composite of the series (*large file!*) is [here](http://tomasf.se/p
 Creating a [3D\_Composite](3D_Composite "wikilink") from the LOCUS
 videos reveals a clearly defined shape.
 
-![locus-3d.png](locus-3d.png "locus-3d.png")
+![locus-3d.png](locus-3d.png)
 
 The .stl of Thomas' 3-D composite can be found [here](http://tomasf.se/projects/semi/LOCUS_composite3D.stl) and a video of it [here](http://tomasf.se/projects/semi/LOCUS_composite3D_recording.mp4).
 

@@ -45,9 +45,9 @@ Possible text from the narrow composite ("DOG" and "LUNA")?
 > 
 > tukkek: isnt there a hero called Luna who rides a dog in DOTA... a game originally released as a mod for Warcraft 3, which is in the same universe as [Hearthstone]{Hearthstone "wikilink"}...? 
 
-### 3d Composite
+### 3D Composite
 
-![Broad_3d.PNG](Broad_3d.PNG "Broad_3d.PNG")
+![Broad_3d.PNG](Broad_3d.PNG)
 
 ## Links
 
