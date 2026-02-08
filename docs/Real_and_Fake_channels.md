@@ -134,132 +134,22 @@
 
 ## Fake Channels
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Service</p></th>
-<th><p>Notes</p></th>
-<th><p>Link</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>unfavorable semicircle cz (Studio Hello neighbour)</p></td>
-<td><p>YouTube</p></td>
-<td><ul>
-<li>a camera/phone filming a computer screen watching UFSC videos. Audible breathing, some background chatter, presumably in Czech</li>
-</ul>
-<li>
-<p>As of Feb 9, 2017 the channel's name is now "Studio Hello neighbour" and has deleted all prior references of "unfavorable semicircle CZ"</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCYtPq4yYWoVOTr3CR7WlqTw">https://www.youtube.com/channel/UCYtPq4yYWoVOTr3CR7WlqTw</a></p></td>
-</tr>
-<tr class="even">
-<td><p>unfavorable semicircle 2</p></td>
-<td><p>YouTube</p></td>
-<td><ul>
-<li>one video, named "INTRO ±±"</li>
-<li>a watermark from movie making software <a href="https://www.kizoa.com/">kizoa</a> in the top left corner</li>
-<li>the phrase "unfavorable semicircle 2" scrolls across the screen</li>
-<li>at different sizes and several angles, a string of numbers scrolls across the screen: first (in shaded text) F89A01 (possibly a <a href="http://www.colorhexa.com/f89a01">hex color code?</a>) then (in fading text that gets increasingly difficult to decipher) "36295209260910 CD9D4E3896A00F2F1F674500925EBB73B89313001 F02078495CD"</li>
-<li>this channel is also subscribed to a "dank meme" channel</li>
-</ul></td>
-<td><p><a href="https://www.youtube.com/channel/UCNAmucoEfN1I5wzb2vDoJoQ">https://www.youtube.com/channel/UCNAmucoEfN1I5wzb2vDoJoQ</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Unfavorable Semicircle</p></td>
-<td><p>YouTube</p></td>
-<td><ul>
-<li>Posts optical illusion type videos</li>
-</ul>
-<li>
-<p>Replies to comments</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCZaeMrpXtwPZXSlREIuNVLA">https://www.youtube.com/channel/UCZaeMrpXtwPZXSlREIuNVLA</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Unmaker Rectangle</p></td>
-<td><p>YouTube</p></td>
-<td><p>Unmaker Rectangle was a Youtube channel with more than 150,000 videos that was conjectured as being related to Unfavorable Semicircle. It uploaded videos 10 seconds long over 10 to 14 hour intervals, every 10 or 20 seconds. Videos were titled <strong><em>string</em>+_sunset</strong>. The channel has since been removed.</p>
-<p>Unmaker Rectangle resembles closely and is most likely an imitation of <a href="https://www.youtube.com/channel/UCsLiV4WJfkTEHH0b9PmRklw">Webdriver Torso</a> (a test channel set up by YouTube).</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCOUqaN-9rJ2vojNLP9TGAPg">https://www.youtube.com/channel/UCOUqaN-9rJ2vojNLP9TGAPg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>unfavorable semicircle ♐</p></td>
-<td><p>YouTube</p></td>
-<td><p>This channel posted two videos on September 24 and 25, 2016. (♐499422.b. and ♐42.11.13.G) with grey background and durations of 5:57.</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCDLyIzIAqQ0fFJDLQB8SV2Q">https://www.youtube.com/channel/UCDLyIzIAqQ0fFJDLQB8SV2Q</a></p></td>
-</tr>
-<tr class="even">
-<td><p>missed operate</p></td>
-<td><p>YouTube</p></td>
-<td><p>Appears lower on search results when searching YouTube for "Unfavorable Semicircle"</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCSlC10P4fH03TnVGh2Usz9g">https://www.youtube.com/channel/UCSlC10P4fH03TnVGh2Usz9g</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>UFO Alien</p></td>
-<td><p>YouTube</p></td>
-<td><p>Description of channel is "Unfavorable Semicircle." Appears to just reupload random videos all with titles in different languages</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCOUSAX1IEN30jaz4ZIMIV2g">https://www.youtube.com/channel/UCOUSAX1IEN30jaz4ZIMIV2g</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Biomass" title="wikilink">Biomass</a></p></td>
-<td><p>YouTube</p></td>
-<td><p>Posts videos of differing length. All titles in caps, like UFSC. Copied "UPRIGHT" and named it "RETURN". Also posted a video called "UNFAVORABLE".</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCQkIdI7i2JV5N7zu2JspmzA">https://www.youtube.com/channel/UCQkIdI7i2JV5N7zu2JspmzA</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>one divided by zero</p></td>
-<td><p>YouTube</p></td>
-<td><p>Sister channel to biomass.</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCfiLXU2gn5sjozpfSTReB0A">https://www.youtube.com/channel/UCfiLXU2gn5sjozpfSTReB0A</a></p></td>
-</tr>
-<tr class="even">
-<td><p>forgotton decimal</p></td>
-<td><p>YouTube</p></td>
-<td><p>Added to this wiki page under Real Channels by an unknown person.</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCCDy8tndC1RjuMh-qd-15Vw">https://www.youtube.com/channel/UCCDy8tndC1RjuMh-qd-15Vw</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>unfavorable semi</p></td>
-<td><p>YouTube</p></td>
-<td><p>a pair of UFSC-esque videos, one of which created a garbled composite. Sounds unlike UFSC.</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCY0GGTvBXAvwNE7VL1EfRfA">https://www.youtube.com/channel/UCY0GGTvBXAvwNE7VL1EfRfA</a></p></td>
-</tr>
-<tr class="even">
-<td><p>unfavorable semicircle</p></td>
-<td><p>YouTube</p></td>
-<td><p>32 videos, with sounds but no visuals, posted in April 2017.</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCgZeqTAQnh1CFUru6p58W1g/">https://www.youtube.com/channel/UCgZeqTAQnh1CFUru6p58W1g/</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>unfavorable semicircle</p></td>
-<td><p>YouTube</p></td>
-<td><p>Channel started December 8, 2017 and deleted by December 11th. One video, named <a href="https://youtu.be/36W3TfemSLo">♐AnXbE+</a>. (The title is related to the <a href="November_25th_tweet" title="wikilink">November 25th tweet</a> and the audio is the same as ♐<a href="DDR_DONE" title="wikilink">DDR DONE</a>.)</p></td>
-<td><p><a href="https://www.youtube.com/channel/UCJ4MqaODOC9icb71w8xhBNw">https://www.youtube.com/channel/UCJ4MqaODOC9icb71w8xhBNw</a></p></td>
-</tr>
-<tr class="even">
-<td><p>unfavorable semicirc</p></td>
-<td><p>Twitter</p></td>
-<td><ul>
-<li>Account opened April 2016, posted 8 tweets in that month. (According to discord user extra: "it just pastes from random github projects run through a caesar cipher.")</li>
-<li>It was observed by Discord user Ognižar syn Meça Gordov on 2020-02-15 that this account has been suspended ("Twitter suspends accounts which violate the Twitter Rules.") It is unclear what this account did that was in violation of the rules, and also unclear when it was suspended.</li>
-</ul></td>
-<td><p><a href="https://twitter.com/unfavorablsemi">https://twitter.com/unfavorablsemi</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Unfavorable / unfsemi</p></td>
-<td><p>Instagram</p></td>
-<td><p>short videos, either recreations or snippets of old UFSC videos. Account description is "OUOFOR". Posted most recently on 2017-11-05.</p></td>
-<td><p><a href="https://www.instagram.com/unfsemi/">https://www.instagram.com/unfsemi/</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Stabilitory newing</p></td>
-<td><p>YouTube</p></td>
-<td><ul>
-<li>Account created Feb 13, 2021</li>
-<li>shortly after its creation re-posted two UFSC videos: ⊕ BROTHER 55 (from the original <a href="Stabilitory_newing" title="wikilink">stabilitory newing</a> channel) and ♐230511 (from the <a href="Original_unnamed_series" title="wikilink">first YouTube channel</a>").</li>
-</ul></td>
-<td><p><a href="https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/">https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/</a></p></td>
-</tr></tbody>
-</table>
-
+| Name | Service | Notes | Link |
+|------|---------|-------|------|
+| unfavorable semicircle cz (Studio Hello neighbour) | YouTube | a camera/phone filming a computer screen watching UFSC videos. Audible breathing, some background chatter, presumably in Czech <br> As of Feb 9, 2017 the channel's name is now "Studio Hello neighbour" and has deleted all prior references of "unfavorable semicircle CZ"| https://www.youtube.com/channel/UCYtPq4yYWoVOTr3CR7WlqTw |
+| unfavorable semicircle 2 | YouTube | one video, named "INTRO ±±" <br> a watermark from movie making software <a href="https://www.kizoa.com/">kizoa</a> in the top left corner <br> the phrase "unfavorable semicircle 2" scrolls across the screen <br> at different sizes and several angles, a string of numbers scrolls across the screen: first (in shaded text) F89A01 (possibly a <a href="http://www.colorhexa.com/f89a01">hex color code?</a>) then (in fading text that gets increasingly difficult to decipher) "36295209260910 CD9D4E3896A00F2F1F674500925EBB73B89313001 F02078495CD" <br> this channel is also subscribed to a "dank meme" channel | https://www.youtube.com/channel/UCNAmucoEfN1I5wzb2vDoJo |
+| Unfavorable Semicircle | YouTube | Posts optical illusion type videos <br> Replies to comments | https://www.youtube.com/channel/UCZaeMrpXtwPZXSlREIuNVLA |
+| Unmaker Rectangle | YouTube | Unmaker Rectangle was a Youtube channel with more than 150,000 videos that was conjectured as being related to Unfavorable Semicircle. It uploaded videos 10 seconds long over 10 to 14 hour intervals, every 10 or 20 seconds. Videos were titled <strong><em>string</em>+_sunset</strong>. The channel has since been removed.</p>
+<p>Unmaker Rectangle resembles closely and is most likely an imitation of <a href="https://www.youtube.com/channel/UCsLiV4WJfkTEHH0b9PmRklw">Webdriver Torso</a> (a test channel set up by YouTube). | https://www.youtube.com/channel/UCOUqaN-9rJ2vojNLP9TGAPg |
+| unfavorable semicircle ♐ | YouTube | This channel posted two videos on September 24 and 25, 2016. (♐499422.b. and ♐42.11.13.G) with grey background and durations of 5:57. | https://www.youtube.com/channel/UCDLyIzIAqQ0fFJDLQB8SV2Q |
+| missed operate | YouTube | Appears lower on search results when searching YouTube for "Unfavorable Semicircle" | https://www.youtube.com/channel/UCSlC10P4fH03TnVGh2Usz9g |
+| UFO Alien | YouTube | Description of channel is "Unfavorable Semicircle." Appears to just reupload random videos all with titles in different languages | https://www.youtube.com/channel/UCOUSAX1IEN30jaz4ZIMIV2g |
+| Biomass | YouTube | Posts videos of differing length. All titles in caps, like UFSC. Copied "UPRIGHT" and named it "RETURN". Also posted a video called "UNFAVORABLE". | https://www.youtube.com/channel/UCQkIdI7i2JV5N7zu2JspmzA |
+| one divided by zero | YouTube | Sister channel to biomass. | https://www.youtube.com/channel/UCfiLXU2gn5sjozpfSTReB0A |
+| forgotton decimal | YouTube | Added to this wiki page under Real Channels by an unknown person. | https://www.youtube.com/channel/UCCDy8tndC1RjuMh-qd-15Vw |
+| unfavorable semi | YouTube | a pair of UFSC-esque videos, one of which created a garbled composite. Sounds unlike UFSC. | https://www.youtube.com/channel/UCY0GGTvBXAvwNE7VL1EfRfA |
+| unfavorable semicircle | YouTube | 32 videos, with sounds but no visuals, posted in April 2017. | https://www.youtube.com/channel/UCgZeqTAQnh1CFUru6p58W1g/ |
+| unfavorable semicircle | YouTube | Channel started December 8, 2017 and deleted by December 11th. One video, named <a href="https://youtu.be/36W3TfemSLo">♐AnXbE+</a>. (The title is related to the <a href="November_25th_tweet" title="wikilink">November 25th tweet</a> and the audio is the same as ♐<a href="DDR_DONE" title="wikilink">DDR DONE</a>.) | https://www.youtube.com/channel/UCJ4MqaODOC9icb71w8xhBNw |
+| unfavorable semicirc | Twitter | Account opened April 2016, posted 8 tweets in that month. (According to discord user extra: "it just pastes from random github projects run through a caesar cipher.") <br> It was observed by Discord user Ognižar syn Meça Gordov on 2020-02-15 that this account has been suspended ("Twitter suspends accounts which violate the Twitter Rules.") It is unclear what this account did that was in violation of the rules, and also unclear when it was suspended. | https://twitter.com/unfavorablsemi |
+| Unfavorable / unfsemi | Instagram | short videos, either recreations or snippets of old UFSC videos. Account description is "OUOFOR". Posted most recently on 2017-11-05. | https://www.instagram.com/unfsemi/ |
+| Stabilitory newing | YouTube | Account created Feb 13, 2021 <br>  shortly after its creation re-posted two UFSC videos: ⊕ BROTHER 55 (from the original <a href="Stabilitory_newing" title="wikilink">stabilitory newing</a> channel) and ♐230511 (from the <a href="Original_unnamed_series" title="wikilink">first YouTube channel</a>"). | https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/ |
