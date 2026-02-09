@@ -44,6 +44,7 @@ videos? Do the ♐[BRINE](BRINE "wikilink") videos, which create a similar
 composite, have the same data? This requires further investigation.*
 
 ## Possible meanings of name
+Simple explanations would be *brill* as in *brilliant* or *brilliance*; or Braille. *Brille* is also the German word for glasses.
 
 ### Relationship to brill tagging
 

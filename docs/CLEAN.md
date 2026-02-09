@@ -23,7 +23,7 @@ pattern continues to shadow the colored section.*
 
 ### 3d Composite
 
-![Clean\_3d.PNG](Clean_3d.PNG "Clean_3d.PNG")
+![Clean\_3d.PNG](Clean_3d.PNG)
 
 ## Links
 

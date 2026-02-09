@@ -53,32 +53,32 @@ Blank spots on this chart could mean:
 | ♐[JALVINSACH](JALVINSACH) | ![JALVINSACH_composite.png](JALVINSACH_composite.png) | ![jalvinsach.3d.n25.png](jalvinsach.3d.n25.png) |
 | ♐[MAX TEND](MAX_TEND) | | |
 | ♐[RECOVER](RECOVER) | ![Recover-still-frames-horizontal.png](Recover-still-frames-horizontal.png) | |
-| ♐[HARVEST](HARVEST) | ![HARVEST_composite.png](HARVEST_composite.png) | |
+| ♐[HARVEST](HARVEST) | ![HARVEST_composite.png](HARVEST_composite.png) | ![harvest_3d_partial](harvest_3d_partial.png) |
 | ♐[RAPID](RAPID) | ![RAPID_composite.png](RAPID_composite.png) | ![RAPID_3d1.png](RAPID_3d1.png) |
 | ♐[CRIMP](CRIMP) | ![crimp.n25.png](crimp.n25.png) | ![CRIMP_3d1.png](CRIMP_3d1.png) |
 | ♐[FOLD](FOLD) | ![FOLD_37.png](FOLD_37.png) | ![FOLD_3d.png](FOLD_3d.png) |
 | ♐[STEM](STEM) | ![STEM_Composite_by_hellajt.png](STEM_Composite_by_hellajt.png) | ![STEM_3d.png](STEM_3d.png) |
 | ♐[UPRIGHT](UPRIGHT) | Impossible. | |
 | ♐[DIAGONAL](DIAGONAL) | ![diagonal.composite.horizontal.png](diagonal.composite.horizontal.png) | ![DIAGONAL.3D.vantjac.png](DIAGONAL.3D.vantjac.png) |
-| ♐[GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | |
+| ♐[GOLDEN](GOLDEN) | ![GOLDEN.png](GOLDEN.png) | [Video](golden_3d.mp4) |
 | ♐[HULL](HULL) | | ![HULL_3d.png](HULL_3d.png) (Visualization of each frame's contents rather than mean RGB). |
 
 ## Second youtube channel: Series
 
-| Video or series                                               | 2D composite                                                                                                 | 3D composite-                                                                                                                 |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ♐[BRINE](BRINE)                                    | ![BRINE\_composite.png](BRINE_composite.png "BRINE_composite.png")                                            | ![BRINE_3d.png](BRINE_3d.png) |
-| ♐[FEND](FEND)                                      | ![FEND\_object\_in\_2-d\_composite.png](FEND_object_in_2-d_composite.png "FEND_object_in_2-d_composite.png")  | ![FEND\_3-d\_composite,\_view\_1.png](FEND_3-d_composite,_view_1.png "FEND_3-d_composite,_view_1.png")                         |
-| ♐[FOND](FOND)                                      | ![FOND\_composite.png](FOND_composite.png "FOND_composite.png")                                               | ![FOND\_3-D\_composite,\_view\_1.png](FOND_3-D_composite,_view_1.png "FOND_3-D_composite,_view_1.png")                         |
+| Video or series | 2D composite | 3D composite |
+|-----------------|--------------|--------------|
+| ♐[BRINE](BRINE) | ![BRINE\_composite.png](BRINE_composite.png "BRINE_composite.png") | ![BRINE_3d.png](BRINE_3d.png) |
+| ♐[FEND](FEND) | ![FEND\_object\_in\_2-d\_composite.png](FEND_object_in_2-d_composite.png "FEND_object_in_2-d_composite.png") | ![FEND\_3-d\_composite,\_view\_1.png](FEND_3-d_composite,_view_1.png "FEND_3-d_composite,_view_1.png") |
+| ♐[FOND](FOND) | ![FOND\_composite.png](FOND_composite.png "FOND_composite.png") | ![FOND\_3-D\_composite,\_view\_1.png](FOND_3-D_composite,_view_1.png "FOND_3-D_composite,_view_1.png") |
 | [Numbered Videos](Numbered_videos_\(2nd_channel\)) | ![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png "Numbered_2016-07-12_composite.png") | ![NumberedVideos_3d.png](NumberedVideos_3d.png) |
-| ♐[BROTHER](BROTHER)                                | ![BROTHER\_composite.png](BROTHER_composite.png "BROTHER_composite.png")                                      |                                                                                                                                |
-| ♐[SLIM](SLIM)                                      | ![SLIM\_composite.png](SLIM_composite.png "SLIM_composite.png")                                               |                                                                                                                                |
-| ♐[LOCUS](LOCUS)                                    | ![Locus\_composite\_by\_hellajt.png](Locus_composite_by_hellajt.png "Locus_composite_by_hellajt.png")         |                                                                                                                                |
-| ♐[CLEAN](CLEAN)                                    | ![CLEAN\_composite\_495.55.png](CLEAN_composite_495.55.png "CLEAN_composite_495.55.png")                      |                                                                                                                                |
-| ♐[BREADTH](BREADTH)                                | ![BREADTH\_composite.jpg](BREADTH_composite.jpg "BREADTH_composite.jpg")                                      | ![Breadth\_3-D\_composite\_-\_view\_1.png](Breadth_3-D_composite_-_view_1.png "Breadth_3-D_composite_-_view_1.png")            |
-| ♐[MOTH](MOTH)                                      |                                                                                                               | ![MOTH\_3-D\_composite\_-\_view\_2.png](MOTH_3-D_composite_-_view_2.png "MOTH_3-D_composite_-_view_2.png")                     |
-| ♐[DUAL](DUAL)                                      | ![DUAL\_real.png](DUAL_real.png "DUAL_real.png")                                                              | ![Dual\_0-9\_-\_3-d\_composite\_-\_view\_2.png](Dual_0-9_-_3-d_composite_-_view_2.png "Dual_0-9_-_3-d_composite_-_view_2.png") |
-| ♐[BROAD](BROAD)                                    | ![Broad\_combined.png](Broad_combined.png "Broad_combined.png")                                               |                                                                                                                                |
+| ♐[BROTHER](BROTHER) | ![BROTHER\_composite.png](BROTHER_composite.png "BROTHER_composite.png") | ![Brother_3d.PNG](Brother_3d.PNG) |
+| ♐[SLIM](SLIM) | ![SLIM\_composite.png](SLIM_composite.png "SLIM_composite.png") | [Video](slim_3d.mp4) |
+| ♐[LOCUS](LOCUS) | ![Locus\_composite\_by\_hellajt.png](Locus_composite_by_hellajt.png "Locus_composite_by_hellajt.png") | ![locus-3d.png](locus-3d.png) |
+| ♐[CLEAN](CLEAN) | ![CLEAN\_composite\_495.55.png](CLEAN_composite_495.55.png "CLEAN_composite_495.55.png") | ![Clean\_3d.PNG](Clean_3d.PNG) |
+| ♐[BREADTH](BREADTH) | ![BREADTH\_composite.jpg](BREADTH_composite.jpg "BREADTH_composite.jpg") | ![Breadth\_3-D\_composite\_-\_view\_1.png](Breadth_3-D_composite_-_view_1.png "Breadth_3-D_composite_-_view_1.png") |
+| ♐[MOTH](MOTH) | | ![MOTH\_3-D\_composite\_-\_view\_2.png](MOTH_3-D_composite_-_view_2.png "MOTH_3-D_composite_-_view_2.png") |
+| ♐[DUAL](DUAL) | ![DUAL\_real.png](DUAL_real.png "DUAL_real.png") | ![Dual\_0-9\_-\_3-d\_composite\_-\_view\_2.png](Dual_0-9_-_3-d_composite_-_view_2.png "Dual_0-9_-_3-d_composite_-_view_2.png") |
+| ♐[BROAD](BROAD) | ![Broad\_combined.png](Broad_combined.png "Broad_combined.png") | ![Broad_3d.PNG](Broad_3d.PNG) |
 
 ## [Stabilitory newing](Stabilitory_newing): non-series videos
 
@@ -97,12 +97,12 @@ Blank spots on this chart could mean:
 
 | Video or series          | 2D composite                                                                                     | 3D composite                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ♐[PORT](PORT) | ![PORT\_composite\_398\_width.png](PORT_composite_398_width.png "PORT_composite_398_width.png")   | *none yet*                                                                                                   |
+| ♐[PORT](PORT) | ![PORT\_composite\_398\_width.png](PORT_composite_398_width.png "PORT_composite_398_width.png")   | ![port-3d.webp](port-3d.webp) |
 | ♐[RUN](RUN)   | ![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")                 | ![RUN3d3.webp](RUN3d3.webp)                                                                                                   |
 | ♐[NODE](NODE) | ![Node\_composite\_width\_839.png](Node_composite_width_839.png "Node_composite_width_839.png")   | ![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png "Node_3-d_composite_by_tukkek.png") |
 | ♐[SERN](SERN) | *Impossible*                                                                                      | *Impossible*                                                                                                 |
 | ♐[ZORO](ZORO) | *Impossible*                                                                                      | *Impossible*                                                                                                 |
-| ♐[COEF](COEF) | ![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png "COEF_unadjusted_composite.png") | *none yet*                                                                                                   |
+| ♐[COEF](COEF) | ![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png "COEF_unadjusted_composite.png") | ![COEF\_3d.PNG](COEF_3d.PNG "COEF_3d.PNG") |
 | ♐[NEO](NEO)   | ![Neosquare.png](Neosquare.png "Neosquare.png")                                                   | ![Neo-3d.png](Neo-3d.png "Neo-3d.png")                                                                       |
 | ♐[DIFF](DIFF) | ![DIFF_36.png](DIFF_36.png) | ![DIFF_36.png](DIFF_3D.png)                                                                                                                                                        |
 | ♐[CFO](CFO)   | ![Cfo\_composite.png](Cfo_composite.png "Cfo_composite.png")                                      | ![Cfo-3d-2.png](Cfo-3d-2.png "Cfo-3d-2.png")                                                                 |
@@ -130,7 +130,7 @@ Blank spots on this chart could mean:
 | ♐[EL](EL) | ![El_partial_composite.png](El_partial_composite.png) | ![EL_3d.png](EL_3d.png) | 
 | ♐[RIA](RIA) | ![Ria_partial_composite.png](Ria_partial_composite.png) | ![RIA_3d.png](RIA_3d.png) | 
 | ♐[LEE](LEE) | ![Lee_combined.png](Lee_combined.png) | ![LEE_3d.png](LEE_3d.png) | 
-| ♐[CAB](CAB) | ![CAB393.png](CAB393.png) | | 
+| ♐[CAB](CAB) | ![CAB393.png](CAB393.png) | ![CAB\_3d.PNG](CAB_3d.PNG) | 
 | ♐[MUL](MUL) | ![MUL_composite.png](MUL_composite.png) | ![MUL_3d.png](MUL_3d.png) | 
 | [April 10 twitter series](April_10_twitter_series) | ![April10square.png](April10square.png) | ![April10_3-d_projection.png](April10_3-d_projection.png) | 
 | ♐[NIL](NIL) | ![NIL_composite_combined.png](NIL_composite_combined.png) | ![NIL_3d.png](NIL_3d.png) | 
@@ -141,7 +141,7 @@ Blank spots on this chart could mean:
 
 | Video or series                  | 2D composite                                 | 3D composite |
 | -------------------------------- | --------------------------------------------- | ------------- |
-| ♐[DDR DONE](DDR_DONE) | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") |               |
+| ♐[DDR DONE](DDR_DONE) | ![Ddr\_done.png](Ddr_done.png "Ddr_done.png") | ![Ddr\_done\_3d.PNG](Ddr_done_3d.PNG) |
 | ♐[REVI](REVI)         | ![REVI.png](REVI.png "REVI.png")              | ![REVI_3d.png](REVI_3d.png) |
 
 ## Twitter, post-"[strange reset](RESET_STRANGE_YD)": Series
