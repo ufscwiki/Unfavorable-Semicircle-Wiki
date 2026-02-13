@@ -53,6 +53,6 @@ On 2026-02 user Ben's Fractals reports:
 > 
 > One thing this reminds me of is Recycle which was a drum slicing program from the 90s. As a cheap method to do tail-extension for drums the audio would reverse back-and-forth as a ping-pong loop at the end of a segment and create these mirrored patterns.
 
-![fend1.reversed.1.webp](fend1.reversed.1.webp)
+![fend1.reversed.1.webp](fend1.reversed.1.full.webp)
 
-![fend1.reversed.2.webp](fend1.reversed.2.webp)
+![fend1.reversed.2.webp](fend1.reversed.2.full.webp)
