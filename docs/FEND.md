@@ -8,7 +8,7 @@ Through videos all have an identical length of 27:46, for a total of about 50,00
 The composites made from the videos are generally color gradients.
 
 ## Composites
-### 2-D Composite
+### 2D Composite
 Composite by tomasf: <http://tomasf.se/projects/semi/FEND_composite.png>; it is a long image with several colored bars.
 
 It is worth noting that one section near the beginning of the combined gradient composite had an "island" like object in it:
