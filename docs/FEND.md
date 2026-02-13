@@ -56,3 +56,17 @@ On 2026-02 user Ben's Fractals reports:
 ![fend1.reversed.1.webp](fend1.reversed.1.full.webp)
 
 ![fend1.reversed.2.webp](fend1.reversed.2.full.webp)
+
+## Flip noise
+In 2026-02 N25 CT13 writes:
+> I did find this exact wave form and other similar "flip" in FEND 1's audio. It's at the end part of the quiet scratching at the beginning.
+> 
+> You have to amplify the audio quite a bit to be able to see this.
+> 
+> I kind of feel that it could be noise and some kind of "audio encoding artifact".
+> 
+> Slowing down that repeating left channel by 4 times does make it around the same length as the next section
+
+![fend.flip.png](fend.flip.full.png)
+
+> Mixing the slowed down version of the audio with the regular one isn't very clean so maybe 0.25 isn't the exact speed multiplier to cancel it out perfectly.
