@@ -113,8 +113,8 @@ this is currently being posted in a lossy jpg version.*)
 ![SECOND_3d.png](SECOND_3d.png)
 
 ### Details in composites
-![Second_(center_detail).png](Second_(center_detail).png
-"Second_(center_detail).png")
+![Second_center_detail.png](Second_center_detail.png
+"Second_center_detail.png")
 
 (*detail of "square" section, from an earlier version of the composite*)
 
