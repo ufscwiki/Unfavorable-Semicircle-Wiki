@@ -28,7 +28,7 @@ Testing has shown that the audio in ♐BROAD 0 - 4 are identical.
 
 ### 2-D Composite
 
-![ Broad combined.png](Broad_combined.png " Broad combined.png")
+[![ Broad combined.png](Broad_combined.png " Broad combined.png")](Broad_combined.full.png)
 
 *♐BROAD composite (0 - 9)*
 

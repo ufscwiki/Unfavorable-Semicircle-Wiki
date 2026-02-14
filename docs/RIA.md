@@ -20,4 +20,4 @@ The same composite pixel-shifted by `+0.04` and manually realigned:
 
 3D composite by Lukidot:
 
-![RIA_3d.png](RIA_3d.png)
+[![RIA_3d.png](RIA_3d.png)](RIA_3d.full.png)

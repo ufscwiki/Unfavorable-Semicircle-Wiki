@@ -21,7 +21,7 @@ speaking a single letter or number.
 
 ## Composite
 
-![BRILL composite](BRILL_composite.png "BRILL composite")
+[![BRILL composite](BRILL_composite.png "BRILL composite")](BRILL_composite.full.png)
 
 <http://tomasf.se/projects/semi/BRILL_composite.png>
 

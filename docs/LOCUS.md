@@ -32,7 +32,7 @@ according to mathematically defined conditions" in mathematics.
 Full LOCUS composite (0 - 15) by tomasf:
 <http://tomasf.se/projects/semi/LOCUS_composite.png>
 
-![Locus composite by hellajt.png](Locus_composite_by_hellajt.png)
+[![Locus composite by hellajt.png](Locus_composite_by_hellajt.png)](Locus_composite_by_hellajt.full.png)
 
 *♐LOCUS 0 composite by hellajt*
 

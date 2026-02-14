@@ -37,7 +37,7 @@ which shows all non-black pixels at once.
 
 3D composite by Lukidot:
 
-![REDLOC_3d.png](REDLOC_3d.png)
+[![REDLOC_3d.png](REDLOC_3d.png)](REDLOC_3d.full.png)
 
 ## Music
 In November 2024: Discord user `FFW` [cleared the music](REDLOC_homesick.mp4) in REDLOC's audio and the segment was then identified as Homesick (at the 0:47 mark). This is the same song present in [DELOCK](DELOCK) and mentioned in multiple UFSC social media communications.

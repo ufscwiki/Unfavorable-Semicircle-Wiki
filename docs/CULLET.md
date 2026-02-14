@@ -21,13 +21,13 @@ the process of
 
 ### 2-D Composite
 
-![Cullet\_composite.png](Cullet_composite.png "Cullet_composite.png")
+[![Cullet\_composite.png](Cullet_composite.png "Cullet_composite.png")](Cullet_composite.full.png)
 
 *♐♐CULLET 2-D composite by discord user mark the third*
 
 ### 3-D Composite
 
-![Cullet\_3-d\_screengram\_from\_reddit.png](Cullet_3-d_screengram_from_reddit.png)
+[![Cullet\_3-d\_screengram\_from\_reddit.png](Cullet_3-d_screengram_from_reddit.png)](Cullet_3-d_screengram_from_reddit.full.png)
 
 *this is a screengrab from a reddit thread, maker unknown*
 

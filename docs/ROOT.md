@@ -29,11 +29,11 @@ length of the video with a low rumbling sound.
 
 2D composite by `N25_CT13`:
 
-![ROOT-alpha.png](ROOT-alpha.png)
+[![ROOT-alpha.png](ROOT-alpha.png)](ROOT-alpha.full.png)
  
 3D composite by `N25_CT13`:
 
-![ROOT-3d.png](ROOT-3d.png) 
+[![ROOT-3d.png](ROOT-3d.png)](ROOT-3d.full.png) 
 
 ## Videos in the series
 

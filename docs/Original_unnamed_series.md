@@ -75,115 +75,115 @@ Reddit user u/McSweepyPants first noted in [a post on the subreddit](https://www
 
 In July 2024, user `N25_CT13` found and colorized this [audio composite](audio_composites) from ♐970558:
 
-![original_970558_colorized_audio_composite.png](original_970558_colorized_audio_composite.png)
+[![original_970558_colorized_audio_composite.png](original_970558_colorized_audio_composite.png)](original_970558_colorized_audio_composite.full.png)
 
 ## 3D composites
 Created by Lukidot.
 
 All seasons:
 
-![AllSeasons_3d.png](AllSeasons_3d.png)
+[![AllSeasons_3d.png](AllSeasons_3d.png)](AllSeasons_3d.full.png)
 
 Season 1:
 
-![Season1_3d.png](Season1_3d.png)
+[![Season1_3d.png](Season1_3d.png)](Season1_3d.full.png)
 
 Season 2:
 
-![Season2_3d.png](Season2_3d.png)
+[![Season2_3d.png](Season2_3d.png)](Season2_3d.full.png)
 
 Season 3:
 
-![Season3_3d.png](Season3_3d.png)
+[![Season3_3d.png](Season3_3d.png)](Season3_3d.full.png)
 
 Season 4:
 
-![Season4_3d.png](Season4_3d.png)
+[![Season4_3d.png](Season4_3d.png)](Season4_3d.full.png)
 
 Season 5:
 
-![Season5_3d.png](Season5_3d.png)
+[![Season5_3d.png](Season5_3d.png)](Season5_3d.full.png)
 
 Season 6:
 
-![Season6_3d.png](Season6_3d.png)
+[![Season6_3d.png](Season6_3d.png)](Season6_3d.full.png)
 
 Season 7:
 
-![Season7_3d.png](Season7_3d.png)
+[![Season7_3d.png](Season7_3d.png)](Season7_3d.full.png)
 
 Season 8:
 
-![Season8_3d.png](Season8_3d.png)
+[![Season8_3d.png](Season8_3d.png)](Season8_3d.full.png)
 
 Season 9:
 
-![Season9_3d.png](Season9_3d.png)
+[![Season9_3d.png](Season9_3d.png)](Season9_3d.full.png)
 
 Season 10:
 
-![Season10_3d.png](Season10_3d.png)
+[![Season10_3d.png](Season10_3d.png)](Season10_3d.full.png)
 
 Season 11:
 
-![Season11_3d.png](Season11_3d.png)
+[![Season11_3d.png](Season11_3d.png)](Season11_3d.full.png)
 
 Season 12:
 
-![Season12_3d.png](Season12_3d.png)
+[![Season12_3d.png](Season12_3d.png)](Season12_3d.full.png)
 
 Season 13:
 
-![Season13_3d.png](Season13_3d.png)
+[![Season13_3d.png](Season13_3d.png)](Season13_3d.full.png)
 
 Season 14:
 
-![Season14_3d.png](Season14_3d.png)
+[![Season14_3d.png](Season14_3d.png)](Season14_3d.full.png)
 
 Season 15:
 
-![Season15_3d.png](Season15_3d.png)
+[![Season15_3d.png](Season15_3d.png)](Season15_3d.full.png)
 
 Season 16:
 
-![Season16_3d.png](Season16_3d.png)
+[![Season16_3d.png](Season16_3d.png)](Season16_3d.full.png)
 
 Season 17:
 
-![Season17_3d.png](Season17_3d.png)
+[![Season17_3d.png](Season17_3d.png)](Season17_3d.full.png)
 
 Season 18:
 
-![Season18_3d.png](Season18_3d.png)
+[![Season18_3d.png](Season18_3d.png)](Season18_3d.full.png)
 
 Season 19:
 
-![Season19_3d.png](Season19_3d.png)
+[![Season19_3d.png](Season19_3d.png)](Season19_3d.full.png)
 
 Season 20:
 
-![Season20_3d.png](Season20_3d.png)
+[![Season20_3d.png](Season20_3d.png)](Season20_3d.full.png)
 
 Season 21:
 
-![Season21_3d.png](Season21_3d.png)
+[![Season21_3d.png](Season21_3d.png)](Season21_3d.full.png)
 
 Season 22:
 
-![Season22_3d.png](Season22_3d.png)
+[![Season22_3d.png](Season22_3d.png)](Season22_3d.full.png)
 
 Season 23:
 
-![Season23_3d.png](Season23_3d.png)
+[![Season23_3d.png](Season23_3d.png)](Season23_3d.full.png)
 
 Season 24:
 
-![Season24_3d.png](Season24_3d.png)
+[![Season24_3d.png](Season24_3d.png)](Season24_3d.full.png)
 
 Season 25:
 
-![Season25_3d.png](Season25_3d.png)
+[![Season25_3d.png](Season25_3d.png)](Season25_3d.full.png)
 
 Season 26:
 
-![Season26_3d.png](Season26_3d.png)
+[![Season26_3d.png](Season26_3d.png)](Season26_3d.full.png)

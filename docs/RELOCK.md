@@ -31,6 +31,6 @@ This image highlights the mismatching pixels between LOCK and RELOCK, with the d
 
 3D composites by Lukidot:
 
-![RELOCK_3d1.png](RELOCK_3d1.png)
+[![RELOCK_3d1.png](RELOCK_3d1.png)](RELOCK_3d1.full.png)
 
-![RELOCK_3d2.png](RELOCK_3d2.png)
+[![RELOCK_3d2.png](RELOCK_3d2.png)](RELOCK_3d2.full.png)

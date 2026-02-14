@@ -16,7 +16,7 @@ This is a series posted to the new youtube account between July 12 and 13, 2016.
 ## Composite
 <http://tomasf.se/projects/semi/numbered_2016-07-12_composite.png>
 
-![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png)
+[![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png)](Numbered_2016-07-12_composite.full.png)
 
 The composite is visually similar to the [BRILL-based composites](BRILL_Composite "wikilink"), but the colors are altered.
 Specifically, the hue is mirrored across the 120 / 300 degrees axis
@@ -29,4 +29,4 @@ composites:
 
 3D composite by Lukidot:
 
-![NumberedVideos_3d.png](NumberedVideos_3d.png)
+[![NumberedVideos_3d.png](NumberedVideos_3d.png)](NumberedVideos_3d.full.png)

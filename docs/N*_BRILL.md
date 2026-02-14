@@ -32,7 +32,7 @@ the first 5000 frames of [BRILL](BRILL "wikilink")".
 
 3D composite by Lukidot:
 
-![NBRILL_3d.png](NBRILL_3d.png)
+[![NBRILL_3d.png](NBRILL_3d.png)](NBRILL_3d.full.png)
 
 ## Contemporaneous reddit threads
   - [N\* BRILL rhythmic beats](https://www.reddit.com/r/UnfavorableSemicircle/comments/4akyno/n_brill_rhythmic_beats/)

@@ -20,7 +20,7 @@ data-type sounds.
 
 <http://tomasf.se/projects/semi/SLIM_composite.png>
 
-![SLIM composite.png](SLIM_composite.png " SLIM composite.png")
+[![SLIM composite.png](SLIM_composite.png " SLIM composite.png")](SLIM_composite.full.png)
 
 *♐SLIM composite by thomasf*
 

@@ -42,7 +42,7 @@ Combined: <http://i.imgur.com/AbJboYf.png>
 
 3D composite by Lukidot:
 
-![NIL_3d.png](NIL_3d.png)
+[![NIL_3d.png](NIL_3d.png)](NIL_3d.full.png)
 
 ## Relationship of composites
 

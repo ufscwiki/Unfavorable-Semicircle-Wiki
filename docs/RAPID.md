@@ -57,9 +57,9 @@ A sub-section of the composite pixel-shifted by `+0.00233`:
 
 3D composites by Lukidot:
 
-![RAPID_3d1.png](RAPID_3d1.png)
+[![RAPID_3d1.png](RAPID_3d1.png)](RAPID_3d1.full.png)
 
-![RAPID_3d2.png](RAPID_3d2.png)
+[![RAPID_3d2.png](RAPID_3d2.png)](RAPID_3d2.full.png)
 
 ## Significance of Composite
 *Please expand\!*

@@ -10,11 +10,11 @@ There is no clear meaning, but this could be taken a a hint that this channel is
 ## Composites
 ♐♐LOYAL composite by discord user Mark The Third.
 
-![Loyal\_composite.png](Loyal_composite.png)
+[![Loyal\_composite.png](Loyal_composite.png)](Loyal_composite.full.png)
 
 3D-composite by Lukidot.
 
-![LOYAL3d2.PNG](LOYAL3d2.PNG)
+[![LOYAL3d2.PNG](LOYAL3d2.PNG)](LOYAL3d2.full.PNG)
 
 ## Audio
 In November 2025 a song was found in the audio-track:

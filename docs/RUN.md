@@ -19,7 +19,7 @@ of [further analysis](Handshake#Analysis "wikilink").
 
 ## Composite
 Composite by Extra:
-![RUNcomposite\_539s673.png](RUNcomposite_539s673.png)
+[![RUNcomposite\_539s673.png](RUNcomposite_539s673.png)](RUNcomposite_539s673.full.png)
 
 ### Details in composite
 Discord user Rutabaga has observed that (similar to
@@ -35,9 +35,9 @@ Discord user ShadowMorphyn has decoded these as "IGMENADENDNNEGOEMOOM".
 ## 3D composites
 By Lukidot:
 
-![RUN3d1.webp](RUN3d1.webp)
-![RUN3d2.webp](RUN3d2.webp)
-![RUN3d3.webp](RUN3d3.webp)
+[![RUN3d1.webp](RUN3d1.webp)](RUN3d1.full.webp)
+[![RUN3d2.webp](RUN3d2.webp)](RUN3d2.full.webp)
+[![RUN3d3.webp](RUN3d3.webp)](RUN3d3.full.webp)
 
 The arrow-tip shape is similar to [Lock](LOCK).
 

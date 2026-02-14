@@ -17,11 +17,11 @@ much to be authentic.
 The partial width square composite seems to show an object shown behind
 what could be a window, graph plot, or potentially something different:
 
-![FMI\_93s.png](FMI_93s.png "FMI_93s.png")
+[![FMI\_93s.png](FMI_93s.png "FMI_93s.png")](FMI_93s.full.png)
 
 3D composite by Lukidot:
 
-![FMI_3d.png](FMI_3d.png)
+[![FMI_3d.png](FMI_3d.png)](FMI_3d.full.png)
 
 ## Videos
 - <https://twitter.com/unfavorablesemi/status/938543120303689730?s=17>

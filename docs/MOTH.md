@@ -52,7 +52,7 @@ The audio in ♐MOTH 0 contains a distinct visual pattern when viewed as a spect
 
 Pattern high-light by `tukkek`:
 
-![moth_pattern.png](moth_pattern.png)
+[![moth_pattern.png](moth_pattern.png)](moth_pattern.full.png)
 
 ### Further Analysis
 

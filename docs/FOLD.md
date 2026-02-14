@@ -71,4 +71,4 @@ structure's hierarchy, using the function in a systematic way."
 
 3D composite by Lukidot:
 
-![FOLD_3d.png](FOLD_3d.png)
+[![FOLD_3d.png](FOLD_3d.png)](FOLD_3d.full.png)

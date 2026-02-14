@@ -49,7 +49,7 @@ same sample as heard in DEPTH and ZUFCHO."
 There are not very many frames in this file, and hence a very tiny
 composite.
 
-![Ddr\_done.png](Ddr_done.png "Ddr_done.png")
+[![Ddr\_done.png](Ddr_done.png "Ddr_done.png")](Ddr_done.full.png)
 
 *composite by extra*
 

@@ -26,7 +26,7 @@ Side A: <http://tomasf.se/projects/semi/FOND_composite_A.png>
 
 Side B: <http://tomasf.se/projects/semi/FOND_composite_B.png>
 
-![FOND composite.png](FOND_composite.png " FOND composite.png")
+[![FOND composite.png](FOND_composite.png " FOND composite.png")](FOND_composite.full.png)
 
 *combined ♐FOND composite*
 
@@ -51,7 +51,7 @@ composite.
 
 Creating a 3-D composite reveals an inner structure:
 
-![FOND 3-D composite, view 1.png](FOND_3-D_composite,_view_1.png)
+[![FOND 3-D composite, view 1.png](FOND_3-D_composite,_view_1.png)](FOND_3-D_composite,_view_1.full.png)
 
 *♐FOND 3-D composite, view 1.png*
 

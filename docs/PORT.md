@@ -19,13 +19,13 @@ most interestingly it could refer to:
 
 ## 2D Composite
 
-![PORT\_composite\_398\_width.png](PORT_composite_398_width.png)
+[![PORT\_composite\_398\_width.png](PORT_composite_398_width.png)](PORT_composite_398_width.full.png)
 
 (*composite by discord user extra*)
 
 ## 3D Composite
 
-![port-3d.webp](port-3d.webp)
+[![port-3d.webp](port-3d.webp)](port-3d.full.webp)
 
 ### Details in composite
 

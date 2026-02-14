@@ -17,7 +17,7 @@ This video has no audio.
 
 ### 2-D Composite
 
-![Cfo\_composite.png](Cfo_composite.png "Cfo_composite.png")
+[![Cfo\_composite.png](Cfo_composite.png "Cfo_composite.png")](Cfo_composite.full.png)
 
 (*composite by discord user mark america great again*)
 
@@ -30,7 +30,7 @@ sphere distortions in this composite.
 
 (*3-D composite by discord user tukkek*)
 
-![Cfo-3d-2.png](Cfo-3d-2.png "Cfo-3d-2.png")
+[![Cfo-3d-2.png](Cfo-3d-2.png "Cfo-3d-2.png")](Cfo-3d-2.full.png)
 
 (*3-D composite by discord user tukkek – alternate rendering*)
 

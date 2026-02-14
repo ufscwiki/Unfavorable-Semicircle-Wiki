@@ -29,9 +29,9 @@ second.
 
 3D composites by Lukidot:
 
-![CRIMP_3d1.png](CRIMP_3d1.png)
+[![CRIMP_3d1.png](CRIMP_3d1.png)](CRIMP_3d1.full.png)
 
-![CRIMP_3d2.png](CRIMP_3d2.png)
+[![CRIMP_3d2.png](CRIMP_3d2.png)](CRIMP_3d2.full.png)
 
 ## Frame image
 

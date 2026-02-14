@@ -22,7 +22,7 @@ https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/tree/master/docs/COEF.fl
 
 ## Composites
 
-![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png)
+[![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png)](COEF_unadjusted_composite.full.png)
 
 (*COEF unadjusted composite by discord user Mark Aardvark*)
 

@@ -13,8 +13,8 @@ of purple-colored frames.
 Regular: <http://tomasf.se/projects/semi/QUOT_composite.png>  
 Enlarged: <http://tomasf.se/projects/semi/QUOT_composite_enlarged.png>
 
-![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png)
+[![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png)](QUOT_composite_enlarged.full.png)
 
 3D composite by Lukidot:
 
-![QUOT3d.png](QUOT3d.png)
+[![QUOT3d.png](QUOT3d.png)](QUOT3d.full.png)

@@ -27,7 +27,7 @@ that these contain 19 different audio-encoded binary bytes, as in
 
 3D composite by Lukidot:
 
-![MUL_3d.png](MUL_3d.png)
+[![MUL_3d.png](MUL_3d.png)](MUL_3d.full.png)
 
 ## Archive
 An archive of all ♐MUL videos is available

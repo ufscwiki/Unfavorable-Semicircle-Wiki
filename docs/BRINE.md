@@ -8,7 +8,7 @@ The videos all have a duration of 3:01 and a series of rapidly-flashing
 frames.
 
 ## Composites
-![BRINE composite](BRINE_composite.png "BRINE composite")
+[![BRINE composite](BRINE_composite.png "BRINE composite")](BRINE_composite.full.png)
 
 Regular: <http://tomasf.se/projects/semi/BRINE_composite.png>
 
@@ -28,7 +28,7 @@ group.
 
 3D composite by Lukidot:
 
-![BRINE_3d.png](BRINE_3d.png)
+[![BRINE_3d.png](BRINE_3d.png)](BRINE_3d.full.png)
 
 ## Meaning of name
 * "Brine" is one of several nautical-themed UFSC titles. (*See also ♐[HULL](HULL "wikilink") and ♐[PORT](PORT "wikilink").*)

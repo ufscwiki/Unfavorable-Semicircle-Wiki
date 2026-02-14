@@ -24,7 +24,7 @@ This composite was made from scraped videos combined with [Tomas's Composite](ht
 
 3D composite by Lukidot:
 
-![LEE_3d.png](LEE_3d.png)
+[![LEE_3d.png](LEE_3d.png)](LEE_3d.full.png)
 
 ## Contemporaneous reddit threads
 

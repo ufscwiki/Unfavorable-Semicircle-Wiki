@@ -30,7 +30,7 @@ Unfavorablist*
 
 ### 2-D
 
-![Neosquare.png](Neosquare.png "Neosquare.png")
+[![Neosquare.png](Neosquare.png "Neosquare.png")](Neosquare.full.png)
 
 (*♐NEO composite as square*)
 
@@ -43,7 +43,7 @@ contrast with ♐[AZO](AZO "wikilink") 0, which similarly has no green.)
 
 ### 3-D
 
-![Neo-3d.png](Neo-3d.png "Neo-3d.png")
+[![Neo-3d.png](Neo-3d.png "Neo-3d.png")](Neo-3d.full.png)
 
 (*♐NEO 3-D composite by tukkek*)
 

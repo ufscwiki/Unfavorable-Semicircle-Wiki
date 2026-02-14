@@ -38,7 +38,7 @@ obviously connected to UFSC's usual themes.
 
 ### 2-D
 
-![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png)
+[![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png)](AZO_0_composite_RGB_600x327_1x1.full.png)
 
 (*♐AZO 1 composite by discord user kingrodian*)
 
@@ -48,7 +48,7 @@ with ♐[NEO](NEO "wikilink"), which similarly has no blue.)
 
 ### 3-D
 
-![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png")
+[![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png")](Azo_0-3d.full.png)
 
 (*♐AZO 3-D composite by discord user tukkek*)
 

@@ -33,7 +33,7 @@ He adds: "interestingly, the handshake doesn't have an offset":
 
 ### 2-D Composite
 
-![DUAL_real.png](DUAL_real.png " DUAL_real.png")
+[![DUAL_real.png](DUAL_real.png " DUAL_real.png")](DUAL_real.full.png)
 
 *♐DUAL composite by extra*
 
@@ -43,7 +43,7 @@ He adds: "interestingly, the handshake doesn't have an offset":
 
 *screencap of full ♐DUAL 3-D composite (view 1)*
 
-![Dual 0-9 - 3-d composite - view 2.png](Dual_0-9_-_3-d_composite_-_view_2.png)
+[![Dual 0-9 - 3-d composite - view 2.png](Dual_0-9_-_3-d_composite_-_view_2.png)](Dual_0-9_-_3-d_composite_-_view_2.full.png)
 
 *screencap of full ♐DUAL 3-D composite (view 2)*
 

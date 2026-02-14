@@ -111,7 +111,7 @@ Unless stated otherwise, these are from ♐LOCK.
 >
 > peaks-baseline, peaks and baseline:
 
-![audio_composites_LOCK_left_both.png](audio_composites_LOCK_left_both.png) ![audio_composites_LOCK_left_peaks.png](audio_composites_LOCK_left_peaks.png) ![audio_composites_LOCK_left_baseline.png](audio_composites_LOCK_left_baseline.png)
+[![audio_composites_LOCK_left_both.png](audio_composites_LOCK_left_both.png)](audio_composites_LOCK_left_both.full.png) [![audio_composites_LOCK_left_peaks.png](audio_composites_LOCK_left_peaks.png)](audio_composites_LOCK_left_peaks.full.png) [![audio_composites_LOCK_left_baseline.png](audio_composites_LOCK_left_baseline.png)](audio_composites_LOCK_left_baseline.full.png)
 
 ## Executable file theory
 
@@ -141,7 +141,7 @@ In June 2024, Discord user `Fufeng Industries` noted:
 
 Discord user `tukkek` created a high-lighted comparison of the game icon and the composite pentagram:
 
-![audio_composites_doom.png](audio_composites_doom.png)
+[![audio_composites_doom.png](audio_composites_doom.png)](audio_composites_doom.full.png)
 
 Like the previously-found mobile Hearthstone icon, *Doom 3* is also available on mobile devices.
 

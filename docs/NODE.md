@@ -77,7 +77,7 @@ also easily recreate those artifacts pretty quickly and simply."
 
 ### 2-D Composite
 
-![Node\_composite\_width\_839.png](Node_composite_width_839.png)
+[![Node\_composite\_width\_839.png](Node_composite_width_839.png)](Node_composite_width_839.full.png)
 
 (*composite by discord user extra*)
 
@@ -110,7 +110,7 @@ selecting composite widths.
 
 ### 3-D Composite
 
-![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png)
+[![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png)](Node_3-d_composite_by_tukkek.full.png)
 
 (*composite by discord user tukkek*)
 

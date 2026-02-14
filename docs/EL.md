@@ -29,4 +29,4 @@ This composite was made from 1394 of the 4891 videos.
 
 3D composite by Lukidot:
 
-![EL_3d.png](EL_3d.png)
+[![EL_3d.png](EL_3d.png)](EL_3d.full.png)

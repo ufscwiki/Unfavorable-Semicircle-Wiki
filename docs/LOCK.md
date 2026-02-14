@@ -54,7 +54,7 @@ On November 2024, Discord user `N25_CT13` wrote:
 
 A comparison of raw-data encoded as GSM (provided by `N25_CT13`) and LOCK's audio:
 
-![LOCK_GSM.png](LOCK_GSM.png)
+[![LOCK_GSM.png](LOCK_GSM.png)](LOCK_GSM.full.png)
 
 The next month: GSM-like audio was also discovered in 40 videos in the [original unnamed series](Original_unnamed_series).
 
@@ -78,7 +78,7 @@ On April 20, 2016, Reddit user tomasf.se discovered that when each individual fr
 Regular Size: <http://tomasf.se/projects/semi/LOCK_composite.png>  
 Huge Size: <http://tomasf.se/projects/semi/LOCK_composite_huge.png>
 
-![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")
+[![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")](LOCK_composite.full.png)
 
 ![LOCK\_composite197.png](LOCK_composite197.png "LOCK_composite197.png")
 
@@ -91,12 +91,12 @@ Huge Size: <http://tomasf.se/projects/semi/LOCK_composite_huge.png>
 ### 3D Composite
 The later discovery of 3D Composited lead to retrospective analysis of earlier videos, but there is nothing particularly "interesting" in this video's 3D composite.
 
-![Lock.PNG](Lock.PNG "Lock.PNG")
+[![Lock.PNG](Lock.PNG "Lock.PNG")](Lock.full.PNG)
 
 By Lukidot:
 
-![LOCK3d2.webp](LOCK3d2.webp)
-![LOCK3d6.webp](LOCK3d6.webp)
+[![LOCK3d2.webp](LOCK3d2.webp)](LOCK3d2.full.webp)
+[![LOCK3d6.webp](LOCK3d6.webp)](LOCK3d6.full.webp)
 
 The arrow-tip shape is similar to [Run](RUN).
 

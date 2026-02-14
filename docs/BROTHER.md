@@ -23,7 +23,7 @@ a square wave merged with the right channel's audio"). The audio in
 ## Composite
 <http://tomasf.se/projects/semi/BROTHER_composite.png>
 
-![BROTHER composite.png](BROTHER_composite.png)
+[![BROTHER composite.png](BROTHER_composite.png)](BROTHER_composite.full.png)
 
 *combined and complete ♐BROTHER composite (to ♐BROTHER 31)*
 

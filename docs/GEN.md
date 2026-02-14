@@ -19,7 +19,7 @@ you amplify it".
 
 ### 2-D Composite
 
-![GEN\_composite\_288\_width.png](GEN_composite_288_width.png)
+[![GEN\_composite\_288\_width.png](GEN_composite_288_width.png)](GEN_composite_288_width.full.png)
 
 (*composite by discord user its a-me markio*)
 
@@ -39,7 +39,7 @@ a cloud chamber photo (or, similarly, a [bubble chamber](https://imgur.com/galle
 
 ### 3-D Composite
 
-![Gen-3d.png](Gen-3d.png "Gen-3d.png")
+[![Gen-3d.png](Gen-3d.png "Gen-3d.png")](Gen-3d.full.png)
 
 *3-D composite by discord user tukkek.*
 

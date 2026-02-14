@@ -39,7 +39,7 @@ original account.)
 > 
 > The frequency where it is removed ranges from about 1.6KhZ to around 4.9Khz
 
-![unknown_voice_spectogram.webp](unknown_voice_spectogram.webp)
+[![unknown_voice_spectogram.webp](unknown_voice_spectogram.webp)](unknown_voice_spectogram.full.webp)
 
 ## Videos Containing the Unknown Voice
 *an incomplete list!*

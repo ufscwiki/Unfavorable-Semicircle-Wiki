@@ -25,7 +25,7 @@ The composite for ♐STRAND is particularly non-obvious as to the
 
 Composite at width 599 by `extra`:
 
-![Strand\_599.png](Strand_599.png "Strand_599.png")
+[![Strand\_599.png](Strand_599.png "Strand_599.png")](Strand_599.full.png)
 
 The same composite pixel-shifted by `-0.00127`:
 
@@ -33,4 +33,4 @@ The same composite pixel-shifted by `-0.00127`:
 
 3D composite by Lukidot:
 
-![STRAND_3d.png](STRAND_3d.png)
+[![STRAND_3d.png](STRAND_3d.png)](STRAND_3d.full.png)

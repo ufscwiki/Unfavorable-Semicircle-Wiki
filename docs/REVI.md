@@ -20,7 +20,7 @@ which was, in fact, a Wednesday.
 of a miraheze staff member.
 
 ## Composite
-![REVI.png](REVI.png "REVI.png")
+[![REVI.png](REVI.png "REVI.png")](REVI.full.png)
 
 (*composite at width of 37 pixels by discord user extra*)
 
@@ -32,4 +32,4 @@ the top half are reminiscent of ♐[CREM](CREM "wikilink").
 
 3D composite by Lukidot:
 
-![REVI_3d.png](REVI_3d.png)
+[![REVI_3d.png](REVI_3d.png)](REVI_3d.full.png)

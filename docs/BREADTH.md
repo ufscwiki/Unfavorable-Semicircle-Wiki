@@ -39,7 +39,7 @@ The videos have a silent stereo audio track.
 
 <http://tomasf.se/projects/semi/BREADTH_composite.png>
 
-![BREADTH composite.jpg](BREADTH_composite.jpg)
+[![BREADTH composite.jpg](BREADTH_composite.jpg)](BREADTH_composite.full.jpg)
 
 *♐BREADTH composite by thomasf (**n.b.**: image uploaded to this wiki as a jpg due to file size restrictions)*
 

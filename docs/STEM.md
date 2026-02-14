@@ -21,7 +21,7 @@ that gives no clear meaning.
 
 3D composite by Lukidot:
 
-![STEM_3d.png](STEM_3d.png)
+[![STEM_3d.png](STEM_3d.png)](STEM_3d.full.png)
 
 ## Notes on composite
 Discord user hellajt notes: "STEM is exactly 33333 seconds long, and has
