@@ -12,10 +12,10 @@ account, the other being ♐♐[LOYAL](LOYAL "wikilink").
 ## Meaning of name
 "Cullet" is a name for glass that is crushed and ready to be remelted in the process of [recycling](https://en.wikipedia.org/wiki/Glass_recycling).
 
-## 2D composites
+## 2D composite
 ♐♐CULLET 2-D composite by Discord user Mark The Third:
 [![Cullet\_composite.png](Cullet_composite.png "Cullet_composite.png")](Cullet_composite.full.png)
 
-## 3D composites
+## 3D composite
 Screen from Reddit thread:
 [![Cullet\_3-d\_screengram\_from\_reddit.png](Cullet_3-d_screengram_from_reddit.png)](Cullet_3-d_screengram_from_reddit.full.png)

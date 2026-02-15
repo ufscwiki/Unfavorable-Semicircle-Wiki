@@ -38,7 +38,7 @@ Lukidot has matched Crimp's composite to [Delock](DELOCK).
 The patterns in the video can be observed in this image which shows all the frames in sequence.
 
 ## Relationship with ♐RECOVER
-Discord user `N25_CT13` notes:
+Discord user N25_CT13 notes:
 
 > also about those videos
 > 

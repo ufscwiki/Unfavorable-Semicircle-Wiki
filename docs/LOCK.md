@@ -72,24 +72,20 @@ In January 2025, user `Fufeng Industries` says:
   deciphering any concealed messages that other videos might contain.
 
 ### Frame composite discovery
-On April 20, 2016, Reddit user tomasf.se discovered that when each individual frame of the video is combined into an image with a width of 197 pixels, a picture appears. The subject of this image was subject to intense debate over several years (_see below_). In June 2022, @unfavorablesem [posted](https://twitter.com/unfavorablesem/status/1532221038372786177) a new version of the composite image alongside a link to the wikipedia article on the [Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
+On April 20, 2016, Reddit user Tomas F.se discovered that when each individual frame of the video is combined into an image with a width of 197 pixels, a picture appears. The subject of this image was subject to intense debate over several years (_see below_). In June 2022, @unfavorablesem [posted](https://twitter.com/unfavorablesem/status/1532221038372786177) a new version of the composite image alongside a link to the wikipedia article on the [Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
 
-## Composite images
-Regular Size, http://tomasf.se/projects/semi/LOCK_composite.png.
-
-Huge Size, http://tomasf.se/projects/semi/LOCK_composite_huge.png.
-
+## 2D composites
 [![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")](LOCK_composite.full.png)
 
 Alternative ♐LOCK composite with width of 197.36 pixels that does not need to be shifted to the left like the previous one (which may be skewed:
 
 ![LOCK\_composite197.png](LOCK_composite197.png)
 
-Version [posted to twitter](June_2022_twitter_posts "wikilink") by @unfavorablesem_:
+Version [posted to Twitter](June_2022_twitter_posts "wikilink") by @unfavorablesem_:
 
 ![@unfavorablesem version posted to twitter](june_22_LOCK_version.png)
 
-### 3D composite
+## 3D composites
 The later discovery of 3D Composited lead to retrospective analysis of earlier videos, but there is nothing particularly "interesting" in this video's 3D composite.
 
 [![Lock.PNG](Lock.PNG "Lock.PNG")](Lock.full.PNG)

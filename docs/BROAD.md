@@ -24,7 +24,7 @@ Testing has shown that the audio in ♐BROAD 0 to 4 are identical.
 
   - ♐[BREADTH](BREADTH "wikilink") is derived from the word "broad".
 
-## 2D Composite
+## 2D composite
 ♐BROAD composite (0 to 9):
 [![ Broad combined.png](Broad_combined.png " Broad combined.png")](Broad_combined.full.png)
 
@@ -40,7 +40,6 @@ Possible text from the narrow composite ("DOG" and "LUNA")?:
 > tukkek: isnt there a hero called Luna who rides a dog in DOTA... a game originally released as a mod for Warcraft 3, which is in the same universe as [Hearthstone](Hearthstone)...? 
 
 ## 3D composite
-
 ![Broad_3d.PNG](Broad_3d.PNG)
 
 ## Links

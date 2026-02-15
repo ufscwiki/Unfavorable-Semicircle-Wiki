@@ -62,4 +62,4 @@ devices.
 * BRINE 14, https://www.youtube.com/watch?v=U0pb1JXuftk.
 * BRINE 15, https://www.youtube.com/watch?v=QwgQQwZwipk.
 
-All links are now defunct due to the "[strange reset](RESET_STRANGE_YD "wikilink")".
+All links are now defunct due to the [strange reset](RESET_STRANGE_YD "wikilink").

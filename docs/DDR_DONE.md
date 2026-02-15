@@ -28,10 +28,12 @@ particularly faster than some, such as [RELOCK](RELOCK "wikilink").
 Discord user Risto notes that this file contains a
 [Handshake](Handshake "wikilink") with the same spectrograph image as
 seen in other files:
+
 ![Ddr\_done\_handshake\_start.png](Ddr_done_handshake_start.png)
 
 They add of the handshake found at the end: "It looks like it just gave
 up":
+
 ![Ddr\_done\_handshake\_end.png](Ddr_done_handshake_end.png)
 
 Discord user alexbassguy notes that the Handshake uses "absolutely the
@@ -41,6 +43,7 @@ same sample as heard in DEPTH and ZUFCHO."
 There are not very many frames in this file, and hence a very tiny composite.
 
 Composite by Extra:
+
 [![Ddr\_done.png](Ddr_done.png "Ddr_done.png")](Ddr_done.full.png)
 
 ## 3D composite

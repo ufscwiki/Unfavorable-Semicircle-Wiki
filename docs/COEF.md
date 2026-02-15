@@ -30,7 +30,7 @@ COEF adjusted composite by discord user Mark Aardvark:
 ## 3D composite
 ![COEF\_3d.PNG](COEF_3d.PNG "COEF_3d.PNG")
 
-## Meaning of Title
+## Meaning of the title
 - "COEF" is a common abbreviation for "coefficient", a
   "[multiplicative factor in some term of a polynomial, a series or any expression](https://en.wikipedia.org/wiki/Coefficient)".
 

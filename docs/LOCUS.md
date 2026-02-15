@@ -27,7 +27,7 @@ relation between coordinates, or by a point, line, or surface moving
 according to mathematically defined conditions" in mathematics.
 (*compare to other UFSC titles that relate to mathematical concepts*.)
 
-## 2D Composites
+## 2D composites
 Full LOCUS composite (0 to 15) by Tomas F:
 ![LOCUS_composite.png](LOCUS_composite.png)
 

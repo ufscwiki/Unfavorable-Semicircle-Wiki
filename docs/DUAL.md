@@ -9,32 +9,37 @@ posted.
 This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
 
 ## Description of videos
-
 Regular ♐DUAL videos are 1:06:40 (4,000 seconds) in length and contains
 a series of rapidly-flashing frames.
 
 ## Audio
-
 The audio is a dual mono track of a whirring machine sound (with [DC offset](DC_offset "wikilink")) in bursts lasting approximately 2 minutes
 48 seconds. The pattern changes at the end. The
 [Handshake](Handshake "wikilink") can be heard at the start and end of
 the audio.
 
 Discord user Risto notes:
+
 > the whirring is composed of identical sections with a 'steppy line level' silence afterwards:
+
 ![Dual_audio.png](Dual_audio.png "Dual_audio.png")
+
 > Interestingly, the handshake doesn't have an offset:
+
 ![Dual_no_dc_offset_in_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 ## 2D composite
 ♐DUAL composite by Extra:
+
 [![DUAL_real.png](DUAL_real.png " DUAL_real.png")](DUAL_real.full.png)
 
 ## 3D composite
 Screen of full ♐DUAL 3-D composite (first view):
+
 ![Dual 0-9 - 3-d composite - view 1.png](Dual_0-9_-_3-d_composite_-_view_1.png)
 
 View 2:
+
 [![Dual 0-9 - 3-d composite - view 2.png](Dual_0-9_-_3-d_composite_-_view_2.png)](Dual_0-9_-_3-d_composite_-_view_2.full.png)
 
 The 3-D composite makes a roughly half-spherical shape, somewhat similar
