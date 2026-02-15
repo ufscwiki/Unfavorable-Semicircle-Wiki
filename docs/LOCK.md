@@ -48,17 +48,17 @@ Red-shifting is a concept in physics, especially important to the field of astro
 The DC offset here may have a similar effect. It has been observed that ♐LOCK's Hearthstone icon seems to be a copy of the original image's red channel (rather than the entire red-green-blue image). Since one of UFSC's themes is astrology (or astronomy), it is possible that this is a delberate technical-aesthetical choice.
 
 ### GSM
-On November 2024, Discord user `N25_CT13` wrote:
+On November 2024, Discord user N25_CT13 wrote:
 
 > Lock's right audio channel is most likely raw data read as GSM 6.10 "format" which is present in Audacity and the left channel's DC offset could have been removed due to the GSM encoding removing DC offset for some reason (could be due to compression).
 
-A comparison of raw-data encoded as GSM (provided by `N25_CT13`) and LOCK's audio:
+A comparison of raw-data encoded as GSM (provided by N25_CT13) and LOCK's audio:
 
 [![LOCK_GSM.png](LOCK_GSM.png)](LOCK_GSM.full.png)
 
 The next month: GSM-like audio was also discovered in 40 videos in the [original unnamed series](Original_unnamed_series).
 
-In January 2025, user `Fufeng Industries` says:
+In January 2025, user Fufeng Industries says:
 
 > Fufeng Industries LLC: Imported small EXE into Audacity using GSM 6.10. It ended up with the characteristic DC offset as seen in LOCK. A bit more chaotic and all over the place, but it does bear very much resemblance.
 >
