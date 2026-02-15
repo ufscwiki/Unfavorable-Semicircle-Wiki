@@ -20,11 +20,11 @@ Some 3D composites seem to contain an arrow shape similar to the ♐ symbol for 
 
 [![LOCK3d2.webp](LOCK3d2.webp)](LOCK3d2.full.webp)
 
-[![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")](RUNcomposite_539s673.full.png)
+[![RUN3d3.webp](RUN3d3.webp)](RUN3d3.full.webp)
 
-[![574016\_composite.png](574016_composite.png "574016_composite.png")](574016_composite.full.png)
+[![574016-3d.png](574016-3d.png "574016-3d.png")](574016-3d.full.png)
 
-![RELOCK_composite.png](RELOCK_composite.png)
+[![RELOCK_3d1.png](RELOCK_3d1.png)](RELOCK_3d1.full.png)
 
 [![RUN3d2.webp](RUN3d2.webp)](RUN3d2.full.webp)
 
