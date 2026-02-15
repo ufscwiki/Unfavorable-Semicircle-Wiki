@@ -16,7 +16,7 @@ Slower, but with color and alternate viewing modes: <https://unfavorablesemicirc
 3D composites can also be produced with MATLAB or Octave.
 
 ## Arrows
-Some 3D composites seem to contain an arrow shape similar to the ♐ symbol for Saggitarius. It is unknown if this is intentional but it could be representing the Saggitarius (latin for *archer*) arrow which appears so often in video titles.
+Some 3D composites seem to contain an arrow shape similar to the ♐ symbol for Sagittarius. It is unknown if this is intentional but it could be representing the Sagittarius (latin for *archer*) arrow which appears so often in video titles.
 
 [![LOCK3d2.webp](LOCK3d2.webp)](LOCK3d2.full.webp)
 
