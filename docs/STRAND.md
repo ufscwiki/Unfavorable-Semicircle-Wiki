@@ -1,14 +1,14 @@
 # STRAND
 ♐STRAND is a series of videos uploaded to the
-[Twitter](Twitter "wikilink") account. It began on December 23rd, 2017
+[Twitter](Twitter) account. It began on December 23rd, 2017
 at 6:52 PM EST, ten days after the apparent end of
-♐[SECOND](SECOND "wikilink"). This short series ended (or has paused)
+♐[SECOND](SECOND). This short series ended (or has paused)
 at ♐STRAND 198, which was posted at 11:41 PM on December 23, 2017. 63
 was skipped in the posting sequence. There would not be another series
-until the posting of ♐[AZO](AZO "wikilink") in May 2018.
+until the posting of ♐[AZO](AZO) in May 2018.
 
 Like several UFSC series, this was posted close to a holiday. It would
-be followed four days later by ♐[REVI](REVI "wikilink").
+be followed four days later by ♐[REVI](REVI).
 
 ## Characteristics
 All videos seem to be 60 seconds long (1:00).

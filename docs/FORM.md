@@ -1,9 +1,9 @@
 # ♐FORM
 
-♐FORM is the final series of videos uploaded to the [3rd youtube channel](3rd_youtube_channel "wikilink"). The first video was posted on
-December 31st, 2019, exactly one year after ♐[ROOT](ROOT "wikilink") 0,
+♐FORM is the final series of videos uploaded to the [3rd youtube channel](3rd_youtube_channel). The first video was posted on
+December 31st, 2019, exactly one year after ♐[ROOT](ROOT) 0,
 the channel's previous upload. This was the first content posted on the
-channel after the [4th G+ post](Google_Plus#G.2B_post_4 "wikilink")
+channel after the [4th G+ post](Google_Plus#G.2B_post_4)
 caused a re-appraisal of its authenticity. The second video (♐FORM 1)
 was uploaded on January 2nd, 2020, making FORM a legitimate series,
 unlike ♐ROOT.

@@ -1,9 +1,9 @@
 # COEF
 
-♐COEF is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on March 29, 2018. It
+♐COEF is a video posted to the [3rd youtube channel](3rd_youtube_channel) account on March 29, 2018. It
 is 4:12 long and contains a series of rapidly-flashing images. It was
-posted three days after ♐[ZORO](ZORO "wikilink") was posted and deleted.
-♐[NEO](NEO "wikilink") would follow it one month later.
+posted three days after ♐[ZORO](ZORO) was posted and deleted.
+♐[NEO](NEO) would follow it one month later.
 
 ## Audio
 The audio track contains a constant, very loud stream of sounds. Discord user Unstable Olding notes that "it seems like a combination of PORT, RETIO and the voice used in DEPTH".

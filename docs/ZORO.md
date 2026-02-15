@@ -1,11 +1,11 @@
 # ZORO
 
-♐ZORO was a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on March 26, 2018. The
+♐ZORO was a video posted to the [3rd youtube channel](3rd_youtube_channel) account on March 26, 2018. The
 video was removed by the uploader immediately after it was posted —
 youtube alerts were sent out, but the video was gone by the time the
 channel was accessed. The video was uploaded/removed two months to the
-day after ♐[SERN](SERN "wikilink"), the previous upload.
-♐[COEF](COEF "wikilink") would be posted (and not immediately deleted)
+day after ♐[SERN](SERN), the previous upload.
+♐[COEF](COEF) would be posted (and not immediately deleted)
 three days after this.
 
 ![Zoro\_notification.jpg](Zoro_notification.jpg "Zoro_notification.jpg")
@@ -33,4 +33,3 @@ area commonly associated with UFSC.
 
 It is similar to the word "zorro", which is Spanish for "fox" (as well
 as the famous swashbuckling fictional character).
-

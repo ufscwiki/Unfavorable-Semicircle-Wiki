@@ -4,8 +4,8 @@ OR is a short series of videos that were posted on the original youtube
 account on August 8, 2015. They were also the last videos posted before
 a four-month gap in posting. (This was, at the time, the longest known
 gap between posts.) The preceding video posted was
-♐[LOCK](LOCK "wikilink"), and the following video (posted in December)
-was ♐[DELOCK](DELOCK "wikilink"). The videos are notable for being one
+♐[LOCK](LOCK), and the following video (posted in December)
+was ♐[DELOCK](DELOCK). The videos are notable for being one
 of the exceptional videos on the channel.
 
 There were only four videos in the series:
@@ -48,8 +48,7 @@ A strange effect was discovered on certain TVs that played any of the videos:
 On December 2021, Discord user `Stekapinko` uploaded a video, along with this comment (referring to *♐OR_101*):
 
 > hey i just found this server from a video about unfavorable semicircle and looked at the archives of it. I looked at a video called "RETIO" and saw that my phone saw something different than my pc
-> 
+>
 > the same goes for [this video](OR-101-mobile-playback.mp4)
 
-This behavior is possibly related to memory glitches from [Stagefright exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
-
+This behavior is possibly related to memory glitches from [Stagefright exploits](UFSC,_Stagefright_and_Rowhammer_exploits).

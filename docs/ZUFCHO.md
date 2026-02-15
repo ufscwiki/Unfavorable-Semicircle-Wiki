@@ -1,11 +1,11 @@
 # ZUFCHO
 
-♐ZUFCHO is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on March 18, 2016. It was
-posted after a week-long pause after ♐[REDLOC](REDLOC "wikilink") and at
+♐ZUFCHO is a video posted to the [second YouTube account](Real_and_Fake_channels) on March 18, 2016. It was
+posted after a week-long pause after ♐[REDLOC](REDLOC) and at
 the start of a busy period for UFSC, that included
-♐[LONE](LONE "wikilink"), ♐[WINGSET](WINGSET "wikilink"),
-♐[RETIO](RETIO "wikilink") and ♐[LIMIT](LIMIT "wikilink") (as well as
-the ♐[CAB](CAB "wikilink") and ♐[MUL](MUL "wikilink") series on
+♐[LONE](LONE), ♐[WINGSET](WINGSET),
+♐[RETIO](RETIO) and ♐[LIMIT](LIMIT) (as well as
+the ♐[CAB](CAB) and ♐[MUL](MUL) series on
 twitter).
 
 ![Thumbnail of ♐ZUFCHO](Zufcho.jpeg "Thumbnail of ♐ZUFCHO")
@@ -15,8 +15,8 @@ twitter).
 
 The video is 0:03 in duration. It contains a stereo audio track. A voice
 in left channel speaks an unknown phrase, sounding something like
-"azey-kay-yeero". The right channel has the [Unknown Voice](Unknown_Voice "wikilink") speaking the letter "E" plus the
-[Handshake](Handshake "wikilink").
+"azey-kay-yeero". The right channel has the [Unknown Voice](Unknown_Voice) speaking the letter "E" plus the
+[Handshake](Handshake).
 
 ## Audio
 
@@ -29,15 +29,15 @@ here:
 Discord user alexbassguy observed, "I have no idea how to go about
 finding where \[the spoken words are\] from, but after working with it
 much of today, I'm pretty confident that it says 'I will still love
-you'." They also provided this cleaned-up version: [Media:ZUFCHO - LEFT CHANNEL CLEANED.wav](Media:ZUFCHO_-_LEFT_CHANNEL_CLEANED.wav "wikilink"). (As
-well as the right channel: [Media:ZUFCHO - RIGHT CHANNEL CLEANED.wav](Media:ZUFCHO_-_RIGHT_CHANNEL_CLEANED.wav "wikilink").)
+you'." They also provided this cleaned-up version: [Media:ZUFCHO - LEFT CHANNEL CLEANED.wav](Media:ZUFCHO_-_LEFT_CHANNEL_CLEANED.wav). (As
+well as the right channel: [Media:ZUFCHO - RIGHT CHANNEL CLEANED.wav](Media:ZUFCHO_-_RIGHT_CHANNEL_CLEANED.wav).)
 
 After further analysis, they observe: "I worked more on the ZUFCHO
 mystery and was able to get the voice even clearer I pitched it up and
 sped it up slightly, plus did some more EQing and processing to try and
 get it clearer... Now it sounds much more like '(Ella?) will still love
 you'. I don't think it's an I at the beginning anymore, but the rest of
-it sounds pretty damn close." [Media:ZUFCHO - LEFT CHANNEL CLEANED 2.wav](Media:ZUFCHO_-_LEFT_CHANNEL_CLEANED_2.wav "wikilink")
+it sounds pretty damn close." [Media:ZUFCHO - LEFT CHANNEL CLEANED 2.wav](Media:ZUFCHO_-_LEFT_CHANNEL_CLEANED_2.wav)
 
 (This is not a consensus conclusion, and other listeners do not hear the
 "love you" in the audio.)
@@ -63,10 +63,10 @@ reddit:
 When it was observed that the image in the
 \[<https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%9B%D7%91>|
 Hebrew-language wikipedia article for "Star"\] contained an image of the
-[Sagittarius](Sagittarius "wikilink") Star Cloud, it became
+[Sagittarius](Sagittarius) Star Cloud, it became
 widely-assumed that "zufcho" was Hebrew for "star". (this train of
 thought may also have been encouraged by speculation that
-♐[REVI](REVI "wikilink") was also possibly a Hebrew word.)
+♐[REVI](REVI) was also possibly a Hebrew word.)
 
 However, "zufcho" is not Hebrew for "star". (Further research seems to
 suggest it's not a word in that language at all, although this reflects
@@ -92,4 +92,3 @@ some re-investigation clarifying the facts above.
   - [♐ZUFCHO](https://www.reddit.com/r/UnfavorableSemicircle/comments/4c05ow/zufcho/)
   - [Further ZUFCHO cleanup and de-clipping](https://www.reddit.com/r/UnfavorableSemicircle/comments/4kwptn/further_zufcho_cleanup_and_declipping/)
   - [Does anyone here have Latin-Hebrew keyboard?](https://www.reddit.com/r/UnfavorableSemicircle/comments/4c1cjc/does_anyone_here_have_latinhebrew_keyboard/)
-

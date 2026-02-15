@@ -1,13 +1,13 @@
 # LEE
 ♐LEE is a series of videos that was uploaded to the twitter account
 between March 18 and March 24, 2016. It is the third series posted in
-the twitter account, following ♐[EL](EL "wikilink") and
-♐[RIA](RIA "wikilink"). The last video posted was ♐LEE 16323, although
+the twitter account, following ♐[EL](EL) and
+♐[RIA](RIA). The last video posted was ♐LEE 16323, although
 it appears there were some numbers skipped while posting. In any case,
 only 7,653 videos have been archived.
 
 The videos in this series are in the "classic" UFSC style, three second
-long videos, with frames of a single color and the [Unknown Voice](Unknown_Voice "wikilink") saying a letter or number. [It has been
+long videos, with frames of a single color and the [Unknown Voice](Unknown_Voice) saying a letter or number. [It has been
 noted](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bcpvc/strange_jump_to_lee_11123_after_the_upload_gap/)
 that this series included longer pauses while uploading, as well as
 numerical leaps in the numbered videos.

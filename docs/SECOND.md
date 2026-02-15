@@ -1,9 +1,9 @@
 # SECOND
 ♐SECOND is a "double series" of videos currently uploaded to the
-[Twitter](Twitter "wikilink") account. It began on December 9th, 2017 at
+[Twitter](Twitter) account. It began on December 9th, 2017 at
 2:27 PM EST and was the second post
-"[reset](RESET_STRANGE_YD "wikilink")" series, following
-♐[FMI](FMI "wikilink"). Videos with increasing numbers were uploaded
+"[reset](RESET_STRANGE_YD)" series, following
+♐[FMI](FMI). Videos with increasing numbers were uploaded
 to
 [♐SECOND 926](https://twitter.com/unfavorablesemi/status/939728823721000960)
 (posted at 12:29 AM EST on December 10th), and then two minutes later
@@ -25,7 +25,7 @@ there was a substantial break of over 18 hours.
 
 After ♐SECOND 4899 was posted at 5:24 PM EST on December 13, 2017
 posting stopped. Posting to the twitter account resumed ten days later
-with the ♐[STRAND](STRAND "wikilink") series.
+with the ♐[STRAND](STRAND) series.
 
 ## Characteristics and Questions of Authenticity
 Videos were tweeted continuously (generally every 40 seconds) during the
@@ -48,10 +48,10 @@ Some numbers (82, 249, 623, and 847 in the first series; 38, 48, 117,
 during the posting (and please note this list is probably incomplete).
 This is noteworthy for two reasons:
 - This has been generally rare behavior by UFSC, leading credence to
-  the theory that post-♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") is not the same creator as before.
+  the theory that post-♐[RESET STRANGE YD](RESET_STRANGE_YD) is not the same creator as before.
   The only evidence of skipped numbers comes from
-  ♐[LEE](LEE "wikilink") and ♐[MOTH](MOTH "wikilink") (and later,
-  ♐[STRAND](STRAND "wikilink")).
+  ♐[LEE](LEE) and ♐[MOTH](MOTH) (and later,
+  ♐[STRAND](STRAND)).
 - An open question has always been how much of the workflow of
   producing and uploading the videos is automated. Many factors point
   out that it is, at least, partly automated: for example, the precise
@@ -85,8 +85,8 @@ and
 
 ## Title
 "Second" most likely would mean that this is the second series after
-♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") (after
-♐[FMI](FMI "wikilink")). It could also mean that the author is not the
+♐[RESET STRANGE YD](RESET_STRANGE_YD) (after
+♐[FMI](FMI)). It could also mean that the author is not the
 original one but the "second" UFSC - someone who was asked to replace
 the first or just stepped up to the task after reclaiming the Twitter
 account - even if this latest series has a definite authentic feel to
@@ -94,9 +94,9 @@ it, more so than the latest series.
 
 ## Implications of two series
 UFSC has previously had complementary series and videos, most notably
-♐[BROTHER](BROTHER "wikilink") and ⊕BROTHER. There have also been
-"replacements" (such as ♐[RESQEN](RESQEN "wikilink") for
-♐[SQEN](SQEN "wikilink")). Although the latter seems more clearly a
+♐[BROTHER](BROTHER) and ⊕BROTHER. There have also been
+"replacements" (such as ♐[RESQEN](RESQEN) for
+♐[SQEN](SQEN)). Although the latter seems more clearly a
 "fixed" replacement version, the relationship between the two BROTHER
 series in unclear — and it is unclear whether the second SECOND series
 is meant to be a contrast/comparison of some sort, or a restart after
@@ -131,4 +131,4 @@ this has been observed to possibly correspond with the stars in the
 constellation Sagittarius.
 
 ## Links
-* [November 25th tweet‎‎](November_25th_tweet‎‎ "wikilink")
+* [November 25th tweet‎‎](November_25th_tweet‎‎)

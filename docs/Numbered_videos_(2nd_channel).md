@@ -16,7 +16,7 @@ This is a series posted to the new youtube account between July 12 and 13, 2016.
 ## Composite
 [![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png)](Numbered_2016-07-12_composite.full.png)
 
-The composite is visually similar to the [BRILL-based composites](BRILL_Composite "wikilink"), but the colors are altered.
+The composite is visually similar to the [BRILL-based composites](BRILL_Composite), but the colors are altered.
 Specifically, the hue is mirrored across the 120 / 300 degrees axis
 (green / magenta).
 

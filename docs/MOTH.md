@@ -1,7 +1,7 @@
 # MOTH
 
 ## Overview
-♐MOTH is a [series](List_of_Series "wikilink") that was uploaded to the second Youtube account. The series started on January 29th, 2017, the same day as ♐[POINT](POINT "wikilink") started on Twitter. The series ended on March 9, 2017 with ♐MOTH 55. After the end of the series, the account was quiet for two weeks before posting ♐[GOLDEN](GOLDEN "wikilink").
+♐MOTH is a [series](List_of_Series) that was uploaded to the second Youtube account. The series started on January 29th, 2017, the same day as ♐[POINT](POINT) started on Twitter. The series ended on March 9, 2017 with ♐MOTH 55. After the end of the series, the account was quiet for two weeks before posting ♐[GOLDEN](GOLDEN).
 
 ♐MOTH is the series with the longest total video time.
 
@@ -16,7 +16,7 @@ It is assumed that the audio in all ♐MOTH videos is identical. The first six v
 * ♐MOTH 55 has a length of 8:15:23 (29,723 seconds).
 
 ## Audio
-MOTH videos have a [Handshake](Handshake "wikilink") at the start.
+MOTH videos have a [Handshake](Handshake) at the start.
 
 ### Spectrographic image
 The audio in ♐MOTH 0 contains a distinct visual pattern when viewed as a spectrograph (image by Salo):
@@ -65,10 +65,10 @@ Note that due to the immense number of data points this is not the complete seri
 
 This composite can be browsed in a 3-D projection [here](http://vanjac.github.io/sketches/ufsc3d/).
 
-The [3D composite](3D_Composite "wikilink") of MOTH is a plane.
+The [3D composite](3D_Composite) of MOTH is a plane.
 
 ## Appearances elsewhere
-Discord user Shadow Morphyn has noted that the ["other"](Real_and_Fake_channels "wikilink") [unfavorable semicircle](https://www.youtube.com/channel/UCA2j2wFhXsQej79c9V4v_Lg/) channel has apparently used a ♐MOTH video as the basis of [♐♐CULLET](https://www.youtube.com/watch?v=JZcmftIz-HM).
+Discord user Shadow Morphyn has noted that the ["other"](Real_and_Fake_channels) [unfavorable semicircle](https://www.youtube.com/channel/UCA2j2wFhXsQej79c9V4v_Lg/) channel has apparently used a ♐MOTH video as the basis of [♐♐CULLET](https://www.youtube.com/watch?v=JZcmftIz-HM).
 
 ## Links
 * ♐MOTH 0, https://www.youtube.com/watch?v=ajEWrLnaQfQ.

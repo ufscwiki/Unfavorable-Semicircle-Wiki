@@ -11,7 +11,7 @@ It is unclear if the person posting to the twitter account is an actual author o
 ![Tweet #1](june_22_tweet1.png "Tweet #1")
 
 > I  think if an alien were to communicate with us it'd be like UFSC. Totally unhuman way of communication and thought.
-> 
+>
 > (I'm not saying UFSC is an actual alien lol)
 
 #### Analysis
@@ -40,28 +40,28 @@ A largely straightforward comment, although the reference to the "meaningless po
 This tweet included [a youtube link](https://youtu.be/68C1Gc4De7c) to the song "The Most Beautiful Day" by Professor Kliq. The lyrics of the song describe UFOs arriving on Earth:
 
 > And once it came close enough I knew
-> 
+>
 > That all these tiny little things
-> 
+>
 > That all these tiny little things
-> 
+>
 > That all these tiny little things
-> 
+>
 > I realised that they were UFOs
-> 
+>
 > I realised that we were being invaded by aliens
-> 
+>
 > On the most beautiful day that I've ever seen
 
 #### Analysis
 
-Discord user ShadowMorphyn posted that "that song they posted is definitely the sound for ♐[SQEN](SQEN "wikilink")".
+Discord user ShadowMorphyn posted that "that song they posted is definitely the sound for ♐[SQEN](SQEN)".
 
 ### Tweet #4
 
 ![Tweet #4](june_22_tweet4.png "Tweet #4")
 
-- an image that appears to be a more complete version of the various composites found in the [BRILL group](BRILL_Composite "wikilink").
+- an image that appears to be a more complete version of the various composites found in the [BRILL group](BRILL_Composite).
 
 ![full BRILL composite](june_22_brill_composite.jpg "full BRILL composite")
 
@@ -74,7 +74,7 @@ This specific BRILL composite has never been found before by the community.
 
 ![Tweet #5](june_22_tweet5.png "Tweet #5")
 
-- contains a link to the [wikipedia article](https://en.wikipedia.org/wiki/Voyager_Golden_Record) for the Voyager Golden Record, as well as an image of the ♐[LOCK](LOCK "wikilink") composite.
+- contains a link to the [wikipedia article](https://en.wikipedia.org/wiki/Voyager_Golden_Record) for the Voyager Golden Record, as well as an image of the ♐[LOCK](LOCK) composite.
 
 ![LOCK composite](june_22_LOCK_version.png "LOCK composite")
 
@@ -94,7 +94,7 @@ The image posted is a 250x250 version of the ♐LOCK composite, which has appare
 
 #### Analysis
 
-The meaning of "\_OLDTHOUGHT" is unclear. The tweet includes a version of the ♐[GOLDEN](GOLDEN "wikilink") composite with a resolution of 680x680. This version of the composite has a filled-in version of the previously-unintelligible text in the top-right quadrant, now identified as the mantra of "There is always more..."
+The meaning of "\_OLDTHOUGHT" is unclear. The tweet includes a version of the ♐[GOLDEN](GOLDEN) composite with a resolution of 680x680. This version of the composite has a filled-in version of the previously-unintelligible text in the top-right quadrant, now identified as the mantra of "There is always more..."
 
 Shown below is the text section from _OLDTHOUGHT
 ![Text from _OLDTHOUGHT](https://cdn.discordapp.com/attachments/193619269794267137/982051700472954880/unknown.png)
@@ -102,7 +102,7 @@ Shown below is the text section from _OLDTHOUGHT
 Shown below is the text section from _OLDTHOUGHT, XORred with the original GOLDEN composite. [clearer result]
 ![XOR analysis](https://cdn.discordapp.com/attachments/193619269794267137/982051792374333440/unknown.png)
 
-The posting of this version of the composite has lead to the conclusion that the text in the image reads "THERE IS ALWAYS MORE THERE IS ALWAYS MORE..." (see the ♐[GOLDEN](GOLDEN "wikilink") article for more details.)
+The posting of this version of the composite has lead to the conclusion that the text in the image reads "THERE IS ALWAYS MORE THERE IS ALWAYS MORE..." (see the ♐[GOLDEN](GOLDEN) article for more details.)
 
 ![GOLDEN text interpolation](golden_text_interpolation.png "GOLDEN text interpolation")
 
@@ -120,8 +120,8 @@ This tweet was pinned in the twitter account. It is pretty straightforward, and 
 
 ![answers.jpg](answers.jpg "answers.jpg")
 
-This tweet consisted of a background image with a large amount of text, written in response to the [community-generated questions](unfavorablesem_AMA "wikilink") inspired by the previous tweet.
+This tweet consisted of a background image with a large amount of text, written in response to the [community-generated questions](unfavorablesem_AMA) inspired by the previous tweet.
 
 #### Details and Analysis
 
-_see [ANSWERS](ANSWERS "wikilink")_
+_see [ANSWERS](ANSWERS)_

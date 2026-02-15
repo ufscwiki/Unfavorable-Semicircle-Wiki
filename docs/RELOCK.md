@@ -1,5 +1,5 @@
 # RELOCK
-♐RELOCK is a video posted to the [second youtube account](Real_and_Fake_channels "wikilink") on February 21, 2016. It was
+♐RELOCK is a video posted to the [second youtube account](Real_and_Fake_channels) on February 21, 2016. It was
 the first video posted to the new youtube account.
 
 ## Description of video
@@ -14,7 +14,7 @@ audio, with gaps of silence roughly every 8 seconds.
 
 ## 2D composite
 The composite of RELOCK is very similar, but not identical, to
-[LOCK](LOCK "wikilink").
+[LOCK](LOCK).
 
 ![RELOCK\_composite.png](RELOCK_composite.png "RELOCK_composite.png")
 
@@ -22,7 +22,7 @@ This image highlights the mismatching pixels between LOCK and RELOCK, with the d
 
 ![lock-relock-diff-highlight.png](lock-relock-diff-highlight.png)
 
-## 3D composites 
+## 3D composites
 
 By Lukidot:
 

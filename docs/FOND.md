@@ -7,7 +7,7 @@
 The videos all have an identical theoretical length of 27:45. That time
 is listed for them on youtube, but they play as video (and open in
 Audacity) with a length of 23:45. It is unclear if there are three
-"hidden" minutes like in ♐[LIMIT](LIMIT "wikilink").
+"hidden" minutes like in ♐[LIMIT](LIMIT).
 
 ## Audio
 It seems that the sound on all FOND videos is the same.
@@ -26,7 +26,7 @@ Combined ♐FOND composite:
 [![FOND composite.png](FOND_composite.png " FOND composite.png")](FOND_composite.full.png)
 
 ## Xor composite
-Inspired by the reference to the ⊕ (xor) symbol in the [third G+ post](Google_Plus#G.2B_post_3 "wikilink"), Piecat has created an xored composite.
+Inspired by the reference to the ⊕ (xor) symbol in the [third G+ post](Google_Plus#G.2B_post_3), Piecat has created an xored composite.
 
 ♐FOND xor composite:
 

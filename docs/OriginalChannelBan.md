@@ -1,5 +1,4 @@
 # OriginalChannelBan
 
 1.  REDIRECT
-    [Template:OriginalChannelBan](Template:OriginalChannelBan "wikilink")
-
+    [Template:OriginalChannelBan](Template:OriginalChannelBan)

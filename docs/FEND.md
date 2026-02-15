@@ -1,6 +1,6 @@
 # FEND
 
-FEND is a series posted to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 26 and June 4, 2016. There are 20 videos in the series (numbered 0 to 19).
+FEND is a series posted to the [second YouTube account](Real_and_Fake_channels) between May 26 and June 4, 2016. There are 20 videos in the series (numbered 0 to 19).
 
 ## Details
 Through videos all have an identical length of 27:46, for a total of about 50,000 frames per video.
@@ -41,11 +41,11 @@ For each of the groups, /u/Unfavorablist opened two separate FEND sound tracks i
 ## Reversing audio
 On 2026-02 user Ben's Fractals reports:
 > FEND 1's audio seems to be reversing back and forth.
-> 
+>
 > See how it mirrors horizontally.
-> 
+>
 > In case you think this is some spectral error you can even see the wave-forms flipping.
-> 
+>
 > One thing this reminds me of is Recycle which was a drum slicing program from the 90s. As a cheap method to do tail-extension for drums the audio would reverse back-and-forth as a ping-pong loop at the end of a segment and create these mirrored patterns.
 
 ![fend1.reversed.1.webp](fend1.reversed.1.webp)
@@ -55,11 +55,11 @@ On 2026-02 user Ben's Fractals reports:
 ## Flip noise
 In 2026-02 N25 CT13 writes:
 > I did find this exact wave form and other similar "flip" in FEND 1's audio. It's at the end part of the quiet scratching at the beginning.
-> 
+>
 > You have to amplify the audio quite a bit to be able to see this.
-> 
+>
 > I kind of feel that it could be noise and some kind of "audio encoding artifact".
-> 
+>
 > Slowing down that repeating left channel by 4 times does make it around the same length as the next section
 
 ![fend.flip.png](fend.flip.png)

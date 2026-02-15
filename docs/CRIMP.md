@@ -1,5 +1,5 @@
 # CRIMP
-♐CRIMP is a video posted to the second [second YouTube account](Real_and_Fake_channels "wikilink") account on November 25,
+♐CRIMP is a video posted to the second [second YouTube account](Real_and_Fake_channels) account on November 25,
 2016.
 
 ## Description of video
@@ -41,18 +41,18 @@ The patterns in the video can be observed in this image which shows all the fram
 Discord user N25_CT13 notes:
 
 > also about those videos
-> 
+>
 > both of them have the same flickering thing
-> 
-> [recover](RECOVER "wikilink") is on the left and crimp is on the right
-> 
+>
+> [recover](RECOVER) is on the left and crimp is on the right
+>
 > recover has the thing at around 3 seconds and crimp has it at the start
-> 
+>
 > when the things flicker there is a pixel match
 
 ![CRIMP-sync.png](CRIMP-sync.png "CRIMP-sync.png")
 
-Perhaps the names of these videos ("crimp" or "to compress" and "recover" or "return to original state") imply a similar dynamic to that of [♐LOCK](LOCK "wikilink")-[♐DELOCK](DELOCK "wikilink")-[♐RELOCK](RELOCK "wikilink").
+Perhaps the names of these videos ("crimp" or "to compress" and "recover" or "return to original state") imply a similar dynamic to that of [♐LOCK](LOCK)-[♐DELOCK](DELOCK)-[♐RELOCK](RELOCK).
 
 ## Links
 * https://www.youtube.com/watch?v=3Blb3kzJU4

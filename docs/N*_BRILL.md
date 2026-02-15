@@ -1,6 +1,6 @@
 # N* BRILL
 ## Oveview
-♐N\*BRILL is a video posted to the second youtube account on March 9, 2016. It was posted twelve days after the "long" ♐[BRILL 49999](BRILL_49999_\(Long\) "wikilink") and on the same day as the [short video of the same name](BRILL_49999_\(Short\) "wikilink"). (It
+♐N\*BRILL is a video posted to the second youtube account on March 9, 2016. It was posted twelve days after the "long" ♐[BRILL 49999](BRILL_49999_\(Long\)) and on the same day as the [short video of the same name](BRILL_49999_\(Short\)). (It
 was also around this time that the twitter account was launched).
 
 ## Description of video
@@ -16,12 +16,12 @@ encrypted music. When sped up, ♐N\* BRILL shows evidence of containing a
 [repeating rhythm](https://www.reddit.com/r/UnfavorableSemicircle/comments/4akyno/n_brill_rhythmic_beats/).
 The same user [claims to have shown](https://www.reddit.com/r/UnfavorableSemicircle/comments/4aq0qa/n_brill_is_all_the_brill_videos_combined/)
 that ♐N\* BRILL may actually contain all the beats of every video in the
-♐[BRILL](BRILL "wikilink") series, although no peer review has occurred
+♐[BRILL](BRILL) series, although no peer review has occurred
 to lend or take away credibility from this.
 
-## Relationship to [BRILL](BRILL "wikilink") series
+## Relationship to [BRILL](BRILL) series
 It is stated by Discord user Tomas F that this video is "basically just
-the first 5,000 frames of [BRILL](BRILL "wikilink")".
+the first 5,000 frames of [BRILL](BRILL)".
 
 ## Composite
 ♐N\* BRILL composite:

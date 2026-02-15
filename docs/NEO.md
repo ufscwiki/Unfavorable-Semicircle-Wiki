@@ -1,8 +1,8 @@
 # NEO
 
-♐NEO is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on April 29, 2018. It
-was posted exactly one month after ♐[COEF](COEF "wikilink"), and four
-days before the beginning of the ♐[AZO](AZO "wikilink") series.
+♐NEO is a video posted to the [3rd youtube channel](3rd_youtube_channel) account on April 29, 2018. It
+was posted exactly one month after ♐[COEF](COEF), and four
+days before the beginning of the ♐[AZO](AZO) series.
 
 ## Characteristics
 ♐NEO is 7:58:24 long and contains a series of rapidly-flashing images.
@@ -30,7 +30,7 @@ There seems to be no obvious "proper" width for this composite.
 According to Discord user Tohwil, there are 6136 unique colors in the
 composite. Discord user kingrodian has noted that when separating into
 color channels, there is pretty much no data in blue. (Compare and
-contrast with ♐[AZO](AZO "wikilink") 0, which similarly has no green.)
+contrast with ♐[AZO](AZO) 0, which similarly has no green.)
 
 ## 3D composites
 ♐NEO 3D composite by Tukkek:
@@ -45,7 +45,7 @@ Animated render of ♐NEO's 3D composite by Extra:
 
 
 The 3-D composite for ♐NEO is visually similar to the one for
-♐[AZO](AZO "wikilink") 0, looking like a "keyboard" that is nearly
+♐[AZO](AZO) 0, looking like a "keyboard" that is nearly
 flat in the third dimension. The 3-D composite for ♐NEO looks visually
 similar to a tree.
 

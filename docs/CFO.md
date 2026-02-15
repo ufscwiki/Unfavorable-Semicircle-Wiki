@@ -1,9 +1,9 @@
 # CFO
 
-♐CFO is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") on August 17, 2018. It was
-posted 83 days (or 2 months and 22 days) after ♐[DIFF](DIFF "wikilink").
+♐CFO is a video posted to the [3rd youtube channel](3rd_youtube_channel) on August 17, 2018. It was
+posted 83 days (or 2 months and 22 days) after ♐[DIFF](DIFF).
 It is 1:05:56 in length and consists of a series of flashing colored
-frames. ♐[GEN](GEN "wikilink") would follow 58 days later.
+frames. ♐[GEN](GEN) would follow 58 days later.
 
 ## 2D composite
 Composite by Discord user Mark America Great Again:
@@ -29,4 +29,4 @@ It has been noted by Discord user Tukkek that the 3D composite has *an internal 
 ## Links
 * https://www.youtube.com/watch?v=dklWhhjfArs
 * [This is a video of ♐CFO and ♐DIFF causing the You Tube player to stall at the 0:10 mark on an Android phone](https://www.youtube.com/watch?v=jka_w-QgG00).
-* [Recursive composites](recursive_composites "wikilink")
+* [Recursive composites](recursive_composites)

@@ -19,7 +19,7 @@ waveform:
 
 *DC offset in ♐FOLD. Image by Risto*
 
-## The "[Handshake](Handshake "wikilink")"
+## The "[Handshake](Handshake)"
 
 It has been observed by Discord user Risto that in at least one case,
 "the handshake doesn't have an offset" when the rest of the audio does"
@@ -27,4 +27,3 @@ It has been observed by Discord user Risto that in at least one case,
 ![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 *Handshake + Cd offset audio in ♐DUAL*
-

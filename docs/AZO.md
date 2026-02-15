@@ -1,13 +1,13 @@
 # ♐AZO
 
-♐AZO is a series of videos uploaded to the [3rd youtube channel](3rd_youtube_channel "wikilink"). It began on May 3rd, 2018,
-four days after ♐[NEO](NEO "wikilink") was posted.
-♐[DIFF](DIFF "wikilink") would be posted 19 days later. It is the
-first series posted since ♐[STRAND](STRAND "wikilink"), and the first
-post-[Reset](RESET_STRANGE_YD "wikilink") series on youtube. The series
+♐AZO is a series of videos uploaded to the [3rd youtube channel](3rd_youtube_channel). It began on May 3rd, 2018,
+four days after ♐[NEO](NEO) was posted.
+♐[DIFF](DIFF) would be posted 19 days later. It is the
+first series posted since ♐[STRAND](STRAND), and the first
+post-[Reset](RESET_STRANGE_YD) series on youtube. The series
 has apparently ended with ♐AZO 4 on May 7th, 2018.
 
-This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+This video or series has a composite with an "interesting" [video scope](Video_scopes).
 
 ## Characteristics
 
@@ -41,14 +41,14 @@ obviously connected to UFSC's usual themes.
 
 Discord user kingrodian has noted that when separating into color
 channels, there is pretty much no data in green. (Compare and contrast
-with ♐[NEO](NEO "wikilink"), which similarly has no blue.)
+with ♐[NEO](NEO), which similarly has no blue.)
 
 ## 3D composites
 ♐AZO 3-D composite by discord user Tukkek:
 [![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png")](Azo_0-3d.full.png)
 
 The 3D composite for ♐AZO is visually similar to the one for
-♐[NEO](NEO "wikilink"), looking like a "keyboard" that is nearly flat in the third dimension.
+♐[NEO](NEO), looking like a "keyboard" that is nearly flat in the third dimension.
 
 Animation of 3D composites ♐AZO 0 to 2 by Discord user Extra:
 ![Azo\_0-2\_3-d\_composite\_animation.gif](Azo_0-2_3-d_composite_animation.gif)

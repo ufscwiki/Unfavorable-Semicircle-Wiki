@@ -1,9 +1,9 @@
 # GEN
 
-♐GEN is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") on October 14, 2018. It was
-posted 58 days (or 1 month and 27 days) after ♐[CFO](CFO "wikilink"). It
+♐GEN is a video posted to the [3rd youtube channel](3rd_youtube_channel) on October 14, 2018. It was
+posted 58 days (or 1 month and 27 days) after ♐[CFO](CFO). It
 is 38:07 in length and consists of a series of colored frames with
-smoother transitions than usual. The ♐[ROOT](ROOT "wikilink") series
+smoother transitions than usual. The ♐[ROOT](ROOT) series
 would follow on December 31st, 2018.
 
 ## Audio
@@ -18,7 +18,7 @@ Composite by Discord user Markio:
 
 The composite had blue "islands" over a magenta background. It has been
 noted by Discord user unfavorablist that the image under that looks like
-a slice of the "hair/grass" filaments in the ♐[RUN](RUN "wikilink")
+a slice of the "hair/grass" filaments in the ♐[RUN](RUN)
 composite.
 
 The hairs are most visible in the red channel of the image (as

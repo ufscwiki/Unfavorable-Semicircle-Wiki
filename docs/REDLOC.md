@@ -1,8 +1,8 @@
 # REDLOC
-♐REDLOC is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on March 18, 2016, after a
+♐REDLOC is a video posted to the [second YouTube account](Real_and_Fake_channels) on March 18, 2016, after a
 break of more than a week on youtube. (It was, however, posted three
-days after the [second G+ post](Google_Plus#G.2B_post_2 "wikilink") and
-around the same time as the ♐[LEE](LEE "wikilink") series began on
+days after the [second G+ post](Google_Plus#G.2B_post_2) and
+around the same time as the ♐[LEE](LEE) series began on
 Twitter).
 
 ## The "Announcement"
@@ -19,18 +19,18 @@ the same user (or users) was in control of both accounts.
 ## Description of video
 The video is 4:32 in duration. It contains a mono audio track of
 heavily-distorted "calliope"/ragtime music. Although the file is named
-REDLOC, the [Unknown Voice](Unknown_Voice "wikilink") spells out
+REDLOC, the [Unknown Voice](Unknown_Voice) spells out
 "R-E-D-L-O-C-K" (with a "K") near the start of the video.
 
 ## Meaning of name
-Besides conceptually relating to ♐[LOCK](LOCK "wikilink"),
-♐[DELOCK](DELOCK "wikilink") and ♐[RELOCK](RELOCK "wikilink"), it has
+Besides conceptually relating to ♐[LOCK](LOCK),
+♐[DELOCK](DELOCK) and ♐[RELOCK](RELOCK), it has
 been noted that REDLOC is "colder" spelled backwards.
 
 ## Composite
 Instead of a conventional composite, this composite is a long exposure
-which shows all non-black pixels at once.  
-  
+which shows all non-black pixels at once.
+
 ![REDLOC\_composite.png](REDLOC_composite.png "REDLOC_composite.png")
 
 3D composite by Lukidot:
@@ -41,7 +41,7 @@ which shows all non-black pixels at once.
 In November 2024: Discord user `FFW` [cleared the music](REDLOC_homesick.mp4) in REDLOC's audio and the segment was then identified as Homesick (at the 0:47 mark). This is the same song present in [DELOCK](DELOCK) and mentioned in multiple UFSC social media communications.
 
 ## Links
-* [Recursive composites](recursive_composites "wikilink").
+* [Recursive composites](recursive_composites).
 * https://youtu.be/xkceG6U2Q60
 * [Original Link](https://youtu.be/xYmtkMeqjxkA).
 * Contemporaneous Reddit threads

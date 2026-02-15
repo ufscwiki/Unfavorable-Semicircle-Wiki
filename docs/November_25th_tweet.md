@@ -2,7 +2,7 @@
 
 This was
 [posted](https://twitter.com/unfavorablesemi/status/934524815863701504)
-to the @unfavorablesemi [Twitter](Twitter "wikilink") account at 3:50 PM
+to the @unfavorablesemi [Twitter](Twitter) account at 3:50 PM
 EST, November 25, 2017:
 
 ![\_Screencap\_of\_first\_tweet.png](_Screencap_of_first_tweet.png)
@@ -12,7 +12,7 @@ The text content of this tweet is: AnXbE+\>6N"DfSH(1&
 ## Background and timeline
 
   - The creator(s) of UFSC deleted the @unfavorablesemi account on
-    September 15, 2017, shortly after posting ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink") to youtube.
+    September 15, 2017, shortly after posting ♐[RESET STRANGE YD](RESET_STRANGE_YD) to youtube.
   - in "November 2017" a twitter account with this handle was
     reactivated. It is undetermined if if was reactivated by the same
     user(s) as before, or is someone else had simply "claimed" the
@@ -24,9 +24,9 @@ The text content of this tweet is: AnXbE+\>6N"DfSH(1&
     this tweet on December 6th.
   - Discord user tukkek posted the link to the reddit thread on December
     6th at 1:59 PM EST.
-  - the twitter account started posting the ♐[FMI](FMI "wikilink")
+  - the twitter account started posting the ♐[FMI](FMI)
     series at 5:58 PM EST on December 6th, completing the 16 uploads at
-    6:02 PM EST. (♐[DDR DONE](DDR_DONE "wikilink") was posted a couple
+    6:02 PM EST. (♐[DDR DONE](DDR_DONE) was posted a couple
     minutes later, at 6:04 PM EST)
 
 ### Conjecture around timeline
@@ -41,4 +41,3 @@ content?
 The meaning of this tweet is currently unclear. It is surmised that it
 might be [base85](https://en.wikipedia.org/wiki/Ascii85) text, or
 encoded by a Caesar shift (a method used in the past by UFSC).
-

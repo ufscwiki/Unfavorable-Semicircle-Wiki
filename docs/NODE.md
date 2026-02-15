@@ -1,14 +1,14 @@
 # NODE
 
-♐NODE is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on January 22, 2018. It
+♐NODE is a video posted to the [3rd youtube channel](3rd_youtube_channel) account on January 22, 2018. It
 is 2:19:20 long and contains a series of moving images. It was posted 18
-days after ♐[RUN](RUN "wikilink"). ♐[SERN](SERN "wikilink") would be
+days after ♐[RUN](RUN). ♐[SERN](SERN) would be
 posted four days later.
 
 ## Audio
 The audio track is mostly silent, except for 5 sound-bursts:
 
-  - a "subway brake squeal" (similar to ♐[LIMIT](LIMIT "wikilink")) at
+  - a "subway brake squeal" (similar to ♐[LIMIT](LIMIT)) at
     8:04
   - a similar sound to the first at 20:40
   - a high-pitched (pitch-shifted?) noise that could be a modified
@@ -81,7 +81,7 @@ As with other recent composites, there are a series of black/white dots in the t
 This has been the subject of further research, see "morse code"
 section below.
 
-Similar to ♐[HARVEST](HARVEST "wikilink"), there is a "flag"/striped banner image in the top left corner of the image.
+Similar to ♐[HARVEST](HARVEST), there is a "flag"/striped banner image in the top left corner of the image.
 
 "Flag" from ♐NODE on the left, "flag" (AXA "the lasagne") from ♐HARVEST on the right:
 ![Node\_+\_harvest\_flags.png](Node_+_harvest_flags.png)
@@ -121,4 +121,4 @@ left of the composite. Their method and conclusions:
 
 # Links
 * https://youtu.be/CCPFWvziyCc.
-* NKC1982's observations for ♐[RUN](RUN "wikilink").
+* NKC1982's observations for ♐[RUN](RUN).

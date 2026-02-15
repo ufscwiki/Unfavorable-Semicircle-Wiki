@@ -1,55 +1,55 @@
 # List of Series
 
-***(See also the list of [videos without series](List_of_videos_without_series "wikilink").)***
+***(See also the list of [videos without series](List_of_videos_without_series).)***
 
 ## 1st youtube account
 
-  - [original unnamed series](Original_unnamed_series "wikilink")
-  - ♐[BRILL](BRILL "wikilink")
-  - [OR](OR "wikilink")
+  - [original unnamed series](Original_unnamed_series)
+  - ♐[BRILL](BRILL)
+  - [OR](OR)
 
 ## 2nd youtube account
 
-  - ♐[BRINE](BRINE "wikilink")
-  - ♐[FEND](FEND "wikilink")
-  - ♐[FOND](FOND "wikilink")
-  - [New unnamed series](Numbered_videos_(2nd_channel) "wikilink")
-  - ♐[BROTHER](BROTHER "wikilink")
-  - ♐[SLIM](SLIM "wikilink")
-  - ♐[LOCUS](LOCUS "wikilink")
-  - ♐[CLEAN](CLEAN "wikilink")
-  - ♐[BREADTH](BREADTH "wikilink")
-  - ♐[MOTH](MOTH "wikilink")
-  - ♐[DUAL](DUAL "wikilink")
-  - ♐[BROAD](BROAD "wikilink")
+  - ♐[BRINE](BRINE)
+  - ♐[FEND](FEND)
+  - ♐[FOND](FOND)
+  - [New unnamed series](Numbered_videos_(2nd_channel))
+  - ♐[BROTHER](BROTHER)
+  - ♐[SLIM](SLIM)
+  - ♐[LOCUS](LOCUS)
+  - ♐[CLEAN](CLEAN)
+  - ♐[BREADTH](BREADTH)
+  - ♐[MOTH](MOTH)
+  - ♐[DUAL](DUAL)
+  - ♐[BROAD](BROAD)
 
-## [3rd youtube account](Un-REAL_UFSC "wikilink")
+## [3rd youtube account](Un-REAL_UFSC)
 
-  - ♐[AZO](AZO "wikilink")
+  - ♐[AZO](AZO)
 
 *Note that videos from this channel are considered "non-canonical"*
 
-## [Twitter](Twitter "wikilink") account
+## [Twitter](Twitter) account
 
 *in chronological order*
 
-  - ♐[EL](EL "wikilink")
-  - ♐[RIA](RIA "wikilink")
-  - ♐[LEE](LEE "wikilink")
-  - ♐[CAB](CAB "wikilink")
-  - ♐[MUL](MUL "wikilink")
-  - [April 10 twitter series](April_10_twitter_series "wikilink")
-  - ♐[NIL](NIL "wikilink")
-  - ♐[DEPTH](DEPTH "wikilink")
-  - ♐[POINT](POINT "wikilink")
+  - ♐[EL](EL)
+  - ♐[RIA](RIA)
+  - ♐[LEE](LEE)
+  - ♐[CAB](CAB)
+  - ♐[MUL](MUL)
+  - [April 10 twitter series](April_10_twitter_series)
+  - ♐[NIL](NIL)
+  - ♐[DEPTH](DEPTH)
+  - ♐[POINT](POINT)
 
-After ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink"):
+After ♐[RESET STRANGE YD](RESET_STRANGE_YD):
 
-  - ♐[FMI](FMI "wikilink")
-  - ♐[SECOND](SECOND "wikilink")
-  - ♐[STRAND](STRAND "wikilink")
+  - ♐[FMI](FMI)
+  - ♐[SECOND](SECOND)
+  - ♐[STRAND](STRAND)
 
-## [Stabilitory newing](Stabilitory_newing "wikilink")
+## [Stabilitory newing](Stabilitory_newing)
 
-  - ⊕[BROTHER](BROTHER "wikilink")
-  - ⊕[BELT](BELT "wikilink")
+  - ⊕[BROTHER](BROTHER)
+  - ⊕[BELT](BELT)

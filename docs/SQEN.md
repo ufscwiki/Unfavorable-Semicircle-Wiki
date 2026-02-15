@@ -1,7 +1,7 @@
 # ♐SQEN
 
 
-♐SQEN is a video that was posted to the second youtube account on May 3, 2016. Unusually, it was deleted shortly thereafter and replaced by the similar ♐[RESQEN](RESQEN "wikilink").
+♐SQEN is a video that was posted to the second youtube account on May 3, 2016. Unusually, it was deleted shortly thereafter and replaced by the similar ♐[RESQEN](RESQEN).
 
 Screenshot:
 
@@ -13,7 +13,7 @@ The video is 0:53 in duration. It has a still image of grey and white pixels aga
 
 ## Audio & analysis
 
-The third [tweet from June 2022](June_2022_twitter_posts "wikilink") included [a youtube link](https://youtu.be/68C1Gc4De7c) to the song "The Most Beautiful Day" by Professor Kliq. The lyrics of the song describe UFOs arriving on Earth. Discord user ShadowMorphyn posted that "that song they posted is definitely the sound for ♐[SQEN](SQEN "wikilink")".
+The third [tweet from June 2022](June_2022_twitter_posts) included [a youtube link](https://youtu.be/68C1Gc4De7c) to the song "The Most Beautiful Day" by Professor Kliq. The lyrics of the song describe UFOs arriving on Earth. Discord user ShadowMorphyn posted that "that song they posted is definitely the sound for ♐[SQEN](SQEN)".
 
 ## Significance of name and relationship to other videos
 

@@ -1,21 +1,21 @@
 # DUAL
 
 ♐DUAL is series uploaded to the second YouTube account. ♐DUAL 0 was
-posted on March 19, 2017 (the day after ♐[GOLDEN](GOLDEN "wikilink") was
+posted on March 19, 2017 (the day after ♐[GOLDEN](GOLDEN) was
 posted). There are 10 videos in the series (♐DUAL 0 to ♐DUAL 9). ♐DUAL 9
-was posted on March 24th, five days before ♐[HULL](HULL "wikilink") was
+was posted on March 24th, five days before ♐[HULL](HULL) was
 posted.
 
-This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+This video or series has a composite with an "interesting" [video scope](Video_scopes).
 
 ## Description of videos
 Regular ♐DUAL videos are 1:06:40 (4,000 seconds) in length and contains
 a series of rapidly-flashing frames.
 
 ## Audio
-The audio is a dual mono track of a whirring machine sound (with [DC offset](DC_offset "wikilink")) in bursts lasting approximately 2 minutes
+The audio is a dual mono track of a whirring machine sound (with [DC offset](DC_offset)) in bursts lasting approximately 2 minutes
 48 seconds. The pattern changes at the end. The
-[Handshake](Handshake "wikilink") can be heard at the start and end of
+[Handshake](Handshake) can be heard at the start and end of
 the audio.
 
 Discord user Risto notes:
@@ -43,7 +43,7 @@ View 2:
 [![Dual 0-9 - 3-d composite - view 2.png](Dual_0-9_-_3-d_composite_-_view_2.png)](Dual_0-9_-_3-d_composite_-_view_2.full.png)
 
 The 3-D composite makes a roughly half-spherical shape, somewhat similar
-to that of ♐[POINT](POINT "wikilink")'s 3-D composite. This (and other)
+to that of ♐[POINT](POINT)'s 3-D composite. This (and other)
 3-D composites are viewable
 [here](https://lorpus.github.io/sketches/ufsc3d/).
 

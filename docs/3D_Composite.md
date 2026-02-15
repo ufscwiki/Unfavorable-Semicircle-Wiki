@@ -1,7 +1,7 @@
 # 3D composite
-A 3D composite is created by plotting the colors of each pixel in a [composite image](Video_Composites "wikilink") on a 3D graph, mapping RGB values to XYZ positions.
+A 3D composite is created by plotting the colors of each pixel in a [composite image](Video_Composites) on a 3D graph, mapping RGB values to XYZ positions.
 
-Many of the video composites produce shapes in 3D. For example, [BREADTH](BREADTH "wikilink") is an atom-like shape with nested spheres of increasingly higher density, surrounded by 3 rings. And [JALVINSACH](JALVINSACH "wikilink") has the outline of some cubes.
+Many of the video composites produce shapes in 3D. For example, [BREADTH](BREADTH) is an atom-like shape with nested spheres of increasingly higher density, surrounded by 3 rings. And [JALVINSACH](JALVINSACH) has the outline of some cubes.
 
 ![Breadthmodels.gif](Breadthmodels.gif)
 

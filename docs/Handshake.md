@@ -20,17 +20,17 @@ program, such as a signal to begin or stop audio recording.
 
 ## Appearances
 
-  - [574016](574016 "wikilink") (At audio start)
-  - [DEPTH](DEPTH "wikilink")
-  - [MOTH](MOTH "wikilink") (At audio start, all videos)
-  - [NIL](NIL "wikilink") *(example?)*
-  - [RAPID](RAPID "wikilink")
-  - [UPRIGHT](UPRIGHT "wikilink")
-  - [LONE](LONE "wikilink")
-  - [ZUFCHO](ZUFCHO "wikilink") (First appearance?)
-  - [DUAL](DUAL "wikilink")
-  - [FOLD](FOLD "wikilink")
-  - [DDR\_DONE](DDR_DONE "wikilink") (At audio start; clearest sample;
+  - [574016](574016) (At audio start)
+  - [DEPTH](DEPTH)
+  - [MOTH](MOTH) (At audio start, all videos)
+  - [NIL](NIL) *(example?)*
+  - [RAPID](RAPID)
+  - [UPRIGHT](UPRIGHT)
+  - [LONE](LONE)
+  - [ZUFCHO](ZUFCHO) (First appearance?)
+  - [DUAL](DUAL)
+  - [FOLD](FOLD)
+  - [DDR\_DONE](DDR_DONE) (At audio start; clearest sample;
     contains possible counterpart)
   - [CAB](CAB)
 
@@ -45,7 +45,7 @@ sort of reverb feedback. It may also be important to notice that the
 Handshake appears in its normal form at the beginning of this video's
 audio.
 
-During the last second of [DDR\_DONE](DDR_DONE "wikilink"), uploaded to
+During the last second of [DDR\_DONE](DDR_DONE), uploaded to
 Twitter, a second bass noise can be heard. This occurrence features a
 descending tone unlike the Handshakes found in many other videos. It is
 possible that the entire length of the sound was clipped due to the
@@ -56,7 +56,7 @@ having a rising frequency similar to that of the traditional Handshake.
 ## The "Handshake Symbol"
 
 *Please note that this section includes analysis of materials from
-[Un-REAL\_UFSC](Un-REAL_UFSC "wikilink").*
+[Un-REAL\_UFSC](Un-REAL_UFSC).*
 
 Discord user alexbassguy discovered "what appears to be a symbol in the
 middle" of the handshake when the sound is viewed in a waterfall
@@ -130,7 +130,7 @@ in the handshake. Add a line and it's a bow.
 ## DC offset
 
 It has been observed by Discord user Risto that in at least one case
-that the handshake doesn't have a [DC offset](DC_offset "wikilink") when
+that the handshake doesn't have a [DC offset](DC_offset) when
 the rest of the audio does:
 
 ![Dual\_no\_dc\_offset\_in\_handshake.png](Dual_no_dc_offset_in_handshake.png)

@@ -6,7 +6,7 @@ bear striking similarity to UFSC's own works.
 
 The fact that Max is also an extendable programming language could have
 been used to further introduce
-[composites](Composite_visual_overview "wikilink") into the resulting
+[composites](Composite_visual_overview) into the resulting
 videos if, indeed, this (or a similar technology) is what UFSC uses to
 create them.
 
@@ -20,5 +20,4 @@ create them.
 
 ## See also
 
-  - ♐[MAX TEND](MAX_TEND "wikilink")
-
+  - ♐[MAX TEND](MAX_TEND)

@@ -1,10 +1,10 @@
 # CULLET
 
-♐♐CULLET was a video posted to the "[OT](OT "wikilink")" youtube channel
+♐♐CULLET was a video posted to the "[OT](OT)" youtube channel
 on or around June 19, 2017. Because that channel was generally
-considered to be a tribute or copycat channel before the [fourth G+ post](Google_Plus#G.2B_post_4 "wikilink"), it did not receive as much
+considered to be a tribute or copycat channel before the [fourth G+ post](Google_Plus#G.2B_post_4), it did not receive as much
 analysis on its release. It is one of two unique videos posted to that
-account, the other being ♐♐[LOYAL](LOYAL "wikilink").
+account, the other being ♐♐[LOYAL](LOYAL).
 
 ## Description of video
 ♐♐CULLET is 4:49:36 in length with a series of flashing frames. It has a low humming; mechanical audio track.

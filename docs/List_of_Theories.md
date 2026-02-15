@@ -11,7 +11,7 @@ distributing such a large number of videos might be the "point" of the
 project — or they could each be pieces of a massively complicated
 puzzle.
 
-Also remember that we tend to "view" such a complicated thing through the lens of our own experiences and technical vocabularies, but [that may also steer us away from seeing the bigger whole](elephant "wikilink").
+Also remember that we tend to "view" such a complicated thing through the lens of our own experiences and technical vocabularies, but [that may also steer us away from seeing the bigger whole](elephant).
 
 ![UFSC_theory_matrix.jpg](UFSC_theory_matrix.jpg)
 
@@ -30,7 +30,7 @@ for example, the works of [Henry Darger](https://en.wikipedia.org/wiki/Henry_Dar
 [Toynbee tiles](https://en.wikipedia.org/wiki/Toynbee_tiles).)
 
 UFSC's videos have a remarkable similarity to
-[Max](Max "wikilink")-based works.
+[Max](Max)-based works.
 
 ### Steganography
 
@@ -38,7 +38,7 @@ Steganography is the act of hiding information in plain sight, more or
 less "Security through obscurity". What good is knowing how to crack any
 conceivable code if you don't know the code exists in the first place?
 
-A feasible example of Steganography would be [hiding images within other images](Composite_visual_overview "wikilink") using "least significant
+A feasible example of Steganography would be [hiding images within other images](Composite_visual_overview) using "least significant
 bit" encoding. The LSB of each color is changed slightly, the changes
 are not perceivable, but are only revealed when an original and almost
 identical image is XORed with the modified image.
@@ -49,7 +49,7 @@ Due to the "eerie factor" alone the similarity with [number stations](https://en
 brought up many times, which is another phenomena that was found and
 studied for decades before eventually surfacing as a method of secure
 long-distance communication. The fact that UFSC uses public platforms
-such as [YouTube](YouTube "wikilink") and [Twitter](Twitter "wikilink")
+such as [YouTube](YouTube) and [Twitter](Twitter)
 and that the would-be-messages are nonsensical to anyone simply
 stumbling upon it by chance make it virtually the same as a bona-fide
 number station.
@@ -62,13 +62,13 @@ content-delivery networks as a way of being immediately accessible 24/7
 anywhere in the world that is connected to the Internet (so pretty much
 any civilized location anywhere in the globe).
 
-Some videos also feature a [handshake](Handshake "wikilink") and actual
+Some videos also feature a [handshake](Handshake) and actual
 numbers being spoken - both obvious features from traditional number
 stations.
 
 ### Hacking
 
-***Main article: [Hacking](hacking "wikilink").***
+***Main article: [Hacking](hacking).***
 
 [Adapted from wikipedia](https://en.wikipedia.org/wiki/Security_hacker):
 
@@ -79,7 +79,7 @@ stations.
 There have been some cryptic recruitment puzzles happening in the modern
 web so it's only natural that this comparison would be made -
 [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301) being the most
-notorious example. The apparent technical complexity and [cryptographic elements](Composite_visual_overview "wikilink") of UFSC only further
+notorious example. The apparent technical complexity and [cryptographic elements](Composite_visual_overview) of UFSC only further
 such comparisons.
 
 ### ARG
@@ -90,7 +90,7 @@ Unfavorable Semicircle may be an [alternate reality game](https://en.wikipedia.o
 
 [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM) is
 a recurrent neural network (RNN) architecture. Some analysis on its
-possible relationship to UFSC can be found [here](LSTM_Theory "wikilink").
+possible relationship to UFSC can be found [here](LSTM_Theory).
 
 ### Work of a disturbed mind
 
@@ -132,7 +132,7 @@ referencing Unfavorable Semicircle or its experimental purpose.
 
 ### Connection with the digital card-game Hearthstone
 
-A partial print of [Hearthstone](Hearthstone "wikilink") icon was found in one of [♐LOCK](LOCK "wikilink")'s [audio composites](audio_composites "wikilink"). This has lead to the investigation of further connections between the game and UFSC's body-of-work.
+A partial print of [Hearthstone](Hearthstone) icon was found in one of [♐LOCK](LOCK)'s [audio composites](audio_composites). This has lead to the investigation of further connections between the game and UFSC's body-of-work.
 
 Whether these connections are meaningful or not - or even if the inclusion of the icon was intentional (as opposed to being a by-product of the video-making process) remains unknown.
 
@@ -152,13 +152,13 @@ Whether these connections are meaningful or not - or even if the inclusion of th
 ### UFSC is a test by or affiliated with google, much like Webdriver Torso
 
   - The first YouTube channel was banned on February 2016 due to multiple terms of service violations.
-  - Unfavorable Semicircle also created a [Twitter](Twitter "wikilink") account, so we know that it isn't YouTube-specific.
+  - Unfavorable Semicircle also created a [Twitter](Twitter) account, so we know that it isn't YouTube-specific.
 
 ### UFSC is a script run amok
 
   - Not likely due to the human behaviors it is exhibiting, and
     deliberately hidden messages like
-    [composites](Video_Composites "wikilink").
+    [composites](Video_Composites).
   - UFSC was able to create new accounts, has new content, and switch
     platforms. They have also deliberately tried to lead people to their
     other channels and platforms.

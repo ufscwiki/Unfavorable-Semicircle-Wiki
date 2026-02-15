@@ -1,19 +1,19 @@
 # April 10 Twitter Series
 
-A series of unnamed videos was uploaded to the [Twitter](Twitter "wikilink") account on April
+A series of unnamed videos was uploaded to the [Twitter](Twitter) account on April
 10, 2016. There are 932 videos, each with a non-contiguous five or six
 digit number as its title.
 
 The videos in this series similar to the "classic" UFSC style, with
-three second long videos that have the [Unknown Voice](Unknown_Voice "wikilink") saying a letter or number. However, the
+three second long videos that have the [Unknown Voice](Unknown_Voice) saying a letter or number. However, the
 visual is a solid color frame with no floating pixels. Unusually, all of
 these videos are exactly the same length (3134 ms long). In that
-respect, the videos are similar to those in the ♐[NIL](NIL "wikilink")
+respect, the videos are similar to those in the ♐[NIL](NIL)
 series, which began shortly after these ended.
 
 The videos of this series have been archived.
 
-This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+This video or series has a composite with an "interesting" [video scope](Video_scopes).
 
 ## Composites
 
@@ -21,8 +21,8 @@ This short series appears to be the first whose composite creates a
 color gradient, which would subsequently be used for videos that create
 3-D composites. It is possible that this series is a proof-of-concept or
 test for an idea that would be further explored in
-♐[FEND](FEND "wikilink") and ♐[FOND](FOND "wikilink") before being
-fully developed in ♐[BREADTH](BREADTH "wikilink").
+♐[FEND](FEND) and ♐[FOND](FOND) before being
+fully developed in ♐[BREADTH](BREADTH).
 
 ### 2-D Composite
 

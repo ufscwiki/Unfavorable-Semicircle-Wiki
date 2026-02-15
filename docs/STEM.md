@@ -1,7 +1,7 @@
 # STEM
 ♐STEM is a video posted to the second youtube account on December 7,
 2016. It was posted a day after the second (and last) video in the
-♐[BREADTH](BREADTH "wikilink") series.
+♐[BREADTH](BREADTH) series.
 
 ## Description of video
 The video is 9:15:33 seconds in length. The visuals contain a series of

@@ -15,9 +15,9 @@ November tweets*)
 ## Description of videos
 
 The videos in this series are two seconds long, with rapidly-changing
-frames of a single color and the [Unknown Voice](Unknown_Voice "wikilink") making a series of sounds that are not
+frames of a single color and the [Unknown Voice](Unknown_Voice) making a series of sounds that are not
 the customary letters and numbers. Pieces of the
-[Handshake](Handshake "wikilink") appear occasionally
+[Handshake](Handshake) appear occasionally
 ([example](https://twitter.com/unfavorablesemi/status/743637589274464261))
 
 This series is well-preserved, and all of the videos have been scraped.
@@ -41,10 +41,10 @@ Flipped composite:
 
 ![Depth\_3d.png](Depth_3d.png "Depth_3d.png")
 
-## Relationship with ♐[HARVEST](HARVEST "wikilink")
+## Relationship with ♐[HARVEST](HARVEST)
 
 The image in the DEPTH composite is visually similar to the top half of
-the ♐[HARVEST](HARVEST "wikilink") composite image. So far, no systemic
+the ♐[HARVEST](HARVEST) composite image. So far, no systemic
 investigation has been made to determine whether they are exactly
 similar. Likewise, it is otherwise unclear why or how the two series are
 related.
@@ -57,7 +57,7 @@ related.
 
 The ♐DEPTH videos contains sounds that seem to be audio from other
 videos chopped into smaller slices. (It has been theorized that includes
-the audio from ♐[CREM](CREM "wikilink") and ♐[ZUFCHO](ZUFCHO "wikilink")
+the audio from ♐[CREM](CREM) and ♐[ZUFCHO](ZUFCHO)
 amongst others.)
 
 [Initial analysis](https://www.reddit.com/r/UnfavorableSemicircle/comments/4qpi6n/depth_videos_combined_interesting_audio/)
@@ -73,4 +73,3 @@ An (incomplete) archive of the ♐DEPTH audio can be found here:
 
 Advanced twitter search of ♐DEPTH series:
 <https://twitter.com/search?q=%E2%99%90DEPTH%20from%3Aunfavorablesemi&src=typd>
-

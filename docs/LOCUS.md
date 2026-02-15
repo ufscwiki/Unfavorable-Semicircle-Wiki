@@ -2,20 +2,20 @@
 ## Overview
 ♐LOCUS is a series of videos uploaded to the second YouTube account.
 ♐LOCUS 0 was posted on October 16, 2016 (approximately three hours
-after ♐[BROTHER](BROTHER "wikilink") 22). There are sixteen videos in
+after ♐[BROTHER](BROTHER) 22). There are sixteen videos in
 the series, and posting ended with ♐LOCUS 15 on November 24th (the day
-before ♐[CRIMP](CRIMP "wikilink") was posted). Unusually, the first
+before ♐[CRIMP](CRIMP) was posted). Unusually, the first
 seven videos were posted concurrently on youtube with the end of the
-♐[BROTHER](BROTHER "wikilink") series.
+♐[BROTHER](BROTHER) series.
 
-This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+This video or series has a composite with an "interesting" [video scope](Video_scopes).
 
 ## Description of videos
 ♐LOCUS videos are 7:16:46 in length. They contains a series of
 rapidly-flashing colored frames. ♐LOCUS 0 contains a mono audio track of
 a rumbling "rock tumbler" sound. Discord users Unfavorablist and hellajt
 observed that if the speed is increased to the length of other videos
-like [FOND](FOND "wikilink") or [MAX TEND](MAX_TEND "wikilink"), it had
+like [FOND](FOND) or [MAX TEND](MAX_TEND), it had
 a familiar "data transmission" sound. (*further examination is required
 regarding similarity of audio for videos within the series*)
 
@@ -45,7 +45,7 @@ The nature of the pattern (or [patternicity](https://en.wikipedia.org/wiki/Apoph
 Tomas' full composite of the series (*large file!*) is [here](http://tomasf.se/projects/semi/LOCUS_composite.png).
 
 ## 3D composites
-Creating a [3D\_composite](3D_Composite "wikilink") from the LOCUS videos reveals a clearly defined shape.
+Creating a [3D\_composite](3D_Composite) from the LOCUS videos reveals a clearly defined shape.
 
 ![locus-3d.png](locus-3d.png)
 
@@ -57,14 +57,14 @@ Vantjac also has a composite [here](http://vanjac.github.io/sketches/ufsc3d/).
 
 ## Audio
 > ben's fractals: I noticed that when you speed up the audio in the LOCUS series by a lot (around 20 times) it turns out that it's actually a really low-passed static
-> 
+>
 > It does sound like it has something encoded in it though
 
 https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/tree/master/docs/locus0speedup20.wav
 
 > The same audio is also present on [ROOT](ROOT)
 >
-> Very similar to [BRINE](BRINE)'s audio (same garbled noise that vaguely resembles a sort of transmission) 
+> Very similar to [BRINE](BRINE)'s audio (same garbled noise that vaguely resembles a sort of transmission)
 >
 > Also you can isolate the voice in it since the static is completely mono but panned by ~40% to the left
 >

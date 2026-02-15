@@ -1,7 +1,7 @@
 # BRINE
 ## Overview
-♐BRINE is a [series](List_of_Series "wikilink") of sixteen videos that
-was uploaded to the [second YouTube account](Real_and_Fake_channels "wikilink") between May 15 and May 23,
+♐BRINE is a [series](List_of_Series) of sixteen videos that
+was uploaded to the [second YouTube account](Real_and_Fake_channels) between May 15 and May 23,
 2016.
 
 The videos all have a duration of 3:01 and a series of rapidly-flashing
@@ -22,15 +22,15 @@ All, http://tomasf.se/projects/semi/BRINE_composite_adjusted.png.
 Alternate width of 540.5:
 ![BRINE\_composite\_width\_540\_5.png](BRINE_composite_width_540_5.png)
 
-BRINE is part of the [BRILL Composite](BRILL_Composite "wikilink") group.
+BRINE is part of the [BRILL Composite](BRILL_Composite) group.
 
 3D composite by Lukidot:
 [![BRINE_3d.png](BRINE_3d.png)](BRINE_3d.full.png)
 
 ## Meaning of name
-"Brine" is one of several nautical-themed UFSC titles. (*See also ♐[HULL](HULL "wikilink") and ♐[PORT](PORT "wikilink").*)
+"Brine" is one of several nautical-themed UFSC titles. (*See also ♐[HULL](HULL) and ♐[PORT](PORT).*)
 
-Deep ocean fish (such as ♐[BRILL](BRILL "wikilink")) live in brine.
+Deep ocean fish (such as ♐[BRILL](BRILL)) live in brine.
 
 ## Playback errors
 Out of all the videos on Unfavorable Semicircle, this series seems to
@@ -39,7 +39,7 @@ devices.
 
 ## Audio
 > ben's fractals: Asked a person who knows a lot more about radio stuff than i do and he said this about brine's audio:
-> 
+>
 > "I feel like the file is FM like its a recording of something using FM mode"
 >
 > "definetly some kind of phase shift keying"
@@ -62,4 +62,4 @@ devices.
 * BRINE 14, https://www.youtube.com/watch?v=U0pb1JXuftk.
 * BRINE 15, https://www.youtube.com/watch?v=QwgQQwZwipk.
 
-All links are now defunct due to the [strange reset](RESET_STRANGE_YD "wikilink").
+All links are now defunct due to the [strange reset](RESET_STRANGE_YD).

@@ -124,13 +124,13 @@
 </tbody>
 </table>
 
-**See also the list of links to various [archives](archives "wikilink").**
+**See also the list of links to various [archives](archives).**
 
-## [Un-REAL UFSC](Un-REAL_UFSC "wikilink")
+## [Un-REAL UFSC](Un-REAL_UFSC)
 
 | Name                   | Service | Notes                                                                                                                                                                                                                      | Link                                                       |
 | ---------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| unfavorable semicircle | YouTube | Generally referred to as the "3rd youtube channel‎" until the [fourth G+ post](Google_Plus#G.2B_post_4 "wikilink"). It was found by decoding a [cryptic tweet](NYE_tweet‎‎ "wikilink") in the reactivated twitter account. | <https://www.youtube.com/channel/UCsgRTRJNy05MuB7g2X5ueqg> |
+| unfavorable semicircle | YouTube | Generally referred to as the "3rd youtube channel‎" until the [fourth G+ post](Google_Plus#G.2B_post_4). It was found by decoding a [cryptic tweet](NYE_tweet‎‎) in the reactivated twitter account. | <https://www.youtube.com/channel/UCsgRTRJNy05MuB7g2X5ueqg> |
 
 ## Fake Channels
 

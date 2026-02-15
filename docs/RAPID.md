@@ -11,14 +11,14 @@ sounds throughout.
 
 ## Audio analysis
 The audio is a mono track with heavily-distorted spoken words. It is
-difficult to confirm if it is the [Unknown Voice](Unknown_Voice "wikilink") or not.
+difficult to confirm if it is the [Unknown Voice](Unknown_Voice) or not.
 
 Discord user ErasablePotato has observed the words sound like the [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet), as used
 in
 [HFGCS](https://en.wikipedia.org/wiki/High_Frequency_Global_Communications_System)
 messages. (*[sample](https://www.youtube.com/watch?v=Xi6d7F0Z3I0)*)
 
-The audio has a distorted [Handshake](Handshake "wikilink") at the start
+The audio has a distorted [Handshake](Handshake) at the start
 and at the end. Discord user Risto has observed that that creates one
 half of the "Pisces symbol" in the initial Handshake, and the other half
 at the end:

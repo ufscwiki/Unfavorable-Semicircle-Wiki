@@ -1,13 +1,13 @@
 # LOCK
 ## Overview
-♐LOCK is a video posted to the original UFSC YouTube channel on July 18, 2015. Analysis of the video lead to the creation of the first [composite image](Composite_visual_overview "wikilink").
+♐LOCK is a video posted to the original UFSC YouTube channel on July 18, 2015. Analysis of the video lead to the creation of the first [composite image](Composite_visual_overview).
 
 ## Description of video
 ♐LOCK is mostly black with colors occasionally flashing and revealing a
 single black pixel within each frame.
 
 ## Audio
-At the start of the video, the [Unknown Voice](Unknown_Voice "wikilink")
+At the start of the video, the [Unknown Voice](Unknown_Voice)
 spells out the word "LOCK". The audio is in stereo with many strange
 sounds, heard separately in the left and right channels.
 
@@ -17,16 +17,16 @@ opposed to 44.1K)
 ### Morse code
 On January 2022, Discord user `Princeton King` has made the following claim:
 
-> Guys the audio in lock its reads fear in Morse code 
-> 
+> Guys the audio in lock its reads fear in Morse code
+>
 > `••-• • •- •-•`
-> 
+>
 > play the video at 0.25x
-> 
+>
 > Then you can see the flashes and hear the sound how they line up It's easier to  line them up
 
 ### Direct-current offset
-> Dom: It seems like the DC offset of LOCK's left channel is correlated with the amplitude of the signal. Here's a few snippets from the section with [the hearthstone composite](Hearthstone "wikilink"):
+> Dom: It seems like the DC offset of LOCK's left channel is correlated with the amplitude of the signal. Here's a few snippets from the section with [the hearthstone composite](Hearthstone):
 
 ![LOCK_offset1.png](LOCK_offset1.png "LOCK_offset1.png")
 
@@ -67,7 +67,7 @@ In January 2025, user Fufeng Industries says:
 > Fufeng Industries LLC: Yes, very much. It sounds exactly like the videos in [the original numbered series](Original_unnamed_series), and when slowed to 0.013 of the original speed it sounds like LOCK (repeating "wump, wump, wump" noises).
 
 ## Significance
-- Along with [♐DELOCK](DELOCK "wikilink"), due to its name it has long
+- Along with [♐DELOCK](DELOCK), due to its name it has long
   been suspected that this video is of special significance in
   deciphering any concealed messages that other videos might contain.
 
@@ -81,7 +81,7 @@ Alternative ♐LOCK composite with width of 197.36 pixels that does not need to 
 
 ![LOCK\_composite197.png](LOCK_composite197.png)
 
-Version [posted to Twitter](June_2022_twitter_posts "wikilink") by @unfavorablesem_:
+Version [posted to Twitter](June_2022_twitter_posts) by @unfavorablesem_:
 
 ![@unfavorablesem version posted to twitter](june_22_LOCK_version.png)
 
@@ -136,8 +136,8 @@ various things. Possibilities mentioned by users include:
 - speaker feedback sounds
 
 ## Links
-- [Max](Max "wikilink") (software)
-- [♐CRIMP](CRIMP "wikilink") and [♐RECOVER](RECOVER "wikilink") may also have a lock-and-key dynamic
+- [Max](Max) (software)
+- [♐CRIMP](CRIMP) and [♐RECOVER](RECOVER) may also have a lock-and-key dynamic
 - Contemporaneous Reddit threads arranged roughly in chronological order:
   - [♐LOCK](https://www.reddit.com/r/UnfavorableSemicircle/comments/464sfd/lock/)
   - [LOCK sped up and pitch adjusted](https://www.reddit.com/r/UnfavorableSemicircle/comments/46lhie/lock_sped_up_and_pitch_adjusted/)

@@ -3,13 +3,13 @@
 ♐CAB is a series of videos that was uploaded to on
 March 26, 2016. It is the fourth series posted in the Twitter account
 and a departure from the earlier ones. It was posted during a busy
-period for UFSC that included ♐[ZUFCHO](ZUFCHO "wikilink"),
-♐[LONE](LONE "wikilink"), ♐[WINGSET](WINGSET "wikilink"),
-♐[RETIO](RETIO "wikilink") and ♐[LIMIT](LIMIT "wikilink") on the main
-channel (as well as the ♐[MUL](MUL "wikilink") series on Twitter).
+period for UFSC that included ♐[ZUFCHO](ZUFCHO),
+♐[LONE](LONE), ♐[WINGSET](WINGSET),
+♐[RETIO](RETIO) and ♐[LIMIT](LIMIT) on the main
+channel (as well as the ♐[MUL](MUL) series on Twitter).
 
 The videos in this series differ from the "classic" UFSC style: they are
-slightly longer at five seconds and the [Unknown Voice](Unknown_Voice "wikilink") has been replaced by a series of
+slightly longer at five seconds and the [Unknown Voice](Unknown_Voice) has been replaced by a series of
 static-laden bursts.
 
 Cab is one of the earliest series to feature the [handshake](Handshake), being up-loaded a week or-so after its debut in [Zufcho](ZUFCHO). Cab 267, for example ends with a hand-shake.
@@ -45,4 +45,3 @@ Created from each frame of all CABs ("using all of the frames from every video f
 ### 3D composite
 
 ![CAB\_3d.PNG](CAB_3d.PNG "CAB_3d.PNG")
-

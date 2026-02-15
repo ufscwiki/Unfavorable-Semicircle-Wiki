@@ -1,18 +1,18 @@
 # PORT
 
-♐PORT is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on December 31, 2017.
+♐PORT is a video posted to the [3rd youtube channel](3rd_youtube_channel) account on December 31, 2017.
 It is 1:13:38 (however due to encoding errors it only shows up as
 1:13:29) long and contains a series of moving images. The 3rd youtube
 channel was opened on December 10th, but undiscovered until decrypting
-the [New Year's Eve tweet](NYE_tweet "wikilink") on January 1, 2018.
+the [New Year's Eve tweet](NYE_tweet) on January 1, 2018.
 
 ## Title
 The word "port" has [multiple meanings](https://en.wikipedia.org/wiki/Port_\(disambiguation\)), but
 most interestingly it could refer to:
 
   - [adapting software from one platform to another](https://en.wikipedia.org/wiki/Porting)
-  - several nautical terms (similar to ♐[HULL](HULL "wikilink") and
-    ♐[BRINE](BRINE "wikilink")) (*observed by discord user yam00*)
+  - several nautical terms (similar to ♐[HULL](HULL) and
+    ♐[BRINE](BRINE)) (*observed by discord user yam00*)
 
 ## 2D composite
 Composite by Discord user Extra:
@@ -23,8 +23,8 @@ Composite by Discord user Extra:
 [![port-3d.webp](port-3d.webp)](port-3d.full.webp)
 
 ### Details in composite
-User [unstable olding](unstable_olding "wikilink") noticed there are
-"dots and dashes" (similar to ♐[DEPTH](DEPTH "wikilink")) in the top
+User [unstable olding](unstable_olding) noticed there are
+"dots and dashes" (similar to ♐[DEPTH](DEPTH)) in the top
 left corner that could be Morse Code:
 
 ![PORT\_composite\_-\_top\_left\_corner\_zoomed\_in.png](PORT_composite_-_top_left_corner_zoomed_in.png)

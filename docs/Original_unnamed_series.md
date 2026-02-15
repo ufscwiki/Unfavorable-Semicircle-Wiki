@@ -2,9 +2,9 @@
 
 <img align="right" src="og_series_100.png" height="300">
 
-The "original unnamed series" consists of over 48,000 videos uploaded to the [first YouTube channel](Real_and_Fake_channels "wikilink") between April 5, 2015 and February 25, 2016. It includes the first known video posted to the channel (♐980708) as well as the last (♐612831). All titles in this series consist of the Sagittarius symbol (♐) followed by a seemingly randomly generated number ranging from 23 to 999997. Many videos share the same titles. 26 distinct sub-series (seasons) have been identified within the original unnamed series. The audio and visual content of these videos has been the subject of much analysis.
+The "original unnamed series" consists of over 48,000 videos uploaded to the [first YouTube channel](Real_and_Fake_channels) between April 5, 2015 and February 25, 2016. It includes the first known video posted to the channel (♐980708) as well as the last (♐612831). All titles in this series consist of the Sagittarius symbol (♐) followed by a seemingly randomly generated number ranging from 23 to 999997. Many videos share the same titles. 26 distinct sub-series (seasons) have been identified within the original unnamed series. The audio and visual content of these videos has been the subject of much analysis.
 
-48258 videos from this series have been [archived](archives "wikilink"), though it is unknown if this constitutes the full extent of the series.
+48258 videos from this series have been [archived](archives), though it is unknown if this constitutes the full extent of the series.
 
 ## Video and Audio Analysis
 
@@ -12,15 +12,15 @@ The "original unnamed series" consists of over 48,000 videos uploaded to the [fi
 
 All videos in this series have a resolution of 50 x 50 and play at 30 fps. The vast majority are 4 seconds long, though some are considerably longer. Videos feature a solid background color with a single black pixel (dot) at a seemingly random location. A compression artifact is typically seen around the dot, and in some videos the dot is obscured or absent entirely. Both the background color and dot location remain static throughout the video duration.
 
-Many videos feature readings by [the unknown voice](Unknown_Voice "wikilink"). Audio heard in this series includes:
+Many videos feature readings by [the unknown voice](Unknown_Voice). Audio heard in this series includes:
   - a single letter or digit spoken aloud
   - a full set of letters (A-Z) and digits (0-9) spoken aloud
   - thumping or mic bump sounds
-  - fragments from the "calliope" music heard in [♐DELOCK](DELOCK "wikilink"), played at various speeds
+  - fragments from the "calliope" music heard in [♐DELOCK](DELOCK), played at various speeds
   - various tones and distorted sounds
   - silence
 
-[Extracted data for each archived video can be found here!](og_manifest.csv "wikilink")
+[Extracted data for each archived video can be found here!](og_manifest.csv)
 
 ### GSM
 

@@ -2,9 +2,9 @@
 
 ♐LANYARD is a video posted to the second youtube account on May 12,
 2017. It was the first video posted after a 38-day break following the
-end of the ♐[BROAD](BROAD "wikilink") series. No series followed it on
-the channel. However, ⊕[RATE](RATE "wikilink"), on the [stabilitory
-newing](stabilitory_newing "wikilink") channel, was posted five days
+end of the ♐[BROAD](BROAD) series. No series followed it on
+the channel. However, ⊕[RATE](RATE), on the [stabilitory
+newing](stabilitory_newing) channel, was posted five days
 after this video.
 
 ![Thumbnail of ♐LANYARD](Lanyard.jpeg "Thumbnail of ♐LANYARD")
@@ -33,21 +33,20 @@ to:
     identification cards.
       - "Aboard a ship, \[lanyard\] may refer to a piece of rigging used
         to secure or lower objects." \[This might link this video
-        further to ♐[HULL](HULL "wikilink").
+        further to ♐[HULL](HULL).
   - [the unsuccessful first attempt](https://en.wikipedia.org/wiki/KH-6_Lanyard) to develop and
     deploy a high-resolution optical reconnaissance satellite by the
     United States National Reconnaissance Office.
 
-The visual style seems related to that of ♐[LOVE](LOVE "wikilink") and
-♐[HULL](HULL "wikilink").
+The visual style seems related to that of ♐[LOVE](LOVE) and
+♐[HULL](HULL).
 
 ### Significance of posting time
 
-Similar to ♐[UPRIGHT](UPRIGHT "wikilink") (which also shares a similar
+Similar to ♐[UPRIGHT](UPRIGHT) (which also shares a similar
 "pulsating" visual quality), ♐LANYARD is unusual as it was not being
 posted near the start or end of a series.
 
 ## 3D Composite
 
 *pending\!*
-

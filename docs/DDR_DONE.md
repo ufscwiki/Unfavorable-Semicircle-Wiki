@@ -1,12 +1,12 @@
 # DDR DONE
 
 ♐DDR\_DONE is a video posted by the Unfavorable Semicircle
-[Twitter](Twitter "wikilink") account on December 6, 2017. It is 14
+[Twitter](Twitter) account on December 6, 2017. It is 14
 seconds long, and contains two separate
-[handshakes](handshake "wikilink"), with a burst of noise-in between.
+[handshakes](handshake), with a burst of noise-in between.
 
-As with the ♐[FMI](FMI "wikilink") series, uploaded on the same date,
-this video is the first to be posted after ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink").
+As with the ♐[FMI](FMI) series, uploaded on the same date,
+this video is the first to be posted after ♐[RESET STRANGE YD](RESET_STRANGE_YD).
 
 ## Questions of authenticity
 Since the Twitter account was been deleted and then reactivated, it
@@ -19,14 +19,14 @@ makeshift copy from older videos — with perhaps some minor alterations.
 It has been raised several times that DDR could imply [double data rate](https://en.wikipedia.org/wiki/DDR_SDRAM), which would seem to
 follow a trend of having technological terms present in video titles (or
 at least terms that can be interpreted technologically) - such as
-[PER](PER "wikilink"), [NIL](NIL "wikilink"), [RATE](RATE "wikilink"),
+[PER](PER), [NIL](NIL), [RATE](RATE),
 etc. It has also been pointed out that the refresh rate does seem fast
 compared to other videos but it doesn't necessarily seem to be
-particularly faster than some, such as [RELOCK](RELOCK "wikilink").
+particularly faster than some, such as [RELOCK](RELOCK).
 
 ## Audio
 Discord user Risto notes that this file contains a
-[Handshake](Handshake "wikilink") with the same spectrograph image as
+[Handshake](Handshake) with the same spectrograph image as
 seen in other files:
 
 ![Ddr\_done\_handshake\_start.png](Ddr_done_handshake_start.png)

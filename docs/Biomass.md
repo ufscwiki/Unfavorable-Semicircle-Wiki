@@ -1,14 +1,14 @@
 # Biomass
 
-**biomass** is a copycat [YouTube](YouTube "wikilink") channel, posting
-videos similar to [Unfavorable Semicircle](Unfavorable_Semicircle "wikilink") and [stabilitory
-newing](stabilitory_newing "wikilink"). Its sister channel is [one
-divided by zero](one_divided_by_zero "wikilink"), which is clearly
+**biomass** is a copycat [YouTube](YouTube) channel, posting
+videos similar to [Unfavorable Semicircle](Unfavorable_Semicircle) and [stabilitory
+newing](stabilitory_newing). Its sister channel is [one
+divided by zero](one_divided_by_zero), which is clearly
 linked by having a single video by the name of "biomass" (both channels
 also feature each other in their sidebars).
 
 The videos on this channel very clearly try to mimic UFSC, even going as
-far as having a [handshake](handshake "wikilink"), similar video and
+far as having a [handshake](handshake), similar video and
 audio.
 
 ## Going dark
@@ -50,4 +50,3 @@ videos after they were linked in a channel).
     <https://www.youtube.com/channel/UCQkIdI7i2JV5N7zu2JspmzA>
   - "one divided by zero" on YouTube
     <https://www.youtube.com/channel/UCfiLXU2gn5sjozpfSTReB0A>
-
