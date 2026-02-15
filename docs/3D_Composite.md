@@ -24,7 +24,7 @@ Some 3D composites seem to contain an arrow shape similar to the ♐ symbol for 
 
 [![574016-3d.png](574016-3d.png "574016-3d.png")](574016-3d.full.png)
 
-![image](relock.3D.arrow.png)
+[![image](relock.3D.arrow.png)](relock.3D.arrow.full.png)
 
 [![RUN3d2.webp](RUN3d2.webp)](RUN3d2.full.webp)
 
