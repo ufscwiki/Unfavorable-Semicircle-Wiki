@@ -43,7 +43,7 @@ Possible text from the narrow composite ("DOG" and "LUNA")?
 
 > Broomstick: i can almost see "DOG" and "LUNA" out of both of those
 > 
-> tukkek: isnt there a hero called Luna who rides a dog in DOTA... a game originally released as a mod for Warcraft 3, which is in the same universe as [Hearthstone]{Hearthstone "wikilink"}...? 
+> tukkek: isnt there a hero called Luna who rides a dog in DOTA... a game originally released as a mod for Warcraft 3, which is in the same universe as [Hearthstone](Hearthstone)...? 
 
 ### 3D Composite
 
