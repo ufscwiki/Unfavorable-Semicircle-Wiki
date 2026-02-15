@@ -17,7 +17,7 @@ The visuals contain a series of frames.
 Discord user ahiddenwaffle has noted that there are "sections" in the
 audio, with gaps of silence roughly every 8 seconds.
 
-## Composite
+## 2D composite
 The composite of RELOCK is very similar, but not identical, to
 [LOCK](LOCK "wikilink").
 
@@ -29,8 +29,14 @@ This image highlights the mismatching pixels between LOCK and RELOCK, with the d
 
 ![lock-relock-diff-highlight.png](lock-relock-diff-highlight.png)
 
-3D composites by Lukidot:
+## 3D composites 
+
+By Lukidot:
 
 [![RELOCK_3d1.png](RELOCK_3d1.png)](RELOCK_3d1.full.png)
 
 [![RELOCK_3d2.png](RELOCK_3d2.png)](RELOCK_3d2.full.png)
+
+By Tukkek:
+
+[![image](relock.3D.arrow.png)](relock.3D.arrow.full.png)
