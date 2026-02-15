@@ -29,4 +29,4 @@ Some 3D composites seem to contain an arrow shape similar to the ♐ symbol for 
 [![RUN3d2.webp](RUN3d2.webp)](RUN3d2.full.webp)
 
 ## See also
-* [Composite visual overview](Composite_visual_overview))
+* [Composite visual overview](Composite_visual_overview)
