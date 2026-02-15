@@ -8,7 +8,7 @@ seconds long, and contains two separate
 As with the ♐[FMI](FMI "wikilink") series, uploaded on the same date,
 this video is the first to be posted after ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink").
 
-## Questions of Authenticity
+## Questions of authenticity
 Since the Twitter account was been deleted and then reactivated, it
 arises suspicion that this might not be the original author. In this
 video, the handshake and sound style seem authentic but being a short
@@ -37,13 +37,13 @@ up":
 Discord user alexbassguy notes that the Handshake uses "absolutely the
 same sample as heard in DEPTH and ZUFCHO."
 
-## 2D Composite
+## 2D composite
 There are not very many frames in this file, and hence a very tiny composite.
 
 Composite by Extra:
 [![Ddr\_done.png](Ddr_done.png "Ddr_done.png")](Ddr_done.full.png)
 
-## 3D Composite
+## 3D composite
 ![Ddr\_done\_3d.PNG](Ddr_done_3d.PNG "Ddr_done_3d.PNG")
 
 ## Links

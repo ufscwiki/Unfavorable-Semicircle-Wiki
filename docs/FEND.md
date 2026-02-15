@@ -7,8 +7,7 @@ Through videos all have an identical length of 27:46, for a total of about 50,00
 
 The composites made from the videos are generally color gradients.
 
-## Composites
-### 2D composite
+## 2D composite
 This composite by Tomas F is a long image with several colored bars:
 ![FEND_composite.png](FEND_composite.png)
 
@@ -17,7 +16,7 @@ It is worth noting that one section near the beginning of the combined gradient 
 Detail from ♐FEND 2D composite showing "island"-type object:
 [![FEND object in 2-d composite.png](FEND_object_in_2-d_composite.png)](FEND_object_in_2-d_composite.full.png)
 
-### 3D composite
+## 3D composite
 This 3D composite by Tomas F is several planes crossing through each other with some mountain-like shapes, http://tomasf.se/projects/semi/stl.html?path=FEND_composite3D.stl.
 
 ♐FEND 3D composite, view #1:

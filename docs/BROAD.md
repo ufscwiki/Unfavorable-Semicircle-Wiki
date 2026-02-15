@@ -44,13 +44,13 @@ Possible text from the narrow composite ("DOG" and "LUNA")?:
 ![Broad_3d.PNG](Broad_3d.PNG)
 
 ## Links
-♐BROAD 0, https://youtu.be/pyxlwyGrvPI
-♐BROAD 1, https://youtu.be/oYn8rNQxlCo
-♐BROAD 2, https://youtu.be/iK4Zf3eGEwY
-♐BROAD 3, https://youtu.be/vG40u3OFTd0
-♐BROAD 4, https://youtu.be/EHeIMy7TvOI
-♐BROAD 5, https://youtu.be/jWc3-9pE4Jw
-♐BROAD 6, https://youtu.be/h-bQJxa26t4
-♐BROAD 7, https://youtu.be/8KFRu4IzcC0
-♐BROAD 8, https://youtu.be/6FLRRkIP7Yc
-♐BROAD 9, https://youtu.be/I1n5TaloJZ0
+* ♐BROAD 0, https://youtu.be/pyxlwyGrvPI.
+* ♐BROAD 1, https://youtu.be/oYn8rNQxlCo.
+* ♐BROAD 2, https://youtu.be/iK4Zf3eGEwY.
+* ♐BROAD 3, https://youtu.be/vG40u3OFTd0.
+* ♐BROAD 4, https://youtu.be/EHeIMy7TvOI.
+* ♐BROAD 5, https://youtu.be/jWc3-9pE4Jw.
+* ♐BROAD 6, https://youtu.be/h-bQJxa26t4.
+* ♐BROAD 7, https://youtu.be/8KFRu4IzcC0.
+* ♐BROAD 8, https://youtu.be/6FLRRkIP7Yc.
+* ♐BROAD 9, https://youtu.be/I1n5TaloJZ0.

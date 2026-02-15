@@ -26,12 +26,11 @@ Discord user Risto notes:
 > Interestingly, the handshake doesn't have an offset:
 ![Dual_no_dc_offset_in_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
-## Composites
-### 2D composite
+## 2D composite
 ♐DUAL composite by Extra:
 [![DUAL_real.png](DUAL_real.png " DUAL_real.png")](DUAL_real.full.png)
 
-### 3D composite
+## 3D composite
 Screen of full ♐DUAL 3-D composite (first view):
 ![Dual 0-9 - 3-d composite - view 1.png](Dual_0-9_-_3-d_composite_-_view_1.png)
 
@@ -44,13 +43,13 @@ to that of ♐[POINT](POINT "wikilink")'s 3-D composite. This (and other)
 [here](https://lorpus.github.io/sketches/ufsc3d/).
 
 ## Links
-* ♐DUAL 0, https://youtu.be/cmcweRQdj1w
-* ♐DUAL 1, https://youtu.be/WOjLgReg8AE
-* ♐DUAL 2, https://youtu.be/BGEZIUfLHjI
-* ♐DUAL 3, https://youtu.be/RIoyGm9SfNM
-* ♐DUAL 4, https://youtu.be/YSOFv2vpX7s
-* ♐DUAL 5, https://youtu.be/yRm1LNID5sc
-* ♐DUAL 6, https://youtu.be/Jj9Vl8kiQOM
-* ♐DUAL 7, https://youtu.be/D3-0zG1D1C8
-* ♐DUAL 8, https://youtu.be/7wWVFFnTfYY
-* ♐DUAL 9, https://youtu.be/LRdFLCk-_d0
+* ♐DUAL 0, https://youtu.be/cmcweRQdj1w.
+* ♐DUAL 1, https://youtu.be/WOjLgReg8AE.
+* ♐DUAL 2, https://youtu.be/BGEZIUfLHjI.
+* ♐DUAL 3, https://youtu.be/RIoyGm9SfNM.
+* ♐DUAL 4, https://youtu.be/YSOFv2vpX7s.
+* ♐DUAL 5, https://youtu.be/yRm1LNID5sc.
+* ♐DUAL 6, https://youtu.be/Jj9Vl8kiQOM.
+* ♐DUAL 7, https://youtu.be/D3-0zG1D1C8.
+* ♐DUAL 8, https://youtu.be/7wWVFFnTfYY.
+* ♐DUAL 9, https://youtu.be/LRdFLCk-_d0.

@@ -20,9 +20,11 @@ that these contain 19 different audio-encoded binary bytes, as in
 
 ## Composites
 ♐MUL composite:
+
 ![MUL composite.png](MUL_composite.png "MUL composite.png")
 
 3D composite by Lukidot:
+
 [![MUL_3d.png](MUL_3d.png)](MUL_3d.full.png)
 
 ## Archive

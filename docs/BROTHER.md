@@ -39,12 +39,14 @@ three-dimensional object.
 ## Stabilitory newing series
 [Stabilitory newing](Stabilitory_newing) posted 56 videos (0-55), titled with a leading ⊕. There may be some "fraternal" relationship between the two series.
 
-### Description of Stabilitory newing videos
+### Description of Stabilitory Newing videos
 ![Brother.jpeg](Brother.jpeg)
 
-- Many of the Stabilitory newing videos have identical audio to each other
-- Some of the audio produces French or English auto-generated subtitles on YouTube.
-- ⊕BROTHER 55 seems to have issues playing past 1:39, despite having a length of 3 minutes.
+Many of the Stabilitory newing videos have identical audio to each other.
+
+Some of the audio produces French or English auto-generated subtitles on YouTube.
+
+⊕BROTHER 55 seems to have issues playing past 1:39, despite having a length of 3 minutes.
 
 ### Auto-generated subtitles in Stabilitory newing BROTHER videos
 Classification of audio based on the aforementioned French and English subtitles (⊕BROTHER X).
@@ -83,36 +85,36 @@ The [astrological sign of Gemini](https://en.wikipedia.org/wiki/Gemini_(astrolog
 ## Links
 * [Recursive composites](recursive_composites)
 * [Astrology](Astrology)
-* ♐BROTHER 0, https://youtu.be/CZhfDh5QtAM
-* ♐BROTHER 1, https://youtu.be/r0NhOvQXavo
-* ♐BROTHER 2 (first upload), https://youtu.be/mRR3qssmF3A
-* ♐BROTHER 2 (second upload), https://youtu.be/hgxBC1Y5h30
-* ♐BROTHER 3, https://youtu.be/4hHBEJe_AB8
-* ♐BROTHER 4, https://youtu.be/jM4zcHTybY8
-* ♐BROTHER 5, https://youtu.be/4k3CtSNqLpc
-* ♐BROTHER 6, https://youtu.be/5PzB1DL5KKY
-* ♐BROTHER 7, https://youtu.be/zz1m9m-Z_J4
-* ♐BROTHER 8, https://youtu.be/TSJS2Tux95U
-* ♐BROTHER 9, https://youtu.be/x7lt_iEtQG8
-* ♐BROTHER 10, https://youtu.be/LPsA5KCyuoI
-* ♐BROTHER 11, https://youtu.be/443Tj72UZvg
-* ♐BROTHER 12, https://youtu.be/ojxlJhr1wyk
-* ♐BROTHER 13, https://youtu.be/RTZT2m-RAh0
-* ♐BROTHER 14, https://youtu.be/jz1WXkZGYEY
-* ♐BROTHER 15, https://youtu.be/-jx_EEKHnVQ
-* ♐BROTHER 16, https://youtu.be/iWv53T1IVas
-* ♐BROTHER 17, https://youtu.be/5TryJ7ScD74
-* ♐BROTHER 18, https://youtu.be/KDxIJmJy-aM
-* ♐BROTHER 19, https://youtu.be/uqLijLJ36FQ
-* ♐BROTHER 20, https://youtu.be/-M6BWNAGWT4
-* ♐BROTHER 21, https://youtu.be/hT7RonpeX4k
-* ♐BROTHER 22, https://youtu.be/MWOHihtED7k
-* ♐BROTHER 23, https://youtu.be/csGSins5kFk
-* ♐BROTHER 24, https://youtu.be/ViokMyFr-f4
-* ♐BROTHER 25, https://youtu.be/xi9FUkLsKCk
-* ♐BROTHER 26, https://youtu.be/V84aPCDjqwo
-* ♐BROTHER 27, https://youtu.be/1IiWzMVIowU
-* ♐BROTHER 28, https://youtu.be/nxtei2UZlY8
-* ♐BROTHER 29, https://youtu.be/i4NuIORIwvI
-* ♐BROTHER 30, https://youtu.be/hDrvoif4X64
-* ♐BROTHER 31, https://youtu.be/mibS4C4fdSM
+* ♐BROTHER 0, https://youtu.be/CZhfDh5QtAM.
+* ♐BROTHER 1, https://youtu.be/r0NhOvQXavo.
+* ♐BROTHER 2 (first upload), https://youtu.be/mRR3qssmF3A.
+* ♐BROTHER 2 (second upload), https://youtu.be/hgxBC1Y5h30.
+* ♐BROTHER 3, https://youtu.be/4hHBEJe_AB8.
+* ♐BROTHER 4, https://youtu.be/jM4zcHTybY8.
+* ♐BROTHER 5, https://youtu.be/4k3CtSNqLpc.
+* ♐BROTHER 6, https://youtu.be/5PzB1DL5KKY.
+* ♐BROTHER 7, https://youtu.be/zz1m9m-Z_J4.
+* ♐BROTHER 8, https://youtu.be/TSJS2Tux95U.
+* ♐BROTHER 9, https://youtu.be/x7lt_iEtQG8.
+* ♐BROTHER 10, https://youtu.be/LPsA5KCyuoI.
+* ♐BROTHER 11, https://youtu.be/443Tj72UZvg.
+* ♐BROTHER 12, https://youtu.be/ojxlJhr1wyk.
+* ♐BROTHER 13, https://youtu.be/RTZT2m-RAh0.
+* ♐BROTHER 14, https://youtu.be/jz1WXkZGYEY.
+* ♐BROTHER 15, https://youtu.be/-jx_EEKHnVQ.
+* ♐BROTHER 16, https://youtu.be/iWv53T1IVas.
+* ♐BROTHER 17, https://youtu.be/5TryJ7ScD74.
+* ♐BROTHER 18, https://youtu.be/KDxIJmJy-aM.
+* ♐BROTHER 19, https://youtu.be/uqLijLJ36FQ.
+* ♐BROTHER 20, https://youtu.be/-M6BWNAGWT4.
+* ♐BROTHER 21, https://youtu.be/hT7RonpeX4k.
+* ♐BROTHER 22, https://youtu.be/MWOHihtED7k.
+* ♐BROTHER 23, https://youtu.be/csGSins5kFk.
+* ♐BROTHER 24, https://youtu.be/ViokMyFr-f4.
+* ♐BROTHER 25, https://youtu.be/xi9FUkLsKCk.
+* ♐BROTHER 26, https://youtu.be/V84aPCDjqwo.
+* ♐BROTHER 27, https://youtu.be/1IiWzMVIowU.
+* ♐BROTHER 28, https://youtu.be/nxtei2UZlY8.
+* ♐BROTHER 29, https://youtu.be/i4NuIORIwvI.
+* ♐BROTHER 30, https://youtu.be/hDrvoif4X64.
+* ♐BROTHER 31, https://youtu.be/mibS4C4fdSM.

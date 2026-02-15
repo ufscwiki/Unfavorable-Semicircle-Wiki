@@ -31,6 +31,6 @@ Screens of 3D ♐BREADTH composite:
 As a [3D Composite](3D_Composite "wikilink"), BREADTH forms an atom-like shape with nested spheres of increasingly higher density, and 3 disks surrounding them.
 
 ## Links
-* Tomas F's composite viewer, http://tomasf.se/projects/semi/stl.html?path=BREADTH_composite3D.stl
-* ♐BREADTH 0, https://youtu.be/XXtBbxrz6Fg
-* ♐BREADTH 1, https://youtu.be/qZcRpPg44ns
+* Tomas F's composite viewer, http://tomasf.se/projects/semi/stl.html?path=BREADTH_composite3D.stl.
+* ♐BREADTH 0, https://youtu.be/XXtBbxrz6Fg.
+* ♐BREADTH 1, https://youtu.be/qZcRpPg44ns.

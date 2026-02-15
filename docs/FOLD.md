@@ -19,19 +19,30 @@ Discord user Risto notes that "♐FOLD is another one with [DC offset](DC_offset
 ![DC\_offset\_in\_FOLD.png](DC_offset_in_FOLD.png "DC_offset_in_FOLD.png")
 
 He also observes that ♐FOLD:
+
 > starts with about a half of a handshake:
+
 ![FOLD\_handshake\_start.png](FOLD_handshake_start.png)
+
 > And ends with the third quarter of it:
+
 ![FOLD\_handshake\_end.png](FOLD_handshake_end.png)
 
 Ristro also observes:
 > As for the audio itself, there is a section of something like electrical noise:
+
 ![FOLD\_audio\_1.png](FOLD_audio_1.png "FOLD_audio_1.png")
+
 > The frequency of that is 120 Hz. Then there's a section of ramping up pulses of that electrical noise:
+
 ![FOLD\_audio\_2.png](FOLD_audio_2.png "FOLD_audio_2.png")
+
 > The electric noise is an approximation of a square wave:
+
 ![FOLD\_audio\_3.png](FOLD_audio_3.png "FOLD_audio_3.png")
+
 > The last section is a different noise that seems to cycle once in about 2 seconds
+
 ![FOLD\_audio\_4.png](FOLD_audio_4.png "FOLD_audio_4.png")
 
 ## Significance of name

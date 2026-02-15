@@ -12,21 +12,24 @@ Audacity) with a length of 23:45. It is unclear if there are three
 ## Audio
 It seems that the sound on all FOND videos is the same.
 
-## Composites
-### 2D composite
+## 2D composite
 Side A:
+
 ![FOND_composite_A.png](FOND_composite_A.png)
 
 Side B:
+
 ![FOND_composite_B.png](FOND_composite_B.png)
 
 Combined ♐FOND composite:
+
 [![FOND composite.png](FOND_composite.png " FOND composite.png")](FOND_composite.full.png)
 
-### Xor composite
+## Xor composite
 Inspired by the reference to the ⊕ (xor) symbol in the [third G+ post](Google_Plus#G.2B_post_3 "wikilink"), Piecat has created an xored composite.
 
 ♐FOND xor composite:
+
 ![Fond xor composite.PNG](Fond_xor_composite.PNG)
 
 The method is described as taking all of the videos in a series and
@@ -37,7 +40,7 @@ color), whereas one might expect the result to be random. This indicates
 the possibility there may be a file or or a message hidden in that
 composite.
 
-### 3D composite
+## 3D composite
 Creating a 3-D composite reveals an inner structure:
 
 [![FOND 3-D composite, view 1.png](FOND_3-D_composite,_view_1.png)](FOND_3-D_composite,_view_1.full.png)
@@ -50,11 +53,11 @@ fact that he was talking about "what if he had a video named after him"
 and it was uploaded.
 
 ## Links
-* ♐FOND 0, https://youtu.be/3a9LSIXuKNc
-* ♐FOND 1, https://youtu.be/Jbz7Ayc_zVs
-* ♐FOND 2, https://youtu.be/6YK1oXbnYvw
-* ♐FOND 3, https://youtu.be/YXDeKBYz8zs
-* ♐FOND 4, https://youtu.be/hMLw6API3CU
-* ♐FOND 5, https://youtu.be/PsgoI1mVnEU
-* ♐FOND 6, https://youtu.be/pq8C-XmjRl8
-* ♐FOND 7, https://youtu.be/aaTL_F3HZ6U
+* ♐FOND 0, https://youtu.be/3a9LSIXuKNc.
+* ♐FOND 1, https://youtu.be/Jbz7Ayc_zVs.
+* ♐FOND 2, https://youtu.be/6YK1oXbnYvw.
+* ♐FOND 3, https://youtu.be/YXDeKBYz8zs.
+* ♐FOND 4, https://youtu.be/hMLw6API3CU.
+* ♐FOND 5, https://youtu.be/PsgoI1mVnEU.
+* ♐FOND 6, https://youtu.be/pq8C-XmjRl8.
+* ♐FOND 7, https://youtu.be/aaTL_F3HZ6U.

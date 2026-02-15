@@ -5,7 +5,7 @@ beginning at 5:58 PM EST on December 6, 2017. (The first activity in the
 were made in the series, and shortly after its completion
 ♐[DDR\_DONE](DDR_DONE "wikilink") was posted.
 
-## Questions of Authenticity
+## Questions of authenticity
 This series is the first to be posted after ♐[RESET STRANGE YD](RESET_STRANGE_YD "wikilink"). Since the
 [Twitter](Twitter "wikilink") account has been deleted and is now
 reactivated, it arises suspicion that this might not be the original

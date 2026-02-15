@@ -82,9 +82,11 @@ Huge Size, http://tomasf.se/projects/semi/LOCK_composite_huge.png.
 [![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")](LOCK_composite.full.png)
 
 Alternative ♐LOCK composite with width of 197.36 pixels that does not need to be shifted to the left like the previous one (which may be skewed:
+
 ![LOCK\_composite197.png](LOCK_composite197.png)
 
 Version [posted to twitter](June_2022_twitter_posts "wikilink") by @unfavorablesem_:
+
 ![@unfavorablesem version posted to twitter](june_22_LOCK_version.png)
 
 ### 3D composite
@@ -103,6 +105,7 @@ The arrow-tip shape is similar to [Run](RUN).
 Many frames in ♐LOCK contain a single black pixel at different locations in the 50 x 50 image. (The small image size means that there is an 8 x 8  compression artifact around the dot.) Some frame also have a "bar" across the bottom. Discord user Dom has noted "some frames have a dot, some have a bar, and some have both. Darker frames tend to have neither."
 
 A frame from Lock enlarged by Discord user Dom (original 50x50). Note the 8x8 artifact and the 2x50 bar:
+
 ![black_dot_example_frame.png](black_dot_example_frame.png "black dot example frame")
 
 This image has been adjusted the contrast for visibility normally as the artifacts are much more subtle, especially the bar.
