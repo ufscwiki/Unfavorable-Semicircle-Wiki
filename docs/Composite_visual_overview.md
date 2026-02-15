@@ -18,7 +18,7 @@ Blank spots on this chart could mean:
 
 | Video or series                                       | [2D composite](Video_Composites) | [3D composite](3D_Composite) |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
-| ♐[LOCK](LOCK)                              | [![LOCK\_composite.png](LOCK_composite.png "LOCK_composite.png")](LOCK_composite.full.png)                             | [![LOCK3d6.webp](LOCK3d6.webp)](LOCK3d6.full.webp) |
+| ♐[LOCK](LOCK) | [![LOCK\_composite.png](LOCK_composite.png)](LOCK_composite.full.png) | [![LOCK3d6.webp](LOCK3d6.webp)](LOCK3d6.full.webp) |
 | ♐[DELOCK](DELOCK)                          |                                                                                             |               |
 | [♐ (nameless video)](♐_\(nameless_video\)) |                                                                                             |               |
 | ♐[PER](PER)                                |                                                                                             |               |
@@ -98,7 +98,7 @@ Blank spots on this chart could mean:
 | Video or series          | 2D composite                                                                                     | 3D composite                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | ♐[PORT](PORT) | [![PORT\_composite\_398\_width.png](PORT_composite_398_width.png "PORT_composite_398_width.png")](PORT_composite_398_width.full.png)   | [![port-3d.webp](port-3d.webp)](port-3d.full.webp) |
-| ♐[RUN](RUN)   | [![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")](RUNcomposite_539s673.full.png)                 | [![RUN3d3.webp](RUN3d3.webp)](RUN3d3.full.webp)                                                                                                   |
+| ♐[RUN](RUN)   | [![RUNcomposite\_539s673.png](RUNcomposite_539s673.png "RUNcomposite_539s673.png")](RUNcomposite_539s673.full.png) | [![RUN3d3.webp](RUN3d3.webp)](RUN3d3.full.webp)                                                                                                   |
 | ♐[NODE](NODE) | [![Node\_composite\_width\_839.png](Node_composite_width_839.png "Node_composite_width_839.png")](Node_composite_width_839.full.png)   | [![Node\_3-d\_composite\_by\_tukkek.png](Node_3-d_composite_by_tukkek.png "Node_3-d_composite_by_tukkek.png")](Node_3-d_composite_by_tukkek.full.png) |
 | ♐[SERN](SERN) | *Impossible*                                                                                      | *Impossible*                                                                                                 |
 | ♐[ZORO](ZORO) | *Impossible*                                                                                      | *Impossible*                                                                                                 |
