@@ -3,7 +3,7 @@ A 3D composite is created by plotting the colors of each pixel in a [composite i
 
 Many of the video composites produce shapes in 3D. For example, [BREADTH](BREADTH "wikilink") is an atom-like shape with nested spheres of increasingly higher density, surrounded by 3 rings. And [JALVINSACH](JALVINSACH "wikilink") has the outline of some cubes.
 
-![breadthmodels.gif](breadthmodels.gif)
+![Breadthmodels.gif](Breadthmodels.gif)
 
 ## Viewing
 The "path=" file can be changed to any other .stl file on tomasf's website:
