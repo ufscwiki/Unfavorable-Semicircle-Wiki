@@ -6,9 +6,6 @@ December 27, 2017 at 8:18 PM EST. It is 41 seconds long. It was posted
 four days after the ♐[STRAND](STRAND "wikilink") series. The twitter
 account was silent until posting four days later on [New Year's Eve](NYE_tweet "wikilink").
 
-{{\#ev:youtube|<https://youtu.be/UY7M225eQ8A>}} (*backup of video posted
-to youtube by discord user unstable olding*.)
-
 ## Title
 It has been noted by Discord user scottywiththebody that *Yom Reviʻi*
 (יום רביעי‬ \[abbr. יום ד׳‬\], meaning "fourth day" and corresponding
@@ -22,7 +19,7 @@ of a miraheze staff member.
 ## Composite
 [![REVI.png](REVI.png "REVI.png")](REVI.full.png)
 
-(*composite at width of 37 pixels by discord user extra*)
+(Composite at width of 37 pixels by discord user extra).
 
 This short video makes a small composite that doesn't seem to make a
 specific image.
@@ -33,3 +30,6 @@ the top half are reminiscent of ♐[CREM](CREM "wikilink").
 3D composite by Lukidot:
 
 [![REVI_3d.png](REVI_3d.png)](REVI_3d.full.png)
+
+## Links
+* Backup of video by Discord user Unstable Olding, https://youtu.be/UY7M225eQ8A.

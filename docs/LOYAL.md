@@ -26,6 +26,6 @@ A day later Lukidot identified the song as the theme-song by composer Yasuharu T
 
 Lukidot identifies this popular cover version with 30 million views as the exact audio used, https://www.youtube.com/watch?v=o87hNhgfZvI.
 
-## Contemporaneous Reddit Threads
+## Contemporaneous Reddit threads
 - [♐♐LOYAL](https://www.reddit.com/r/UnfavorableSemicircle/comments/5k3pwg/loyal/)
 - [About "Loyal"](https://www.reddit.com/r/UnfavorableSemicircle/comments/5poe58/about_loyal/)

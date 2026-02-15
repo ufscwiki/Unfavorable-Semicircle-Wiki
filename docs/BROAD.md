@@ -18,26 +18,20 @@ about sixteen minutes in. There is a two-second gap of silence just
 before the 33 minute mark, and the final section (2:13 in duration) is
 silent.
 
-Testing has shown that the audio in ♐BROAD 0 - 4 are identical.
+Testing has shown that the audio in ♐BROAD 0 to 4 are identical.
 
 ## Possible relationship to other UFSC videos
 
   - ♐[BREADTH](BREADTH "wikilink") is derived from the word "broad".
 
-## Composites
-
-### 2-D Composite
-
+## 2D Composite
+♐BROAD composite (0 to 9):
 [![ Broad combined.png](Broad_combined.png " Broad combined.png")](Broad_combined.full.png)
 
-*♐BROAD composite (0 - 9)*
-
-A "narrow" version of the composite where empty (black) lines and columns are progressively removed.
-
+A "narrow" version of the composite where empty (black) lines and columns are progressively removed:
 ![broad_narrow.png](broad_narrow.png)
 
-Possible text from the narrow composite ("DOG" and "LUNA")?
-
+Possible text from the narrow composite ("DOG" and "LUNA")?:
 ![broad_dog.png](broad_dog.png)
 ![broad_luna.png](broad_luna.png)
 
@@ -45,28 +39,18 @@ Possible text from the narrow composite ("DOG" and "LUNA")?
 > 
 > tukkek: isnt there a hero called Luna who rides a dog in DOTA... a game originally released as a mod for Warcraft 3, which is in the same universe as [Hearthstone](Hearthstone)...? 
 
-### 3D Composite
+## 3D composite
 
 ![Broad_3d.PNG](Broad_3d.PNG)
 
 ## Links
-
-♐BROAD 0: <https://youtu.be/pyxlwyGrvPI>
-
-♐BROAD 1: <https://youtu.be/oYn8rNQxlCo>
-
-♐BROAD 2: <https://youtu.be/iK4Zf3eGEwY>
-
-♐BROAD 3: <https://youtu.be/vG40u3OFTd0>
-
-♐BROAD 4: <https://youtu.be/EHeIMy7TvOI>
-
-♐BROAD 5: <https://youtu.be/jWc3-9pE4Jw>
-
-♐BROAD 6: <https://youtu.be/h-bQJxa26t4>
-
-♐BROAD 7: <https://youtu.be/8KFRu4IzcC0>
-
-♐BROAD 8: <https://youtu.be/6FLRRkIP7Yc>
-
-♐BROAD 9: <https://youtu.be/I1n5TaloJZ0>
+♐BROAD 0, https://youtu.be/pyxlwyGrvPI
+♐BROAD 1, https://youtu.be/oYn8rNQxlCo
+♐BROAD 2, https://youtu.be/iK4Zf3eGEwY
+♐BROAD 3, https://youtu.be/vG40u3OFTd0
+♐BROAD 4, https://youtu.be/EHeIMy7TvOI
+♐BROAD 5, https://youtu.be/jWc3-9pE4Jw
+♐BROAD 6, https://youtu.be/h-bQJxa26t4
+♐BROAD 7, https://youtu.be/8KFRu4IzcC0
+♐BROAD 8, https://youtu.be/6FLRRkIP7Yc
+♐BROAD 9, https://youtu.be/I1n5TaloJZ0

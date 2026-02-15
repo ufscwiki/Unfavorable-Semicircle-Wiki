@@ -18,7 +18,7 @@ and are available
 A composite has been made of the available videos.
 
 ## Composites
-This composite was made from scraped videos combined with [Tomas's Composite](http://tomasf.se/projects/semi/LEE_composite.png)
+This composite was made from scraped videos combined with [Tomas's composite](http://tomasf.se/projects/semi/LEE_composite.png)
 
 ![incomplete LEE composite](Lee_combined.png "incomplete LEE composite")
 
@@ -26,13 +26,12 @@ This composite was made from scraped videos combined with [Tomas's Composite](ht
 
 [![LEE_3d.png](LEE_3d.png)](LEE_3d.full.png)
 
-## Contemporaneous reddit threads
-
+## Links
+- Contemporaneous Reddit threads
   - [UFSC IS     BACK](https://www.reddit.com/r/UnfavorableSemicircle/comments/4af177/ufsc_is_back/)
   - [Tweet sources (proves automation used)](https://www.reddit.com/r/UnfavorableSemicircle/comments/4ql0qk/tweet_sources_proves_automation_used/)
   - [Found some encrypted text in LEE 16380](https://www.reddit.com/r/UnfavorableSemicircle/comments/4buoyx/found_some_encrypted_text_in_lee_16380/)
-    *\*considered trolling\**
+    (considered trolling)
   - [I decrypted LEE 16383 and this is the code](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bu2na/i_decrypted_lee_16383_and_this_is_the_code/)
-    *\*considered trolling\**
+    (considered trolling)
   - [The "Successful" decoding was probably a hoax.](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bx1z7/the_successful_decoding_was_probably_a_hoax/)
-

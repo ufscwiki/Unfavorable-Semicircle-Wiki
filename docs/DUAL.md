@@ -20,32 +20,23 @@ The audio is a dual mono track of a whirring machine sound (with [DC offset](DC_
 [Handshake](Handshake "wikilink") can be heard at the start and end of
 the audio.
 
-Discord user Risto notes: "the whirring is composed of identical
-sections with a 'steppy line level' silence afterwards":
-
+Discord user Risto notes:
+> the whirring is composed of identical sections with a 'steppy line level' silence afterwards:
 ![Dual_audio.png](Dual_audio.png "Dual_audio.png")
-
-He adds: "interestingly, the handshake doesn't have an offset":
-
+> Interestingly, the handshake doesn't have an offset:
 ![Dual_no_dc_offset_in_handshake.png](Dual_no_dc_offset_in_handshake.png)
 
 ## Composites
-
-### 2-D Composite
-
+### 2D composite
+♐DUAL composite by Extra:
 [![DUAL_real.png](DUAL_real.png " DUAL_real.png")](DUAL_real.full.png)
 
-*♐DUAL composite by extra*
-
-### 3-D Composite
-
+### 3D composite
+Screen of full ♐DUAL 3-D composite (first view):
 ![Dual 0-9 - 3-d composite - view 1.png](Dual_0-9_-_3-d_composite_-_view_1.png)
 
-*screencap of full ♐DUAL 3-D composite (view 1)*
-
+View 2:
 [![Dual 0-9 - 3-d composite - view 2.png](Dual_0-9_-_3-d_composite_-_view_2.png)](Dual_0-9_-_3-d_composite_-_view_2.full.png)
-
-*screencap of full ♐DUAL 3-D composite (view 2)*
 
 The 3-D composite makes a roughly half-spherical shape, somewhat similar
 to that of ♐[POINT](POINT "wikilink")'s 3-D composite. This (and other)
@@ -53,24 +44,13 @@ to that of ♐[POINT](POINT "wikilink")'s 3-D composite. This (and other)
 [here](https://lorpus.github.io/sketches/ufsc3d/).
 
 ## Links
-
-♐DUAL 0: <https://youtu.be/cmcweRQdj1w>
-
-♐DUAL 1: <https://youtu.be/WOjLgReg8AE>
-
-♐DUAL 2: <https://youtu.be/BGEZIUfLHjI>
-
-♐DUAL 3: <https://youtu.be/RIoyGm9SfNM>
-
-♐DUAL 4: <https://youtu.be/YSOFv2vpX7s>
-
-♐DUAL 5: <https://youtu.be/yRm1LNID5sc>
-
-♐DUAL 6: <https://youtu.be/Jj9Vl8kiQOM>
-
-♐DUAL 7: <https://youtu.be/D3-0zG1D1C8>
-
-♐DUAL 8: <https://youtu.be/7wWVFFnTfYY>
-
-♐DUAL 9: <https://youtu.be/LRdFLCk-_d0>
-
+* ♐DUAL 0, https://youtu.be/cmcweRQdj1w
+* ♐DUAL 1, https://youtu.be/WOjLgReg8AE
+* ♐DUAL 2, https://youtu.be/BGEZIUfLHjI
+* ♐DUAL 3, https://youtu.be/RIoyGm9SfNM
+* ♐DUAL 4, https://youtu.be/YSOFv2vpX7s
+* ♐DUAL 5, https://youtu.be/yRm1LNID5sc
+* ♐DUAL 6, https://youtu.be/Jj9Vl8kiQOM
+* ♐DUAL 7, https://youtu.be/D3-0zG1D1C8
+* ♐DUAL 8, https://youtu.be/7wWVFFnTfYY
+* ♐DUAL 9, https://youtu.be/LRdFLCk-_d0

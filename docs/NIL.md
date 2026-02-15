@@ -27,9 +27,8 @@ NIL's composite is almost identical to [BRILL](BRILL "wikilink"), with
 the exception of colored lines, which divide the composite up into
 different portions (?)
 
+Combined NIL composite:
 ![NIL composite combined.png](NIL_composite_combined.png)
-
-*combined NIL composite*
 
 Unaltered: <http://tomasf.se/projects/semi/nil/composite.png>
 
@@ -52,12 +51,10 @@ depicting the same topological structure, but at different zoom levels.
 The features are larger in some of them and smaller in others.
 
 ## Transcription
-
 A transcription of all the videos is available
 [here](http://tomasf.se/projects/semi/nil/).
 
 ### Possible cipher data
-
 The transcription corresponds closely with a [Bifid cipher](https://en.wikipedia.org/wiki/Bifid_cipher) using a 6×6 Polybius
 square, according to a [cipher comparison utility](http://bionsgadgets.appspot.com/gadget_forms/refscore_extended.html).
 
@@ -67,8 +64,4 @@ using the
 utility.
 
 ## Links
-
-Curiously, an advanced twitter search of the ♐NIL series only returns
-the final tweet:
-<https://twitter.com/search?q=%E2%99%90nil%20from%3Aunfavorablesemi&src=typd>
-
+* Curiously, an advanced Twitter search of the ♐NIL series only returns the final tweet, https://twitter.com/search?q=%E2%99%90nil%20from%3Aunfavorablesemi&src=typd.

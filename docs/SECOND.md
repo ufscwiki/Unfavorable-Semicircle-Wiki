@@ -116,7 +116,7 @@ this is currently being posted in a lossy jpg version.*)
 ![Second_center_detail.png](Second_center_detail.png
 "Second_center_detail.png")
 
-(*detail of "square" section, from an earlier version of the composite*)
+(Detail of "square" section, from an earlier version of the composite).
 
 There is a richness of detail in this composite, especially in the
 "square" section of the image, including what may be hidden patterns.
@@ -130,6 +130,5 @@ There is a richness of detail in this composite, especially in the
 this has been observed to possibly correspond with the stars in the
 constellation Sagittarius.
 
-## See also
-- [November 25th tweet‎‎](November_25th_tweet‎‎ "wikilink")
-
+## Links
+* [November 25th tweet‎‎](November_25th_tweet‎‎ "wikilink")

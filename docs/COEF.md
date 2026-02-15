@@ -5,8 +5,6 @@ is 4:12 long and contains a series of rapidly-flashing images. It was
 posted three days after ♐[ZORO](ZORO "wikilink") was posted and deleted.
 ♐[NEO](NEO "wikilink") would follow it one month later.
 
-{{\#ev:youtube|<https://youtu.be/GJvERY41FqA>}}
-
 ## Audio
 The audio track contains a constant, very loud stream of sounds. Discord user Unstable Olding notes that "it seems like a combination of PORT, RETIO and the voice used in DEPTH".
 
@@ -20,22 +18,19 @@ The audio track contains a constant, very loud stream of sounds. Discord user Un
 
 https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/tree/master/docs/COEF.flac
 
-## Composites
-
+## 2D composites
+COEF unadjusted composite by Discord user Mark Aardvark:
 [![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png)](COEF_unadjusted_composite.full.png)
 
-(*COEF unadjusted composite by discord user Mark Aardvark*)
-
+COEF adjusted composite by discord user Mark Aardvark:
 ![COEF\_adjusted\_composite.png](COEF_adjusted_composite.png)
 
-(*COEF adjusted composite by discord user Mark Aardvark*)
-
-### 3-D Composite
-
+## 3D composite
 ![COEF\_3d.PNG](COEF_3d.PNG "COEF_3d.PNG")
 
 ## Meaning of Title
+- "COEF" is a common abbreviation for "coefficient", a
+  "[multiplicative factor in some term of a polynomial, a series or any expression](https://en.wikipedia.org/wiki/Coefficient)".
 
-  - "COEF" is a common abbreviation for "coefficient", a
-    "[multiplicative factor in some term of a polynomial, a series or any expression](https://en.wikipedia.org/wiki/Coefficient)".
-
+## Links
+* https://youtu.be/GJvERY41FqA

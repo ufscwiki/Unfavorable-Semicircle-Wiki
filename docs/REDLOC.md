@@ -3,9 +3,7 @@
 break of more than a week on youtube. (It was, however, posted three
 days after the [second G+ post](Google_Plus#G.2B_post_2 "wikilink") and
 around the same time as the ♐[LEE](LEE "wikilink") series began on
-twitter.)
-
-{{\#ev:youtube|<https://youtu.be/xkceG6U2Q60>}} [Original Link](https://youtu.be/xYmtkMeqjxkA)
+Twitter).
 
 ## The "Announcement"
 In a unique occurrence, this video was "announced" on the twitter
@@ -16,7 +14,7 @@ the same user (or users) was in control of both accounts.
 
 ![REDLOC\_announcement.png](REDLOC_announcement.png)
 
-*Screencap of twitter account by reddit user SuckItWhoville*
+(Screencap of Twitter account by Reddit user Whoville).
 
 ## Description of video
 The video is 4:32 in duration. It contains a mono audio track of
@@ -42,11 +40,12 @@ which shows all non-black pixels at once.
 ## Music
 In November 2024: Discord user `FFW` [cleared the music](REDLOC_homesick.mp4) in REDLOC's audio and the segment was then identified as Homesick (at the 0:47 mark). This is the same song present in [DELOCK](DELOCK) and mentioned in multiple UFSC social media communications.
 
-## See also
-* [Recursive composites](recursive_composites "wikilink")
-
-## Contemporaneous Reddit Threads
-- [As of an hour ago, the uploads stopped. 10 minutes ago, the tweet only says, "REDLOC"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b1ijr/as_of_an_hour_ago_the_uploads_stopped_10_minutes/)
-- [Notes on "Redloc"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b2e2u/notes_on_redloc/)
-- [REDLOC composite](https://www.reddit.com/r/UnfavorableSemicircle/comments/4g3m7d/redloc_composite/)
-- [REDLOC theory](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bsoot/redloc_theory/)
+## Links
+* [Recursive composites](recursive_composites "wikilink").
+* https://youtu.be/xkceG6U2Q60
+* [Original Link](https://youtu.be/xYmtkMeqjxkA).
+* Contemporaneous Reddit threads
+  * [As of an hour ago, the uploads stopped. 10 minutes ago, the tweet only says, "REDLOC"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b1ijr/as_of_an_hour_ago_the_uploads_stopped_10_minutes/)
+  * [Notes on "Redloc"](https://www.reddit.com/r/UnfavorableSemicircle/comments/4b2e2u/notes_on_redloc/)
+  * [REDLOC composite](https://www.reddit.com/r/UnfavorableSemicircle/comments/4g3m7d/redloc_composite/)
+  * [REDLOC theory](https://www.reddit.com/r/UnfavorableSemicircle/comments/4bsoot/redloc_theory/)

@@ -10,10 +10,7 @@ electronic data transmission-type noises. The visuals contain a series
 of purple-colored frames.
 
 ## Composites
-Regular: <http://tomasf.se/projects/semi/QUOT_composite.png>  
-Enlarged: <http://tomasf.se/projects/semi/QUOT_composite_enlarged.png>
-
-[![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png)](QUOT_composite_enlarged.full.png)
+[![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png)](QUOT_composite.png)
 
 3D composite by Lukidot:
 

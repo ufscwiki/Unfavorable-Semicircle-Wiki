@@ -7,27 +7,18 @@ analysis on its release. It is one of two unique videos posted to that
 account, the other being ♐♐[LOYAL](LOYAL "wikilink").
 
 ## Description of video
-
 ♐♐CULLET is 4:49:36 in length with a series of flashing frames. It has a
 low humming/mechanical audio track.
 
 ## Meaning of Name
-
 "Cullet" is a name for glass that is crushed and ready to be remelted in
 the process of
 [recycling](https://en.wikipedia.org/wiki/Glass_recycling).
 
-## Composites
-
-### 2-D Composite
-
+## 2D composites
+♐♐CULLET 2-D composite by Discord user Mark The Third:
 [![Cullet\_composite.png](Cullet_composite.png "Cullet_composite.png")](Cullet_composite.full.png)
 
-*♐♐CULLET 2-D composite by discord user mark the third*
-
-### 3-D Composite
-
+## 3D composites
+Screen from Reddit thread:
 [![Cullet\_3-d\_screengram\_from\_reddit.png](Cullet_3-d_screengram_from_reddit.png)](Cullet_3-d_screengram_from_reddit.full.png)
-
-*this is a screengrab from a reddit thread, maker unknown*
-

@@ -2,8 +2,6 @@
 ♐RUN is a video posted to the [3rd youtube channel](3rd_youtube_channel "wikilink") account on January 4, 2018. It
 is 2:14:24 long and contains a series of moving images.
 
-{{\#ev:youtube|<https://www.youtube.com/watch?v=6fcBC3ULi8g>}}
-
 ## Audio
 The audio track begins with a clear handshake, and then around 9 seconds
 of silence, before about 2 minutes and 14 seconds of loud audio. The
@@ -13,9 +11,6 @@ changes tone throughout the rest of the audible track.
 
 The audio of the [Handshake](Handshake "wikilink") has been the subject
 of [further analysis](Handshake#Analysis "wikilink").
-
-## Title
-*please elaborate*
 
 ## Composite
 Composite by Extra:
@@ -56,3 +51,6 @@ looks similar to a circular impact crater. The meteor that formed the
 crater is said to have caused a mass extinction event about 66 million
 years ago, a disastrous event possibly being the meaning behind the
 vague but worrying title "RUN."
+
+## Links
+* Original video, https://www.youtube.com/watch?v=6fcBC3ULi8g.

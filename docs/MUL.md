@@ -19,14 +19,10 @@ that these contain 19 different audio-encoded binary bytes, as in
 ♐[CAB](CAB "wikilink"), but work on this is incomplete.
 
 ## Composites
+♐MUL composite:
 ![MUL composite.png](MUL_composite.png "MUL composite.png")
 
-*♐MUL composite*
-
-<http://tomasf.se/projects/semi/MUL_composite.png>
-
 3D composite by Lukidot:
-
 [![MUL_3d.png](MUL_3d.png)](MUL_3d.full.png)
 
 ## Archive
@@ -38,5 +34,4 @@ An archive of all ♐MUL videos is available
 that MUL is Sumerian for "star". (See [Babylonian star catalogues](https://en.wikipedia.org/wiki/Babylonian_star_catalogues)).
 
 ## Links
-Advanced twitter search of ♐MUL series:
-<https://twitter.com/search?q=%E2%99%90mul%20from%3Aunfavorablesemi&src=typd>
+* Advanced Twitter search of the ♐MUL series, https://twitter.com/search?q=%E2%99%90mul%20from%3Aunfavorablesemi&src=typd.

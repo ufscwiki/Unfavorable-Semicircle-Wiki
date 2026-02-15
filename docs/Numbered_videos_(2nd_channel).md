@@ -1,4 +1,4 @@
-# Numbered videos (2nd channel)
+# Numbered videos (second channel)
 This is a series posted to the new youtube account between July 12 and 13, 2016. There are ten videos in the series, named with 6-digit numbers.
 
 ## Videos
@@ -14,8 +14,6 @@ This is a series posted to the new youtube account between July 12 and 13, 2016.
 - ♐113450
 
 ## Composite
-<http://tomasf.se/projects/semi/numbered_2016-07-12_composite.png>
-
 [![Numbered\_2016-07-12\_composite.png](Numbered_2016-07-12_composite.png)](Numbered_2016-07-12_composite.full.png)
 
 The composite is visually similar to the [BRILL-based composites](BRILL_Composite "wikilink"), but the colors are altered.

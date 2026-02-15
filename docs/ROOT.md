@@ -8,8 +8,6 @@ authenticity. Nothing else was posted to the channel until
 ♐[FORM](FORM "wikilink") 0 followed exactly a year later, on December
 31, 2019.
 
-{{\#ev:youtube|<https://youtu.be/qKuxiiVUB4Y>}}
-
 ## A Series of one?
 
 Unusually, no known ♐ROOT videos have yet followed ♐ROOT 0, making it an
@@ -35,7 +33,5 @@ length of the video with a low rumbling sound.
 
 [![ROOT-3d.png](ROOT-3d.png)](ROOT-3d.full.png) 
 
-## Videos in the series
-
-♐ROOT 0: <https://youtu.be/qKuxiiVUB4Y>
-
+## Links
+* ♐ROOT 0, https://youtu.be/qKuxiiVUB4Y.
