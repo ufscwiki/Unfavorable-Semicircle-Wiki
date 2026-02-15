@@ -44,7 +44,7 @@ Discord users Anteater and Vomalhaut have made some connections between differen
 
 Interestingly, the "houses" of Gemini and Sagittarius, as well as those of Virgo and Pisces, are opposed to each other, drawing a series of connections.
 
-![astrological connections by Vomalhaut.png](astrological connections by Vomalhaut.png)
+![astrological_connections.png](astrological_connections.png)
 
 *Image by Discord user Vomalhaut, showing possible astrological connections*
 
