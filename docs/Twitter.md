@@ -74,7 +74,7 @@ The same post also contains a link to a new twitter account,
 [@unfavorablesem](https://twitter.com/unfavorablesem). Nothing has been
 posted from this account yet.
 
-On April 24, 2019 discord user alexmagnus observed that the
+On April 24, 2019 Discord user alexmagnus observed that the
 @unfavorablesemi twitter account had been deleted/suspended.
 
 ## Posting patterns

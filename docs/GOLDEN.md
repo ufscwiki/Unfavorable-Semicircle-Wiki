@@ -39,7 +39,7 @@ The composite creates a grid with four different images, similar to ♐[HARVEST]
 
 ##### Text in composite
 
-Similar to ♐[HARVEST](HARVEST), it appears that there is text encoded at the bottom of the top right quadrant. The small size made the text difficult to decipher. However, with the posting of @unfavorablesem's version of the composite in 2022, discord user && has theorized that the text reads "THERE IS ALWAYS MORE THERE IS ALWAYS MORE..."
+Similar to ♐[HARVEST](HARVEST), it appears that there is text encoded at the bottom of the top right quadrant. The small size made the text difficult to decipher. However, with the posting of @unfavorablesem's version of the composite in 2022, Discord user && has theorized that the text reads "THERE IS ALWAYS MORE THERE IS ALWAYS MORE..."
 
 ![GOLDEN text.png](GOLDEN_text.png " GOLDEN text.png")
 

@@ -12,7 +12,7 @@ A video named ♐[PORT](PORT) was posted to the channel on
 December 31, 2017.
 
 The channel was undiscovered until [cryptic text posted in a tweet](NYE_tweet) that same night was decoded on January 1,
-2018 by discord user Peter, with the text
+2018 by Discord user Peter, with the text
 "VUNzZ1JUUkpOeTA1TXVCN2cyWDV1ZXFn" decoding in Base64 to
 "UCsgRTRJNy05MuB7g2X5ueqg", the text at the end of this channel's URL.
 

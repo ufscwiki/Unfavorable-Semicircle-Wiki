@@ -10,15 +10,15 @@ three days after this.
 
 ![Zoro\_notification.jpg](Zoro_notification.jpg "Zoro_notification.jpg")
 
-*youtube notification received by discord user A Hidden Waffle*
+*youtube notification received by Discord user A Hidden Waffle*
 
 ![Zoro\_removed.png](Zoro_removed.png "Zoro_removed.png")
 
-*missing video screencapped by discord user A Hidden Waffle*
+*missing video screencapped by Discord user A Hidden Waffle*
 
 ![Zoro\_notification\_2.jpg](Zoro_notification_2.jpg)
 
-*youtube notification received by discord user Ryallin*
+*youtube notification received by Discord user Ryallin*
 
 ## Significance
 

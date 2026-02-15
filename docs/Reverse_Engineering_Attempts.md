@@ -18,7 +18,7 @@ which renders this composite:
 
 # Extra's videos
 
-This video was created by discord user extra.
+This video was created by Discord user extra.
 
 {{\#ev:youtube|<https://youtu.be/yIrgegcUugg>}}
 

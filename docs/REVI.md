@@ -19,7 +19,7 @@ of a miraheze staff member.
 ## Composite
 [![REVI.png](REVI.png "REVI.png")](REVI.full.png)
 
-(Composite at width of 37 pixels by discord user extra).
+(Composite at width of 37 pixels by Discord user extra).
 
 This short video makes a small composite that doesn't seem to make a
 specific image.

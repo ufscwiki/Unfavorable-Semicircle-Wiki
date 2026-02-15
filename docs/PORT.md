@@ -12,7 +12,7 @@ most interestingly it could refer to:
 
   - [adapting software from one platform to another](https://en.wikipedia.org/wiki/Porting)
   - several nautical terms (similar to ♐[HULL](HULL) and
-    ♐[BRINE](BRINE)) (*observed by discord user yam00*)
+    ♐[BRINE](BRINE)) (*observed by Discord user yam00*)
 
 ## 2D composite
 Composite by Discord user Extra:
@@ -29,7 +29,7 @@ left corner that could be Morse Code:
 
 ![PORT\_composite\_-\_top\_left\_corner\_zoomed\_in.png](PORT_composite_-_top_left_corner_zoomed_in.png)
 
-This has been decoded by discord user ShadowMorphyn as "NDMTEGD".
+This has been decoded by Discord user ShadowMorphyn as "NDMTEGD".
 
 There appears to be a string of letters and numbers in the bottom left
 corner:

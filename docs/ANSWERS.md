@@ -54,7 +54,7 @@ _**Note:** for additional clarity the questions that triggered these responses a
 
 **5.  The community has suspected there was some back-and-forth between people trying to solve the project and UFSC. Were you actively watching the solving effort? If so, what were your thoughts and how did it affect the ongoing project?**
 
-> <code>5. Yes, I've been watching from the start. I remember seeing /u/LaunchOurRockets' post shortly after it came out. I remember all the people setting reminders for days/months later to see what became of the project. I carefully followed the community for a long time. I remember seeing the Reddit page with just a few posts and when the main effort shifted to discord (nice pet photos!). For a long while I read every single post that was posted. Generally I would come and read every once in a while and catch up. As time when on I caught up less and less frequently. Eventually this became reading just the last few posts. After the project came to its main end in 2017 I checked less and less frequently, eventually just checking in once/twice or so.</code>
+> <code>5. Yes, I've been watching from the start. I remember seeing /u/LaunchOurRockets' post shortly after it came out. I remember all the people setting reminders for days/months later to see what became of the project. I carefully followed the community for a long time. I remember seeing the Reddit page with just a few posts and when the main effort shifted to Discord (nice pet photos!). For a long while I read every single post that was posted. Generally I would come and read every once in a while and catch up. As time when on I caught up less and less frequently. Eventually this became reading just the last few posts. After the project came to its main end in 2017 I checked less and less frequently, eventually just checking in once/twice or so.</code>
 
 > <code>Generally I tried to see what was of interest and what less interesting on the various channels. Mostly I wanted to make sure the goal of the channel was on track (see 6.). I wanted to make it a challenge to discover the next thing (composites, songs, hidden messages/ 3d composites) but also wanted to include an occasional hint/theme to get you on the path.</code>
 
@@ -166,7 +166,7 @@ _**Note:** for additional clarity the questions that triggered these responses a
 
 **13.  Why did you quote me out of nowhere? It was past midnight and I get a ping suddenly UFSC comes out of nowhere and tweets what I said in Discord months ago lol**
 
-> <code>13. You made a semi-recent post that I felt summed up much of what I was trying to go for. It was an acknowledgement to you and the discord that you had pretty much got it right and wanted to use it as the opener for my basic summary explaining the project.</code>
+> <code>13. You made a semi-recent post that I felt summed up much of what I was trying to go for. It was an acknowledgement to you and the Discord that you had pretty much got it right and wanted to use it as the opener for my basic summary explaining the project.</code>
 
 **17.  Hey, I'm /u/LaunchOurRocket, the Reddit user who "discovered" your work back in 2015. I found your original channel totally by accident, and I'm wondering... Did you start uploading with a plan to promote anything? How long did you think it would take for your project to get noticed? Are there aspects of it people still haven't solved?**
 

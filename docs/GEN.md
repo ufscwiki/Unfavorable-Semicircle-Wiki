@@ -9,7 +9,7 @@ would follow on December 31st, 2018.
 ## Audio
 The audio track has a warbling, low-frequency sound with data noises.
 The final 96 seconds look like a silent waveform, but as discovered by
-discord user Unstable Olding, "there is a lot of static/wind noise if
+Discord user Unstable Olding, "there is a lot of static/wind noise if
 you amplify it".
 
 ## 2D composite
@@ -22,7 +22,7 @@ a slice of the "hair/grass" filaments in the ♐[RUN](RUN)
 composite.
 
 The hairs are most visible in the red channel of the image (as
-discovered by discord user crispyLettuce). Removing the other color
+discovered by Discord user crispyLettuce). Removing the other color
 channels makes the curves more clear:
 
 ![GEN\_red\_channel.png](GEN_red_channel.png "GEN_red_channel.png")

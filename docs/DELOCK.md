@@ -26,7 +26,7 @@ The video's audio track contains a dual mono audio track with "calliope"/ragtime
 
 #### alexbassguy's Analysis
 
-This is the analysis of discord user alexbassguy: "After a careful
+This is the analysis of Discord user alexbassguy: "After a careful
 review, it's not Steamboat Willie. BUT - I can say with some confidence
 that the audio is definitely like Steamboat Willie. I.e., early cartoon
 music with sound effects. It could be from one of hundreds of old
@@ -39,7 +39,7 @@ Steamboat Willie to recreate what I hear in DELOCK, here's what I came
 up with. It's close, and the techniques I employed here could (with some
 variation) create DELOCK."
 
-{*see discord discussion in #solving on 2020-02-08*}
+{*see Discord discussion in #solving on 2020-02-08*}
 
 #### "Homesick"
 
@@ -49,7 +49,7 @@ On June 19, 2020, Discord user Freezepond observed that the music in ♐DELOCK a
 
 Original analysis identified the spoken text near the beginning as "IANNOP6".
 
-Further research by discord user Dom "\[t\]ook a closer look at the spoken letters in ♐DELOCK, comparing them to the master (ABC...) track. They spell out 'I AM NOT H' when you take the spaces into account."
+Further research by Discord user Dom "\[t\]ook a closer look at the spoken letters in ♐DELOCK, comparing them to the master (ABC...) track. They spell out 'I AM NOT H' when you take the spaces into account."
 
 ![I am not H](DELOCK_I_am_not_H.png)
 
@@ -59,7 +59,7 @@ Dom further observes: "I compared the waveforms for each letter to get this resu
 
 The meaning of "H" remains open to conjecture.
 
-{*see discord discussion in #on-topic-misc on 2021-05-18*}
+{*see Discord discussion in #on-topic-misc on 2021-05-18*}
 
 ### Possible significance of the audio
 
@@ -72,7 +72,7 @@ Some of the numbered videos from the [Original unnamed series](Original_unnamed_
 
 ![♐DELOCK audio comparison](Delock_audio_fragment_in_903_+_5967_+_6101.png)
 
-*This screenshot by discord user Unfavorablist shows the audio from
+*This screenshot by Discord user Unfavorablist shows the audio from
 ♐DELOCK open at the bottom with several fragments from the [Original unnamed series](Original_unnamed_series) aligned in
 corresponding positions.*
 

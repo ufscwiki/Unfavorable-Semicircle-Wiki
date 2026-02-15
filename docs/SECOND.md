@@ -122,7 +122,7 @@ There is a richness of detail in this composite, especially in the
 "square" section of the image, including what may be hidden patterns.
 
 - there is an intruiging "constellation" of red dots in this area that
-  can be better seen in this inverted/color adjusted edit (by discord
+  can be better seen in this inverted/color adjusted edit (by Discord
   user ShadowMorphyn) where the dots appear in blue:
 
 ![Second_vibrancy_.png](Second_vibrancy_.png "Second_vibrancy_.png")

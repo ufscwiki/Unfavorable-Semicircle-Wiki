@@ -19,7 +19,7 @@ It is unclear if the person posting to the twitter account is an actual author o
 ![scottywiththebody's comment](Discord_quote.png "scottywiththebody's comment")
 
 The first tweet is a direct quotation from [a post](https://discord.com/channels/193619269794267137/842288203150655488/918303627532185650
-) from December 8, 2021 by discord user scottywiththebody in the #astrology channel.
+) from December 8, 2021 by Discord user scottywiththebody in the #astrology channel.
 
 ### Tweet #2
 

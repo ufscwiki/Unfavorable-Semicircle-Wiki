@@ -44,7 +44,7 @@ channels, there is pretty much no data in green. (Compare and contrast
 with ♐[NEO](NEO), which similarly has no blue.)
 
 ## 3D composites
-♐AZO 3-D composite by discord user Tukkek:
+♐AZO 3-D composite by Discord user Tukkek:
 [![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png")](Azo_0-3d.full.png)
 
 The 3D composite for ♐AZO is visually similar to the one for

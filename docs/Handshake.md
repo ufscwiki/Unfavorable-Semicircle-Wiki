@@ -66,7 +66,7 @@ sonogram:
 
 ![Handshake\_image\_detail\_by\_resto.png](Handshake_image_detail_by_resto.png)
 
-*detail of spectrogram image by discord user Risto*
+*detail of spectrogram image by Discord user Risto*
 
 alexbassguy's commentary notes: "You NEVER see symmetrical frequency
 patterns like that in audio, it's just not how audio works. The spooky

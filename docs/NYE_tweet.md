@@ -19,6 +19,6 @@ The symbol ⌅ can be used to mean [Projective space](https://en.wikipedia.org/w
 
 ## Decoding the text
 
-It was discovered by discord user Peter that the text string is encoded
+It was discovered by Discord user Peter that the text string is encoded
 in base64, which decodes to the string"UCsgRTRJNy05MuB7g2X5ueqg". That
 string of characters appears in the address of the [3rd youtube channel‎](3rd_youtube_channel‎).

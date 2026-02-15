@@ -83,7 +83,7 @@ been made:
 However, this was ignored in favour of the fortuitous connection in the
 Wikipedia article.
 
-In February 2020, discord user alexmagnus inquired as to "where does the
+In February 2020, Discord user alexmagnus inquired as to "where does the
 notion that zufcho is hebrew for star come from though?" This lead to
 some re-investigation clarifying the facts above.
 

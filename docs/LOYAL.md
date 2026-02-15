@@ -8,7 +8,7 @@
 There is no clear meaning, but this could be taken a a hint that this channel is "loyal" to the actual creator(s) of UFSC.
 
 ## Composites
-♐♐LOYAL composite by discord user Mark The Third.
+♐♐LOYAL composite by Discord user Mark The Third.
 
 [![Loyal\_composite.png](Loyal_composite.png)](Loyal_composite.full.png)
 

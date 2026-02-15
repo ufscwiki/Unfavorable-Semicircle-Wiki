@@ -8,15 +8,15 @@ posted four days later.
 ## Audio
 The audio track is mostly silent, except for 5 sound-bursts:
 
-  - a "subway brake squeal" (similar to ♐[LIMIT](LIMIT)) at
-    8:04
-  - a similar sound to the first at 20:40
-  - a high-pitched (pitch-shifted?) noise that could be a modified
-    version of the above sounds at 23:28
-  - a 34-second crunchy noise at 58:49 (with what sounds like a shorter
-    sound hidden under the noise)
-  - an 11-second melodic burst (distorted piano or some sort of
-    keyboard?) at 2:16:59
+- a "subway brake squeal" (similar to ♐[LIMIT](LIMIT)) at
+  8:04
+- a similar sound to the first at 20:40
+- a high-pitched (pitch-shifted?) noise that could be a modified
+  version of the above sounds at 23:28
+- a 34-second crunchy noise at 58:49 (with what sounds like a shorter
+  sound hidden under the noise)
+- an 11-second melodic burst (distorted piano or some sort of
+  keyboard?) at 2:16:59
 
 Those sounds, with the silence between them removed can be heard
 [here](https://clyp.it/0g5p0e31).
@@ -27,7 +27,7 @@ continued investigation.
 
 ![Node\_transcription.png](Node_transcription.png)
 
-(*audio transcription by discord user A Hidden Waffle — listenable
+(*audio transcription by Discord user A Hidden Waffle — listenable
 [here](https://flat.io/score/5a6a5602403e3b06e6ab05ee-ufsc)*)
 
 Discord user alexander later provided a more elaborate transcription of

@@ -41,7 +41,7 @@ behaviour:"
 
 ![Form0+1+2.png](Form0+1+2.png "Form0+1+2.png")
 
-(*composite of ♐FORM 0, 1 + 2 1by discord user mark A Hidden Waffle, who
+(*composite of ♐FORM 0, 1 + 2 1by Discord user mark A Hidden Waffle, who
 adds: "\[n\]ote that making a composite directly, they aren't all lined
 up in the same spot, so I just moved parts around in gimp to make it
 line up".*)

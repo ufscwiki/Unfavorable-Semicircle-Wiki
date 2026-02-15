@@ -23,7 +23,7 @@ COEF unadjusted composite by Discord user Mark Aardvark:
 
 [![COEF\_unadjusted\_composite.png](COEF_unadjusted_composite.png)](COEF_unadjusted_composite.full.png)
 
-COEF adjusted composite by discord user Mark Aardvark:
+COEF adjusted composite by Discord user Mark Aardvark:
 
 ![COEF\_adjusted\_composite.png](COEF_adjusted_composite.png)
 
