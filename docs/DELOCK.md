@@ -2,7 +2,7 @@
 
 ♐DELOCK is a video posted to the original UFSC YouTube channel on
 December 29, 2015. It was the first video posted after a lengthy hiatus.
-(The previous postings were the [OR](OR "wikilink") videos on August
+(The previous postings were the [OR](OR) videos on August
 8th.) This video in particular has garnered a larger amount of attention
 as it was among the first non-series videos discovered on the original
 account.
@@ -20,13 +20,13 @@ The video is 2:52 in duration. The video shows a white grid-like shape n a black
 
 ## Audio
 
-The video's audio track contains a dual mono audio track with "calliope"/ragtime-type music, which had originally been compared to the sounds in the cartoon [*Steamboat Willie*](https://youtu.be/BBgghnQF6E4). The [Unknown Voice](Unknown_Voice "wikilink") spels out a series of letters near the beginning (similar to the spelling of "FREEBIRD3" in [MAX\_TEND](MAX_TEND "wikilink")).
+The video's audio track contains a dual mono audio track with "calliope"/ragtime-type music, which had originally been compared to the sounds in the cartoon [*Steamboat Willie*](https://youtu.be/BBgghnQF6E4). The [Unknown Voice](Unknown_Voice) spels out a series of letters near the beginning (similar to the spelling of "FREEBIRD3" in [MAX\_TEND](MAX_TEND)).
 
 ### Audio analysis
 
 #### alexbassguy's Analysis
 
-This is the analysis of discord user alexbassguy: "After a careful
+This is the analysis of Discord user alexbassguy: "After a careful
 review, it's not Steamboat Willie. BUT - I can say with some confidence
 that the audio is definitely like Steamboat Willie. I.e., early cartoon
 music with sound effects. It could be from one of hundreds of old
@@ -39,17 +39,17 @@ Steamboat Willie to recreate what I hear in DELOCK, here's what I came
 up with. It's close, and the techniques I employed here could (with some
 variation) create DELOCK."
 
-{*see discord discussion in #solving on 2020-02-08*}
+{*see Discord discussion in #solving on 2020-02-08*}
 
 #### "Homesick"
 
-On June 19, 2020, Discord user Freezepond observed that the music in ♐DELOCK appears to be a manipulated version of "[*Homesick*](https://youtu.be/Mw6n1LuMaBQ)", recorded by Bailey's Lucky Seven. (Gennett 4979, the b-side to “Carolina In The Morning”.)  This would seemingly be confirmed by (and explains) the hitherto-obscure comment "HOMESICKDELOCK" in the final [G+](Google_Plus "wikilink") post.
+On June 19, 2020, Discord user Freezepond observed that the music in ♐DELOCK appears to be a manipulated version of "[*Homesick*](https://youtu.be/Mw6n1LuMaBQ)", recorded by Bailey's Lucky Seven. (Gennett 4979, the b-side to “Carolina In The Morning”.)  This would seemingly be confirmed by (and explains) the hitherto-obscure comment "HOMESICKDELOCK" in the final [G+](Google_Plus) post.
 
 #### "I am not H"
 
 Original analysis identified the spoken text near the beginning as "IANNOP6".
 
-Further research by discord user Dom "\[t\]ook a closer look at the spoken letters in ♐DELOCK, comparing them to the master (ABC...) track. They spell out 'I AM NOT H' when you take the spaces into account."
+Further research by Discord user Dom "\[t\]ook a closer look at the spoken letters in ♐DELOCK, comparing them to the master (ABC...) track. They spell out 'I AM NOT H' when you take the spaces into account."
 
 ![I am not H](DELOCK_I_am_not_H.png)
 
@@ -59,21 +59,21 @@ Dom further observes: "I compared the waveforms for each letter to get this resu
 
 The meaning of "H" remains open to conjecture.
 
-{*see discord discussion in #on-topic-misc on 2021-05-18*}
+{*see Discord discussion in #on-topic-misc on 2021-05-18*}
 
 ### Possible significance of the audio
 
-Both "Homesick" and “Away Down East In Maine” (the song used as the sound-source for [♐RETIO](RETIO "wikilink")) were on 78 RPM singles recorded in 1922. Discord user Unfavorablist observed that that year is "significant in terms of copyright. After the Disney/Steamboat Willie copyright extension, nothing after 1922 entered the public domain in the U.S. until recently." (Further discussion in [*this*](https://www.smithsonianmag.com/arts-culture/first-time-20-years-copyrighted-works-enter-public-domain-180971016/) article.)
+Both "Homesick" and “Away Down East In Maine” (the song used as the sound-source for [♐RETIO](RETIO)) were on 78 RPM singles recorded in 1922. Discord user Unfavorablist observed that that year is "significant in terms of copyright. After the Disney/Steamboat Willie copyright extension, nothing after 1922 entered the public domain in the U.S. until recently." (Further discussion in [*this*](https://www.smithsonianmag.com/arts-culture/first-time-20-years-copyrighted-works-enter-public-domain-180971016/) article.)
 
 ## Relationship to original unnamed series
 
-Some of the numbered videos from the [Original unnamed series](Original_unnamed_series "wikilink") appear to be snippets of
+Some of the numbered videos from the [Original unnamed series](Original_unnamed_series) appear to be snippets of
 ♐DELOCK. ([*reference*](https://www.reddit.com/r/UnfavorableSemicircle/comments/46ypm7/videos_from_dec_26th_2015_are_made_up_of_portions/))
 
 ![♐DELOCK audio comparison](Delock_audio_fragment_in_903_+_5967_+_6101.png)
 
-*This screenshot by discord user Unfavorablist shows the audio from
-♐DELOCK open at the bottom with several fragments from the [Original unnamed series](Original_unnamed_series "wikilink") aligned in
+*This screenshot by Discord user Unfavorablist shows the audio from
+♐DELOCK open at the bottom with several fragments from the [Original unnamed series](Original_unnamed_series) aligned in
 corresponding positions.*
 
 ## Significance and meaning
@@ -99,7 +99,7 @@ illustration of the concept in the wiki article:
 
 ## 2021 investigations
 
-In 2021 some further investigaton was done on [♐LOCK](LOCK "wikilink"), ♐DELOCK and [♐UPRIGHT](UPRIGHT "wikilink") by Discord users.
+In 2021 some further investigaton was done on [♐LOCK](LOCK), ♐DELOCK and [♐UPRIGHT](UPRIGHT) by Discord users.
 
 On July 28, @Daxterapid *got a script running that prints the hue of any one pixel every frame on delock, I chose (50, 50) as it's in the middle and mostly away from the white lines. And it appears it's not the same color the entire video through, but I think that's from compression or something, i.e the pixel above has an effect on its hue because the image is sort of blurry*.
 
@@ -109,9 +109,9 @@ On August 4, @tukkek posted a video *tracking individual change in color*:
 
 https://www.unfavorablesemicircle.com/DELOCK.delta.mp4
 
-The same user would then on August 5, create a new video based on an idea by @Kai45: 
+The same user would then on August 5, create a new video based on an idea by @Kai45:
 
-> **Kai45**: Has anyone else noticed that Upright matches with Delock although it's off-center? The bottom left area of Upright has the center square of Delock and the lines around it match up as well. 
+> **Kai45**: Has anyone else noticed that Upright matches with Delock although it's off-center? The bottom left area of Upright has the center square of Delock and the lines around it match up as well.
 > **tukkek**: i followed through @Kai45's idea and rebuilt ♐DELOCK from ♐UPRIGHT. im not adjusting for the panning or boundaries changing yet but i can try to go the extra mile if an interesting idea in how to apply this to ♐DELOCK shows up.
 
 https://www.unfavorablesemicircle.com/UPRIGHT.puzzle.mp4
@@ -141,5 +141,5 @@ https://www.unfavorablesemicircle.com/UPRIGHT.puzzle.mp4
 
 ## See also
 
-* [Hearthstone](Hearthstone "wikilink")
+* [Hearthstone](Hearthstone)
 * [Crimp](CRIMP)

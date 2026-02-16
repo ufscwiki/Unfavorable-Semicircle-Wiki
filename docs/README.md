@@ -1,53 +1,40 @@
 # Welcome to the Unfavorable Semicircle Wiki
 
 ## What is Unfavorable Semicircle?
+Unfavorable Semicircle was the name of a channel on YouTube which garnered attention for the huge number of videos it published and the unusual nature of the videos over the course of a year. The account went live on March 30, 2015 and began posting extremely frequently, with two or three videos being published every two minutes.
 
-Unfavorable Semicircle was the name of a channel on YouTube which
-garnered attention for the huge number of videos it published and the
-unusual nature of the videos over the course of a year. The account went
-live on March 30, 2015 and began posting extremely frequently, with two
-or three videos being published every two minutes.
+Tens of thousands of videos were posted on the channel while it was active, some only a few seconds long, others as long as eleven hours. All featured abstract images and were either silent or contained [distorted voices](Unknown_Voice) and unusual sounds.
 
-Tens of thousands of videos were posted on the channel while it was
-active, some only a few seconds long, others as long as eleven hours.
-All featured abstract images and were either silent or contained
-[distorted voices](Unknown_Voice "wikilink") and unusual sounds.
+The channel garnered much attention and curiosity after one of its videos was posted to Reddit and soon hit the mainstream news on February 22nd. On February 25, 2016, the channel had been terminated by YouTube.
 
-The channel garnered much attention and curiosity after one of its
-videos was posted to Reddit and soon hit the mainstream news on February 22nd. On February 25, 2016, the channel had been terminated by YouTube.
-
-On March 3, 2016, Unfavorable Semicircle was discovered on Twitter and
-on a new YouTube account after decoding a
-[post](Google_Plus#G.2B_post_1 "wikilink") on the Google+ page that was
-linked to the Original YouTube channel.
+On March 3, 2016, Unfavorable Semicircle was discovered on Twitter and on a new YouTube account after decoding a [post](Google_Plus#G.2B_post_1) on the Google+ page that was linked to the Original YouTube channel.
 
 On 2017 the channel [deleted itself](RESET_STRANGE_YD), and its twitter account.
 
-Later, the twitter account was reopened, and linked to another YouTube
-account, although later evidence has indicated that these may not be
-"[real](Google_Plus#G.2B_post_4 "wikilink")".
+Later, the twitter account was reopened, and linked to another YouTube account, although later evidence has indicated that these may not be "[real](Google_Plus#G.2B_post_4)".
 
 ### Pages
-- [History and background](History_and_background "wikilink")
-- [Real and fake channels](Real_and_Fake_channels "wikilink")
-- [Timeline](Timeline "wikilink")
-- [Video archives](archives "wikilink")
+- [History and background](History_and_background)
+- [Real and fake channels](Real_and_Fake_channels)
+- [Timeline](Timeline)
+- [Video archives](archives)
+- [Astrology](Astrology)
 
 #### Lists
-- [List of series](List_of_Series "wikilink")
-- [List of videos without series](List_of_videos_without_series "wikilink")
-- [List of theories](List_of_Theories "wikilink")
-- [List of ideas accomplished or tried](List_of_Things_Accomplished_Tried "wikilink")
+- [List of series](List_of_Series)
+- [List of videos without series](List_of_videos_without_series)
+- [List of theories](List_of_Theories)
+- [List of ideas accomplished or tried](List_of_Things_Accomplished_Tried)
 - [List of glitches](List_of_glitches)
 - [List of popular culture references](List_of_popular_culture_references)
 
 #### Composites
-- [Composite visual overview](Composite_visual_overview "wikilink")
-- [Video composites](Video_Composites "wikilink")
-    - [Creating a composite](Creating_a_Composite_Image "wikilink")
-    - [3D composites](3D_Composite "wikilink")
-    - [Recursive composites](recursive_composites "wikilink")
-- [Audio composites](audio_composites "wikilink")
+- [Composite visual overview](Composite_visual_overview)
+- [Video composites](Video_Composites)
+    - [Creating a composite](Creating_a_Composite_Image)
+    - [3D composites](3D_Composite)
+    - [Recursive composites](recursive_composites)
+- [Audio composites](audio_composites)
 
 ## Joining the Community
 
@@ -70,4 +57,4 @@ the Discord.
 
 ## Contributing to the Wiki
 This wiki was migrated from the original MediaWiki to Github Pages.
-If you would like to contribute please see [Updating the wiki](Updating_the_Wiki "wikilink").
+If you would like to contribute please see [Updating the wiki](Updating_the_Wiki).

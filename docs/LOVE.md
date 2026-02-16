@@ -1,7 +1,7 @@
 # LOVE
-♐LOVE is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on June 11, 2016. It was
-posted a week after the ♐[FEND](FEND "wikilink") series ended and posted
-just before the ♐[FOND](FOND "wikilink") series began.
+♐LOVE is a video posted to the [second YouTube account](Real_and_Fake_channels) on June 11, 2016. It was
+posted a week after the ♐[FEND](FEND) series ended and posted
+just before the ♐[FOND](FOND) series began.
 
 {{\#ev:youtube|<https://www.youtube.com/watch?v=Q20vJdocgwU>}}
 
@@ -20,7 +20,7 @@ seconds to one hour and fifty minutes) there are morse-like bips
 throughout.
 
 ## LAME tags
-On September 14, 2017, Discord user [unstable olding](unstable_olding "wikilink") mentioned finding *LAME3.99.5*
+On September 14, 2017, Discord user [unstable olding](unstable_olding) mentioned finding *LAME3.99.5*
 strings in the LOVE text files. This is
 the metadata tag of [a famous MP3 file encoder](http://lame.sourceforge.net/), in it's latest version as of the
 date (3.99.5, released back in 2012). This could be evidence that either

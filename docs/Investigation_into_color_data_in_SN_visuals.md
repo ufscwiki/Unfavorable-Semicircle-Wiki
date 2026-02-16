@@ -6,7 +6,7 @@
 
 ## Concept
 
-Can we extract data from the shifting "histogram" images in [Stabilitory newing](Stabilitory_newing "wikilink") videos?
+Can we extract data from the shifting "histogram" images in [Stabilitory newing](Stabilitory_newing) videos?
 
 The images have fifty "pillars" or columns that can have a height from
 0-35.
@@ -56,4 +56,3 @@ here: <https://hastebin.com/ficubivoze.py>
     duplicate images are handled so you don't have to worry about that
   - shl is the y position of the always-there horizontal line, I dont
     think it ever changes
-

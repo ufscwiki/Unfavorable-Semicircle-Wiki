@@ -3,16 +3,16 @@
 ♐POINT is a series of videos uploaded to the Twitter account. It began
 on January 29, 2017 and stopped posting on February 13th (at
 [♐POINT 5818](https://twitter.com/unfavorablesemi/status/831074953835454464)).
-It was posted in parallel with the [MOTH](MOTH "wikilink") series being
+It was posted in parallel with the [MOTH](MOTH) series being
 posted on the second youtube account. The series was the final series
-posted to Twitter before the [manual closing of the account](RESET_STRANGE_YD "wikilink").
+posted to Twitter before the [manual closing of the account](RESET_STRANGE_YD).
 
-This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+This video or series has a composite with an "interesting" [video scope](Video_scopes).
 
 ## Description of videos
 
-Similar to series such as [NIL](NIL "wikilink"), the videos in this
-series are four seconds long, with the [Unknown Voice](Unknown_Voice "wikilink") saying a letter or a number at the
+Similar to series such as [NIL](NIL), the videos in this
+series are four seconds long, with the [Unknown Voice](Unknown_Voice) saying a letter or a number at the
 beginning of the video.
 
 ## Posting Frequency
@@ -35,7 +35,7 @@ Data pertaining to the periods can be found at [Tomas' website](http://tomasf.se
 
 ![POINT composite annotated.png](POINT_composite_annotated.png)
 
-(*♐POINT composite annotated with "periods" described above, complete to 
+(*♐POINT composite annotated with "periods" described above, complete to
 ♐POINT 5818*)
 
 ### 3-D Composites
@@ -49,14 +49,14 @@ Data pertaining to the periods can be found at [Tomas' website](http://tomasf.se
 *screencap of ♐POINT 3-D composite (view 2)*
 
 The 3-D composite makes a roughly half-spherical shape, somewhat similar
-to that of ♐[DUAL](DUAL "wikilink")'s 3-D composite. This (and other)
+to that of ♐[DUAL](DUAL)'s 3-D composite. This (and other)
 3-D composites are viewable
 [here](https://lorpus.github.io/sketches/ufsc3d/).
 
 ## Transcription
 
 Using audio hashing, Thomas has [auto-transcribed the entire series](http://tomasf.se/projects/semi/POINT_transcription.txt). It is
-backed up on the wiki [here](POINT_transcription "wikilink").
+backed up on the wiki [here](POINT_transcription).
 
 ### Character frequency
 
@@ -72,7 +72,7 @@ complete to ♐POINT 5818*)
 
 Using a [Caesar Cipher](http://www.dcode.fr/caesar-cipher) tool,
 ShadowMorphyn has found the possible references to two other UFSC videos
-([LOVE](LOVE "wikilink") and [JALVINSACH](JALVINSACH "wikilink")) with a
+([LOVE](LOVE) and [JALVINSACH](JALVINSACH)) with a
 22 character shift.
 
 ![POINT cipher output.png](POINT_cipher_output.png)
@@ -94,4 +94,3 @@ utility.
 
 A partial archive (3250 videos) of the series is available
 [here](https://mega.nz/#!NnhkyJQK!G4PQ_6eqHrrjxxlOQ7ifdnXnQMvFCru3E65gsZIHqcA).
-

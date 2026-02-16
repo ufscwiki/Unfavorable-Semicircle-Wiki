@@ -1,13 +1,13 @@
 # Creating a Composite Image
 
-The [composites](Video_Composites "wikilink") are created with
+The [composites](Video_Composites) are created with
 extracting each frame as a png file. So if a video has 30 frames per
 second and the video is 90 seconds long you will have 2700 images. What
 /u/tomasfra and /u/piecat have been doing is arranging those images to
 create the composite. Some variables are how big is each image (1x1, 5x5
 pixels, etc) and what are the dimensions of the grid.
 
-## Composite maker 
+## Composite maker
 
 Discord user Dom has created a python script to create composites, which is [available on github](https://github.com/applesdom/composite). It has a GUI and was written for Python 3.6.9.
 
@@ -37,14 +37,14 @@ library, and ffmpeg
 
 #### Install Homebrew
 
-Open Terminal and paste:  
+Open Terminal and paste:
 ` /usr/bin/ruby -e "$(curl -fsSL
- `<https://raw.githubusercontent.com/Homebrew/install/master/install>`)"`  
+ `<https://raw.githubusercontent.com/Homebrew/install/master/install>`)"`
 Restart Terminal
 
 #### Install FFMPEG
 
-`brew install ffmpeg`  
+`brew install ffmpeg`
 Restart Terminal
 
 #### Install Python3
@@ -55,15 +55,15 @@ Restart Terminal
 
 (Python Image Library - The script needs this to run correctly)
 
-Install easy\_install  
+Install easy\_install
 ` curl  `<https://bootstrap.pypa.io/ez_setup.py>`  -o - | sudo
-python `  
-  
-Install PIP  
-`sudo easy_install pip`  
-  
-Install PIL  
-`pip install Pillow`  
+python `
+
+Install PIP
+`sudo easy_install pip`
+
+Install PIL
+`pip install Pillow`
 
 ### Create Composite
 
@@ -116,10 +116,10 @@ using 2x2 images would change:
 
 starting @ line 38:
 
-`  `  
-`x+= 2 `  
-`if(x == width): `  
-`x = 0 `  
+`  `
+`x+= 2 `
+`if(x == width): `
+`x = 0 `
 `y+= 2`
 
 ## Exclusion composites

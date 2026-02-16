@@ -2,7 +2,7 @@
 
 ♐RECOVER is a video posted to the second youtube account on September
 23, 2016. It was the first video posted since
-♐[MAX\_TEND](MAX_TEND "wikilink") on July 14th.
+♐[MAX\_TEND](MAX_TEND) on July 14th.
 
 ![Thumbnail of ♐RECOVER](Recover.jpeg "Thumbnail of ♐RECOVER")
 
@@ -19,7 +19,7 @@ channel. The left has a "lockgroove" sound, like a record needle, which
 appears to be the same sound repeated 3 2/3rds times (the file ends
 during the 4th repetition). The right channel has two "pure" tones,
 similar to data or test tones. The second, higher one has a significant
-amount of [DC offset](DC_offset "wikilink").
+amount of [DC offset](DC_offset).
 
 ## Composite
 
@@ -32,6 +32,5 @@ continuous with each other.
 
 ## See also
 
-- [Max](Max "wikilink") (software)
-- [♐CRIMP](CRIMP "wikilink"), which seems to be synchronized in some way with ♐RECOVER
-
+- [Max](Max) (software)
+- [♐CRIMP](CRIMP), which seems to be synchronized in some way with ♐RECOVER

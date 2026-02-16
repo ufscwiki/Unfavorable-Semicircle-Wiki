@@ -2,14 +2,14 @@
 
 ♐DIAGONAL is a video posted to the second youtube account on January 28,
 2017. It was the first video posted after a three-week break on the
-youtube account (♐[UPRIGHT](UPRIGHT "wikilink") was posted on January
+youtube account (♐[UPRIGHT](UPRIGHT) was posted on January
 21st) and was posted the day before two new series began:
-♐[MOTH](MOTH "wikilink") (on youtube) and ♐[POINT](POINT "wikilink")
+♐[MOTH](MOTH) (on youtube) and ♐[POINT](POINT)
 (on twitter).
 
 {{\#ev:youtube|<https://youtu.be/B9z2XBC9N-E>}} [Original Link](https://youtu.be/9m3XuGbURi4)
 
-This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+This video or series has a composite with an "interesting" [video scope](Video_scopes).
 
 ## Description of video
 
@@ -23,7 +23,7 @@ The isolated audio from ♐DIAGONAL can be found
 [here](https://clyp.it/b5lzfn11).
 
 When sped up to approximately the length of the opening sound from
-♐[MOTH](MOTH "wikilink") (\~15 seconds) it sounds like
+♐[MOTH](MOTH) (\~15 seconds) it sounds like
 [this](https://clyp.it/bxdllqad).
 
 It appears to sound like the result of exporting non-audio file data
@@ -35,7 +35,7 @@ eachother.
 The significance of the name 'diagonal' is as yet unclear.
 
 Conceptually, ♐DIAGONAL seems related to the visual style of
-♐[RECOVER](RECOVER "wikilink"). Except for the fact that it was also
+♐[RECOVER](RECOVER). Except for the fact that it was also
 posted after a notable "pause" in new material from UFSC, it is unclear
 if or how the two are related.
 
@@ -57,4 +57,3 @@ This composite can be browsed in a 3-D projection
 [here](http://vanjac.github.io/sketches/ufsc3d/).
 
 The 3-D Composite appears to show a definite constrained shape.
-

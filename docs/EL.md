@@ -1,12 +1,12 @@
 # EL
 ♐EL is a series of videos that was uploaded to the
-[twitter](List_of_Series#Twitter_account "wikilink") account between
+[twitter](List_of_Series#Twitter_account) account between
 March 7 and March 12, 2016. It is the first series posted in the twitter
 account and contains the first known tweet from the account
 ([♐EL 0](https://twitter.com/unfavorablesemi/status/707060725135646721)).
 
-The videos in this series are in the "classic" UFSC style, three second 
-long videos, with frames of a single color and the [Unknown Voice](Unknown_Voice "wikilink") saying a letter or number.
+The videos in this series are in the "classic" UFSC style, three second
+long videos, with frames of a single color and the [Unknown Voice](Unknown_Voice) saying a letter or number.
 
 ## Documentation and recovery
 Because the twitter account wasn't discovered until the series was
@@ -29,4 +29,4 @@ This composite was made from 1394 of the 4891 videos.
 
 3D composite by Lukidot:
 
-![EL_3d.png](EL_3d.png)
+[![EL_3d.png](EL_3d.png)](EL_3d.full.png)

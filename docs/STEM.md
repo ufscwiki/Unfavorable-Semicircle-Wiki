@@ -1,9 +1,7 @@
 # STEM
 ♐STEM is a video posted to the second youtube account on December 7,
 2016. It was posted a day after the second (and last) video in the
-♐[BREADTH](BREADTH "wikilink") series.
-
-{{\#ev:youtube|<https://youtu.be/rlb7_ofpoSY>}}
+♐[BREADTH](BREADTH) series.
 
 ## Description of video
 The video is 9:15:33 seconds in length. The visuals contain a series of
@@ -21,9 +19,11 @@ that gives no clear meaning.
 
 3D composite by Lukidot:
 
-![STEM_3d.png](STEM_3d.png)
+[![STEM_3d.png](STEM_3d.png)](STEM_3d.full.png)
 
 ## Notes on composite
 Discord user hellajt notes: "STEM is exactly 33333 seconds long, and has
 exactly 1,000,000 keyframes (1000 x 1000)"
 
+## Links
+* https://youtu.be/rlb7_ofpoSY.

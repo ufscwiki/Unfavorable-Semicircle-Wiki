@@ -124,13 +124,13 @@
 </tbody>
 </table>
 
-**See also the list of links to various [archives](archives "wikilink").**
+**See also the list of links to various [archives](archives).**
 
-## [Un-REAL UFSC](Un-REAL_UFSC "wikilink")
+## [Un-REAL UFSC](Un-REAL_UFSC)
 
 | Name                   | Service | Notes                                                                                                                                                                                                                      | Link                                                       |
 | ---------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| unfavorable semicircle | YouTube | Generally referred to as the "3rd youtube channel‎" until the [fourth G+ post](Google_Plus#G.2B_post_4 "wikilink"). It was found by decoding a [cryptic tweet](NYE_tweet‎‎ "wikilink") in the reactivated twitter account. | <https://www.youtube.com/channel/UCsgRTRJNy05MuB7g2X5ueqg> |
+| unfavorable semicircle | YouTube | Generally referred to as the "3rd youtube channel‎" until the [fourth G+ post](Google_Plus#G.2B_post_4). It was found by decoding a [cryptic tweet](NYE_tweet‎‎) in the reactivated twitter account. | <https://www.youtube.com/channel/UCsgRTRJNy05MuB7g2X5ueqg> |
 
 ## Fake Channels
 
@@ -149,6 +149,6 @@
 | unfavorable semi | YouTube | a pair of UFSC-esque videos, one of which created a garbled composite. Sounds unlike UFSC. | https://www.youtube.com/channel/UCY0GGTvBXAvwNE7VL1EfRfA |
 | unfavorable semicircle | YouTube | 32 videos, with sounds but no visuals, posted in April 2017. | https://www.youtube.com/channel/UCgZeqTAQnh1CFUru6p58W1g/ |
 | unfavorable semicircle | YouTube | Channel started December 8, 2017 and deleted by December 11th. One video, named <a href="https://youtu.be/36W3TfemSLo">♐AnXbE+</a>. (The title is related to the <a href="November_25th_tweet" title="wikilink">November 25th tweet</a> and the audio is the same as ♐<a href="DDR_DONE" title="wikilink">DDR DONE</a>.) | https://www.youtube.com/channel/UCJ4MqaODOC9icb71w8xhBNw |
-| unfavorable semicirc | Twitter | Account opened April 2016, posted 8 tweets in that month. (According to discord user extra: "it just pastes from random github projects run through a caesar cipher.") <br> It was observed by Discord user Ognižar syn Meça Gordov on 2020-02-15 that this account has been suspended ("Twitter suspends accounts which violate the Twitter Rules.") It is unclear what this account did that was in violation of the rules, and also unclear when it was suspended. | https://twitter.com/unfavorablsemi |
+| unfavorable semicirc | Twitter | Account opened April 2016, posted 8 tweets in that month. (According to Discord user extra: "it just pastes from random github projects run through a caesar cipher.") <br> It was observed by Discord user Ognižar syn Meça Gordov on 2020-02-15 that this account has been suspended ("Twitter suspends accounts which violate the Twitter Rules.") It is unclear what this account did that was in violation of the rules, and also unclear when it was suspended. | https://twitter.com/unfavorablsemi |
 | Unfavorable / unfsemi | Instagram | short videos, either recreations or snippets of old UFSC videos. Account description is "OUOFOR". Posted most recently on 2017-11-05. | https://www.instagram.com/unfsemi/ |
 | Stabilitory newing | YouTube | Account created Feb 13, 2021 <br>  shortly after its creation re-posted two UFSC videos: ⊕ BROTHER 55 (from the original <a href="Stabilitory_newing" title="wikilink">stabilitory newing</a> channel) and ♐230511 (from the <a href="Original_unnamed_series" title="wikilink">first YouTube channel</a>"). | https://www.youtube.com/channel/UC1JYZwTIIDM2mTZLNilZQRw/ |

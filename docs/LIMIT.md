@@ -1,10 +1,10 @@
 # LIMIT
 
-♐LIMIT is a video posted to the [second YouTube account](Real_and_Fake_channels "wikilink") on March 29, 2016. It was
+♐LIMIT is a video posted to the [second YouTube account](Real_and_Fake_channels) on March 29, 2016. It was
 posted at the end of a busy period for UFSC that included
-♐[ZUFCHO](ZUFCHO "wikilink"), ♐[LONE](LONE "wikilink"),
-♐[WINGSET](WINGSET "wikilink") and ♐[RETIO](RETIO "wikilink") (as well
-as the ♐[CAB](CAB "wikilink") and ♐[MUL](MUL "wikilink") series on
+♐[ZUFCHO](ZUFCHO), ♐[LONE](LONE),
+♐[WINGSET](WINGSET) and ♐[RETIO](RETIO) (as well
+as the ♐[CAB](CAB) and ♐[MUL](MUL) series on
 twitter).
 
 {{\#ev:youtube|<https://www.youtube.com/watch?v=lWOQ1qEzM0c>}}
@@ -28,4 +28,3 @@ Pitch-shifted edited version:
 
 De-noised version:
 <https://www.dropbox.com/s/qcyyqa4ofdokj4e/LIMIT%20filtered.wav?dl=0>
-

@@ -52,7 +52,7 @@ _**Note:** this is a raw copy of [this file](https://pastebin.com/raw/YxBgY6cU).
 
 22.  Why was the reset done and why were the videos deleted one by one?
 
-23.  Why did you quote scottywiththebody#1828 from discord, word for word? What is your discord account(s) name?
+23.  Why did you quote scottywiththebody#1828 from Discord, word for word? What is your Discord account(s) name?
 
 24.  What is the significance of MAX_TEND and why was it MALFORMed?
 

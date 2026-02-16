@@ -1,4 +1,3 @@
 # Unfavorable Semicircle
 
-1.  REDIRECT [History and background](History_and_background "wikilink")
-
+1.  REDIRECT [History and background](History_and_background)

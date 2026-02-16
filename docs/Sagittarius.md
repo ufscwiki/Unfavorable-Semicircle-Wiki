@@ -78,8 +78,7 @@ Mercury is in detriment in Sagittarius.
 
 ## Other connections
 
-"[ZUFCHO](ZUFCHO "wikilink")" means "star" in Hebrew. The image in the
+"[ZUFCHO](ZUFCHO)" means "star" in Hebrew. The image in the
 \[<https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%9B%D7%91>|
 Hebrew-language wikipedia article for "Star"\] contains an image of the
-[Sagittarius](Sagittarius "wikilink") Star Cloud.
-
+[Sagittarius](Sagittarius) Star Cloud.

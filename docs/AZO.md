@@ -1,13 +1,13 @@
 # ♐AZO
 
-♐AZO is a series of videos uploaded to the [3rd youtube channel](3rd_youtube_channel "wikilink"). It began on May 3rd, 2018,
-four days after ♐[NEO](NEO "wikilink") was posted.
-♐[DIFF](DIFF "wikilink") would be posted 19 days later. It is the
-first series posted since ♐[STRAND](STRAND "wikilink"), and the first
-post-[Reset](RESET_STRANGE_YD "wikilink") series on youtube. The series
+♐AZO is a series of videos uploaded to the [3rd youtube channel](3rd_youtube_channel). It began on May 3rd, 2018,
+four days after ♐[NEO](NEO) was posted.
+♐[DIFF](DIFF) would be posted 19 days later. It is the
+first series posted since ♐[STRAND](STRAND), and the first
+post-[Reset](RESET_STRANGE_YD) series on youtube. The series
 has apparently ended with ♐AZO 4 on May 7th, 2018.
 
-This video or series has a composite with an "interesting" [video scope](Video_scopes "wikilink").
+This video or series has a composite with an "interesting" [video scope](Video_scopes).
 
 ## Characteristics
 
@@ -34,41 +34,31 @@ pixels that are next to the main image (which is unusual for UFSC).
 "Azo" or "AZO" has [several meanings](https://en.wikipedia.org/wiki/Azo), none of which seem
 obviously connected to UFSC's usual themes.
 
-## Composites
+## 2D composites
 
-### 2-D
-
-![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png)
-
-(*♐AZO 1 composite by discord user kingrodian*)
+♐AZO 1 composite by Discord user kingrodian:
+[![AZO\_0\_composite\_RGB\_600x327\_1x1.png](AZO_0_composite_RGB_600x327_1x1.png)](AZO_0_composite_RGB_600x327_1x1.full.png)
 
 Discord user kingrodian has noted that when separating into color
 channels, there is pretty much no data in green. (Compare and contrast
-with ♐[NEO](NEO "wikilink"), which similarly has no blue.)
+with ♐[NEO](NEO), which similarly has no blue.)
 
-### 3-D
+## 3D composites
+♐AZO 3-D composite by Discord user Tukkek:
+[![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png")](Azo_0-3d.full.png)
 
-![Azo\_0-3d.png](Azo_0-3d.png "Azo_0-3d.png")
+The 3D composite for ♐AZO is visually similar to the one for
+♐[NEO](NEO), looking like a "keyboard" that is nearly flat in the third dimension.
 
-(*♐AZO 3-D composite by discord user tukkek*)
-
-The 3-D composite for ♐AZO is visually similar to the one for
-♐[NEO](NEO "wikilink"), looking like a "keyboard" that is nearly flat
-in the third dimension.
-
+Animation of 3D composites ♐AZO 0 to 2 by Discord user Extra:
 ![Azo\_0-2\_3-d\_composite\_animation.gif](Azo_0-2_3-d_composite_animation.gif)
 
-(*animation of ♐AZO 0-2 3-D composite by discord user extra*)
-
-Discord user kingrodian has observed that the data points seem to be
-clustered in a 16×16 grid:
-
+Discord user Kingrodian has observed that the data points seem to be clustered in a 16×16 grid:
 ![Azo\_grid.png](Azo_grid.png "Azo_grid.png")
 
 ## Videos in the series
-
-  - [♐AZO 0](https://www.youtube.com/watch?v=gZ5qUx1h9m8)
-  - [♐AZO 1](https://www.youtube.com/watch?v=-KE9J1KpUEM)
-  - [♐AZO 2](https://www.youtube.com/watch?v=bHUAUa2mbLA)
-  - [♐AZO 3](https://www.youtube.com/watch?v=TTaNJGkTGxQ)
-  - [♐AZO 4](https://youtu.be/CHBKIHVsVoU)
+- [♐AZO 0](https://www.youtube.com/watch?v=gZ5qUx1h9m8)
+- [♐AZO 1](https://www.youtube.com/watch?v=-KE9J1KpUEM)
+- [♐AZO 2](https://www.youtube.com/watch?v=bHUAUa2mbLA)
+- [♐AZO 3](https://www.youtube.com/watch?v=TTaNJGkTGxQ)
+- [♐AZO 4](https://youtu.be/CHBKIHVsVoU)

@@ -1,6 +1,6 @@
 # HOLDOUT
 
-♐HOLDOUT is a video posted to the second youtube account on June 24, 2017. It was the first video posted on the main account since ♐[BRING](BRING "wikilink"), twenty-two days earlier. Somewhat unusually, it is the third non-series video in a row on the main channel.
+♐HOLDOUT is a video posted to the second youtube account on June 24, 2017. It was the first video posted on the main account since ♐[BRING](BRING), twenty-two days earlier. Somewhat unusually, it is the third non-series video in a row on the main channel.
 
 ## Description of video
 
@@ -30,4 +30,3 @@ group."
 
 There are no obvious changing frames, making a composite impossible to
 create.
-

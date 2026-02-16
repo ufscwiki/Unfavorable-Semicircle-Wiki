@@ -2,9 +2,9 @@
 
 <img align="right" src="og_series_100.png" height="300">
 
-The "original unnamed series" consists of over 48,000 videos uploaded to the [first YouTube channel](Real_and_Fake_channels "wikilink") between April 5, 2015 and February 25, 2016. It includes the first known video posted to the channel (♐980708) as well as the last (♐612831). All titles in this series consist of the Sagittarius symbol (♐) followed by a seemingly randomly generated number ranging from 23 to 999997. Many videos share the same titles. 26 distinct sub-series (seasons) have been identified within the original unnamed series. The audio and visual content of these videos has been the subject of much analysis.
+The "original unnamed series" consists of over 48,000 videos uploaded to the [first YouTube channel](Real_and_Fake_channels) between April 5, 2015 and February 25, 2016. It includes the first known video posted to the channel (♐980708) as well as the last (♐612831). All titles in this series consist of the Sagittarius symbol (♐) followed by a seemingly randomly generated number ranging from 23 to 999997. Many videos share the same titles. 26 distinct sub-series (seasons) have been identified within the original unnamed series. The audio and visual content of these videos has been the subject of much analysis.
 
-48258 videos from this series have been [archived](archives "wikilink"), though it is unknown if this constitutes the full extent of the series.
+48258 videos from this series have been [archived](archives), though it is unknown if this constitutes the full extent of the series.
 
 ## Video and Audio Analysis
 
@@ -12,15 +12,15 @@ The "original unnamed series" consists of over 48,000 videos uploaded to the [fi
 
 All videos in this series have a resolution of 50 x 50 and play at 30 fps. The vast majority are 4 seconds long, though some are considerably longer. Videos feature a solid background color with a single black pixel (dot) at a seemingly random location. A compression artifact is typically seen around the dot, and in some videos the dot is obscured or absent entirely. Both the background color and dot location remain static throughout the video duration.
 
-Many videos feature readings by [the unknown voice](Unknown_Voice "wikilink"). Audio heard in this series includes:
+Many videos feature readings by [the unknown voice](Unknown_Voice). Audio heard in this series includes:
   - a single letter or digit spoken aloud
   - a full set of letters (A-Z) and digits (0-9) spoken aloud
   - thumping or mic bump sounds
-  - fragments from the "calliope" music heard in [♐DELOCK](DELOCK "wikilink"), played at various speeds
+  - fragments from the "calliope" music heard in [♐DELOCK](DELOCK), played at various speeds
   - various tones and distorted sounds
   - silence
 
-[Extracted data for each archived video can be found here!](og_manifest.csv "wikilink")
+[Extracted data for each archived video can be found here!](og_manifest.csv)
 
 ### GSM
 
@@ -75,115 +75,115 @@ Reddit user u/McSweepyPants first noted in [a post on the subreddit](https://www
 
 In July 2024, user `N25_CT13` found and colorized this [audio composite](audio_composites) from ♐970558:
 
-![original_970558_colorized_audio_composite.png](original_970558_colorized_audio_composite.png)
+[![original_970558_colorized_audio_composite.png](original_970558_colorized_audio_composite.png)](original_970558_colorized_audio_composite.full.png)
 
 ## 3D composites
 Created by Lukidot.
 
 All seasons:
 
-![AllSeasons_3d.png](AllSeasons_3d.png)
+[![AllSeasons_3d.png](AllSeasons_3d.png)](AllSeasons_3d.full.png)
 
 Season 1:
 
-![Season1_3d.png](Season1_3d.png)
+[![Season1_3d.png](Season1_3d.png)](Season1_3d.full.png)
 
 Season 2:
 
-![Season2_3d.png](Season2_3d.png)
+[![Season2_3d.png](Season2_3d.png)](Season2_3d.full.png)
 
 Season 3:
 
-![Season3_3d.png](Season3_3d.png)
+[![Season3_3d.png](Season3_3d.png)](Season3_3d.full.png)
 
 Season 4:
 
-![Season4_3d.png](Season4_3d.png)
+[![Season4_3d.png](Season4_3d.png)](Season4_3d.full.png)
 
 Season 5:
 
-![Season5_3d.png](Season5_3d.png)
+[![Season5_3d.png](Season5_3d.png)](Season5_3d.full.png)
 
 Season 6:
 
-![Season6_3d.png](Season6_3d.png)
+[![Season6_3d.png](Season6_3d.png)](Season6_3d.full.png)
 
 Season 7:
 
-![Season7_3d.png](Season7_3d.png)
+[![Season7_3d.png](Season7_3d.png)](Season7_3d.full.png)
 
 Season 8:
 
-![Season8_3d.png](Season8_3d.png)
+[![Season8_3d.png](Season8_3d.png)](Season8_3d.full.png)
 
 Season 9:
 
-![Season9_3d.png](Season9_3d.png)
+[![Season9_3d.png](Season9_3d.png)](Season9_3d.full.png)
 
 Season 10:
 
-![Season10_3d.png](Season10_3d.png)
+[![Season10_3d.png](Season10_3d.png)](Season10_3d.full.png)
 
 Season 11:
 
-![Season11_3d.png](Season11_3d.png)
+[![Season11_3d.png](Season11_3d.png)](Season11_3d.full.png)
 
 Season 12:
 
-![Season12_3d.png](Season12_3d.png)
+[![Season12_3d.png](Season12_3d.png)](Season12_3d.full.png)
 
 Season 13:
 
-![Season13_3d.png](Season13_3d.png)
+[![Season13_3d.png](Season13_3d.png)](Season13_3d.full.png)
 
 Season 14:
 
-![Season14_3d.png](Season14_3d.png)
+[![Season14_3d.png](Season14_3d.png)](Season14_3d.full.png)
 
 Season 15:
 
-![Season15_3d.png](Season15_3d.png)
+[![Season15_3d.png](Season15_3d.png)](Season15_3d.full.png)
 
 Season 16:
 
-![Season16_3d.png](Season16_3d.png)
+[![Season16_3d.png](Season16_3d.png)](Season16_3d.full.png)
 
 Season 17:
 
-![Season17_3d.png](Season17_3d.png)
+[![Season17_3d.png](Season17_3d.png)](Season17_3d.full.png)
 
 Season 18:
 
-![Season18_3d.png](Season18_3d.png)
+[![Season18_3d.png](Season18_3d.png)](Season18_3d.full.png)
 
 Season 19:
 
-![Season19_3d.png](Season19_3d.png)
+[![Season19_3d.png](Season19_3d.png)](Season19_3d.full.png)
 
 Season 20:
 
-![Season20_3d.png](Season20_3d.png)
+[![Season20_3d.png](Season20_3d.png)](Season20_3d.full.png)
 
 Season 21:
 
-![Season21_3d.png](Season21_3d.png)
+[![Season21_3d.png](Season21_3d.png)](Season21_3d.full.png)
 
 Season 22:
 
-![Season22_3d.png](Season22_3d.png)
+[![Season22_3d.png](Season22_3d.png)](Season22_3d.full.png)
 
 Season 23:
 
-![Season23_3d.png](Season23_3d.png)
+[![Season23_3d.png](Season23_3d.png)](Season23_3d.full.png)
 
 Season 24:
 
-![Season24_3d.png](Season24_3d.png)
+[![Season24_3d.png](Season24_3d.png)](Season24_3d.full.png)
 
 Season 25:
 
-![Season25_3d.png](Season25_3d.png)
+[![Season25_3d.png](Season25_3d.png)](Season25_3d.full.png)
 
 Season 26:
 
-![Season26_3d.png](Season26_3d.png)
+[![Season26_3d.png](Season26_3d.png)](Season26_3d.full.png)

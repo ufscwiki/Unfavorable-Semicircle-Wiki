@@ -14,8 +14,7 @@ The video is 0:53 in duration. It has a still image of grey and white
 pixels against a black background. It contains a mono audio track of
 buzzing distorted noises.
 
-## Relationship to [SQEN](SQEN "wikilink")
+## Relationship to [SQEN](SQEN)
 
 This video replaced, and is ambiguously connected to, the deleted
-♐[SQEN](SQEN "wikilink") video.
-
+♐[SQEN](SQEN) video.

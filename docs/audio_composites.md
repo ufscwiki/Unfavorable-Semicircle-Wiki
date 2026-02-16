@@ -1,16 +1,16 @@
 # Audio composites
 
-**Audio-sample compositing** is a technique pioneered by Discord user `N25_CT13` in December, 2023 that involves converting the stereo audio channels of Unfavorable Semicircle's videos into images similar to [visual composites](Video_Composites "wikilink") - the core difference being that they are sourced from audio-samples rather than video-frames.
+**Audio-sample compositing** is a technique pioneered by Discord user `N25_CT13` in December, 2023 that involves converting the stereo audio channels of Unfavorable Semicircle's videos into images similar to [visual composites](Video_Composites) - the core difference being that they are sourced from audio-samples rather than video-frames.
 
-Some of the iconography unveiled through this process has been entirely novel to UFSC's body-of-work, while others seem more familiar. One of the images revealed is the [Hearthstone](Hearthstone "wikilink") video-game icon; another is the icon for the game Doom 3.
+Some of the iconography unveiled through this process has been entirely novel to UFSC's body-of-work, while others seem more familiar. One of the images revealed is the [Hearthstone](Hearthstone) video-game icon; another is the icon for the game Doom 3.
 
-The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWERS "wikilink") tweet that claimed no major discoveries were left to be made in the UFSC investigation. If legitimate, it's also possible that the author was unaware of these images and that they are unintended side-effects of the process used to generate the huge quantity of videos uploaded.
+The discovery of these composites seems to contradict the [♐️ANSWERS](ANSWERS) tweet that claimed no major discoveries were left to be made in the UFSC investigation. If legitimate, it's also possible that the author was unaware of these images and that they are unintended side-effects of the process used to generate the huge quantity of videos uploaded.
 
 Besides ♐LOCK, which is the main focus of this page audio composites have also been found in other videos as well (as listed in the see-also section).
 
 ## First composite
 
-> N25_CT13: i dont know if this is useful or not but ive turned [the lock](LOCK "wikilink")'s right audio channel into an image
+> N25_CT13: i dont know if this is useful or not but ive turned [the lock](LOCK)'s right audio channel into an image
 >
 > N25_CT13: i put every sample's value as a pixel color and have set the image width to the amount of samples between repeating noises
 
@@ -28,12 +28,12 @@ Discord user `Dom` explains the process:
 >
 > Step #2 is also equivalent to speeding up the video 100x, we think. This is where resampling and interpolation come in.
 
-It has been postulated that since YouTube's encoding would not preserve the exact fidelity of any data encoded in audio samples, it was necessary for UFSC to first slow down the audio before uploading the videos. As such, the audios have to be sped up again to return to their intended form. 
+It has been postulated that since YouTube's encoding would not preserve the exact fidelity of any data encoded in audio samples, it was necessary for UFSC to first slow down the audio before uploading the videos. As such, the audios have to be sped up again to return to their intended form.
 
 > Dom: I was wrong earlier when I said the audio composites look better at x128. Some do, some don't. The ball and the cube have much better proportions at x100, but less noise at x128.
-> 
+>
 > I suggested x128 because the audio has a constant buzz of 375 hz, which is a period of exactly 128 samples at 48000 per second. Speeding up the audio effectively applies a low-pass filter that eliminates the buzz.
-> 
+>
 > I think x100 is the correct scale, but we need to find a better way to de-noise the signal first.
 
 ## Other composites
@@ -47,7 +47,7 @@ Unless stated otherwise, these are from ♐LOCK.
 ![audio_composites_stel_long.png](audio_composites_stel_long.png "audio_composites_stel_long.png")
 ![audio_composites_cube.png](audio_composites_cube.png "audio_composites_cube.png")
 
-> tukkek: these look nearly identical to some visual composites such as [♐FOND](FOND "wikilink") and [♐GOLDEN](GOLDEN "wikilink")
+> tukkek: these look nearly identical to some visual composites such as [♐FOND](FOND) and [♐GOLDEN](GOLDEN)
 
 ![audio_composites_poles.png](audio_composites_poles.png "audio_composites_poles.png")
 
@@ -68,9 +68,9 @@ Unless stated otherwise, these are from ♐LOCK.
 ![audio_composites_out6.png](audio_composites_out6.png "audio_composites_out6.png")
 
 > Dom: I've been focusing on the pentagrams lately. There are 3 different spots where they can be heard: 4:30, 5:17, and 9:01. Each instance has 3-5 pentagrams at different scales, which gives us a lot of data.
-> 
+>
 > I think if we try overlaying the pentagram samples, we can eliminate the noise and get a better idea of how to denoise the other images
-> 
+>
 > The pentagram array sample at 4:30, the other two look the same:
 
 ![audio_composites_out9.png](audio_composites_out9.png "audio_composites_out9.png")
@@ -95,7 +95,7 @@ Unless stated otherwise, these are from ♐LOCK.
 
 ![audio_composites_text.png](audio_composites_text.png "audio_composites_text.png")
 
-> tukkek: the resizing is not ideal but: A on the bottom left, Ds on the right, everything aligned pixel-perfectly 
+> tukkek: the resizing is not ideal but: A on the bottom left, Ds on the right, everything aligned pixel-perfectly
 
 ![audio_composites_text2.png](audio_composites_text2.png "audio_composites_text2.png")
 
@@ -111,7 +111,7 @@ Unless stated otherwise, these are from ♐LOCK.
 >
 > peaks-baseline, peaks and baseline:
 
-![audio_composites_LOCK_left_both.png](audio_composites_LOCK_left_both.png) ![audio_composites_LOCK_left_peaks.png](audio_composites_LOCK_left_peaks.png) ![audio_composites_LOCK_left_baseline.png](audio_composites_LOCK_left_baseline.png)
+[![audio_composites_LOCK_left_both.png](audio_composites_LOCK_left_both.png)](audio_composites_LOCK_left_both.full.png) [![audio_composites_LOCK_left_peaks.png](audio_composites_LOCK_left_peaks.png)](audio_composites_LOCK_left_peaks.full.png) [![audio_composites_LOCK_left_baseline.png](audio_composites_LOCK_left_baseline.png)](audio_composites_LOCK_left_baseline.full.png)
 
 ## Executable file theory
 
@@ -119,7 +119,7 @@ Discord user `noxxy` presents the idea that the images being seen could be embed
 
 > there's a bunch of relatively recognizable images being found between what seems to otherwise be just a mess of data. yknow what else does that? executable files!
 >
-> that is to say, if there's recognizable images, perhaps the stuff between is other data? 
+> that is to say, if there's recognizable images, perhaps the stuff between is other data?
 >
 > here's the executable of a little game called rocks'n'diamonds being imported as raw data into GIMP for instance, with the relatively simple yet recognizable icon clearly visible. note how the icon above also seems to be stored upside down!
 
@@ -134,14 +134,14 @@ These icons have a variety of sizes in them, so that the operating system can ch
 In June 2024, Discord user `Fufeng Industries` noted:
 
 > Fufeng Industries: This pentagram is so very similar to the icon for the Doom 3 game. It would make even more sense if it is an .ICO file, and thus has three resolutions.
-> 
+>
 > Fufeng Industries: Well when someone here mentioned it could be an ICO file, this was the first place my mind went. Doom 3 is the only game that has a pentagram for an icon, and it is also an upside-down pentagram, and the star has those "shiny" points, which I can also see in the LOCK composite.
-> 
+>
 > Fufeng Industries: As someone who did play (and very much loves) Doom 3, there are recurring themes of machinery and computers being possessed by ghosts and demons. The ambience is very detailed and is a gold mine for finding spooky sound effects. Last but not least, the plot is centered around decrypting an alien message.
 
 Discord user `tukkek` created a high-lighted comparison of the game icon and the composite pentagram:
 
-![audio_composites_doom.png](audio_composites_doom.png)
+[![audio_composites_doom.png](audio_composites_doom.png)](audio_composites_doom.full.png)
 
 Like the previously-found mobile Hearthstone icon, *Doom 3* is also available on mobile devices.
 
@@ -149,18 +149,18 @@ Like the previously-found mobile Hearthstone icon, *Doom 3* is also available on
 
 ## See also
 
-- [Composite visual overview](Composite_visual_overview "wikilink")
-- [♐MOTH](MOTH "wikilink") and [⊕RATE](RATE "wikilink"), which Discord user `noxxy` suggests as potential targets for further investigation
-- Discord user `Mike & Rich` claims "[Stabilitory Newing](Stabilitory_newing "wikilink") has the same sort of printer sounds"
+- [Composite visual overview](Composite_visual_overview)
+- [♐MOTH](MOTH) and [⊕RATE](RATE), which Discord user `noxxy` suggests as potential targets for further investigation
+- Discord user `Mike & Rich` claims "[Stabilitory Newing](Stabilitory_newing) has the same sort of printer sounds"
 
 ### Other audio composites
 
-* [The handshake](Handshake "wikilink")
+* [The handshake](Handshake)
 * [Original unnamed series](Original_unnamed_series)
 
 ## Scripts
 
-[By Elbe](audio_composites_LOCK_left.zip "wikilink").
+[By Elbe](audio_composites_LOCK_left.zip).
 
 ### By Dom
 
@@ -193,7 +193,7 @@ def main():
 
     # Parse command line arguments
     if len(sys.argv) <= 1 or sys.argv[1] == '-h':
-        print('Usage: python3 audio_2_image.py [options] <input_file>\n' + 
+        print('Usage: python3 audio_2_image.py [options] <input_file>\n' +
               'Options:\n' +
               '    -l          Select left channel\n' +
               '    -r          Select right channel\n' +
@@ -330,7 +330,7 @@ import math
 import sys
 import wave
 
-def main():    
+def main():
     win = wave.open('LOCK_left.wav', 'rb')
     number_of_channels = win.getnchannels()
     number_of_frames = win.getnframes()
@@ -340,7 +340,7 @@ def main():
     wout.setnchannels(1)
     wout.setsampwidth(2)
     wout.setframerate(48000)
-    
+
     cutoff = 32768 - 16
     scale = 0.25
 
@@ -382,7 +382,7 @@ def main():
                     counter = 0
             else:
                 wout.writeframes(int(scale*sample).to_bytes(2, 'little', signed=True))
-    
+
         prev_samples.append(sample)
         prev_samples.pop(0)
 
@@ -396,11 +396,11 @@ if __name__ == '__main__':
 ### By ShinyQuagsire
 
 > ooh I managed to pull out more detail
-> 
+>
 > there are more icons underneath
 
 ![Hearthstone_composite.png](Hearthstone_composite.png)
 
 > https://gist.github.com/shinyquagsire23/383450a11b81d3c952599af9f633ceb3
-> 
+>
 > `python3 lock_decode.py -l -w 256 Downloads/lock_audio_s16.wav`

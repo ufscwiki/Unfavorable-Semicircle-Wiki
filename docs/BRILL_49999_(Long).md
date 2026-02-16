@@ -1,8 +1,8 @@
 # BRILL 49999 (Long)
 
 ♐BRILL 49999 is a video posted to the second youtube account on February
-25, 2016. (There is also a [short video](BRILL_49999_\(Short\) "wikilink") with the same name that is a
-regular member of the [BRILL](BRILL "wikilink") series.)
+25, 2016. (There is also a [short video](BRILL_49999_\(Short\)) with the same name that is a
+regular member of the [BRILL](BRILL) series.)
 
 {{\#ev:youtube|<https://youtu.be/HYZdgJ-7zLk>}} [Original Link](https://youtu.be/D9X9r2QYFlc)
 
@@ -11,7 +11,7 @@ regular member of the [BRILL](BRILL "wikilink") series.)
 The video is 21:55 in duration. It has a stereo audio track. the right
 channel has data transmission sounds and the left channel has what
 appears to be a distorted/warbled version of the right channel. The
-audio also contains shifting amounts of [DC offset](DC_offset "wikilink").
+audio also contains shifting amounts of [DC offset](DC_offset).
 
 ### Spoken numbers
 
@@ -41,14 +41,13 @@ Alternate width of 789.5:
 
 ![BRILL49999\_composite\_width\_789\_5.png](BRILL49999_composite_width_789_5.png)
 
-BRILL 49999 is part of the [BRILL Composite](BRILL_Composite "wikilink")
+BRILL 49999 is part of the [BRILL Composite](BRILL_Composite)
 group.
 
 ## 3D Composite
 
 ![Brill49999\_3d.PNG](Brill49999_3d.PNG "Brill49999_3d.PNG")
 
-## relationship to [BRILL](BRILL "wikilink") series
+## relationship to [BRILL](BRILL) series
 
 *please expand\!*
-

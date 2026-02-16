@@ -20,22 +20,22 @@ Discord user `festercluck`  has in multiple occasions identified similarities be
 
 A strong argument in favor of Stagefright in particular (and also Rowhammer, to a lesser extent) was the seeming gravity, exploitabilty and high-profile nature of the bugs (including [major media coverage](https://www.nbcnews.com/tech/security/android-flaw-could-let-hackers-take-over-phone-text-n399016)). This coincides with UFSC's timeline, at a time where the bugs were still very much "out there" and "up for grabs" for anyone who was able to turn the theoretical exploits into actual attacks - while fixes would come very slowly due to the sheer amount of attack vectors (and be impossible without replacing hardware, in the case of Rowhammer).
 
-Ultimately, neither family of exploits were ever weaponized to their full potential, due to the difficulty of leveraging the bugs into practical uses for bad actors. The end of UFSC with [the Strange Reset](RESET_STRANGE_YD "wikilink") could be seen either as a surrender after the window of opportunity drew to a close - or that a potential, desirable attack was finally found and as such, the author(s) completed the project and attempted to erase any traces left of it.
+Ultimately, neither family of exploits were ever weaponized to their full potential, due to the difficulty of leveraging the bugs into practical uses for bad actors. The end of UFSC with [the Strange Reset](RESET_STRANGE_YD) could be seen either as a surrender after the window of opportunity drew to a close - or that a potential, desirable attack was finally found and as such, the author(s) completed the project and attempted to erase any traces left of it.
 
 See also:
 
-* More info on Discord user `festercluck`'s [theories on Stagefright and Rowhammer exploits](UFSC,_Stagefright_and_Rowhammer_exploits "wikilink").
-* "[A log](./videolog.txt) of *[BRILL](BRILL "wikilink") 49999* triggering the stagefright exploit in VLC", also by `festercluck`, generated on an old Android smartphone.
+* More info on Discord user `festercluck`'s [theories on Stagefright and Rowhammer exploits](UFSC,_Stagefright_and_Rowhammer_exploits).
+* "[A log](./videolog.txt) of *[BRILL](BRILL) 49999* triggering the stagefright exploit in VLC", also by `festercluck`, generated on an old Android smartphone.
 
 ## Playback glitches
 
 The videos have been shown to cause strange behavior in some cases,
-such as playing after the [YouTube](YouTube "wikilink") duration bar
+such as playing after the [YouTube](YouTube) duration bar
 is over or causing Android phones to shut down their screens.
 Whether this is intended or a byproduct of the custom process used
 in creating videos is unknown.
 
-While many reports of glitches have been made, few instances have been recorded and even less properly archived for posterity. In fact, it seems natural for reports to become more rare as interest in the old videos wane and video software irons out any glitches, over time. One of the few wiki pages with multiple recordings of such glirches is [♐OR](OR "wikilink").
+While many reports of glitches have been made, few instances have been recorded and even less properly archived for posterity. In fact, it seems natural for reports to become more rare as interest in the old videos wane and video software irons out any glitches, over time. One of the few wiki pages with multiple recordings of such glirches is [♐OR](OR).
 
 ## Reverse-engineering
 
