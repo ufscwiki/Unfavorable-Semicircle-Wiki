@@ -18,6 +18,10 @@ Detail from ♐FEND 2D composite showing "island"-type object:
 
 [![FEND object in 2-d composite.png](FEND_object_in_2-d_composite.png)](FEND_object_in_2-d_composite.full.png)
 
+> N25_CT13: the first 3 sections in fend are probably 100x100 images disguised as 3 interleaved 99x99 images in a trench coat
+
+[![fend_sections.png](fend_sections.png)](fend_sections.full.png)
+
 ## 3D composite
 This 3D composite by Tomas F is several planes crossing through each other with some mountain-like shapes, http://tomasf.se/projects/semi/stl.html?path=FEND_composite3D.stl.
 
