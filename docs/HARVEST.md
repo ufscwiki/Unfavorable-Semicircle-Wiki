@@ -42,6 +42,10 @@ Further analysis, especially within the "spikes" will probably reveal further an
 
 > N25_CT13: i accidentally found a sorta "recursive" sound (repeating) in HARVEST that's being played at multiple speeds
 >
+> i think the sound repeats throughout the video a bunch of times, i only selected one instance of it that i found at (5x) 34:55 to 35:09.
+> 
+> by repeating i wanted to say that the sounds repeated at VERY different speeds at around 5x and 500x the regular speed, which was the weird thing for me.
+> 
 > (first speed up the audio and then go to these timestamps to recreate it)
 
 [5x speed between 34:55 and 35:09](./harvest_5x_3455_to_3509.wav)
