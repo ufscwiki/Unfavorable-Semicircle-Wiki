@@ -16,7 +16,7 @@ A downloadable archive of 2D and 3D composites can be found [here](composites-20
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
 | ♐[LOCK](LOCK) | [![LOCK\_composite.png](LOCK_composite.png)](LOCK_composite.full.png) | [![LOCK3d6.webp](LOCK3d6.webp)](LOCK3d6.full.webp) |
 | ♐[DELOCK](DELOCK)                          |                                                                                             |               |
-| [♐ (nameless video)](♐_\(nameless_video\)) |                                                                                             |               |
+| [♐ (nameless video)](nameless_video) |                                                                                             |               |
 | ♐[PER](PER)                                |                                                                                             |               |
 | ♐[BRILL B](BRILL_B)                        |                                                                                             |               |
 | ♐[QUOT](QUOT)                              | [![QUOT\_composite\_enlarged.png](QUOT_composite_enlarged.png "QUOT_composite_enlarged.png")](QUOT_composite_enlarged.full.png) | [![QUOT3d.png](QUOT3d.png)](QUOT3d.full.png) |

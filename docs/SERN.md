@@ -27,7 +27,7 @@ Those sounds, with the silence between them removed can be heard
 
 As a single, still image, SERN is similar to
 ♐[MAX\_TEND](MAX_TEND), ♐[BRILL B](BRILL_B), [♐
-(nameless video)](♐_\(nameless_video\)),
+(nameless video)](nameless_video),
 ♐[SQEN](SQEN), ♐[RESQEN](RESQEN),
 ♐[LIMIT](LIMIT), ♐[LONE](LONE),
 ♐[HOLDOUT](HOLDOUT),

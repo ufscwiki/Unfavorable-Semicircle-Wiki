@@ -136,6 +136,15 @@ A partial print of [Hearthstone](Hearthstone) icon was found in one of [♐LOCK]
 
 Whether these connections are meaningful or not - or even if the inclusion of the icon was intentional (as opposed to being a by-product of the video-making process) remains unknown.
 
+### Connection to Markovian Parallax Denigrate
+MPD has been called *the oldest Internet mystery* and shares many similarities with UFSC: cryptic content; unclear purpose; mass volume; use of a high-profile platform as its medium...
+
+Other than that the names Parallax Denigrate and Unfavorable Semicircle share specifically two words each for a geometric term and a vaguely negative term.
+
+If this oddly-specific connections are true then it could also be largely-indicative of the intent for UFSC as a successor to MPD and that would align with the channel's known characteristics: to generate a mass volume of noise on a popular platform to creaty mystery for its own sake and be purposefully opaque about it.
+
+It should be noted that MPD has been suspected of being a penetration testing or reverse enginnering project much like UFSC has. This topic is covered on this MPD video by Chill Fuel, https://www.youtube.com/watch?v=dxCIYB3VXso.
+
 ## Unlikely theories
 
 ### UFSC is a viral advertising campaign
