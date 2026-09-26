@@ -6,7 +6,7 @@ Unlike ⊕[BROTHER](BROTHER), there does not yet seem to be a "counterpart" for 
 ## Description of videos
 ⊕BELT videos are 6:10 (370 seconds) in length with a with a shifting "[histogram](https://en.wikipedia.org/wiki/Histogram)" effect, similar to other stabilitory newing videos.
 
-### Audio analysis
+## Audio analysis
 - The audio for ⊕BELT videos is in a stereo track, with "chirping
   robot" type sounds similar to other stabilitory newing videos. In
   most cases, the left channel has a louder signal, with a
@@ -28,6 +28,19 @@ Unlike ⊕[BROTHER](BROTHER), there does not yet seem to be a "counterpart" for 
 (Therefore from BELT 0 to 24 inclusive only 14, 15, 16 and 19 have unique audio)
 
 ⊕BELT 6 & 18 are a special case: they have what appears to be identical audio, but shifted from each other by a few samples in some parts. Therefore they do not invert or cancel cleanly.
+
+### Sampling
+> Ben's Fractals: I think that the audio in the BROTHER series may have been slowed by 20x since the frequency cutoff of the tracks is a dead-on 2.4kHz (0.05x of 48kHz) and the 48kHz sample rate is a standard for audio processing.
+> 
+> I do think the BELT series samples some audio from the BROTHER series too.
+> 
+> The top is BELT 2 like usual and the bottom is a copy of the track slowed by 14 semitones, matching it perfectly.
+
+[![belt.sampling.png](belt.sampling.png)](belt.sampling.full.png)
+
+> Because this isn't in percentage values and instead in perfect semitone offsets this suggest that this sample or whatever is being played like a soundfont.
+> 
+> Same is applying to the really high frequency things, instead matching at -37 semitones. May be there could be a hidden message in the semitone values for these things?
 
 ## Significance of name & possible relationship to other UFSC videos
 - "belt" has some astronomical connotations (asteroid belts, the Kuiper Belt, Orion's Belt, etc.)

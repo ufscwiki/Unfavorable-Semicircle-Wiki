@@ -51,6 +51,19 @@ Risto further notes:
 > The vertical lines are spectral leakage, because spectrograms
 are not perfect.
 
+### Frequency slide
+> Ben's Fractals: I think the pattern in MOTH's spectogram is from a sliding speed change and the lines are a result from aliasing.
+> 
+> This is a track I made a few months back which uses sliding speed changes and you can see how it has the same line patterns.
+
+[![moth.slide.1.webp](moth.slide.1.webp)](moth.slide.1.full.webp)
+
+[![moth.slide.2.webp](moth.slide.2.webp)](moth.slide.2.full.webp)
+
+> This is what the frequency drop sounds like at 10x speed.
+
+https://github.com/ufscwiki/Unfavorable-Semicircle-Wiki/blob/master/docs/moth.slide.flac
+
 ## 2D composite
 ![MOTH_composite.png](MOTH_composite.png)
 
